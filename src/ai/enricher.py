@@ -19,6 +19,7 @@ from rich.progress import (
 from tenacity import retry, stop_after_attempt, wait_exponential
 
 from .client import AIClient
+from .localization import normalize_language
 from .prompting.enrichment import (
     MAX_TOOL_REQUESTS,
     artifact_prompt,
@@ -229,6 +230,10 @@ class ContentEnricher:
             )
             self._expand_request_source_refs(generated.blocks, tool_results)
             self._validate_blocks(generated.blocks, profile, tool_results)
+            generated.title = normalize_language(generated.title, language)
+            for block in generated.blocks:
+                block.title = normalize_language(block.title, language)
+                block.content = normalize_language(block.content, language)
             referenced = {
                 source_id
                 for block in generated.blocks

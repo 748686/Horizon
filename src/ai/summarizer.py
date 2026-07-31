@@ -6,6 +6,7 @@ from dataclasses import dataclass
 from typing import Dict, List, Optional
 from urllib.parse import quote, urlsplit
 
+from .localization import normalize_language
 from ..models import ContentItem
 
 
@@ -165,7 +166,9 @@ class DailySummarizer:
                         index=index,
                         global_index=global_index,
                         group_count=len(profile_items),
-                        title=artifact.title if artifact else item.title,
+                        title=normalize_language(
+                            artifact.title if artifact else item.title, language
+                        ),
                         score=(
                             analysis.score
                             if analysis and analysis.score is not None
@@ -178,7 +181,9 @@ class DailySummarizer:
             groups.append(
                 SummaryGroupView(
                     profile_id=profile_id,
-                    name=self.profile_name(profile_id, language),
+                    name=normalize_language(
+                        self.profile_name(profile_id, language), language
+                    ),
                     items=view_items,
                 )
             )
@@ -253,7 +258,7 @@ class DailySummarizer:
             )
 
         toc = "\n\n".join(toc_sections) + "\n\n---\n\n"
-        return header + toc + "".join(body_sections)
+        return normalize_language(header + toc + "".join(body_sections), language)
 
     def generate_webhook_overview(
         self,
@@ -299,7 +304,7 @@ class DailySummarizer:
                 )
             sections.append("\n".join(entries))
 
-        return header + "\n\n".join(sections)
+        return normalize_language(header + "\n\n".join(sections), language)
 
     def generate_webhook_item(
         self,
@@ -314,14 +319,18 @@ class DailySummarizer:
         """Generate one item message for multi-message webhook delivery."""
         labels = LABELS.get(language, LABELS["en"])
         prefix = f"第 {index}/{total} 条\n\n" if language == "zh" else f"Item {index}/{total}\n\n"
-        return prefix + self._format_item(
-            item,
-            labels,
+        return normalize_language(
+            prefix
+            + self._format_item(
+                item,
+                labels,
+                language,
+                index,
+                title_override=title,
+                score_override=score,
+            ).rstrip("-\n "),
             language,
-            index,
-            title_override=title,
-            score_override=score,
-        ).rstrip("-\n ")
+        )
 
     def _format_item(
         self,
@@ -415,7 +424,8 @@ class DailySummarizer:
                 if language == "zh":
                     block_title = _pangu(block_title)
                     block_content = _pangu(block_content)
-                lines.extend(["", f"**{block_title}** {block_content}"])
+                separator = "：" if language == "zh" else ":"
+                lines.extend(["", f"**「{block_title}」{separator}** {block_content}"])
 
         sources = artifact.sources if artifact else []
         if sources:

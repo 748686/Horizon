@@ -16,6 +16,12 @@ GROUNDING_RULES = f"""- Treat the source item as the primary account of what hap
 - Cite only supplied tool result IDs, and only from the block that received those results."""
 
 
+def target_language_instruction(language: str) -> str:
+    if language.lower() == "zh":
+        return "Simplified Chinese (language tag `zh`)"
+    return f"language `{language}`"
+
+
 def tool_planning_prompt(blocks: list[ProfileBlock]) -> str:
     catalog = "\n".join(
         f"- Block `{block.id}` is {'optional' if block.optional else 'required'}; "
@@ -65,7 +71,7 @@ def block_prompt(
 
 # Target language
 
-Write the complete artifact in language `{language}`.
+Write the complete artifact in {target_language_instruction(language)}.
 
 # Grounding rules
 
@@ -104,7 +110,7 @@ def artifact_prompt(
 
 # Target language
 
-Write the complete artifact in language `{language}`.
+Write the complete artifact in {target_language_instruction(language)}.
 
 # Grounding rules
 

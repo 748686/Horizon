@@ -86,12 +86,12 @@ def test_enrichment_generates_blocks_and_validated_sources():
             ),
             json.dumps(
                 {
-                    "title": "新架构发布",
+                    "title": "新架構發佈",
                     "blocks": [
                         {
                             "id": "summary",
                             "title": "摘要",
-                            "content": "项目发布了新的架构，它改变了系统设计，并采用了新的边界。",
+                            "content": "項目發佈了新的架構，它改變了系統設計，並採用了新的邊界。",
                             "source_refs": [],
                         }
                     ],
@@ -99,7 +99,7 @@ def test_enrichment_generates_blocks_and_validated_sources():
             ),
             json.dumps(
                 {
-                    "title": "新架构发布",
+                    "title": "新架構發佈",
                     "blocks": [
                         {
                             "id": "summary",
@@ -149,6 +149,7 @@ def test_enrichment_generates_blocks_and_validated_sources():
 
     artifact = item.processing.artifacts["zh"]
     assert artifact.title == "新架构发布"
+    assert artifact.blocks[0].content == "项目发布了新的架构，它改变了系统设计，并采用了新的边界。"
     assert [block.id for block in artifact.blocks] == [
         "summary",
         "background",
@@ -161,6 +162,7 @@ def test_enrichment_generates_blocks_and_validated_sources():
     assert len(requests) == 4
     assert "explicitly mentioned in the item" in requests[0]["system"]
     assert "Treat the source item as the primary account" in requests[1]["system"]
+    assert "Simplified Chinese (language tag `zh`)" in requests[1]["system"]
     assert "Treat the source item as the primary account" in requests[3]["system"]
     assert "https://docs.example.com/project" not in requests[1]["user"]
     assert "https://docs.example.com/project" in requests[3]["user"]

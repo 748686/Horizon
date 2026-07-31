@@ -271,6 +271,9 @@ with:
 - the profile's required and applicable optional section blocks; and
 - cited external sources referenced by those blocks.
 
+Artifacts generated for `zh` are normalized to Simplified Chinese before they
+are stored and rendered, including older artifacts read during rendering.
+
 The Markdown briefing renders a block marked `primary` directly below the item
 title and before the source line, without a redundant block heading. Profiles
 without a primary block show the source first and then render every block under
