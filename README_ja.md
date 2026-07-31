@@ -214,15 +214,17 @@ cp .env.example .env
 cp data/config.example.json data/config.json
 # .env と data/config.json をAPIキーや好みに合わせて編集
 
+# オプション: 初回実行前にカンマ区切りのextrasを含めてビルド
+docker compose build --build-arg EXTRAS=trafilatura horizon
+
 # Docker Composeで実行
 docker compose run --rm horizon
 
-# またはカスタムの時間枠で実行
+# カスタムの時間枠で実行
 docker compose run --rm horizon --hours 48
-
-# オプションの依存関係グループを含めてビルド（カンマ区切り）
-docker compose build --build-arg EXTRAS=trafilatura horizon
 ```
+
+複数のextraは`EXTRAS=trafilatura,openbb`のように指定できます。`twitter` extraにはPlaywrightブラウザとシステムパッケージも必要ですが、現在のDockerfileはそれらをインストールしません。
 
 ### 2. 設定
 
@@ -320,6 +322,8 @@ uv run horizon --hours 48               # 過去48時間から取得
 uv run horizon -d /path/to/data         # カスタムデータディレクトリを使用
 uv run horizon -c /path/to/config.json  # カスタム設定ファイルを使用
 ```
+
+`--data-dir`は、サマリー、購読者ファイル、デフォルト設定の場所を含む状態ディレクトリを変更します。`--config`は設定ファイルだけを変更するため、両方の場所を変更する場合は2つのオプションを併用してください。セットアップウィザードは`data/config.json`へ書き込むため、カスタムパスは`data/config.example.json`から手動で初期化します。
 
 #### Dockerで
 

@@ -213,15 +213,17 @@ cp .env.example .env
 cp data/config.example.json data/config.json
 # Edit .env and data/config.json with your API keys and preferences
 
+# Optional: build with comma-separated extras before the first run
+docker compose build --build-arg EXTRAS=trafilatura horizon
+
 # Run with Docker Compose
 docker compose run --rm horizon
 
-# Or run with custom time window
+# Run with a custom time window
 docker compose run --rm horizon --hours 48
-
-# Build with optional extras (comma-separated)
-docker compose build --build-arg EXTRAS=trafilatura horizon
 ```
+
+Multiple extras may be supplied as `EXTRAS=trafilatura,openbb`. The `twitter` extra also requires a Playwright browser and system packages, which the current Dockerfile does not install.
 
 ### 2. Configure
 
@@ -323,6 +325,8 @@ uv run horizon --hours 48               # Fetch from last 48 hours
 uv run horizon -d /path/to/data         # Use a custom data directory
 uv run horizon -c /path/to/config.json  # Use a custom config file
 ```
+
+`--data-dir` changes the state directory, including summaries, subscribers, and the default config location. `--config` changes only the config file; combine both flags when both locations should change. The setup wizard writes `data/config.json`, so custom paths should be initialized manually from `data/config.example.json`.
 
 #### With Docker
 

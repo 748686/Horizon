@@ -222,15 +222,17 @@ cp .env.example .env
 cp data/config.example.json data/config.json
 # 编辑 .env 和 data/config.json，填入你的 API 密钥和偏好设置
 
+# 可选：首次运行前构建逗号分隔的 extras
+docker compose build --build-arg EXTRAS=trafilatura horizon
+
 # 使用 Docker Compose 运行
 docker compose run --rm horizon
 
-# 或自定义时间窗口
+# 自定义时间窗口
 docker compose run --rm horizon --hours 48
-
-# 构建时启用可选扩展（逗号分隔）
-docker compose build --build-arg EXTRAS=trafilatura horizon
 ```
+
+多个 extra 可写为 `EXTRAS=trafilatura,openbb`。`twitter` extra 还需要 Playwright 浏览器及系统依赖，当前 Dockerfile 不会安装这些组件。
 
 ### 2. 配置
 
@@ -312,6 +314,8 @@ uv run horizon --hours 48               # 抓取最近 48 小时的内容
 uv run horizon -d /path/to/data         # 使用自定义数据目录
 uv run horizon -c /path/to/config.json  # 使用自定义配置文件
 ```
+
+`--data-dir` 会更改状态目录，包括日报、订阅者文件和默认配置位置；`--config` 只更改配置文件。两处位置都要修改时需同时使用两个参数。配置向导固定写入 `data/config.json`，使用自定义路径时请从 `data/config.example.json` 手动初始化。
 
 #### 使用 Docker
 
