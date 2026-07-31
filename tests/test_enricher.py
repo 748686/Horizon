@@ -154,6 +154,8 @@ def test_enrichment_generates_blocks_and_validated_sources():
         "background",
     ]
     assert artifact.blocks[-1].title == "背景"
+    assert artifact.blocks[0].primary is True
+    assert artifact.blocks[1].primary is False
     assert artifact.blocks[-1].source_refs == ["tool-1-1"]
     assert artifact.sources[0].url == "https://docs.example.com/project"
     assert len(requests) == 4
@@ -255,7 +257,7 @@ def test_enrichment_repairs_malformed_tool_plan_once():
     assert item.processing.artifacts["en"].blocks[0].id == "summary"
 
 
-def test_enrichment_repairs_empty_story_once():
+def test_enrichment_repairs_empty_blog_block_once():
     responses = iter(
         [
             json.dumps(
@@ -263,10 +265,21 @@ def test_enrichment_repairs_empty_story_once():
                     "title": "A technical story",
                     "blocks": [
                         {
-                            "id": "story",
-                            "type": "section",
+                            "id": "background",
                             "title": " ",
                             "content": "",
+                            "source_refs": [],
+                        },
+                        {
+                            "id": "solution",
+                            "title": "Solution and results",
+                            "content": "The author explains the implementation.",
+                            "source_refs": [],
+                        },
+                        {
+                            "id": "takeaway",
+                            "title": "Takeaway",
+                            "content": "The approach is useful in bounded cases.",
                             "source_refs": [],
                         }
                     ],
@@ -277,10 +290,21 @@ def test_enrichment_repairs_empty_story_once():
                     "title": "A technical story",
                     "blocks": [
                         {
-                            "id": "story",
-                            "type": "section",
-                            "title": "The release",
-                            "content": "The author explains the release and its tradeoffs.",
+                            "id": "background",
+                            "title": "Background",
+                            "content": "The author frames the original problem and constraints.",
+                            "source_refs": [],
+                        },
+                        {
+                            "id": "solution",
+                            "title": "Solution and results",
+                            "content": "The author explains the implementation and its effects.",
+                            "source_refs": [],
+                        },
+                        {
+                            "id": "takeaway",
+                            "title": "Takeaway",
+                            "content": "The approach is useful in bounded cases.",
                             "source_refs": [],
                         }
                     ],
@@ -309,10 +333,15 @@ def test_enrichment_repairs_empty_story_once():
     assert len(requests) == 2
     assert requests[1]["temperature"] == 0
     assert "corrected JSON object" in requests[1]["user"]
-    assert item.processing.artifacts["en"].blocks[0].content.startswith("The author")
+    assert [
+        block.id for block in item.processing.artifacts["en"].blocks
+    ] == ["background", "solution", "takeaway"]
+    assert all(
+        not block.primary for block in item.processing.artifacts["en"].blocks
+    )
 
 
-def test_enrichment_repairs_schema_type_used_as_story_id():
+def test_enrichment_repairs_schema_type_used_as_blog_block_id():
     responses = iter(
         [
             json.dumps(
@@ -322,9 +351,20 @@ def test_enrichment_repairs_schema_type_used_as_story_id():
                         {
                             "id": "section",
                             "type": "section",
-                            "role": "story",
-                            "title": "The release",
-                            "content": "A complete but misidentified story.",
+                            "title": "Background",
+                            "content": "A complete but misidentified background block.",
+                            "source_refs": [],
+                        },
+                        {
+                            "id": "solution",
+                            "title": "Solution and results",
+                            "content": "The implementation produced a measured result.",
+                            "source_refs": [],
+                        },
+                        {
+                            "id": "takeaway",
+                            "title": "Takeaway",
+                            "content": "The method has a clear bounded use.",
                             "source_refs": [],
                         }
                     ],
@@ -335,9 +375,21 @@ def test_enrichment_repairs_schema_type_used_as_story_id():
                     "title": "A technical story",
                     "blocks": [
                         {
-                            "id": "story",
-                            "title": "The release",
-                            "content": "A corrected technical story.",
+                            "id": "background",
+                            "title": "Background",
+                            "content": "The corrected background and constraints.",
+                            "source_refs": [],
+                        },
+                        {
+                            "id": "solution",
+                            "title": "Solution and results",
+                            "content": "The implementation produced a measured result.",
+                            "source_refs": [],
+                        },
+                        {
+                            "id": "takeaway",
+                            "title": "Takeaway",
+                            "content": "The method has a clear bounded use.",
                             "source_refs": [],
                         }
                     ],
@@ -365,7 +417,7 @@ def test_enrichment_repairs_schema_type_used_as_story_id():
 
     assert len(requests) == 2
     assert "unknown blocks: section" in requests[1]["user"]
-    assert item.processing.artifacts["en"].blocks[0].id == "story"
+    assert item.processing.artifacts["en"].blocks[0].id == "background"
 
 
 def test_failed_reenrichment_removes_stale_target_artifact():

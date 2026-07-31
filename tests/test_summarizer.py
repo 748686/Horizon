@@ -49,6 +49,7 @@ def _make_item(idx: int) -> ContentItem:
                             id="summary",
                             title="Summary",
                             content=f"Summary for item {idx}.",
+                            primary=True,
                         )
                     ],
                 )
@@ -194,6 +195,7 @@ def test_generate_summary_renders_primary_block_before_source_without_heading():
                 id="summary",
                 title="Summary",
                 content="Primary explanation.",
+                primary=True,
             ),
             ContentBlock(
                 id="background",
@@ -219,6 +221,48 @@ def test_generate_summary_renders_primary_block_before_source_without_heading():
     assert result.index("rss · tester · Apr 25, 08:00") < result.index(
         "#### Background"
     )
+
+
+def test_generate_summary_renders_non_primary_blog_sections_after_source():
+    item = _make_item(1)
+    item.profile = "tech-blog"
+    item.processing.classification.profile = "tech-blog"
+    item.processing.artifacts["en"] = ContentArtifact(
+        language="en",
+        title="A technical article",
+        blocks=[
+            ContentBlock(
+                id="background",
+                title="Background",
+                content="The original constraints.",
+            ),
+            ContentBlock(
+                id="solution",
+                title="Solution",
+                content="The implementation and evidence.",
+            ),
+            ContentBlock(
+                id="takeaway",
+                title="Takeaway",
+                content="The durable lesson.",
+            ),
+        ],
+    )
+
+    result = _run_async(
+        DailySummarizer().generate_summary(
+            [item],
+            date="2026-04-25",
+            total_fetched=1,
+            language="en",
+        )
+    )
+
+    source_index = result.index("rss · tester · Apr 25, 08:00")
+    context_index = result.index("#### Background")
+    solution_index = result.index("#### Solution")
+    takeaway_index = result.index("#### Takeaway")
+    assert source_index < context_index < solution_index < takeaway_index
 
 
 def test_generate_summary_renumbers_interleaved_profiles_and_localizes_headings():
@@ -284,6 +328,7 @@ def test_generate_summary_escapes_untrusted_text_in_all_output_contexts():
                 id="summary",
                 title="Summary",
                 content='<img src=x onerror="alert(1)"> **summary**',
+                primary=True,
             ),
             ContentBlock(
                 id="background",

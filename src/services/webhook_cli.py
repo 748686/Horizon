@@ -91,9 +91,9 @@ def _sample_processing(
                 blocks=[
                     ContentBlock(
                         id="summary",
-                        role="summary",
                         title="摘要",
                         content=summary_zh,
+                        primary=True,
                     )
                 ],
             )

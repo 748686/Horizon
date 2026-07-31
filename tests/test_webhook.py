@@ -845,6 +845,7 @@ def _make_item(title="Test Item", url="https://example.com/test", score=8.0):
                             id="summary",
                             title="Summary",
                             content="AI summary",
+                            primary=True,
                         )
                     ],
                 )

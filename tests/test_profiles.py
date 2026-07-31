@@ -21,6 +21,7 @@ def test_loads_builtin_tech_news_profile():
         "background",
         "community_discussion",
     ]
+    assert profile.definition.enrichment.blocks[0].primary is True
     assert profile.definition.enrichment.blocks[1].tools == ["web_search"]
     assert profile.definition.enrichment.blocks[1].optional is False
     assert "3-6 complete sentences" in profile.enrichment_prompt
@@ -46,8 +47,13 @@ def test_loads_builtin_tech_blog_profile():
     assert profile.definition.content.enrichment_max_chars == 24000
     assert profile.definition.content.sampling == "head-middle-tail"
     assert profile.definition.topic_dedup.enabled is False
-    assert [block.id for block in profile.definition.enrichment.blocks] == ["story"]
-    assert profile.definition.enrichment.blocks[0].tools == []
+    assert [block.id for block in profile.definition.enrichment.blocks] == [
+        "background",
+        "solution",
+        "takeaway",
+    ]
+    assert all(not block.optional for block in profile.definition.enrichment.blocks)
+    assert all(not block.primary for block in profile.definition.enrichment.blocks)
     assert "300-500 Chinese characters" in profile.enrichment_prompt
     assert "Technology blog profile" in profile.match_prompt
 

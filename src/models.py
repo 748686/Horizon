@@ -78,6 +78,7 @@ class ContentBlock(BaseModel):
     title: str
     content: str
     source_refs: List[str] = Field(default_factory=list)
+    primary: bool = False
 
 
 class ContentArtifact(BaseModel):

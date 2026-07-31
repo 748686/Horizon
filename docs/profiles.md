@@ -37,7 +37,7 @@ profiles/
 | Profile | Purpose | Output |
 | --- | --- | --- |
 | `tech-news` | Timely releases, incidents, research results, and technology-industry developments | Compact summary and background with optional community discussion |
-| `tech-blog` | Long-form engineering deep dives, tutorials, investigations, retrospectives, and technical arguments | One structured, multi-paragraph `story` |
+| `tech-blog` | Long-form engineering deep dives, tutorials, investigations, retrospectives, and technical arguments | Required background, solution, and takeaway sections |
 
 The blog profile uses larger input budgets, head-middle-tail sampling, no score
 filtering, and no AI topic deduplication. For RSS feeds, pair it with a full-text
@@ -99,7 +99,8 @@ profiles are found or the default does not exist.
       {
         "id": "summary",
         "type": "section",
-        "tools": []
+        "tools": [],
+        "primary": true
       },
       {
         "id": "background",
@@ -140,6 +141,7 @@ default; set `optional` to `true` when they may be omitted.
 | `type` | Must be `"section"`. |
 | `tools` | Tools allowed for this block. Declare it on every block; use `[]` when none are allowed. |
 | `optional` | Whether output may omit the block. Defaults to `false`. |
+| `primary` | Render this required block directly below the item title without a block heading. At most one block may be primary. Defaults to `false`. |
 
 Prompt paths cannot escape their profile directory. Unknown fields are rejected
 in profile JSON.
@@ -269,9 +271,9 @@ with:
 - the profile's required and applicable optional section blocks; and
 - cited external sources referenced by those blocks.
 
-The Markdown briefing treats the first configured block as the primary content:
-it appears directly below the item title and before the source line, without a
-redundant block heading. Remaining blocks appear after the source under their
-localized headings, followed by external references when used. Items are grouped
-by Profile: the briefing title is H1, localized Profile names are H2 sections,
-items are H3 headings, and secondary artifact blocks are H4 headings.
+The Markdown briefing renders a block marked `primary` directly below the item
+title and before the source line, without a redundant block heading. Profiles
+without a primary block show the source first and then render every block under
+its localized heading. External references follow the blocks when used. Items
+are grouped by Profile: the briefing title is H1, localized Profile names are H2
+sections, items are H3 headings, and titled artifact blocks are H4 headings.

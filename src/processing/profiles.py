@@ -44,6 +44,7 @@ class ProfileBlock(BaseModel):
     type: Literal["section"] = "section"
     tools: list[str] = Field(default_factory=list)
     optional: bool = False
+    primary: bool = False
 
 
 class ProfileEnrichment(BaseModel):
@@ -57,6 +58,11 @@ class ProfileEnrichment(BaseModel):
         ids = [block.id for block in self.blocks]
         if len(ids) != len(set(ids)):
             raise ValueError("enrichment block IDs must be unique")
+        primary_blocks = [block for block in self.blocks if block.primary]
+        if len(primary_blocks) > 1:
+            raise ValueError("enrichment may define at most one primary block")
+        if primary_blocks and primary_blocks[0].optional:
+            raise ValueError("the primary enrichment block must be required")
         return self
 
 

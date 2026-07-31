@@ -81,7 +81,7 @@ Return valid JSON only:
   "title": "<localized artifact title or empty string>",
   "block": {{
     "id": "{block.id}",
-    "title": "<localized heading>",
+    "title": "<short localized heading>",
     "content": "<content>",
     "source_refs": ["<tool result ID>"]
   }}
@@ -121,7 +121,7 @@ Return valid JSON only:
   "blocks": [
     {{
       "id": "<configured block ID>",
-      "title": "<localized heading>",
+      "title": "<short localized heading>",
       "content": "<content>",
       "source_refs": []
     }}

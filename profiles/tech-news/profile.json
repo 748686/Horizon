@@ -16,7 +16,8 @@
       {
         "id": "summary",
         "type": "section",
-        "tools": []
+        "tools": [],
+        "primary": true
       },
       {
         "id": "background",

@@ -428,6 +428,9 @@ class ContentEnricher:
             for block in configured_blocks
             if block.id in generated_by_id
         ]
+        configured_by_id = {block.id: block for block in configured_blocks}
+        for generated_block in blocks:
+            generated_block.primary = configured_by_id[generated_block.id].primary
         return GeneratedArtifact(title=title, blocks=blocks)
 
     @staticmethod
