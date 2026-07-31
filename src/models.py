@@ -75,7 +75,6 @@ class ContentBlock(BaseModel):
 
     id: str
     type: Literal["section"] = "section"
-    role: Optional[str] = None
     title: str
     content: str
     source_refs: List[str] = Field(default_factory=list)

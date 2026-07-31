@@ -73,7 +73,7 @@ Write the complete artifact in language `{language}`.
 
 # Block contract
 
-Generate only block `{block.id}` ({block.type}). {optional_instruction}
+Generate only block `{block.id}`. {optional_instruction}
 {header_instruction}
 
 Return valid JSON only:
@@ -81,8 +81,6 @@ Return valid JSON only:
   "title": "<localized artifact title or empty string>",
   "block": {{
     "id": "{block.id}",
-    "type": "section",
-    "role": "{block.id}",
     "title": "<localized heading>",
     "content": "<content>",
     "source_refs": ["<tool result ID>"]
@@ -98,7 +96,7 @@ def artifact_prompt(
     blocks: list[ProfileBlock],
 ) -> str:
     block_contract = "\n".join(
-        f"- `{block.id}` ({block.type})"
+        f"- `{block.id}`"
         + (" optional" if block.optional else " required")
         for block in blocks
     )
@@ -123,8 +121,6 @@ Return valid JSON only:
   "blocks": [
     {{
       "id": "<configured block ID>",
-      "type": "section",
-      "role": "<configured block ID>",
       "title": "<localized heading>",
       "content": "<content>",
       "source_refs": []

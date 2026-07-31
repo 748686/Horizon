@@ -173,7 +173,7 @@ class ContentEnricher:
                 validation_error = exc
                 user += (
                     "\n\nYour previous response did not satisfy the output contract. "
-                    "Return only a corrected JSON object."
+                    f"Validation error: {exc}. Return only a corrected JSON object."
                 )
         raise ValueError(error_message) from validation_error
 
@@ -322,10 +322,18 @@ class ContentEnricher:
             required_base_ids = {
                 block.id for block in base_blocks if not block.optional
             }
+            allowed_base_ids = {block.id for block in base_blocks}
 
             def validate_required_blocks(generated: GeneratedArtifact) -> None:
-                generated_ids = {block.id for block in generated.blocks}
-                missing = required_base_ids - generated_ids
+                generated_ids = [block.id for block in generated.blocks]
+                unknown = set(generated_ids) - allowed_base_ids
+                if unknown:
+                    raise ValueError(
+                        "unknown blocks: " + ", ".join(sorted(unknown))
+                    )
+                if len(generated_ids) != len(set(generated_ids)):
+                    raise ValueError("duplicate block IDs")
+                missing = required_base_ids - set(generated_ids)
                 if missing:
                     raise ValueError(
                         "missing required blocks: " + ", ".join(sorted(missing))
@@ -373,6 +381,17 @@ class ContentEnricher:
                 result for result in tool_results if result.block_id == block.id
             ]
             response_model = GeneratedBlockWithHeader if not title else GeneratedBlock
+
+            def validate_requested_block(generated: GeneratedBlock) -> None:
+                if generated.block is None:
+                    if not block.optional:
+                        raise ValueError(f"missing required block: {block.id}")
+                    return
+                if generated.block.id != block.id:
+                    raise ValueError(
+                        f"block ID {generated.block.id} does not match {block.id}"
+                    )
+
             generated = await self._complete_model(
                 response_model,
                 system=block_prompt(
@@ -387,6 +406,7 @@ class ContentEnricher:
                     + tool_results_text(block_results)
                 ),
                 error_message=f"Invalid enrichment block: {block.id}",
+                validator=validate_requested_block,
             )
 
             if not title:
