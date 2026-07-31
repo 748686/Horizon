@@ -220,7 +220,7 @@ docker compose run --rm horizon
 docker compose run --rm horizon --hours 48
 
 # Build with optional extras (comma-separated)
-docker build --build-arg EXTRAS=trafilatura .
+docker compose build --build-arg EXTRAS=trafilatura horizon
 ```
 
 ### 2. Configure

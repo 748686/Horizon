@@ -13,10 +13,20 @@ COPY src ./src
 COPY data ./data
 COPY .env.example .env.example
 
-# Install dependencies (EXTRAS: comma-separated optional groups, e.g. "trafilatura,twitter")
+# Install optional extras from a comma-separated list, e.g. "trafilatura,openbb".
 ARG EXTRAS=""
-RUN uv sync --frozen --no-dev \
-    $([ -n "$EXTRAS" ] && echo "$EXTRAS" | tr ',' '\n' | sed 's/^/--extra /' | tr '\n' ' ')
+RUN set -eu; \
+    set --; \
+    if [ -n "$EXTRAS" ]; then \
+        case "$EXTRAS" in ,*|*,|*,,*) echo "Invalid EXTRAS list: $EXTRAS" >&2; exit 2 ;; esac; \
+        old_ifs=$IFS; IFS=,; \
+        for extra in $EXTRAS; do \
+            case "$extra" in [._-]*|*[._-]|*[!A-Za-z0-9._-]*) echo "Invalid extra: $extra" >&2; exit 2 ;; esac; \
+            set -- "$@" --extra "$extra"; \
+        done; \
+        IFS=$old_ifs; \
+    fi; \
+    uv sync --frozen --no-dev "$@"
 
 # Runtime data is mounted here; keep the image and process unprivileged.
 RUN useradd --create-home --uid 10001 horizon \
