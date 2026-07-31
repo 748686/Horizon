@@ -274,6 +274,7 @@ with:
 The Markdown briefing renders a block marked `primary` directly below the item
 title and before the source line, without a redundant block heading. Profiles
 without a primary block show the source first and then render every block under
-its localized heading. External references follow the blocks when used. Items
+its bold localized title on the same line as its content. External references
+follow the blocks when used. Items
 are grouped by Profile: the briefing title is H1, localized Profile names are H2
-sections, items are H3 headings, and titled artifact blocks are H4 headings.
+sections, and items are H3 headings.

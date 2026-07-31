@@ -55,6 +55,11 @@ def test_loads_builtin_tech_blog_profile():
     assert all(not block.optional for block in profile.definition.enrichment.blocks)
     assert all(not block.primary for block in profile.definition.enrichment.blocks)
     assert "300-500 Chinese characters" in profile.enrichment_prompt
+    assert "unfamiliar terms" in profile.enrichment_prompt
+    assert "baselines, comparisons, units, test conditions" in profile.enrichment_prompt
+    assert "author's core thesis or conclusion" in profile.enrichment_prompt
+    assert "culmination of the article" in profile.enrichment_prompt
+    assert "connected narrative" in profile.enrichment_prompt
     assert "Technology blog profile" in profile.match_prompt
 
 
