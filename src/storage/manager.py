@@ -109,6 +109,8 @@ class StorageManager:
         Returns:
             Path to the saved config file.
         """
+        self.config_path.parent.mkdir(parents=True, exist_ok=True)
+
         if backup and self.config_path.exists():
             shutil.copy2(self.config_path, self.config_path.with_suffix(".json.bak"))
 
