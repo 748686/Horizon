@@ -2,18 +2,22 @@
 
 from __future__ import annotations
 
+import logging
 from datetime import datetime, timezone
 from time import perf_counter
 from typing import Any, Awaitable, Callable
 
 from mcp.server.fastmcp import FastMCP
+from rich.console import Console
 
+from ..logging_config import configure_logging
 from .errors import HorizonMcpError
 from .service import HorizonPipelineService
 
 
+console = Console(stderr=True)
 mcp = FastMCP(name="horizon-mcp")
-service = HorizonPipelineService()
+service = HorizonPipelineService(console=console)
 
 SERVER_STARTED_AT = datetime.now(timezone.utc).isoformat()
 METRICS: dict[str, Any] = {
@@ -497,6 +501,7 @@ def r_effective_config() -> dict[str, Any]:
 def main() -> None:
     """Run MCP server over stdio."""
 
+    configure_logging(console, level=logging.INFO)
     mcp.run()
 
 

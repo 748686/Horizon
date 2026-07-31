@@ -2,26 +2,19 @@
 
 import argparse
 import asyncio
-import logging
 import shlex
 import sys
 from pathlib import Path
 
 from dotenv import load_dotenv
 from rich.console import Console
-from rich.logging import RichHandler
 
+from .logging_config import configure_logging
 from .storage.manager import ConfigError, StorageManager
 from .orchestrator import HorizonOrchestrator
 
 
 console = Console(stderr=True)
-logging.basicConfig(
-    level=logging.WARNING,
-    format="%(message)s",
-    handlers=[RichHandler(console=console, show_path=False)],
-)
-logger = logging.getLogger(__name__)
 
 
 def print_banner():
@@ -42,6 +35,7 @@ def print_banner():
 
 def main():
     """Main CLI entry point."""
+    configure_logging(console)
     print_banner()
 
     parser = argparse.ArgumentParser(description="Horizon - AI-Driven Information Aggregation System")

@@ -146,9 +146,13 @@ def test_fetch_items_uses_public_orchestrator_api(tmp_path: Path, monkeypatch) -
         def merge_cross_source_duplicates(self, items):  # type: ignore[no-untyped-def]
             return items[:1]
 
+    def build_orchestrator(runtime, config, storage, console):  # type: ignore[no-untyped-def]
+        assert console is service.console
+        return FakeOrchestrator()
+
     monkeypatch.setattr(
         "src.mcp.service.make_orchestrator",
-        lambda runtime, config, storage: FakeOrchestrator(),
+        build_orchestrator,
     )
 
     result = asyncio.run(service.fetch_items(hours=6))
@@ -196,7 +200,7 @@ def test_fetch_items_includes_fetch_report_in_response_and_metadata(
 
     monkeypatch.setattr(
         "src.mcp.service.make_orchestrator",
-        lambda runtime, config, storage: FakeOrchestrator(),
+        lambda runtime, config, storage, console: FakeOrchestrator(),
     )
 
     result = asyncio.run(service.fetch_items(hours=6))
@@ -240,7 +244,7 @@ def test_filter_items_uses_public_filtering_pipeline_api(tmp_path: Path, monkeyp
 
     monkeypatch.setattr(
         "src.mcp.service.make_orchestrator",
-        lambda runtime, config, storage: FakeOrchestrator(),
+        lambda runtime, config, storage, console: FakeOrchestrator(),
     )
 
     result = asyncio.run(service.filter_items(run_id="run-topic-dedup", topic_dedup=True))
@@ -291,7 +295,7 @@ def test_filter_items_applies_balanced_digest(tmp_path: Path, monkeypatch) -> No
 
     monkeypatch.setattr(
         "src.mcp.service.make_orchestrator",
-        lambda runtime, config, storage: FakeOrchestrator(),
+        lambda runtime, config, storage, console: FakeOrchestrator(),
     )
 
     result = asyncio.run(
@@ -345,7 +349,7 @@ def test_filter_items_matches_native_filtering_pipeline(tmp_path: Path, monkeypa
     monkeypatch.setattr("src.mcp.service.make_storage", lambda runtime, config_path: object())
     monkeypatch.setattr(
         "src.mcp.service.make_orchestrator",
-        lambda runtime, loaded_config, storage: make_filtering_orchestrator(),
+        lambda runtime, loaded_config, storage, console: make_filtering_orchestrator(),
     )
 
     mcp_result = asyncio.run(service.filter_items(run_id="run-parity"))
@@ -462,8 +466,9 @@ def test_send_webhook_reports_delivery_failure_truthfully(
     )
 
     class FakeNotifier:
-        def __init__(self, config) -> None:  # type: ignore[no-untyped-def]
+        def __init__(self, config, console) -> None:  # type: ignore[no-untyped-def]
             assert config is webhook_config
+            assert console is service.console
 
         async def notify(self, variables):  # type: ignore[no-untyped-def]
             return WebhookDeliveryResult(

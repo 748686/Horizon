@@ -10,6 +10,8 @@ from pathlib import Path
 from typing import Any, cast
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
+from rich.console import Console
+
 from .errors import HorizonMcpError
 from .horizon_adapter import (
     apply_source_filter,
@@ -111,8 +113,13 @@ class PipelineContext:
 class HorizonPipelineService:
     """High-level staged pipeline service."""
 
-    def __init__(self, runs_root: Path | None = None):
+    def __init__(
+        self,
+        runs_root: Path | None = None,
+        console: Console | None = None,
+    ):
         self.runs_root = Path(runs_root).resolve() if runs_root else _default_runs_root().resolve()
+        self.console = console or Console(stderr=True)
         self._run_store: RunStore | None = None
 
     @property
@@ -305,7 +312,9 @@ class HorizonPipelineService:
         )
 
         storage = make_storage(ctx.runtime, ctx.config_path)
-        orchestrator = make_orchestrator(ctx.runtime, ctx.config, storage)
+        orchestrator = make_orchestrator(
+            ctx.runtime, ctx.config, storage, console=self.console
+        )
 
         run_id = self.run_store.create_run(run_id)
         since = datetime.now(timezone.utc) - timedelta(hours=hours)
@@ -361,7 +370,7 @@ class HorizonPipelineService:
             raise HorizonMcpError(code="HZ_EMPTY_INPUT", message="No items available for scoring.")
 
         ai_client = ctx.runtime.create_ai_client(ctx.config.ai)
-        analyzer = ctx.runtime.ContentAnalyzer(ai_client)
+        analyzer = ctx.runtime.ContentAnalyzer(ai_client, console=self.console)
         scored_items = await analyzer.analyze_batch(items)
 
         self.run_store.save_items(run_id, "scored", items_to_dicts(scored_items))
@@ -408,7 +417,9 @@ class HorizonPipelineService:
             else ctx.config.filtering.ai_score_threshold
         )
         storage = make_storage(ctx.runtime, ctx.config_path)
-        orchestrator = make_orchestrator(ctx.runtime, ctx.config, storage)
+        orchestrator = make_orchestrator(
+            ctx.runtime, ctx.config, storage, console=self.console
+        )
         filtering_result = await orchestrator.filter_items(
             items,
             threshold=effective_threshold,
@@ -469,7 +480,7 @@ class HorizonPipelineService:
             raise HorizonMcpError(code="HZ_EMPTY_INPUT", message="No items available for enrichment.")
 
         ai_client = ctx.runtime.create_ai_client(ctx.config.ai)
-        enricher = ctx.runtime.ContentEnricher(ai_client)
+        enricher = ctx.runtime.ContentEnricher(ai_client, console=self.console)
         await enricher.enrich_batch(items)
 
         self.run_store.save_items(run_id, "enriched", items_to_dicts(items))
@@ -727,7 +738,7 @@ class HorizonPipelineService:
                 "reason": "Webhook is not configured.",
             }
 
-        notifier = WebhookNotifier(webhook_config)
+        notifier = WebhookNotifier(webhook_config, console=self.console)
         variables = {
             "date": date,
             "language": language,

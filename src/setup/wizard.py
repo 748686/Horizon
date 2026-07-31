@@ -58,24 +58,31 @@ def configure_ai() -> Optional[AIConfig]:
         "AI provider",
         choices=providers,
         default="openai",
+        console=console,
     )
     provider_enum = AIProvider(provider)
 
     provider_defaults = AI_PROVIDER_DEFAULTS.get(provider_enum, {})
-    model = Prompt.ask("Model name", default=provider_defaults.get("model", ""))
+    model = Prompt.ask(
+        "Model name", default=provider_defaults.get("model", ""), console=console
+    )
 
     if provider_enum == AIProvider.OLLAMA:
         base_url = Prompt.ask(
             "Ollama base URL (leave empty for http://localhost:11434)",
             default="",
+            console=console,
         )
     else:
-        base_url = Prompt.ask("Base URL (leave empty for default)", default="")
+        base_url = Prompt.ask(
+            "Base URL (leave empty for default)", default="", console=console
+        )
 
     # Determine default env var name
     api_key_env = Prompt.ask(
         "API key environment variable name",
         default=provider_defaults.get("api_key_env", "API_KEY"),
+        console=console,
     )
 
     # Check if the key is actually set
@@ -89,6 +96,7 @@ def configure_ai() -> Optional[AIConfig]:
     languages = Prompt.ask(
         "Output languages (comma-separated)",
         default="zh,en",
+        console=console,
     )
     lang_list = [l.strip() for l in languages.split(",") if l.strip()]
 
@@ -122,7 +130,7 @@ def get_interests() -> str:
         "[dim]Examples: \"LLM inference\", \"具身智能\", \"Rust systems programming\", "
         "\"web security\", \"开源工具\"[/dim]\n"
     )
-    interests = Prompt.ask("Your interests")
+    interests = Prompt.ask("Your interests", console=console)
     return interests
 
 
@@ -172,7 +180,7 @@ def select_sources(
     console.print(
         "\n[dim]Enter numbers to toggle off/on (e.g. '3 5 7'), or press Enter to accept all:[/dim]"
     )
-    toggle_input = Prompt.ask("Toggle", default="").strip()
+    toggle_input = Prompt.ask("Toggle", default="", console=console).strip()
 
     if toggle_input:
         for num_str in toggle_input.split():
@@ -396,7 +404,11 @@ def main():
     ai_available = _ai_recommendations_available(ai_config)
 
     if ai_available:
-        if Confirm.ask("\nAsk AI for additional source recommendations?", default=True):
+        if Confirm.ask(
+            "\nAsk AI for additional source recommendations?",
+            default=True,
+            console=console,
+        ):
             console.print("[dim]Asking AI for recommendations...[/dim]")
             from .ai_recommend import get_ai_recommendations_sync
 
@@ -422,7 +434,11 @@ def main():
     # Merge with existing config if present
     try:
         existing = storage.load_config()
-        if Confirm.ask("\nExisting config.json found. Merge new sources into it?", default=True):
+        if Confirm.ask(
+            "\nExisting config.json found. Merge new sources into it?",
+            default=True,
+            console=console,
+        ):
             config = merge_configs(config, existing)
     except FileNotFoundError:
         pass

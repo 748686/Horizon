@@ -168,10 +168,15 @@ def make_storage(runtime: HorizonRuntime, config_path: Path) -> Any:
     return runtime.StorageManager(data_dir=data_dir)
 
 
-def make_orchestrator(runtime: HorizonRuntime, config: Any, storage: Any) -> Any:
+def make_orchestrator(
+    runtime: HorizonRuntime,
+    config: Any,
+    storage: Any,
+    console: Any = None,
+) -> Any:
     """Build native Horizon orchestrator."""
 
-    return runtime.HorizonOrchestrator(config, storage)
+    return runtime.HorizonOrchestrator(config, storage, console=console)
 
 
 def apply_source_filter(

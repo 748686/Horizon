@@ -18,6 +18,7 @@ def test_missing_custom_config_reports_requested_path(monkeypatch, tmp_path):
 
     output = []
     monkeypatch.setattr(main_module, "StorageManager", MissingConfigStorage)
+    monkeypatch.setattr(main_module, "configure_logging", lambda console: None)
     monkeypatch.setattr(
         main_module,
         "console",

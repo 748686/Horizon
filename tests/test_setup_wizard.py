@@ -15,7 +15,13 @@ def test_configure_ai_allows_ollama_without_api_key(monkeypatch):
         ]
     )
 
-    monkeypatch.setattr(wizard.Prompt, "ask", lambda *args, **kwargs: next(answers))
+    prompt_consoles = []
+
+    def answer_prompt(*args, **kwargs):
+        prompt_consoles.append(kwargs.get("console"))
+        return next(answers)
+
+    monkeypatch.setattr(wizard.Prompt, "ask", answer_prompt)
     monkeypatch.setattr(wizard.console, "print", lambda *args, **kwargs: None)
 
     config = wizard.configure_ai()
@@ -29,6 +35,7 @@ def test_configure_ai_allows_ollama_without_api_key(monkeypatch):
         max_tokens=8192,
         languages=["zh", "en"],
     )
+    assert prompt_consoles == [wizard.console] * 5
 
 
 def test_ai_recommendations_available_for_ollama_without_api_key():
