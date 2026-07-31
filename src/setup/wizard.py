@@ -13,7 +13,7 @@ from rich.table import Table
 from rich.panel import Panel
 
 from ..models import (
-    AIConfig, AIProvider, AI_PROVIDER_DEFAULTS, Config, FilteringConfig, SourcesConfig,
+    AIConfig, AIProvider, AI_PROVIDER_DEFAULTS, Config, CollectionConfig, SourcesConfig,
     GitHubSourceConfig, HackerNewsConfig, RSSSourceConfig,
     RedditConfig, RedditSubredditConfig, RedditUserConfig,
     TelegramConfig, TelegramChannelConfig,
@@ -286,16 +286,12 @@ def build_config(
         telegram=telegram_config,
     )
 
-    filtering = FilteringConfig(
-        ai_score_threshold=7.0,
-        time_window_hours=24,
-    )
+    collection = CollectionConfig(time_window_hours=24)
 
     return Config(
-        version="1.0",
         ai=ai_config,
         sources=sources,
-        filtering=filtering,
+        collection=collection,
     )
 
 
@@ -303,7 +299,8 @@ def merge_configs(new_config: Config, existing_config: Config) -> Config:
     """Merge new config into existing config, deduplicating sources.
 
     Rules:
-    - ai / filtering: use new values (full replacement)
+    - ai: use the newly selected provider settings
+    - collection / digest: preserve existing values because the wizard does not prompt for them
     - sources: deduplicate by unique key, append new ones
     - existing enabled=false sources are preserved
 
@@ -316,7 +313,6 @@ def merge_configs(new_config: Config, existing_config: Config) -> Config:
     """
     merged = existing_config.model_copy(deep=True)
     merged.ai = new_config.ai.model_copy(deep=True)
-    merged.filtering = new_config.filtering.model_copy(deep=True)
 
     merged.sources.github = _merge_source_list(
         new_config.sources.github, existing_config.sources.github, _gh_key
@@ -451,7 +447,7 @@ def main():
         f"[green]✓ Configuration saved to {path}[/green]\n\n"
         f"  AI:      {ai_config.provider.value} / {ai_config.model}\n"
         f"  Sources: {_count_sources(config)} total\n"
-        f"  Threshold: {config.filtering.ai_score_threshold}\n\n"
+        f"  Profile: {config.processing.default_profile}\n\n"
         f"Run [bold cyan]horizon[/bold cyan] to start aggregating!",
         title="Setup Complete",
         border_style="green",

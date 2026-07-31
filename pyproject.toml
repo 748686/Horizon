@@ -52,6 +52,9 @@ build-backend = "hatchling.build"
 [tool.hatch.build.targets.wheel]
 packages = ["src"]
 
+[tool.hatch.build.targets.wheel.force-include]
+"profiles" = "src/_builtin_profiles"
+
 [tool.pytest.ini_options]
 minversion = "8.0"
 addopts = "-q"

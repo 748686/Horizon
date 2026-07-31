@@ -4,7 +4,16 @@ import asyncio
 from datetime import datetime, timezone
 
 from src.ai.summarizer import DailySummarizer
-from src.models import ContentItem, SourceType
+from src.models import (
+    ArtifactSource,
+    ClassificationResult,
+    ContentAnalysis,
+    ContentArtifact,
+    ContentBlock,
+    ContentItem,
+    ProcessingResult,
+    SourceType,
+)
 
 
 def _run_async(coro):
@@ -20,10 +29,27 @@ def _make_item(idx: int) -> ContentItem:
         content="content",
         author="tester",
         published_at=datetime(2026, 4, 25, 8, 0, tzinfo=timezone.utc),
+        profile="tech-news",
+        processing=ProcessingResult(
+            classification=ClassificationResult(
+                profile="tech-news", method="source_override"
+            ),
+            analysis=ContentAnalysis(
+                score=8.0,
+                reason="test",
+                summary=f"Summary for item {idx}.",
+                tags=["AI", "News"],
+            ),
+            artifacts={
+                language: ContentArtifact(
+                    language=language,
+                    title=f"Important Item {idx}",
+                    lead=f"Summary for item {idx}.",
+                )
+                for language in ("en", "zh")
+            },
+        ),
     )
-    item.ai_score = 8.0
-    item.ai_summary = f"Summary for item {idx}."
-    item.ai_tags = ["AI", "News"]
     return item
 
 
@@ -144,15 +170,36 @@ def test_generate_summary_escapes_untrusted_text_in_all_output_contexts():
     summarizer = DailySummarizer()
     item = _make_item(1)
     item.title = '<script>alert("title")</script> [click](javascript:alert(1))'
-    item.ai_summary = '<img src=x onerror="alert(1)"> **summary**'
+    item.processing.analysis.summary = '<img src=x onerror="alert(1)"> **summary**'
     item.author = '<svg onload="alert(1)">'
-    item.ai_tags = ['tag`](javascript:alert(1))']
+    item.processing.analysis.tags = ['tag`](javascript:alert(1))']
+    item.processing.artifacts["en"] = ContentArtifact(
+        language="en",
+        title=item.title,
+        lead='<img src=x onerror="alert(1)"> **summary**',
+        blocks=[
+            ContentBlock(
+                id="background",
+                title="Background",
+                content='<iframe src="data:text/html,bad"></iframe>',
+            ),
+            ContentBlock(
+                id="community_discussion",
+                title="Discussion",
+                content="[bad](data:text/html,bad)",
+            ),
+        ],
+        sources=[
+            ArtifactSource(
+                id="ref-1",
+                title='<img src=x onerror="alert(1)">',
+                url="https://example.com/ref",
+            )
+        ],
+    )
     item.metadata.update(
         {
             "feed_name": '<b onclick="alert(1)">feed</b>',
-            "background": '<iframe src="data:text/html,bad"></iframe>',
-            "community_discussion": '[bad](data:text/html,bad)',
-            "sources": [{"title": '<img src=x onerror="alert(1)">', "url": "https://example.com/ref"}],
         }
     )
 
@@ -171,16 +218,20 @@ def test_generate_summary_escapes_untrusted_text_in_all_output_contexts():
 def test_generate_summary_rejects_unsafe_urls_and_quote_injection():
     summarizer = DailySummarizer()
     item = _make_item(1)
-    item.metadata.update(
-        {
-            "discussion_url": 'javascript:alert("discussion")',
-            "sources": [
-                {"title": 'Quoted "><script>alert(1)</script>', "url": 'https://example.com/\" onmouseover=\"alert(1)'},
-                {"title": "JavaScript", "url": "javascript:alert(1)"},
-                {"title": "Data", "url": "data:text/html,<script>alert(1)</script>"},
-            ],
-        }
-    )
+    item.metadata["discussion_url"] = 'javascript:alert("discussion")'
+    item.processing.artifacts["en"].sources = [
+        ArtifactSource(
+            id="quoted",
+            title='Quoted "><script>alert(1)</script>',
+            url='https://example.com/\" onmouseover=\"alert(1)',
+        ),
+        ArtifactSource(id="js", title="JavaScript", url="javascript:alert(1)"),
+        ArtifactSource(
+            id="data",
+            title="Data",
+            url="data:text/html,<script>alert(1)</script>",
+        ),
+    ]
 
     result = _run_async(summarizer.generate_summary([item], "2026-04-25", 1))
 
@@ -195,12 +246,14 @@ def test_generate_summary_rejects_unsafe_urls_and_quote_injection():
 def test_generate_summary_preserves_normal_http_links():
     summarizer = DailySummarizer()
     item = _make_item(1)
-    item.metadata.update(
-        {
-            "discussion_url": "https://example.com/discuss?id=1#comments",
-            "sources": [{"title": "Useful reference", "url": "https://docs.example.com/path?q=one&lang=en"}],
-        }
-    )
+    item.metadata["discussion_url"] = "https://example.com/discuss?id=1#comments"
+    item.processing.artifacts["en"].sources = [
+        ArtifactSource(
+            id="useful",
+            title="Useful reference",
+            url="https://docs.example.com/path?q=one&lang=en",
+        )
+    ]
 
     result = _run_async(summarizer.generate_summary([item], "2026-04-25", 1))
 

@@ -4,6 +4,7 @@ import asyncio
 from collections import defaultdict
 from dataclasses import dataclass, field
 from datetime import datetime, timedelta, timezone
+from pathlib import Path
 from typing import Dict, List, Literal, Optional
 from urllib.parse import unquote_plus, urlsplit
 import httpx
@@ -29,6 +30,7 @@ from .ai.analyzer import ContentAnalyzer
 from .ai.summarizer import DailySummarizer
 from .ai.enricher import ContentEnricher
 from .ai.tokens import get_usage_snapshot
+from .processing import ProfileRegistry
 
 
 _TRACKING_QUERY_PARAMETERS = {
@@ -164,7 +166,13 @@ class FetchReport:
 class HorizonOrchestrator:
     """Orchestrates the complete workflow for content aggregation and analysis."""
 
-    def __init__(self, config: Config, storage: StorageManager, console: Optional[Console] = None):
+    def __init__(
+        self,
+        config: Config,
+        storage: StorageManager,
+        console: Optional[Console] = None,
+        profiles: Optional[ProfileRegistry] = None,
+    ):
         """Initialize orchestrator.
 
         Args:
@@ -175,6 +183,12 @@ class HorizonOrchestrator:
         self.config = config
         self.storage = storage
         self.console = console or Console(stderr=True)
+        self.profiles = profiles or ProfileRegistry.load(
+            Path(config.processing.profiles_dir), config.processing.default_profile
+        )
+        self.profiles.validate_source_references(
+            config.sources.model_dump(mode="json")
+        )
         self.email_manager = EmailManager(config.email, console=self.console) if config.email else None
         self.webhook_notifier = (
             WebhookNotifier(config.webhook, console=self.console)
@@ -349,7 +363,7 @@ class HorizonOrchestrator:
         if force_hours:
             since = datetime.now(timezone.utc) - timedelta(hours=force_hours)
         else:
-            hours = self.config.filtering.time_window_hours
+            hours = self.config.collection.time_window_hours
             since = datetime.now(timezone.utc) - timedelta(hours=hours)
         return since
 
@@ -517,9 +531,10 @@ class HorizonOrchestrator:
             List[ContentItem]: Deduplicated items
         """
         # Group by normalized URL
-        url_groups: Dict[tuple[str, str, str, str, Optional[int], str, str], List[ContentItem]] = {}
+        url_groups: Dict[tuple[object, ...], List[ContentItem]] = {}
         for item in items:
-            key = _deduplication_url_key(str(item.url))
+            requested_profile = (item.profile or "auto").strip() or "auto"
+            key = (*_deduplication_url_key(str(item.url)), requested_profile)
             url_groups.setdefault(key, []).append(item)
 
         merged = []
@@ -563,7 +578,7 @@ class HorizonOrchestrator:
         This is a stable stage helper for integrations such as MCP.
 
         Sends all item titles, tags, and summaries to AI in a single call.
-        Items must already be sorted by ai_score descending so that the first
+        Items must already be sorted by analysis score descending so that the first
         item in each duplicate group is always the highest-scored one.
         Content (comments) from duplicate items is merged into the primary.
 
@@ -578,8 +593,9 @@ class HorizonOrchestrator:
         # Build the item list for the prompt
         lines = []
         for i, item in enumerate(items):
-            tags = ", ".join(item.ai_tags) if item.ai_tags else "—"
-            summary = item.ai_summary or "—"
+            analysis = item.processing.analysis if item.processing else None
+            tags = ", ".join(analysis.tags) if analysis and analysis.tags else "—"
+            summary = analysis.summary if analysis else "—"
             lines.append(f"[{i}] {item.title}\n    Tags: {tags}\n    Summary: {summary}")
         items_text = "\n\n".join(lines)
 
@@ -643,26 +659,58 @@ class HorizonOrchestrator:
         log: bool = True,
     ) -> FilteringPipelineResult:
         """Apply score thresholding, optional topic dedup, and digest balancing."""
-        effective_threshold = (
-            threshold
-            if threshold is not None
-            else self.config.filtering.ai_score_threshold
+        threshold_items = []
+        for item in items:
+            if not item.processing or not item.processing.analysis:
+                continue
+            profile = self.profiles.get(item.processing.classification.profile)
+            filter_config = profile.definition.filter
+            if not filter_config.enabled:
+                threshold_items.append(item)
+                continue
+            effective_threshold = threshold if threshold is not None else filter_config.threshold
+            score = item.processing.analysis.score
+            if score is not None and effective_threshold is not None and score >= effective_threshold:
+                threshold_items.append(item)
+        threshold_items.sort(
+            key=lambda item: (
+                item.processing.analysis.score
+                if item.processing and item.processing.analysis and item.processing.analysis.score is not None
+                else -1
+            ),
+            reverse=True,
         )
-        threshold_items = [
-            item
-            for item in items
-            if item.ai_score is not None and item.ai_score >= effective_threshold
-        ]
-        threshold_items.sort(key=lambda item: item.ai_score or 0, reverse=True)
 
         if log:
             self.console.print(
-                f"⭐️ {len(threshold_items)} items scored ≥ {effective_threshold}\n"
+                f"⭐️ Selected {len(threshold_items)} items with profile filters\n"
             )
 
         deduped_items = threshold_items
         if topic_dedup and deduped_items:
-            deduped_items = await self.merge_topic_duplicates(deduped_items, log=log)
+            profile_groups: Dict[str, List[ContentItem]] = defaultdict(list)
+            for item in deduped_items:
+                profile_id = (
+                    item.processing.classification.profile
+                    if item.processing
+                    else self.profiles.default_profile
+                )
+                profile_groups[profile_id].append(item)
+            deduped_items = []
+            for profile_items in profile_groups.values():
+                deduped_items.extend(
+                    await self.merge_topic_duplicates(profile_items, log=log)
+                )
+            deduped_items.sort(
+                key=lambda item: (
+                    item.processing.analysis.score
+                    if item.processing
+                    and item.processing.analysis
+                    and item.processing.analysis.score is not None
+                    else -1
+                ),
+                reverse=True,
+            )
         topic_dedup_removed = len(threshold_items) - len(deduped_items)
 
         if log and topic_dedup_removed:
@@ -696,16 +744,20 @@ class HorizonOrchestrator:
         appears in more than one configured group, the first group in config
         order wins.
         """
-        filtering = self.config.filtering
-        groups = filtering.category_groups
-        max_items = filtering.max_items
+        digest = self.config.digest
+        groups = digest.category_groups
+        max_items = digest.max_items
 
         if not groups and max_items is None:
             return BalancedDigestResult(items=items)
 
         sorted_items = sorted(
             items,
-            key=lambda item: item.ai_score or 0,
+            key=lambda item: (
+                item.processing.analysis.score
+                if item.processing and item.processing.analysis and item.processing.analysis.score is not None
+                else -1
+            ),
             reverse=True,
         )
 
@@ -729,7 +781,7 @@ class HorizonOrchestrator:
 
         selected: List[tuple[ContentItem, str]] = []
         group_counts: Dict[str, int] = defaultdict(int)
-        default_group = filtering.default_group
+        default_group = digest.default_group
 
         for item in sorted_items:
             category = item.metadata.get("category")
@@ -742,7 +794,7 @@ class HorizonOrchestrator:
             if group_key in groups:
                 limit = groups[group_key].limit
             else:
-                limit = filtering.default_group_limit
+                limit = digest.default_group_limit
 
             if limit is not None and group_counts[group_key] >= limit:
                 continue
@@ -760,7 +812,7 @@ class HorizonOrchestrator:
         group_limits: Dict[str, Optional[int]] = {
             group_key: group.limit for group_key, group in groups.items()
         }
-        group_limits.setdefault(default_group, filtering.default_group_limit)
+        group_limits.setdefault(default_group, digest.default_group_limit)
 
         if log:
             self.console.print(
@@ -773,11 +825,11 @@ class HorizonOrchestrator:
                 )
             if (
                 final_counts.get(default_group, 0)
-                or filtering.default_group_limit is not None
+                or digest.default_group_limit is not None
             ):
                 limit_label = (
-                    str(filtering.default_group_limit)
-                    if filtering.default_group_limit is not None
+                    str(digest.default_group_limit)
+                    if digest.default_group_limit is not None
                     else "unlimited"
                 )
                 self.console.print(
@@ -846,7 +898,7 @@ class HorizonOrchestrator:
             f"   Re-analyzing {len(expanded)} Twitter items with reply context...\n"
         )
         ai_client = create_ai_client(self.config.ai)
-        analyzer = ContentAnalyzer(ai_client, console=self.console)
+        analyzer = ContentAnalyzer(ai_client, self.profiles, console=self.console)
         await analyzer.analyze_batch(expanded)
 
     async def _enrich_important_items(self, items: List[ContentItem]) -> None:
@@ -863,7 +915,12 @@ class HorizonOrchestrator:
 
         self.console.print("📚 Enriching with background knowledge...")
         ai_client = create_ai_client(self.config.ai)
-        enricher = ContentEnricher(ai_client, console=self.console)
+        enricher = ContentEnricher(
+            ai_client,
+            self.profiles,
+            self.config.ai.languages,
+            console=self.console,
+        )
         await enricher.enrich_batch(items)
         self.console.print(f"   Enriched {len(items)} items\n")
 
@@ -879,7 +936,7 @@ class HorizonOrchestrator:
         self.console.print("🤖 Analyzing content with AI...")
 
         ai_client = create_ai_client(self.config.ai)
-        analyzer = ContentAnalyzer(ai_client, console=self.console)
+        analyzer = ContentAnalyzer(ai_client, self.profiles, console=self.console)
 
         return await analyzer.analyze_batch(items)
 

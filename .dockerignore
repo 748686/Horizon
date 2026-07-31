@@ -25,6 +25,7 @@ env/
 docs/
 *.md
 !README.md
+!profiles/**/*.md
 
 # Local configuration, data, and runtime secrets
 .env

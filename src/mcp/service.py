@@ -12,6 +12,7 @@ from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 from rich.console import Console
 
+from ..processing import ProfileRegistry
 from .errors import HorizonMcpError
 from .horizon_adapter import (
     apply_source_filter,
@@ -276,18 +277,23 @@ class HorizonPipelineService:
                 "languages": list(ctx.config.ai.languages),
                 "api_key_env": ctx.config.ai.api_key_env,
             },
-            "filtering": {
-                "ai_score_threshold": ctx.config.filtering.ai_score_threshold,
-                "time_window_hours": ctx.config.filtering.time_window_hours,
-                "max_items": ctx.config.filtering.max_items,
+            "collection": {
+                "time_window_hours": ctx.config.collection.time_window_hours,
+            },
+            "digest": {
+                "max_items": ctx.config.digest.max_items,
                 "category_groups": {
                     key: group.model_dump(mode="json")
-                    for key, group in ctx.config.filtering.category_groups.items()
+                    for key, group in ctx.config.digest.category_groups.items()
                 },
-                "default_group": ctx.config.filtering.default_group,
-                "default_group_limit": ctx.config.filtering.default_group_limit,
+                "default_group": ctx.config.digest.default_group,
+                "default_group_limit": ctx.config.digest.default_group_limit,
             },
             "enabled_sources": get_enabled_sources(ctx.config),
+            "processing": {
+                "profiles_dir": ctx.config.processing.profiles_dir,
+                "default_profile": ctx.config.processing.default_profile,
+            },
             "selected_sources": selected_sources,
             "unknown_sources": unknown_sources,
             "missing_env": missing_env,
@@ -312,8 +318,13 @@ class HorizonPipelineService:
         )
 
         storage = make_storage(ctx.runtime, ctx.config_path)
+        profiles = self._profiles(ctx)
         orchestrator = make_orchestrator(
-            ctx.runtime, ctx.config, storage, console=self.console
+            ctx.runtime,
+            ctx.config,
+            storage,
+            console=self.console,
+            profiles=profiles,
         )
 
         run_id = self.run_store.create_run(run_id)
@@ -370,26 +381,27 @@ class HorizonPipelineService:
             raise HorizonMcpError(code="HZ_EMPTY_INPUT", message="No items available for scoring.")
 
         ai_client = ctx.runtime.create_ai_client(ctx.config.ai)
-        analyzer = ctx.runtime.ContentAnalyzer(ai_client, console=self.console)
+        profiles = self._profiles(ctx)
+        analyzer = ctx.runtime.ContentAnalyzer(
+            ai_client, profiles, console=self.console
+        )
         scored_items = await analyzer.analyze_batch(items)
 
         self.run_store.save_items(run_id, "scored", items_to_dicts(scored_items))
-        score_threshold = ctx.config.filtering.ai_score_threshold
-        above_threshold = [x for x in scored_items if x.ai_score and x.ai_score >= score_threshold]
+        selected = [item for item in scored_items if self._passes_profile_filter(item, profiles)]
 
         meta = self.run_store.update_meta(
             run_id,
             {
                 "scored_count": len(scored_items),
-                "scored_threshold": score_threshold,
-                "scored_above_threshold": len(above_threshold),
+                "selected_count": len(selected),
             },
         )
 
         return {
             "run_id": run_id,
             "scored": len(scored_items),
-            "above_threshold": len(above_threshold),
+            "selected": len(selected),
             "score_distribution": self._score_distribution(scored_items),
             "artifact": str((self.run_store.run_dir(run_id) / "scored_items.json").resolve()),
             "meta": meta,
@@ -411,18 +423,18 @@ class HorizonPipelineService:
             config_path=config_path,
         )
 
-        effective_threshold = (
-            threshold
-            if threshold is not None
-            else ctx.config.filtering.ai_score_threshold
-        )
         storage = make_storage(ctx.runtime, ctx.config_path)
+        profiles = self._profiles(ctx)
         orchestrator = make_orchestrator(
-            ctx.runtime, ctx.config, storage, console=self.console
+            ctx.runtime,
+            ctx.config,
+            storage,
+            console=self.console,
+            profiles=profiles,
         )
         filtering_result = await orchestrator.filter_items(
             items,
-            threshold=effective_threshold,
+            threshold=threshold,
             topic_dedup=topic_dedup,
             log=False,
         )
@@ -436,7 +448,7 @@ class HorizonPipelineService:
             run_id,
             {
                 "filtered_count": len(important_items),
-                "filter_threshold": effective_threshold,
+                "filter_threshold_override": threshold,
                 "topic_dedup_enabled": topic_dedup,
                 "topic_dedup_removed": filtering_result.topic_dedup_removed,
                 "balanced_digest_enabled": balanced_enabled,
@@ -450,7 +462,7 @@ class HorizonPipelineService:
         return {
             "run_id": run_id,
             "kept": len(important_items),
-            "threshold": effective_threshold,
+            "threshold_override": threshold,
             "removed_by_topic_dedup": filtering_result.topic_dedup_removed,
             "removed_by_balanced_digest": (
                 filtering_result.topic_dedup_count - len(important_items)
@@ -480,14 +492,24 @@ class HorizonPipelineService:
             raise HorizonMcpError(code="HZ_EMPTY_INPUT", message="No items available for enrichment.")
 
         ai_client = ctx.runtime.create_ai_client(ctx.config.ai)
-        enricher = ctx.runtime.ContentEnricher(ai_client, console=self.console)
+        profiles = self._profiles(ctx)
+        enricher = ctx.runtime.ContentEnricher(
+            ai_client,
+            profiles,
+            list(ctx.config.ai.languages),
+            console=self.console,
+        )
         await enricher.enrich_batch(items)
 
         self.run_store.save_items(run_id, "enriched", items_to_dicts(items))
 
         citation_count = 0
         for item in items:
-            citation_count += len(item.metadata.get("sources", []))
+            if item.processing:
+                citation_count += sum(
+                    len(artifact.sources)
+                    for artifact in item.processing.artifacts.values()
+                )
 
         meta = self.run_store.update_meta(
             run_id,
@@ -695,10 +717,33 @@ class HorizonPipelineService:
             return fallback
 
     @staticmethod
+    def _profiles(ctx: PipelineContext) -> ProfileRegistry:
+        return ProfileRegistry.load(
+            Path(ctx.config.processing.profiles_dir).expanduser(),
+            ctx.config.processing.default_profile,
+            base_dir=ctx.horizon_path,
+        )
+
+    @staticmethod
+    def _passes_profile_filter(item: Any, profiles: ProfileRegistry) -> bool:
+        if not item.processing or not item.processing.analysis:
+            return False
+        profile = profiles.get(item.processing.classification.profile)
+        rule = profile.definition.filter
+        if not rule.enabled:
+            return True
+        score = item.processing.analysis.score
+        return score is not None and rule.threshold is not None and score >= rule.threshold
+
+    @staticmethod
     def _score_distribution(items: list[Any]) -> dict[str, int]:
-        buckets = {"0-2": 0, "3-4": 0, "5-6": 0, "7-8": 0, "9-10": 0}
+        buckets = {"unscored": 0, "0-2": 0, "3-4": 0, "5-6": 0, "7-8": 0, "9-10": 0}
         for item in items:
-            score = float(item.ai_score or 0.0)
+            analysis = item.processing.analysis if item.processing else None
+            if not analysis or analysis.score is None:
+                buckets["unscored"] += 1
+                continue
+            score = float(analysis.score)
             if score < 3:
                 buckets["0-2"] += 1
             elif score < 5:

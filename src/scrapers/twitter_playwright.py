@@ -378,6 +378,7 @@ class TwitterPlaywrightScraper(BaseScraper):
                 content=text,
                 author=username,
                 published_at=published_at,
+                profile=self.twitter_config.profile,
                 metadata={
                     "tweet_id": tweet_id,
                     "is_retweet": tweet.get("is_retweet", False),

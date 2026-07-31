@@ -11,6 +11,7 @@ COPY --from=ghcr.io/astral-sh/uv:latest /uv /usr/local/bin/uv
 COPY pyproject.toml uv.lock README.md ./
 COPY src ./src
 COPY data ./data
+COPY profiles ./profiles
 COPY .env.example .env.example
 
 # Install optional extras from a comma-separated list, e.g. "trafilatura,openbb".

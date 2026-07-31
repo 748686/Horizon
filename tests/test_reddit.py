@@ -1,13 +1,14 @@
 import asyncio
 from datetime import datetime, timedelta, timezone
+from unittest.mock import AsyncMock
 
 import httpx
 
-from src.models import RedditConfig, RedditSubredditConfig
+from src.models import RedditConfig, RedditSubredditConfig, RedditUserConfig
 from src.scrapers.reddit import REDDIT_HEADERS, RedditScraper
 
 
-def _make_config(fetch_comments: int = 1) -> RedditConfig:
+def _make_config(fetch_comments: int = 1, profile: str | None = None) -> RedditConfig:
     return RedditConfig(
         enabled=True,
         subreddits=[
@@ -17,6 +18,7 @@ def _make_config(fetch_comments: int = 1) -> RedditConfig:
                 sort="hot",
                 fetch_limit=1,
                 min_score=1,
+                profile=profile,
             )
         ],
         users=[],
@@ -170,7 +172,9 @@ def test_reddit_listing_uses_old_reddit_first():
 
     transport = httpx.MockTransport(handler)
     client = httpx.AsyncClient(transport=transport)
-    scraper = RedditScraper(_make_config(fetch_comments=0), client)
+    scraper = RedditScraper(
+        _make_config(fetch_comments=0, profile="subreddit-profile"), client
+    )
 
     items = asyncio.run(scraper.fetch(datetime.now(timezone.utc) - timedelta(hours=1)))
     asyncio.run(client.aclose())
@@ -182,6 +186,7 @@ def test_reddit_listing_uses_old_reddit_first():
     assert items[0].author == "old_author"
     assert items[0].metadata["score"] == 42
     assert items[0].metadata["num_comments"] == 7
+    assert items[0].profile == "subreddit-profile"
 
 
 def test_reddit_listing_old_failure_falls_back_to_json_then_rss():
@@ -214,7 +219,9 @@ def test_reddit_listing_old_failure_falls_back_to_json_then_rss():
 
     transport = httpx.MockTransport(handler)
     client = httpx.AsyncClient(transport=transport)
-    scraper = RedditScraper(_make_config(fetch_comments=3), client)
+    scraper = RedditScraper(
+        _make_config(fetch_comments=3, profile="rss-profile"), client
+    )
 
     items = asyncio.run(scraper.fetch(datetime(2029, 12, 31, tzinfo=timezone.utc)))
     asyncio.run(client.aclose())
@@ -230,6 +237,25 @@ def test_reddit_listing_old_failure_falls_back_to_json_then_rss():
     assert items[0].author == "rss_author"
     assert items[0].metadata["subreddit"] == "LocalLLaMA"
     assert items[0].metadata["fallback"] == "rss"
+    assert items[0].profile == "rss-profile"
+
+
+def test_reddit_user_profile_propagates() -> None:
+    config = RedditConfig(
+        enabled=True,
+        subreddits=[],
+        users=[RedditUserConfig(username="tester", profile="user-profile")],
+        fetch_comments=0,
+    )
+    scraper = RedditScraper(config, AsyncMock())
+    scraper._reddit_get = AsyncMock(return_value=_listing_payload())
+
+    items = asyncio.run(
+        scraper.fetch(datetime.now(timezone.utc) - timedelta(hours=1))
+    )
+
+    assert len(items) == 1
+    assert items[0].profile == "user-profile"
 
 
 def test_reddit_comments_use_old_reddit_first():

@@ -72,12 +72,12 @@
 
 好新闻分散在各处，坏信息却源源不断。Horizon 为你先完成第一轮筛选：从 Hacker News、Reddit、Telegram、RSS、Twitter/X、GitHub 和 OpenBB 抓取内容，合并重复新闻，用 AI 打分过滤，并为重要内容补充背景解释和社区讨论。
 
-但 Horizon 不只是又一个摘要工具。AI 很擅长降低噪声，但新闻仍然需要人的品味：你信任哪些信息源，哪些评论改变了你对事件的理解，哪些小众来源值得被更多人看见。Horizon 通过可定制的信息源、筛选标准、模型、语言、分发方式、评论摘要和社区信息源官网，把这层“人味”保留下来。
+但 Horizon 不只是又一个摘要工具。AI 很擅长降低噪声，但新闻仍然需要人的品味：你信任哪些信息源，哪些评论改变了你对事件的理解，哪些小众来源值得被更多人看见。Horizon 通过可定制的信息源、处理配置文件、模型、语言、分发方式、评论摘要和社区信息源官网，把这层“人味”保留下来。
 
 ## 功能特性
 
 - **📡 关注你的信息源** — 将 Hacker News、RSS、Reddit、Telegram、Twitter/X、GitHub Release / 用户动态，以及 OpenBB 金融新闻观察列表纳入同一条 pipeline
-- **🤖 把噪声变成阅读清单** — 使用 Claude、GPT、Gemini、DeepSeek、豆包、MiniMax 或任意 OpenAI 兼容 API，为每条内容评分 0-10
+- **🤖 把噪声变成阅读清单** — 通过处理配置文件为每条内容选择分析提示词和筛选阈值
 - **🔗 合并重复新闻** — 在生成日报前自动合并来自不同平台的相同故事
 - **🔍 补全背景知识** — 为陌生概念、公司、项目和技术术语补充网络搜索得到的背景解释
 - **💬 读到社区声音** — 收集并总结 Hacker News、Reddit 等来源的评论讨论
@@ -86,7 +86,7 @@
 - **📧 邮件分发** — 运行自托管 SMTP/IMAP 邮件列表，自动处理订阅与退订
 - **🔔 推送到聊天和自动化工具** — 将模板化结果发送到飞书、钉钉、Slack、Discord 或自定义 Webhook
 - **🧙 从兴趣开始配置** — 通过交互式向导根据你的兴趣生成个性化信息源配置
-- **⚙️ 调校你的新闻雷达** — 在单个 JSON 配置中定制信息源、阈值、模型、语言和分发方式
+- **⚙️ 调校你的新闻雷达** — 定制信息源、处理配置文件、模型、语言和分发方式
 
 ## 工作原理
 
@@ -110,7 +110,7 @@ flowchart LR
     classDef process fill:#ffe8db,stroke:#e0652e,color:#2d2a3e,stroke-width:1.5px;
     classDef output fill:#f9d7e5,stroke:#be185d,color:#2d2a3e,stroke-width:1.5px;
 
-    config["⚙️ 配置<br/>信息源、阈值、模型、输出方式"]
+    config["⚙️ 配置<br/>信息源、配置文件、模型、输出方式"]
 
      subgraph sources["已配置的信息源"]
          rss["📡 RSS"]
@@ -161,12 +161,12 @@ flowchart LR
     class site,email,webhook,mcp output
 ```
 
-1. **定义** — 用一个 JSON 配置好信息源、阈值、模型、语言和分发方式。
+1. **定义** — 配置信息源、处理配置文件、模型、语言和分发方式。
 2. **抓取** — 并发拉取所有已配置信息源的最新内容。
 3. **去重** — 合并来自不同平台、指向同一故事或 URL 的内容。
-4. **打分与过滤** — 用 AI 对内容排序，只保留超过阈值的条目。
-5. **丰富** — 为重要内容补充搜索得到的背景信息和社区讨论。
-6. **总结** — 生成结构化的 Markdown 日报，包含摘要、标签和参考链接。
+4. **分析与过滤** — 选择处理配置文件，按其提示词分析内容并应用对应筛选规则。
+5. **丰富** — 生成配置文件定义的内容区块，每个区块只能调用已声明的工具。
+6. **总结** — 将本地化标题、导语、章节和引用来源渲染为 Markdown 日报。
 7. **分发** — 将结果发布到 GitHub Pages、邮件、飞书等 webhook、MCP 或本地文件。
 
 ## 赞助
@@ -262,14 +262,23 @@ cp data/config.example.json data/config.json  # 自定义信息源
   },
   "sources": {
     "rss": [
-      { "name": "Simon Willison", "url": "https://simonwillison.net/atom/everything/" }
+      {
+        "name": "Simon Willison",
+        "url": "https://simonwillison.net/atom/everything/",
+        "profile": "tech-news"
+      }
     ]
   },
-  "filtering": {
-    "ai_score_threshold": 6.0
+  "processing": {
+    "profiles_dir": "profiles",
+    "default_profile": "tech-news"
   }
 }
 ```
+
+信息源显式指定 `profile` 时会直接使用该配置文件；省略该字段或设为
+`"auto"` 时，AI 会在可用配置文件中自动匹配。结构和行为详见
+[处理配置文件](docs/profiles.md)。
 
 **均衡日报（可选）**
 
@@ -278,8 +287,7 @@ cp data/config.example.json data/config.json  # 自定义信息源
 
 ```jsonc
 {
-  "filtering": {
-    "ai_score_threshold": 6.0,
+  "digest": {
     "max_items": 20,
     "category_groups": {
       "ai": {
@@ -297,8 +305,8 @@ cp data/config.example.json data/config.json  # 自定义信息源
 }
 ```
 
-分组限额在 AI 分数过滤之后、内容补充之前执行。未配置
-`category_groups` 和 `max_items` 时，筛选行为保持不变。
+分组限额在配置文件筛选之后、内容补充之前执行。未配置
+`category_groups` 和 `max_items` 时，不应用均衡日报限额。
 
 `data/config.json` 里的任意字符串值都可以通过 `${VAR_NAME}` 引用环境变量。这适合用于 `ai.base_url`、私有 RSS 链接、Webhook 地址或自定义请求头模板等字段。
 
@@ -360,7 +368,8 @@ Horizon 支持通过多种方式发布和分发生成的日报：
 
 | 文档 | 内容 |
 |------|------|
-| [配置指南](docs/configuration.md) | AI 模型、信息源、过滤、邮件、Webhook、GitHub Pages 和 MCP 配置 |
+| [配置指南](docs/configuration.md) | AI 模型、信息源、处理配置文件、过滤、邮件、Webhook、GitHub Pages 和 MCP 配置 |
+| [处理配置文件](docs/profiles.md) | 配置文件路由、提示词、筛选、丰富区块和工具 |
 | [评分机制](docs/scoring.md) | Horizon 如何评估和排序新闻 |
 | [抓取器](docs/scrapers.md) | 信息源抓取器说明和扩展细节 |
 | [内容提取器](docs/extractors.md) | RSS 信息源的全文提取 |
@@ -368,12 +377,11 @@ Horizon 支持通过多种方式发布和分发生成的日报：
 
 ## 项目状态
 
-Horizon 已经支持完整的日报流程：多源抓取、AI 打分、去重、背景补充、评论摘要、双语生成、GitHub Pages 发布、邮件分发、Webhook 推送、Docker 部署、MCP 集成和配置向导。
+Horizon 已经支持完整的日报流程：多源抓取、基于配置文件的分析与内容丰富、去重、评论摘要、双语生成、GitHub Pages 发布、邮件分发、Webhook 推送、Docker 部署、MCP 集成和配置向导。
 
 计划中的改进：
 
 - 更多信息源类型，例如 Discord
-- 按信息源自定义打分 Prompt
 - 在 GitHub 上发布 Release
 - 发布到 PyPI，支持通过 `pip install` 安装
 

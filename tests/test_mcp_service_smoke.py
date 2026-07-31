@@ -6,7 +6,16 @@ from pathlib import Path
 from types import SimpleNamespace
 import json
 
-from src.models import ContentItem, FilteringConfig, SourceType
+import pytest
+
+from src.models import (
+    ClassificationResult,
+    ContentAnalysis,
+    ContentItem,
+    DigestConfig,
+    ProcessingResult,
+    SourceType,
+)
 from src.ai.summarizer import DailySummarizer
 from src.mcp.server import hz_get_metrics
 from src.mcp.service import HorizonPipelineService
@@ -17,6 +26,12 @@ from src.orchestrator import (
     SourceFetchOutcome,
 )
 from src.services.webhook import WebhookDeliveryResult, WebhookDeliveryStatus
+from src.processing import ProfileRegistry
+
+
+PROFILES = ProfileRegistry.load(
+    Path(__file__).resolve().parents[1] / "profiles", "tech-news"
+)
 
 
 def make_item(item_id: str, score: float | None = None) -> ContentItem:
@@ -28,8 +43,18 @@ def make_item(item_id: str, score: float | None = None) -> ContentItem:
         content="content",
         author="tester",
         published_at=datetime.now(timezone.utc),
+        profile="tech-news",
+        processing=ProcessingResult(
+            classification=ClassificationResult(
+                profile="tech-news", method="source_override"
+            ),
+            analysis=(
+                ContentAnalysis(score=score, reason="test", summary=item_id)
+                if score is not None
+                else None
+            ),
+        ),
     )
-    item.ai_score = score
     return item
 def test_validate_config_smoke(tmp_path: Path) -> None:
     repo_root = Path(__file__).resolve().parents[1]
@@ -121,6 +146,7 @@ def test_metrics_tool_smoke() -> None:
 
 def test_fetch_items_uses_public_orchestrator_api(tmp_path: Path, monkeypatch) -> None:
     service = HorizonPipelineService(runs_root=tmp_path / "mcp-runs")
+    monkeypatch.setattr(service, "_profiles", lambda ctx: PROFILES)
     config_path = tmp_path / "config.json"
 
     monkeypatch.setattr(
@@ -146,8 +172,9 @@ def test_fetch_items_uses_public_orchestrator_api(tmp_path: Path, monkeypatch) -
         def merge_cross_source_duplicates(self, items):  # type: ignore[no-untyped-def]
             return items[:1]
 
-    def build_orchestrator(runtime, config, storage, console):  # type: ignore[no-untyped-def]
+    def build_orchestrator(runtime, config, storage, console, profiles):  # type: ignore[no-untyped-def]
         assert console is service.console
+        assert profiles is PROFILES
         return FakeOrchestrator()
 
     monkeypatch.setattr(
@@ -166,6 +193,7 @@ def test_fetch_items_includes_fetch_report_in_response_and_metadata(
     tmp_path: Path, monkeypatch
 ) -> None:
     service = HorizonPipelineService(runs_root=tmp_path / "mcp-runs")
+    monkeypatch.setattr(service, "_profiles", lambda ctx: PROFILES)
     config_path = tmp_path / "config.json"
 
     monkeypatch.setattr(
@@ -200,7 +228,7 @@ def test_fetch_items_includes_fetch_report_in_response_and_metadata(
 
     monkeypatch.setattr(
         "src.mcp.service.make_orchestrator",
-        lambda runtime, config, storage, console: FakeOrchestrator(),
+        lambda runtime, config, storage, console, profiles: FakeOrchestrator(),
     )
 
     result = asyncio.run(service.fetch_items(hours=6))
@@ -214,6 +242,7 @@ def test_fetch_items_includes_fetch_report_in_response_and_metadata(
 
 def test_filter_items_uses_public_filtering_pipeline_api(tmp_path: Path, monkeypatch) -> None:
     service = HorizonPipelineService(runs_root=tmp_path / "mcp-runs")
+    monkeypatch.setattr(service, "_profiles", lambda ctx: PROFILES)
     service.run_store.create_run("run-topic-dedup")
 
     monkeypatch.setattr(
@@ -224,7 +253,7 @@ def test_filter_items_uses_public_filtering_pipeline_api(tmp_path: Path, monkeyp
             SimpleNamespace(
                 runtime=SimpleNamespace(),
                 config_path=tmp_path / "config.json",
-                config=SimpleNamespace(filtering=SimpleNamespace(ai_score_threshold=7.0)),
+                config=SimpleNamespace(digest=SimpleNamespace()),
             ),
         ),
     )
@@ -232,7 +261,7 @@ def test_filter_items_uses_public_filtering_pipeline_api(tmp_path: Path, monkeyp
 
     class FakeOrchestrator:
         async def filter_items(self, items, **kwargs):  # type: ignore[no-untyped-def]
-            assert kwargs == {"threshold": 7.0, "topic_dedup": True, "log": False}
+            assert kwargs == {"threshold": None, "topic_dedup": True, "log": False}
             kept = items[:1]
             return SimpleNamespace(
                 items=kept,
@@ -244,7 +273,7 @@ def test_filter_items_uses_public_filtering_pipeline_api(tmp_path: Path, monkeyp
 
     monkeypatch.setattr(
         "src.mcp.service.make_orchestrator",
-        lambda runtime, config, storage, console: FakeOrchestrator(),
+        lambda runtime, config, storage, console, profiles: FakeOrchestrator(),
     )
 
     result = asyncio.run(service.filter_items(run_id="run-topic-dedup", topic_dedup=True))
@@ -256,9 +285,9 @@ def test_filter_items_uses_public_filtering_pipeline_api(tmp_path: Path, monkeyp
 
 def test_filter_items_applies_balanced_digest(tmp_path: Path, monkeypatch) -> None:
     service = HorizonPipelineService(runs_root=tmp_path / "mcp-runs")
+    monkeypatch.setattr(service, "_profiles", lambda ctx: PROFILES)
     service.run_store.create_run("run-balanced")
     filtering = SimpleNamespace(
-        ai_score_threshold=7.0,
         max_items=1,
         category_groups={},
     )
@@ -271,7 +300,7 @@ def test_filter_items_applies_balanced_digest(tmp_path: Path, monkeypatch) -> No
             SimpleNamespace(
                 runtime=SimpleNamespace(),
                 config_path=tmp_path / "config.json",
-                config=SimpleNamespace(filtering=filtering),
+                config=SimpleNamespace(digest=filtering),
             ),
         ),
     )
@@ -279,7 +308,7 @@ def test_filter_items_applies_balanced_digest(tmp_path: Path, monkeypatch) -> No
 
     class FakeOrchestrator:
         async def filter_items(self, items, **kwargs):  # type: ignore[no-untyped-def]
-            assert kwargs == {"threshold": 7.0, "topic_dedup": False, "log": False}
+            assert kwargs == {"threshold": None, "topic_dedup": False, "log": False}
             kept = items[:1]
             return SimpleNamespace(
                 items=kept,
@@ -295,7 +324,7 @@ def test_filter_items_applies_balanced_digest(tmp_path: Path, monkeypatch) -> No
 
     monkeypatch.setattr(
         "src.mcp.service.make_orchestrator",
-        lambda runtime, config, storage, console: FakeOrchestrator(),
+        lambda runtime, config, storage, console, profiles: FakeOrchestrator(),
     )
 
     result = asyncio.run(
@@ -310,9 +339,10 @@ def test_filter_items_applies_balanced_digest(tmp_path: Path, monkeypatch) -> No
 
 def test_filter_items_matches_native_filtering_pipeline(tmp_path: Path, monkeypatch) -> None:
     service = HorizonPipelineService(runs_root=tmp_path / "mcp-runs")
+    monkeypatch.setattr(service, "_profiles", lambda ctx: PROFILES)
     service.run_store.create_run("run-parity")
-    filtering = FilteringConfig(ai_score_threshold=7.0, max_items=1)
-    config = SimpleNamespace(filtering=filtering)
+    filtering = DigestConfig(max_items=1)
+    config = SimpleNamespace(digest=filtering)
     items = [
         make_item("mid", score=8.0),
         make_item("top", score=10.0),
@@ -323,6 +353,7 @@ def test_filter_items_matches_native_filtering_pipeline(tmp_path: Path, monkeypa
     def make_filtering_orchestrator() -> HorizonOrchestrator:
         orchestrator = HorizonOrchestrator.__new__(HorizonOrchestrator)
         orchestrator.config = config
+        orchestrator.profiles = PROFILES
 
         async def merge_topic_duplicates(input_items, *, log=True):  # type: ignore[no-untyped-def]
             assert log is False
@@ -349,7 +380,7 @@ def test_filter_items_matches_native_filtering_pipeline(tmp_path: Path, monkeypa
     monkeypatch.setattr("src.mcp.service.make_storage", lambda runtime, config_path: object())
     monkeypatch.setattr(
         "src.mcp.service.make_orchestrator",
-        lambda runtime, loaded_config, storage, console: make_filtering_orchestrator(),
+        lambda runtime, loaded_config, storage, console, profiles: make_filtering_orchestrator(),
     )
 
     mcp_result = asyncio.run(service.filter_items(run_id="run-parity"))
@@ -448,6 +479,31 @@ def test_run_pipeline_skips_enrichment_when_filter_is_empty(
     assert result["enrich"] is None
     assert calls == [("en", "filtered"), ("zh", "filtered")]
     assert [summary["preview"] for summary in result["summaries"]] == ["", ""]
+
+
+def test_enrich_items_propagates_batch_failure(tmp_path: Path, monkeypatch) -> None:
+    service = HorizonPipelineService(runs_root=tmp_path / "mcp-runs")
+    item = make_item("failed", score=9.0)
+
+    class FailingEnricher:
+        def __init__(self, *args, **kwargs) -> None:  # type: ignore[no-untyped-def]
+            pass
+
+        async def enrich_batch(self, items) -> None:  # type: ignore[no-untyped-def]
+            raise RuntimeError("enrichment failed")
+
+    ctx = SimpleNamespace(
+        runtime=SimpleNamespace(
+            create_ai_client=lambda config: SimpleNamespace(),
+            ContentEnricher=FailingEnricher,
+        ),
+        config=SimpleNamespace(ai=SimpleNamespace(languages=["en"])),
+    )
+    monkeypatch.setattr(service, "_load_stage_items", lambda **kwargs: ([item], ctx))
+    monkeypatch.setattr(service, "_profiles", lambda loaded_ctx: PROFILES)
+
+    with pytest.raises(RuntimeError, match="enrichment failed"):
+        asyncio.run(service.enrich_items("run-failed"))
 
 
 def test_send_webhook_reports_delivery_failure_truthfully(

@@ -161,6 +161,7 @@ class GitHubScraper(BaseScraper):
             content=content,
             author=username,
             published_at=created_at,
+            profile=source.profile,
             metadata={
                 "event_type": event_type,
                 "repo": repo_name,
@@ -207,6 +208,7 @@ class GitHubScraper(BaseScraper):
                     content=release.get("body", ""),
                     author=release["author"]["login"],
                     published_at=published_at,
+                    profile=source.profile,
                     metadata={
                         "repo": f"{owner}/{repo}",
                         "tag": release["tag_name"],

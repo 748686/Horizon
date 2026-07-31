@@ -173,10 +173,13 @@ def make_orchestrator(
     config: Any,
     storage: Any,
     console: Any = None,
+    profiles: Any = None,
 ) -> Any:
     """Build native Horizon orchestrator."""
 
-    return runtime.HorizonOrchestrator(config, storage, console=console)
+    return runtime.HorizonOrchestrator(
+        config, storage, console=console, profiles=profiles
+    )
 
 
 def apply_source_filter(

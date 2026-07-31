@@ -296,6 +296,7 @@ class TwitterScraper(BaseScraper):
                 content=text,
                 author=author,
                 published_at=published_at,
+                profile=self.config.profile,
                 metadata={
                     "tweet_id": numeric_id,
                     "conversation_id": conversation_id,

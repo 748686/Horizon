@@ -165,6 +165,7 @@ class GoogleNewsScraper(BaseScraper):
                 content=self._extract_content(entry),
                 author=source_name,
                 published_at=published,
+                profile=self.gn_config.profile,
                 metadata={k: v for k, v in meta.items() if v is not None},
             )
         except Exception as exc:

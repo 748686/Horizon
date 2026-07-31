@@ -72,12 +72,12 @@
 
 良いニュースは散らばっていて、悪いニュースは尽きることがありません。Horizonは、Hacker News、Reddit、Telegram、RSS、GitHubに対する個人的な一次フィルタを提供します。記事を取得・重複排除・スコアリング・フィルタリングし、背景情報やコミュニティでの議論を付加します。
 
-しかしHorizonは単なる要約ツールではありません。AIはノイズを減らすのが得意ですが、ニュースには依然として人間の感性が必要です。信頼できる情報源、記事の読み方を変えるコメント、そして人だけが共有できる隠れた逸品です。Horizonは、カスタマイズ可能な情報源・しきい値・モデル・言語・配信チャネル・コメント要約・コミュニティ情報源ハブによって、その人間のレイヤーをループに組み込み続けます。
+しかしHorizonは単なる要約ツールではありません。AIはノイズを減らすのが得意ですが、ニュースには依然として人間の感性が必要です。信頼できる情報源、記事の読み方を変えるコメント、そして人だけが共有できる隠れた逸品です。Horizonは、カスタマイズ可能な情報源・処理プロファイル・モデル・言語・配信チャネル・コメント要約・コミュニティ情報源ハブによって、その人間のレイヤーをループに組み込み続けます。
 
 ## 機能
 
 - **📡 自分だけの情報源を監視** — Hacker News、RSS、Reddit、Telegram、Twitter/X、GitHubのリリースやユーザーアクティビティ、OpenBBの金融ニュースウォッチリストを1つのパイプラインで追跡
-- **🤖 ノイズを読むべきリストに変換** — Claude、GPT、Gemini、DeepSeek、Doubao、MiniMax、Ollama、またはOpenAI互換のあらゆるAPIで各記事を0〜10点でスコアリング
+- **🤖 ノイズを読むべきリストに変換** — 処理プロファイルごとの分析プロンプトとフィルターしきい値で各項目を処理
 - **🔗 重複した記事を統合** — ブリーフィングに届く前に、プラットフォームをまたいで同じ記事を重複排除
 - **🔍 背景を理解する** — 馴染みのない概念・企業・プロジェクト・専門用語について、Webで調べた背景情報を付加
 - **💬 会話を読む** — Hacker News、Reddit、その他のサポート対象情報源からコミュニティのコメントを収集・要約
@@ -86,7 +86,7 @@
 - **📧 メールで配信** — 購読・購読解除を自動処理するセルフホストのSMTP/IMAPニュースレターを運用
 - **🔔 チャットや自動化へプッシュ** — テンプレート化された結果をFeishu/Lark、DingTalk、Slack、Discord、またはカスタムWebhookエンドポイントへ送信
 - **🧙 興味から始める** — セットアップウィザードを使ってパーソナライズされた情報源設定を生成
-- **⚙️ レーダーを調整** — 情報源・しきい値・モデル・言語・配信チャネルを1つのJSON設定からカスタマイズ
+- **⚙️ レーダーを調整** — 情報源・処理プロファイル・モデル・言語・配信チャネルをカスタマイズ
 
 ## 仕組み
 
@@ -110,7 +110,7 @@ flowchart LR
     classDef process fill:#ffe8db,stroke:#e0652e,color:#2d2a3e,stroke-width:1.5px;
     classDef output fill:#f9d7e5,stroke:#be185d,color:#2d2a3e,stroke-width:1.5px;
 
-    config["⚙️ Config<br/>sources, thresholds, models, outputs"]
+    config["⚙️ 設定<br/>情報源、プロファイル、モデル、出力"]
 
     subgraph sources["Configured Sources"]
         rss["📡 RSS"]
@@ -161,12 +161,12 @@ flowchart LR
     class site,email,webhook,mcp output
 ```
 
-1. **定義（Define）** — 情報源・しきい値・モデル・言語・配信を1つのJSON設定で構成します。
+1. **定義（Define）** — 情報源・処理プロファイル・モデル・言語・配信を設定します。
 2. **取得（Fetch）** — 設定されたすべての情報源から最新コンテンツを並行して取得します。
 3. **重複排除（Deduplicate）** — プラットフォームをまたいで、同じ記事やURLを指す項目を統合します。
-4. **スコアリングとフィルタリング（Score & Filter）** — AIで項目をランク付けし、しきい値を超えるものだけを残します。
-5. **エンリッチ（Enrich）** — 重要な項目について、Webで背景情報を検索しコミュニティの議論を収集します。
-6. **要約（Summarize）** — 要約・タグ・参照を含む構造化されたMarkdownブリーフィングを生成します。
+4. **分析とフィルタリング（Analyze & Filter）** — プロファイルを選択し、そのプロンプトとフィルターで各項目を処理します。
+5. **エンリッチ（Enrich）** — プロファイルで定義されたブロックを、ブロックごとに許可されたツールだけで生成します。
+6. **要約（Summarize）** — ローカライズされたタイトル・リード・セクション・引用元をMarkdownとして出力します。
 7. **配信（Deliver）** — 結果をGitHub Pages、メール、Feishuなどのwebhook、MCP、またはローカルファイルへ公開します。
 
 ## クイックスタート
@@ -254,14 +254,23 @@ cp data/config.example.json data/config.json  # 情報源をカスタマイズ
   },
   "sources": {
     "rss": [
-      { "name": "Simon Willison", "url": "https://simonwillison.net/atom/everything/" }
+      {
+        "name": "Simon Willison",
+        "url": "https://simonwillison.net/atom/everything/",
+        "profile": "tech-news"
+      }
     ]
   },
-  "filtering": {
-    "ai_score_threshold": 6.0
+  "processing": {
+    "profiles_dir": "profiles",
+    "default_profile": "tech-news"
   }
 }
 ```
+
+情報源で`profile`を明示すると、そのプロファイルを直接使用します。省略するか
+`"auto"`を指定すると、AIが利用可能なプロファイルから選択します。構造と動作は
+[処理プロファイル](docs/profiles.md)を参照してください。
 
 **バランス調整されたダイジェスト（オプション）**
 
@@ -269,8 +278,7 @@ cp data/config.example.json data/config.json  # 情報源をカスタマイズ
 
 ```jsonc
 {
-  "filtering": {
-    "ai_score_threshold": 6.0,
+  "digest": {
     "max_items": 20,
     "category_groups": {
       "ai": {
@@ -288,7 +296,7 @@ cp data/config.example.json data/config.json  # 情報源をカスタマイズ
 }
 ```
 
-グループの上限は、AIスコアによるフィルタリングの後、エンリッチの前に適用されます。`category_groups`と`max_items`を省略した場合、フィルタリングは従来どおりに動作します。
+グループの上限は、プロファイルのフィルタリング後、エンリッチ前に適用されます。`category_groups`と`max_items`を省略した場合、カテゴリ別の上限は適用されません。
 
 `api_key_env`はAPIキーそのものではなく、環境変数の名前でなければなりません。実際のシークレットは`.env`に記述してください。
 
@@ -376,7 +384,8 @@ Horizonは余暇に運営されているオープンソースプロジェクト�
 
 | ガイド | 説明 |
 |-------|-------------|
-| [設定](docs/configuration.md) | AIプロバイダー、情報源、フィルタリング、メール、webhook、GitHub Pages、MCPのセットアップ |
+| [設定](docs/configuration.md) | AIプロバイダー、情報源、処理プロファイル、フィルタリング、メール、webhook、GitHub Pages、MCPのセットアップ |
+| [処理プロファイル](docs/profiles.md) | プロファイルの振り分け、プロンプト、フィルター、エンリッチブロック、ツール |
 | [スコアリング](docs/scoring.md) | Horizonがニュース項目を評価・ランク付けする方法 |
 | [スクレイパー](docs/scrapers.md) | 情報源スクレイパーの詳細と拡張に関する注記 |
 | [コンテンツエクストラクター](docs/extractors.md) | RSS情報源の全文抽出 |
@@ -384,12 +393,11 @@ Horizonは余暇に運営されているオープンソースプロジェクト�
 
 ## プロジェクトの状況
 
-Horizonはすでに日次ブリーフィングの全ループをサポートしています。マルチソース収集、AIスコアリング、重複排除、エンリッチ、コメント要約、2言語生成、GitHub Pages公開、メール配信、webhook配信、Dockerデプロイ、MCP統合、セットアップウィザードです。
+Horizonはすでに日次ブリーフィングの全ループをサポートしています。マルチソース収集、プロファイル駆動の分析とエンリッチ、重複排除、コメント要約、2言語生成、GitHub Pages公開、メール配信、webhook配信、Dockerデプロイ、MCP統合、セットアップウィザードです。
 
 予定している改善:
 
 - Discordなど、より多くの情報源タイプ
-- 情報源ごとのカスタムスコアリングプロンプト
 - GitHubでのリリース公開
 - `pip install`用にPyPIへパッケージを公開
 

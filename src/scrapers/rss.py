@@ -120,6 +120,7 @@ class RSSScraper(BaseScraper):
                     content=content,
                     author=entry.get("author", source.name),
                     published_at=published_at,
+                    profile=source.profile,
                     metadata={
                         "feed_name": source.name,
                         "category": source.category,

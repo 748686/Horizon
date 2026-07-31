@@ -12,7 +12,15 @@ from rich.console import Console
 from rich.panel import Panel
 
 from ..ai.summarizer import DailySummarizer
-from ..models import ContentItem, SourceType
+from ..models import (
+    ClassificationResult,
+    ContentAnalysis,
+    ContentArtifact,
+    ContentBlock,
+    ContentItem,
+    ProcessingResult,
+    SourceType,
+)
 from ..storage.manager import ConfigError, StorageManager
 from .webhook import WebhookNotifier
 
@@ -31,13 +39,14 @@ def _make_test_items() -> list[ContentItem]:
             author="openai",
             published_at=datetime(2026, 4, 24, 10, 0, tzinfo=timezone.utc),
             fetched_at=datetime(2026, 4, 24, 12, 0, tzinfo=timezone.utc),
-            ai_score=9.0,
-            ai_summary="OpenAI released GPT-5 featuring multimodal capabilities and improved reasoning.",
-            ai_tags=["ai", "llm", "openai"],
-            metadata={
-                "title_zh": "GPT-5 发布：多模态能力大幅提升",
-                "detailed_summary_zh": "OpenAI 发布了 GPT-5，具备多模态能力和更强的推理能力。",
-            },
+            profile="tech-news",
+            processing=_sample_processing(
+                score=9.0,
+                summary="OpenAI released GPT-5 featuring multimodal capabilities and improved reasoning.",
+                tags=["ai", "llm", "openai"],
+                title_zh="GPT-5 发布：多模态能力大幅提升",
+                lead_zh="OpenAI 发布了 GPT-5，具备多模态能力和更强的推理能力。",
+            ),
         ),
         ContentItem(
             id="hackernews:test:2",
@@ -48,15 +57,48 @@ def _make_test_items() -> list[ContentItem]:
             author="torvalds",
             published_at=datetime(2026, 4, 24, 8, 0, tzinfo=timezone.utc),
             fetched_at=datetime(2026, 4, 24, 12, 0, tzinfo=timezone.utc),
-            ai_score=7.5,
-            ai_summary="Linux kernel 7.0 released with performance gains and new hardware support.",
-            ai_tags=["linux", "kernel", "performance"],
-            metadata={
-                "title_zh": "Linux 内核 7.0 发布",
-                "detailed_summary_zh": "Linux 内核 7.0 发布，带来显著性能提升和新硬件支持。",
-            },
+            profile="tech-news",
+            processing=_sample_processing(
+                score=7.5,
+                summary="Linux kernel 7.0 released with performance gains and new hardware support.",
+                tags=["linux", "kernel", "performance"],
+                title_zh="Linux 内核 7.0 发布",
+                lead_zh="Linux 内核 7.0 发布，带来显著性能提升和新硬件支持。",
+            ),
         ),
     ]
+
+
+def _sample_processing(
+    score: float,
+    summary: str,
+    tags: list[str],
+    title_zh: str,
+    lead_zh: str,
+) -> ProcessingResult:
+    return ProcessingResult(
+        classification=ClassificationResult(
+            profile="tech-news", method="source_override"
+        ),
+        analysis=ContentAnalysis(
+            score=score, reason="Sample item", summary=summary, tags=tags
+        ),
+        artifacts={
+            "zh": ContentArtifact(
+                language="zh",
+                title=title_zh,
+                lead=lead_zh,
+                blocks=[
+                    ContentBlock(
+                        id="summary",
+                        role="summary",
+                        title="摘要",
+                        content=lead_zh,
+                    )
+                ],
+            )
+        },
+    )
 
 
 def _preview_message(

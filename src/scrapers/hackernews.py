@@ -132,6 +132,7 @@ class HackerNewsScraper(BaseScraper):
             content=content,
             author=author,
             published_at=published_at,
+            profile=self.config.get("profile"),
             metadata={
                 "score": story.get("score", 0),
                 "descendants": story.get("descendants", 0),

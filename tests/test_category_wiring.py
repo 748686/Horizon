@@ -1,7 +1,8 @@
-"""Tests that category from source config flows into item metadata for all scrapers."""
+"""Tests that source config fields flow into items for all scrapers."""
 
+import asyncio
 from datetime import datetime, timezone
-from unittest.mock import AsyncMock
+from unittest.mock import AsyncMock, MagicMock
 
 import pytest
 from bs4 import BeautifulSoup
@@ -33,7 +34,7 @@ _NOW = datetime(2025, 1, 1, 12, 0, tzinfo=timezone.utc)
 
 
 def test_hackernews_category_in_metadata():
-    cfg = HackerNewsConfig(category="tech")
+    cfg = HackerNewsConfig(category="tech", profile="hn-profile")
     scraper = HackerNewsScraper(cfg, AsyncMock())
     story = {
         "id": 1,
@@ -47,6 +48,7 @@ def test_hackernews_category_in_metadata():
     }
     item = scraper._parse_story(story, [])
     assert item.metadata["category"] == "tech"
+    assert item.profile == "hn-profile"
 
 
 def test_hackernews_category_none_when_unset():
@@ -83,11 +85,14 @@ def _github_event(event_type: str = "PushEvent") -> dict:
 
 
 def test_github_parse_event_category_in_metadata():
-    source = GitHubSourceConfig(type="user_events", username="alice", category="oss")
+    source = GitHubSourceConfig(
+        type="user_events", username="alice", category="oss", profile="github-profile"
+    )
     scraper = GitHubScraper([source], AsyncMock())
     item = scraper._parse_event(_github_event(), source)
     assert item is not None
     assert item.metadata["category"] == "oss"
+    assert item.profile == "github-profile"
 
 
 def test_github_parse_event_category_none_when_unset():
@@ -96,6 +101,33 @@ def test_github_parse_event_category_none_when_unset():
     item = scraper._parse_event(_github_event(), source)
     assert item is not None
     assert item.metadata["category"] is None
+
+
+def test_github_release_profile_propagates():
+    source = GitHubSourceConfig(
+        type="repo_releases",
+        owner="alice",
+        repo="repo",
+        profile="github-release-profile",
+    )
+    response = MagicMock()
+    response.json.return_value = [
+        {
+            "id": 7,
+            "published_at": _NOW.isoformat().replace("+00:00", "Z"),
+            "tag_name": "v1.0.0",
+            "html_url": "https://github.com/alice/repo/releases/tag/v1.0.0",
+            "author": {"login": "alice"},
+        }
+    ]
+    client = AsyncMock()
+    client.get.return_value = response
+    scraper = GitHubScraper([source], client)
+
+    items = asyncio.run(scraper._fetch_repo_releases(source, _SINCE))
+
+    assert len(items) == 1
+    assert items[0].profile == "github-release-profile"
 
 
 # ---------------------------------------------------------------------------
@@ -140,9 +172,12 @@ def _reddit_config(category: str | None = None):
 
 def test_reddit_parse_post_category_in_metadata():
     scraper = RedditScraper(_reddit_config("ai"), AsyncMock())
-    item = scraper._parse_post(_reddit_post(), [], "subreddit", category="ai")
+    item = scraper._parse_post(
+        _reddit_post(), [], "subreddit", category="ai", profile="reddit-profile"
+    )
     assert item is not None
     assert item.metadata["category"] == "ai"
+    assert item.profile == "reddit-profile"
 
 
 def test_reddit_parse_post_category_none_when_unset():
@@ -239,11 +274,14 @@ def _tg_msg_el():
 
 
 def test_telegram_parse_message_category_in_metadata():
-    cfg = TelegramChannelConfig(channel="channel", category="news")
+    cfg = TelegramChannelConfig(
+        channel="channel", category="news", profile="telegram-profile"
+    )
     scraper = TelegramScraper(TelegramConfig(), AsyncMock())
     item = scraper._parse_message(_tg_msg_el(), cfg, _SINCE)
     assert item is not None
     assert item.metadata["category"] == "news"
+    assert item.profile == "telegram-profile"
 
 
 def test_telegram_parse_message_category_none_when_unset():
@@ -268,7 +306,9 @@ def test_telegram_parse_channel_html_passes_category():
 
 
 def test_ossinsight_row_to_item_category_in_metadata():
-    cfg = OSSInsightConfig(enabled=True, category="oss-trending")
+    cfg = OSSInsightConfig(
+        enabled=True, category="oss-trending", profile="oss-profile"
+    )
     scraper = OSSInsightScraper(cfg, AsyncMock())
     row = {
         "repo_name": "owner/repo",
@@ -281,6 +321,7 @@ def test_ossinsight_row_to_item_category_in_metadata():
     item = scraper._row_to_item(row, "Python")
     assert item is not None
     assert item.metadata["category"] == "oss-trending"
+    assert item.profile == "oss-profile"
 
 
 def test_ossinsight_row_to_item_category_none_when_unset():
@@ -320,11 +361,14 @@ def _twitter_raw_item() -> dict:
 
 
 def test_twitter_parse_item_category_in_metadata():
-    cfg = TwitterConfig(enabled=True, users=["alice"], category="social")
+    cfg = TwitterConfig(
+        enabled=True, users=["alice"], category="social", profile="twitter-profile"
+    )
     scraper = TwitterScraper(cfg, AsyncMock())
     item = scraper._parse_item(_twitter_raw_item(), _SINCE)
     assert item is not None
     assert item.metadata["category"] == "social"
+    assert item.profile == "twitter-profile"
 
 
 def test_twitter_parse_item_category_none_when_unset():

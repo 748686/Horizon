@@ -27,7 +27,7 @@ def test_load_config_invalid_json(tmp_path):
 def test_load_config_validation_failure(tmp_path):
     config_path = tmp_path / "config.json"
     # Missing required 'ai' and 'sources' fields
-    config_path.write_text(json.dumps({"version": "1.0"}), encoding="utf-8")
+    config_path.write_text(json.dumps({}), encoding="utf-8")
     
     storage = StorageManager(data_dir=str(tmp_path))
     with pytest.raises(ConfigError) as excinfo:
@@ -38,7 +38,6 @@ def test_load_config_validation_failure(tmp_path):
 def test_load_config_success(tmp_path):
     config_path = tmp_path / "config.json"
     config_data = {
-        "version": "1.0",
         "ai": {
             "provider": "anthropic",
             "model": "claude-3-sonnet",
@@ -47,8 +46,7 @@ def test_load_config_success(tmp_path):
         "sources": {
             "hackernews": {"enabled": True}
         },
-        "filtering": {
-            "ai_score_threshold": 7.0,
+        "collection": {
             "time_window_hours": 24
         }
     }
@@ -56,8 +54,30 @@ def test_load_config_success(tmp_path):
     
     storage = StorageManager(data_dir=str(tmp_path))
     config = storage.load_config()
-    assert config.version == "1.0"
+    assert config.collection.time_window_hours == 24
     assert config.ai.provider == "anthropic"
+
+
+@pytest.mark.parametrize(
+    ("legacy_key", "legacy_value"),
+    [
+        ("version", "2.0"),
+        ("filtering", {"time_window_hours": 24}),
+    ],
+)
+def test_config_rejects_removed_top_level_fields(legacy_key, legacy_value):
+    data = {
+        "ai": {
+            "provider": "openai",
+            "model": "test",
+            "api_key_env": "OPENAI_API_KEY",
+        },
+        "sources": {},
+        legacy_key: legacy_value,
+    }
+
+    with pytest.raises(ValidationError):
+        Config.model_validate(data)
 
 
 def test_custom_config_path_overrides_data_directory(tmp_path):
@@ -76,10 +96,10 @@ def test_save_config_creates_custom_config_parent(tmp_path):
         data_dir=str(tmp_path / "data"),
         config_path=str(config_path),
     )
-    config = cast(Config, SimpleNamespace(model_dump=lambda mode: {"version": "1.0"}))
+    config = cast(Config, SimpleNamespace(model_dump=lambda mode: {"example": "value"}))
 
     assert storage.save_config(config) == config_path
-    assert json.loads(config_path.read_text(encoding="utf-8")) == {"version": "1.0"}
+    assert json.loads(config_path.read_text(encoding="utf-8")) == {"example": "value"}
 
 
 class TestExpandEnvVars:
@@ -140,7 +160,6 @@ def test_load_config_expands_env_vars_in_ai_base_url(tmp_path, monkeypatch):
     monkeypatch.setenv("HORIZON_AI_BASE_URL", "https://private-proxy.example/v1")
     config_path = tmp_path / "config.json"
     config_path.write_text(json.dumps({
-        "version": "1.0",
         "ai": {
             "provider": "openai",
             "model": "gpt-4o",
@@ -148,7 +167,7 @@ def test_load_config_expands_env_vars_in_ai_base_url(tmp_path, monkeypatch):
             "base_url": "${HORIZON_AI_BASE_URL}",
         },
         "sources": {"hackernews": {"enabled": True}},
-        "filtering": {"ai_score_threshold": 6.0, "time_window_hours": 24},
+        "collection": {"time_window_hours": 24},
     }), encoding="utf-8")
 
     storage = StorageManager(data_dir=str(tmp_path))

@@ -1,5 +1,4 @@
 {
-  "version": "1.0",
   "ai": {
     "provider": "deepseek",
     "model": "deepseek-v4-flash",
@@ -15,67 +14,81 @@
     "analysis_concurrency": 5,
     "enrichment_concurrency": 5
   },
+  "processing": {
+    "profiles_dir": "profiles",
+    "default_profile": "tech-news"
+  },
   "sources": {
     "github": [
       {
         "type": "user_events",
         "username": "karpathy",
-        "enabled": true
+        "enabled": true,
+        "profile": "tech-news"
       },
       {
         "type": "repo_releases",
         "owner": "vllm-project",
         "repo": "vllm",
-        "enabled": true
+        "enabled": true,
+        "profile": "tech-news"
       },
       {
         "type": "repo_releases",
         "owner": "sgl-project",
         "repo": "sglang",
-        "enabled": true
+        "enabled": true,
+        "profile": "tech-news"
       },
       {
         "type": "repo_releases",
         "owner": "triton-lang",
         "repo": "triton",
-        "enabled": true
+        "enabled": true,
+        "profile": "tech-news"
       }
     ],
     "hackernews": {
       "enabled": true,
       "fetch_top_stories": 30,
-      "min_score": 150
+      "min_score": 150,
+      "profile": "tech-news"
     },
     "rss": [
       {
         "name": "Simon Willison",
         "url": "https://simonwillison.net/atom/everything/",
         "enabled": true,
-        "category": "ai-tools"
+        "category": "ai-tools",
+        "profile": "tech-news"
       },
       {
         "name": "GitHub Trending - Daily",
         "url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
         "enabled": true,
-        "category": "github-trending"
+        "category": "github-trending",
+        "profile": "tech-news"
       },
       {
         "name": "Zeli",
         "url": "https://zeli.app/zh/rss.xml",
         "enabled": true,
-        "category": "ai-news"
+        "category": "ai-news",
+        "profile": "tech-news"
       },
       {
         "name": "Semianalysis",
         "url": "https://newsletter.semianalysis.com/feed",
         "enabled": true,
-        "category": "semiconductors"
+        "category": "semiconductors",
+        "profile": "tech-news"
       },
       {
         "name": "LWN.net",
         "url": "https://lwn.net/headlines/full_text?key=${LWN_KEY}",
         "enabled": true,
-        "category": "linux-kernel"
+        "category": "linux-kernel",
+        "profile": "tech-news"
       }
     ],
     "reddit": {
@@ -87,7 +100,8 @@
           "sort": "hot",
           "time_filter": "day",
           "fetch_limit": 10,
-          "min_score": 60
+          "min_score": 60,
+          "profile": "tech-news"
         },
         {
           "subreddit": "LocalLLaMA",
@@ -95,7 +109,8 @@
           "sort": "hot",
           "time_filter": "day",
           "fetch_limit": 10,
-          "min_score": 60
+          "min_score": 60,
+          "profile": "tech-news"
         }
       ],
       "users": [],
@@ -107,14 +122,20 @@
         {
           "channel": "zaihuapd",
           "enabled": true,
-          "fetch_limit": 20
+          "fetch_limit": 20,
+          "profile": "tech-news"
         }
       ]
     }
   },
-  "filtering": {
-    "ai_score_threshold": 8.0,
+  "collection": {
     "time_window_hours": 24
+  },
+  "digest": {
+    "max_items": null,
+    "category_groups": {},
+    "default_group": "other",
+    "default_group_limit": null
   },
   "webhook": {
     "enabled": true,

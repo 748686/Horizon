@@ -61,7 +61,7 @@ LABELS = {
             "- The AI score threshold is too high\n"
             "- Your information sources need expansion\n\n"
             "Consider:\n"
-            "1. Lowering the `ai_score_threshold` in config.json\n"
+            "1. Lowering the active profile's filter threshold\n"
             "2. Adding more diverse information sources\n"
             "3. Checking if the AI model is working correctly\n"
         ),
@@ -81,7 +81,7 @@ LABELS = {
             "- AI 评分阈值设置过高\n"
             "- 信息源种类有待扩充\n\n"
             "建议：\n"
-            "1. 在 config.json 中降低 `ai_score_threshold`\n"
+            "1. 降低当前 Profile 的过滤阈值\n"
             "2. 添加更多多样化的信息源\n"
             "3. 检查 AI 模型是否正常工作\n"
         ),
@@ -129,11 +129,13 @@ class DailySummarizer:
         # TOC
         toc_entries = []
         for i, item in enumerate(items):
-            _t = item.metadata.get(f"title_{language}") or item.title
+            artifact = item.processing.artifacts.get(language) if item.processing else None
+            analysis = item.processing.analysis if item.processing else None
+            _t = artifact.title if artifact else item.title
             t = _escape_markdown(_t)
             if language == "zh":
                 t = _pangu(t)
-            score = item.ai_score or "?"
+            score = analysis.score if analysis and analysis.score is not None else "?"
             toc_entries.append(f"{i + 1}. [{t}](#item-{i + 1}) \u2b50\ufe0f {score}/10")
         toc = "\n".join(toc_entries) + "\n\n---\n\n"
 
@@ -168,10 +170,12 @@ class DailySummarizer:
 
         entries = []
         for i, item in enumerate(items, start=1):
-            title = _escape_markdown(item.metadata.get(f"title_{language}") or item.title)
+            artifact = item.processing.artifacts.get(language) if item.processing else None
+            analysis = item.processing.analysis if item.processing else None
+            title = _escape_markdown(artifact.title if artifact else item.title)
             if language == "zh":
                 title = _pangu(title)
-            score = item.ai_score or "?"
+            score = analysis.score if analysis and analysis.score is not None else "?"
             url = _safe_url(item.url)
             title_link = f"[{title}]({url})" if url else title
             entries.append(f"{i}. {title_link} \u2b50\ufe0f {score}/10")
@@ -192,35 +196,22 @@ class DailySummarizer:
 
     def _format_item(self, item: ContentItem, labels: dict, language: str, index: int) -> str:
         """Format a single ContentItem into Markdown."""
-        _title = item.metadata.get(f"title_{language}") or item.title
+        artifact = item.processing.artifacts.get(language) if item.processing else None
+        analysis = item.processing.analysis if item.processing else None
+        _title = artifact.title if artifact else item.title
         title = _escape_markdown(_title)
         raw_url = str(item.url)
         url = _safe_url(raw_url)
-        score = item.ai_score or "?"
+        score = analysis.score if analysis and analysis.score is not None else "?"
         meta = item.metadata
 
-        summary = (
-            meta.get(f"detailed_summary_{language}")
-            or meta.get("detailed_summary")
-            or item.ai_summary
-            or ""
-        )
-        background = meta.get(f"background_{language}") or meta.get("background") or ""
-        discussion = (
-            meta.get(f"community_discussion_{language}")
-            or meta.get("community_discussion")
-            or ""
-        )
+        summary = artifact.lead if artifact else analysis.summary if analysis else ""
 
         summary = _escape_markdown(summary)
-        background = _escape_markdown(background)
-        discussion = _escape_markdown(discussion)
 
         if language == "zh":
             title = _pangu(title)
             summary = _pangu(summary)
-            background = _pangu(background)
-            discussion = _pangu(discussion)
 
         # Source line with parts joined by " · ", link appended at end
         source_type = item.source_type.value
@@ -259,16 +250,21 @@ class DailySummarizer:
             source_line,
         ]
 
-        if background:
-            lines.append("")
-            lines.append(f"**{labels['background']}**: {background}")
+        if artifact:
+            for block in artifact.blocks:
+                block_title = _escape_markdown(block.title)
+                block_content = _escape_markdown(block.content)
+                if language == "zh":
+                    block_title = _pangu(block_title)
+                    block_content = _pangu(block_content)
+                lines.extend(["", f"### {block_title}", "", block_content])
 
-        sources = meta.get("sources") or []
+        sources = artifact.sources if artifact else []
         if sources:
             reference_items = []
             for source in sources:
-                reference_title = html.escape(str(source.get("title", "")), quote=True)
-                reference_url = _safe_url(source.get("url", ""))
+                reference_title = html.escape(source.title, quote=True)
+                reference_url = _safe_url(source.url)
                 if reference_url:
                     reference_items.append(f'<li><a href="{reference_url}">{reference_title}</a></li>\n')
                 else:
@@ -279,12 +275,8 @@ class DailySummarizer:
                 f'<details><summary>{labels["references"]}</summary>\n<ul>\n{items_html}\n</ul>\n</details>',
             ]
 
-        if discussion:
-            lines.append("")
-            lines.append(f"**{labels['discussion']}**: {discussion}")
-
-        if item.ai_tags:
-            tags_str = ", ".join([f"`#{_escape_markdown(t)}`" for t in item.ai_tags])
+        if analysis and analysis.tags:
+            tags_str = ", ".join([f"`#{_escape_markdown(t)}`" for t in analysis.tags])
             lines.append("")
             lines.append(f"**{labels['tags']}**: {tags_str}")
 

@@ -395,9 +395,15 @@ class WebhookNotifier:
         elements: list[dict[str, Any]] = [_markdown(overview)]
 
         for item_index, item in enumerate(important_items, start=1):
-            title = str(item.metadata.get(f"title_{lang}") or item.title)
-            score = item.ai_score or "?"
-            panel_title = f"{item_index}. {title} ⭐️ {score}/10"
+            artifact = item.processing.artifacts.get(lang) if item.processing else None
+            analysis = item.processing.analysis if item.processing else None
+            title = artifact.title if artifact else item.title
+            score_suffix = (
+                f" ⭐️ {analysis.score}/10"
+                if analysis and analysis.score is not None
+                else ""
+            )
+            panel_title = f"{item_index}. {title}{score_suffix}"
             item_content = summarizer.generate_webhook_item(
                 item,
                 language=lang,
@@ -514,7 +520,9 @@ class WebhookNotifier:
                 "summary": overview,
             }
             for item_index, item in enumerate(important_items, start=1):
-                title = str(item.metadata.get(f"title_{lang}") or item.title)
+                artifact = item.processing.artifacts.get(lang) if item.processing else None
+                analysis = item.processing.analysis if item.processing else None
+                title = artifact.title if artifact else item.title
                 item_summary = summarizer.generate_webhook_item(
                     item,
                     language=lang,
@@ -530,7 +538,11 @@ class WebhookNotifier:
                         "item_count": len(important_items),
                         "item_title": title,
                         "item_url": str(item.url),
-                        "item_score": item.ai_score or "",
+                        "item_score": (
+                            analysis.score
+                            if analysis and analysis.score is not None
+                            else ""
+                        ),
                         "summary": item_summary,
                     }
                 )

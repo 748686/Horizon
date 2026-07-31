@@ -33,14 +33,18 @@ def _make_feed_client(feed_text: str) -> AsyncMock:
 
 def test_rss_ids_are_deterministic() -> None:
     client = _make_feed_client(_FEED)
-    source = RSSSourceConfig(name="Test", url="https://example.com/feed.xml")
+    source = RSSSourceConfig(
+        name="Test", url="https://example.com/feed.xml", profile="rss-profile"
+    )
     scraper = RSSScraper([source], client)
 
-    first = asyncio.run(scraper.fetch(_SINCE))[0].id
+    first_item = asyncio.run(scraper.fetch(_SINCE))[0]
+    first = first_item.id
     second = asyncio.run(scraper.fetch(_SINCE))[0].id
 
     assert first == second
     assert first == "rss:example.com_feed.xml:5e2d5d1e58e94d76"
+    assert first_item.profile == "rss-profile"
 
 
 def _make_registry(name: str, extractor):

@@ -103,7 +103,9 @@ def test_parses_feed_into_content_items() -> None:
         source="Other",
     )
     client = _mock_client(_feed(items_xml))
-    config = GoogleNewsConfig(enabled=True, query="ai")
+    config = GoogleNewsConfig(
+        enabled=True, query="ai", profile="google-news-profile"
+    )
     scraper = GoogleNewsScraper(config, client)
 
     items = asyncio.run(scraper.fetch(_now() - timedelta(days=365)))
@@ -116,6 +118,7 @@ def test_parses_feed_into_content_items() -> None:
     assert first.id.startswith("google_news:article:")
     assert first.metadata["gn_query"] == "ai"
     assert first.metadata["source_name"] == "Publisher"
+    assert first.profile == "google-news-profile"
 
 
 def test_disabled_config_returns_empty() -> None:

@@ -71,12 +71,12 @@
 
 Good news is scattered; bad news is endless. Horizon gives you a personal first pass over Hacker News, Reddit, Telegram, RSS, and GitHub: it fetches, deduplicates, scores, filters, and enriches stories with background context and community discussion.
 
-But Horizon is not just another summarizer. AI is great at reducing noise, but news still needs human taste: the sources you trust, the comments that change how you read a story, and the hidden gems only people can share. Horizon keeps that human layer in the loop with customizable sources, thresholds, models, languages, delivery channels, comment summaries, and a community source hub.
+But Horizon is not just another summarizer. AI is great at reducing noise, but news still needs human taste: the sources you trust, the comments that change how you read a story, and the hidden gems only people can share. Horizon keeps that human layer in the loop with customizable sources, processing profiles, models, languages, delivery channels, comment summaries, and a community source hub.
 
 ## Features
 
 - **📡 Watch Your Own Sources** — Track Hacker News, RSS, Reddit, Telegram, Twitter/X, GitHub releases or user activity, and OpenBB financial news watchlists in one pipeline
-- **🤖 Turn Noise Into a Reading List** — Score each item from 0-10 with Claude, GPT, Gemini, DeepSeek, Doubao, MiniMax, Ollama, or any OpenAI-compatible API
+- **🤖 Turn Noise Into a Reading List** — Route each item through a processing profile with its own analysis prompt and filter threshold
 - **🔗 Merge Repeated Stories** — Deduplicate the same story across platforms before it reaches your briefing
 - **🔍 Understand the Background** — Add web-researched context for unfamiliar concepts, companies, projects, and technical terms
 - **💬 Read the Conversation** — Collect and summarize community comments from Hacker News, Reddit, and other supported sources
@@ -85,7 +85,7 @@ But Horizon is not just another summarizer. AI is great at reducing noise, but n
 - **📧 Deliver by Email** — Run a self-hosted SMTP/IMAP newsletter with automatic subscribe and unsubscribe handling
 - **🔔 Push to Chat or Automations** — Send templated results to Feishu/Lark, DingTalk, Slack, Discord, or custom webhook endpoints
 - **🧙 Start From Your Interests** — Use the setup wizard to generate a personalized source configuration
-- **⚙️ Tune the Radar** — Customize sources, thresholds, models, languages, and delivery channels from one JSON config
+- **⚙️ Tune the Radar** — Customize sources, processing profiles, models, languages, and delivery channels
 
 ## How It Works
 
@@ -109,7 +109,7 @@ flowchart LR
     classDef process fill:#ffe8db,stroke:#e0652e,color:#2d2a3e,stroke-width:1.5px;
     classDef output fill:#f9d7e5,stroke:#be185d,color:#2d2a3e,stroke-width:1.5px;
 
-    config["⚙️ Config<br/>sources, thresholds, models, outputs"]
+    config["⚙️ Config<br/>sources, profiles, models, outputs"]
 
     subgraph sources["Configured Sources"]
         rss["📡 RSS"]
@@ -160,12 +160,12 @@ flowchart LR
     class site,email,webhook,mcp output
 ```
 
-1. **Define** — Configure sources, thresholds, models, languages, and delivery from one JSON config.
+1. **Define** — Configure sources, processing profiles, models, languages, and delivery.
 2. **Fetch** — Pull latest content from all configured sources concurrently.
 3. **Deduplicate** — Merge items pointing to the same story or URL across platforms.
-4. **Score & Filter** — Use AI to rank items and keep only those above your threshold.
-5. **Enrich** — Search the web for background context and collect community discussion for important items.
-6. **Summarize** — Generate a structured Markdown briefing with summaries, tags, and references.
+4. **Analyze & Filter** — Select a profile, analyze each item with its prompt, and apply that profile's filter.
+5. **Enrich** — Generate the profile's configured content blocks, using only tools allowed for each block.
+6. **Summarize** — Render localized titles, leads, sections, and cited sources as a Markdown briefing.
 7. **Deliver** — Publish the result to GitHub Pages, email, webhooks such as Feishu, MCP, or local files.
 
 ## Quick Start
@@ -253,14 +253,23 @@ Minimal manual configuration:
   },
   "sources": {
     "rss": [
-      { "name": "Simon Willison", "url": "https://simonwillison.net/atom/everything/" }
+      {
+        "name": "Simon Willison",
+        "url": "https://simonwillison.net/atom/everything/",
+        "profile": "tech-news"
+      }
     ]
   },
-  "filtering": {
-    "ai_score_threshold": 6.0
+  "processing": {
+    "profiles_dir": "profiles",
+    "default_profile": "tech-news"
   }
 }
 ```
+
+An explicit source `profile` uses that profile directly. Omit it or set it to
+`"auto"` to let AI match the item against the available profiles. See
+[Processing Profiles](docs/profiles.md) for profile structure and behavior.
 
 **Balanced digest (optional)**
 
@@ -270,8 +279,7 @@ results. Categories come from source configuration such as
 
 ```jsonc
 {
-  "filtering": {
-    "ai_score_threshold": 6.0,
+  "digest": {
     "max_items": 20,
     "category_groups": {
       "ai": {
@@ -289,8 +297,8 @@ results. Categories come from source configuration such as
 }
 ```
 
-Group limits are applied after AI score filtering and before enrichment. If
-`category_groups` and `max_items` are omitted, filtering behaves as before.
+Group limits are applied after profile filtering and before enrichment. If
+`category_groups` and `max_items` are omitted, no balanced digest limits apply.
 
 `api_key_env` must be the name of an environment variable, not the API key
 itself. Put the real secret in `.env`:
@@ -379,7 +387,8 @@ Horizon is an open-source project maintained in spare time. If you'd like to sup
 
 | Guide | Description |
 |-------|-------------|
-| [Configuration](docs/configuration.md) | AI providers, sources, filtering, email, webhook, GitHub Pages, and MCP setup |
+| [Configuration](docs/configuration.md) | AI providers, sources, profiles, filtering, email, webhook, GitHub Pages, and MCP setup |
+| [Processing Profiles](docs/profiles.md) | Profile routing, prompts, filtering, enrichment blocks, and tools |
 | [Scoring](docs/scoring.md) | How Horizon evaluates and ranks news items |
 | [Scrapers](docs/scrapers.md) | Source scraper details and extension notes |
 | [Extractors](docs/extractors.md) | Full article extraction for RSS sources |
@@ -387,12 +396,11 @@ Horizon is an open-source project maintained in spare time. If you'd like to sup
 
 ## Project Status
 
-Horizon already supports the full daily briefing loop: multi-source collection, AI scoring, deduplication, enrichment, comment summaries, bilingual generation, GitHub Pages publishing, email delivery, webhook delivery, Docker deployment, MCP integration, and the setup wizard.
+Horizon already supports the full daily briefing loop: multi-source collection, profile-driven analysis and enrichment, deduplication, comment summaries, bilingual generation, GitHub Pages publishing, email delivery, webhook delivery, Docker deployment, MCP integration, and the setup wizard.
 
 Planned improvements:
 
 - More source types, such as Discord
-- Custom scoring prompts per source
 - Publish releases on GitHub
 - Publish the package to PyPI for `pip install`
 

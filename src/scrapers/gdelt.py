@@ -160,6 +160,7 @@ class GDELTScraper(BaseScraper):
                 content=None,
                 author=raw.get("domain"),
                 published_at=published,
+                profile=self.gdelt_config.profile,
                 metadata={k: v for k, v in meta.items() if v is not None},
             )
         except Exception as exc:

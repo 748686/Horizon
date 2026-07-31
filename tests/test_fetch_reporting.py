@@ -117,7 +117,7 @@ def test_native_run_raises_when_every_attempted_source_failed(monkeypatch) -> No
     orchestrator = make_orchestrator()
     orchestrator.config = SimpleNamespace(  # type: ignore[assignment]
         email=None,
-        filtering=SimpleNamespace(time_window_hours=24),
+        collection=SimpleNamespace(time_window_hours=24),
     )
     orchestrator.email_manager = None
     send_failure = AsyncMock()
@@ -145,7 +145,7 @@ def test_native_run_treats_all_success_empty_as_no_content(monkeypatch) -> None:
     orchestrator = make_orchestrator()
     orchestrator.config = SimpleNamespace(  # type: ignore[assignment]
         email=None,
-        filtering=SimpleNamespace(time_window_hours=24),
+        collection=SimpleNamespace(time_window_hours=24),
     )
     orchestrator.email_manager = None
     send_failure = AsyncMock()

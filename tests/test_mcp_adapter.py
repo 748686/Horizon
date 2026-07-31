@@ -70,7 +70,8 @@ def test_load_config_expands_env_vars(tmp_path: Path, monkeypatch) -> None:
                     "base_url": "${TEST_BASE_URL}/v1",
                 },
                 "sources": {},
-                "filtering": {},
+                "collection": {},
+                "digest": {},
             }
         ),
         encoding="utf-8",
@@ -98,7 +99,8 @@ def test_apply_source_filter_handles_twitter_and_openbb() -> None:
                     "watchlists": [{"name": "ai", "symbols": ["NVDA"]}],
                 },
             },
-            "filtering": {},
+            "collection": {},
+            "digest": {},
         }
     )
 
@@ -119,7 +121,8 @@ def test_mcp_filter_and_reporting_support_every_registered_source() -> None:
     config = Config.model_validate(
         {
             "ai": {"provider": "openai", "model": "test", "api_key_env": "KEY"},
-            "filtering": {},
+            "collection": {},
+            "digest": {},
             "sources": {
                 "github": [{"type": "user_events", "username": "alice"}],
                 "hackernews": {"enabled": True},

@@ -10,7 +10,15 @@ from unittest.mock import AsyncMock, MagicMock, patch
 import httpx
 from pydantic import ValidationError
 
-from src.models import ContentItem, SourceType, WebhookConfig
+from src.models import (
+    ClassificationResult,
+    ContentAnalysis,
+    ContentArtifact,
+    ContentItem,
+    ProcessingResult,
+    SourceType,
+    WebhookConfig,
+)
 from src.services.webhook import (
     WebhookNotifier,
     WebhookDeliveryStatus,
@@ -816,9 +824,26 @@ def _make_item(title="Test Item", url="https://example.com/test", score=8.0):
         author="testuser",
         published_at=datetime(2026, 4, 24, 12, 0, 0, tzinfo=timezone.utc),
         fetched_at=datetime(2026, 4, 24, 12, 0, 0, tzinfo=timezone.utc),
-        ai_score=score,
-        ai_summary="AI summary",
-        ai_tags=["test"],
+        profile="tech-news",
+        processing=ProcessingResult(
+            classification=ClassificationResult(
+                profile="tech-news", method="source_override"
+            ),
+            analysis=ContentAnalysis(
+                score=score,
+                reason="test",
+                summary="AI summary",
+                tags=["test"],
+            ),
+            artifacts={
+                language: ContentArtifact(
+                    language=language,
+                    title=title,
+                    lead="AI summary",
+                )
+                for language in ("en", "zh")
+            },
+        ),
     )
 
 

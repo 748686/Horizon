@@ -87,7 +87,7 @@ def test_language_and_country_appended_to_query() -> None:
 
 def test_parses_articles_into_content_items() -> None:
     client = _mock_client(_articles_payload())
-    config = GDELTConfig(enabled=True, query="ai")
+    config = GDELTConfig(enabled=True, query="ai", profile="gdelt-profile")
     scraper = GDELTScraper(config, client)
 
     items = asyncio.run(scraper.fetch(SINCE))
@@ -100,6 +100,7 @@ def test_parses_articles_into_content_items() -> None:
     assert first.metadata["domain"] == "example.com"
     assert first.metadata["sourcecountry"] == "United States"
     assert first.id.startswith("gdelt:article:")
+    assert first.profile == "gdelt-profile"
 
 
 def test_disabled_config_returns_empty() -> None:

@@ -156,6 +156,7 @@ class TelegramScraper(BaseScraper):
             content=text,
             author=channel,
             published_at=published_at,
+            profile=cfg.profile,
             metadata={"msg_url": msg_url, "channel": channel, "category": cfg.category},
         )
 

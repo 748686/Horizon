@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 from enum import Enum
 import re
 from typing import Annotated, Literal, Optional, List, Dict, Any, NamedTuple, Union
-from pydantic import BaseModel, HttpUrl, Field, field_validator
+from pydantic import BaseModel, ConfigDict, HttpUrl, Field, field_validator
 
 
 class SourceType(str, Enum):
@@ -44,8 +44,65 @@ SOURCE_REGISTRY = {
 }
 
 
+class ClassificationResult(BaseModel):
+    """Resolved processing profile for a content item."""
+
+    profile: str
+    method: Literal["source_override", "ai_match"]
+    confidence: Optional[float] = Field(default=None, ge=0, le=1)
+    reason: Optional[str] = None
+
+
+class ContentAnalysis(BaseModel):
+    """Profile-driven first-pass analysis."""
+
+    score: Optional[float] = Field(default=None, ge=0, le=10, allow_inf_nan=False)
+    reason: str
+    summary: str
+    tags: List[str] = Field(default_factory=list)
+
+
+class ArtifactSource(BaseModel):
+    """External source used while producing an artifact."""
+
+    id: str
+    title: str
+    url: str
+
+
+class ContentBlock(BaseModel):
+    """A renderable section produced by an enrichment profile."""
+
+    id: str
+    type: Literal["section"] = "section"
+    role: Optional[str] = None
+    title: str
+    content: str
+    source_refs: List[str] = Field(default_factory=list)
+
+
+class ContentArtifact(BaseModel):
+    """Localized, profile-defined enriched content."""
+
+    language: str
+    title: str
+    lead: str = ""
+    blocks: List[ContentBlock] = Field(default_factory=list)
+    sources: List[ArtifactSource] = Field(default_factory=list)
+
+
+class ProcessingResult(BaseModel):
+    """All AI processing state for a content item."""
+
+    classification: ClassificationResult
+    analysis: Optional[ContentAnalysis] = None
+    artifacts: Dict[str, ContentArtifact] = Field(default_factory=dict)
+
+
 class ContentItem(BaseModel):
     """Unified content item model from any source."""
+
+    model_config = ConfigDict(extra="forbid")
 
     id: str  # Format: {source}:{subtype}:{native_id}
     source_type: SourceType
@@ -56,12 +113,8 @@ class ContentItem(BaseModel):
     published_at: datetime
     fetched_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))
     metadata: Dict[str, Any] = Field(default_factory=dict)
-
-    # AI analysis results
-    ai_score: Optional[float] = None  # 0-10 importance score
-    ai_reason: Optional[str] = None
-    ai_summary: Optional[str] = None
-    ai_tags: List[str] = Field(default_factory=list)
+    profile: Optional[str] = None
+    processing: Optional[ProcessingResult] = None
 
 
 class AIProvider(str, Enum):
@@ -168,6 +221,7 @@ class GitHubSourceConfig(BaseModel):
     repo: Optional[str] = None
     enabled: bool = True
     category: Optional[str] = None
+    profile: Optional[str] = None
 
 
 class HackerNewsConfig(BaseModel):
@@ -177,6 +231,7 @@ class HackerNewsConfig(BaseModel):
     fetch_top_stories: int = 30
     min_score: int = 100
     category: Optional[str] = None
+    profile: Optional[str] = None
 
 
 class ExtractorType(str, Enum):
@@ -203,6 +258,7 @@ class RSSSourceConfig(BaseModel):
     enabled: bool = True
     category: Optional[str] = None
     content_extractor: Optional[str] = None
+    profile: Optional[str] = None
 
 
 class RedditSubredditConfig(BaseModel):
@@ -217,6 +273,7 @@ class RedditSubredditConfig(BaseModel):
     fetch_limit: int = 25
     min_score: int = 10
     category: Optional[str] = None
+    profile: Optional[str] = None
 
 
 class RedditUserConfig(BaseModel):
@@ -227,6 +284,7 @@ class RedditUserConfig(BaseModel):
     sort: str = "new"
     fetch_limit: int = 10
     category: Optional[str] = None
+    profile: Optional[str] = None
 
 
 class RedditConfig(BaseModel):
@@ -245,6 +303,7 @@ class TelegramChannelConfig(BaseModel):
     enabled: bool = True
     fetch_limit: int = 20
     category: Optional[str] = None
+    profile: Optional[str] = None
 
 
 class TelegramConfig(BaseModel):
@@ -267,6 +326,7 @@ class TwitterConfig(BaseModel):
     users: List[str] = Field(default_factory=list)
     fetch_limit: int = 10
     category: Optional[str] = None
+    profile: Optional[str] = None
     fetch_reply_text: bool = False
     max_replies_per_tweet: int = 3
     max_tweets_to_expand: int = 10
@@ -292,6 +352,7 @@ class OpenBBWatchlist(BaseModel):
     provider: str = "yfinance"
     fetch_limit: int = 20
     category: Optional[str] = None
+    profile: Optional[str] = None
 
 
 class OpenBBConfig(BaseModel):
@@ -332,6 +393,7 @@ class OSSInsightConfig(BaseModel):
     min_stars: int = 5
     max_items: int = 30
     category: Optional[str] = None
+    profile: Optional[str] = None
 
 
 class GDELTConfig(BaseModel):
@@ -352,6 +414,7 @@ class GDELTConfig(BaseModel):
     language: Optional[str] = None  # sourcelang filter, e.g. "english"; None = no filter
     country: Optional[str] = None  # sourcecountry filter; None = no filter
     category: Optional[str] = None  # Horizon category label for downstream grouping
+    profile: Optional[str] = None
 
 
 class GoogleNewsConfig(BaseModel):
@@ -369,6 +432,7 @@ class GoogleNewsConfig(BaseModel):
     ceid: Optional[str] = None  # when None scraper derives it as "{country}:{language}"
     max_results: int = 100  # cap ~100
     category: Optional[str] = None
+    profile: Optional[str] = None
 
 
 class SourcesConfig(BaseModel):
@@ -478,11 +542,28 @@ class CategoryGroupConfig(BaseModel):
     categories: List[str] = Field(min_length=1)
 
 
-class FilteringConfig(BaseModel):
-    """Content filtering configuration."""
+class ProcessingConfig(BaseModel):
+    """Profile discovery and fallback settings."""
 
-    ai_score_threshold: float = 7.0
+    model_config = ConfigDict(extra="forbid")
+
+    profiles_dir: str = "profiles"
+    default_profile: str = "tech-news"
+
+
+class CollectionConfig(BaseModel):
+    """Controls which source items are fetched."""
+
+    model_config = ConfigDict(extra="forbid")
+
     time_window_hours: int = 24
+
+
+class DigestConfig(BaseModel):
+    """Controls grouping and limits in the final digest."""
+
+    model_config = ConfigDict(extra="forbid")
+
     max_items: Optional[int] = Field(default=None, gt=0)
     category_groups: Dict[str, CategoryGroupConfig] = Field(default_factory=dict)
     default_group: str = "other"
@@ -492,10 +573,13 @@ class FilteringConfig(BaseModel):
 class Config(BaseModel):
     """Main configuration model."""
 
-    version: str = "1.0"
+    model_config = ConfigDict(extra="forbid")
+
     ai: AIConfig
     sources: SourcesConfig
-    filtering: FilteringConfig
+    collection: CollectionConfig = Field(default_factory=CollectionConfig)
+    digest: DigestConfig = Field(default_factory=DigestConfig)
+    processing: ProcessingConfig = Field(default_factory=ProcessingConfig)
     extractors: Dict[str, ExtractorConfig] = Field(default_factory=dict)
     email: Optional[EmailConfig] = None
     webhook: Optional[WebhookConfig] = None

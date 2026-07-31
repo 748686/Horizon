@@ -1,0 +1,154 @@
+"""Load processing profiles from JSON and Markdown files."""
+
+import json
+from dataclasses import dataclass
+from pathlib import Path
+from typing import Literal, Optional
+
+from pydantic import BaseModel, ConfigDict, Field, model_validator
+
+BUILTIN_PROFILES_DIR = Path(__file__).resolve().parents[1] / "_builtin_profiles"
+
+
+class ProfileFilter(BaseModel):
+    model_config = ConfigDict(extra="forbid")
+
+    enabled: bool
+    threshold: Optional[float] = Field(default=None, ge=0, le=10)
+
+    @model_validator(mode="after")
+    def require_threshold_when_enabled(self) -> "ProfileFilter":
+        if self.enabled and self.threshold is None:
+            raise ValueError("filter.threshold is required when filtering is enabled")
+        return self
+
+
+class ProfileBlock(BaseModel):
+    model_config = ConfigDict(extra="forbid")
+
+    id: str = Field(pattern=r"^[a-z][a-z0-9_-]*$")
+    type: Literal["section"] = "section"
+    tools: list[str] = Field(default_factory=list)
+    optional: bool = False
+
+
+class ProfileEnrichment(BaseModel):
+    model_config = ConfigDict(extra="forbid")
+
+    prompt: str
+    blocks: list[ProfileBlock] = Field(min_length=1)
+
+    @model_validator(mode="after")
+    def require_unique_block_ids(self) -> "ProfileEnrichment":
+        ids = [block.id for block in self.blocks]
+        if len(ids) != len(set(ids)):
+            raise ValueError("enrichment block IDs must be unique")
+        return self
+
+
+class ProfileDefinition(BaseModel):
+    model_config = ConfigDict(extra="forbid")
+
+    id: str = Field(pattern=r"^[a-z][a-z0-9_-]*$")
+    name: str
+    match: str
+    analysis: str
+    filter: ProfileFilter
+    enrichment: ProfileEnrichment
+
+
+@dataclass(frozen=True)
+class LoadedProfile:
+    definition: ProfileDefinition
+    match_prompt: str
+    analysis_prompt: str
+    enrichment_prompt: str
+
+    @property
+    def id(self) -> str:
+        return self.definition.id
+
+
+class ProfileRegistry:
+    """Validated profiles indexed by ID."""
+
+    def __init__(self, profiles: dict[str, LoadedProfile], default_profile: str):
+        if default_profile not in profiles:
+            raise ValueError(f"Default profile does not exist: {default_profile}")
+        self._profiles = profiles
+        self.default_profile = default_profile
+
+    @classmethod
+    def load(
+        cls,
+        profiles_dir: Path,
+        default_profile: str,
+        *,
+        base_dir: Optional[Path] = None,
+    ) -> "ProfileRegistry":
+        if profiles_dir.is_absolute():
+            root = profiles_dir.resolve()
+        else:
+            root = ((base_dir or Path.cwd()) / profiles_dir).resolve()
+            if (
+                profiles_dir == Path("profiles")
+                and not root.is_dir()
+                and BUILTIN_PROFILES_DIR.is_dir()
+            ):
+                root = BUILTIN_PROFILES_DIR
+        profiles: dict[str, LoadedProfile] = {}
+        for config_path in sorted(root.glob("*/profile.json")):
+            definition = ProfileDefinition.model_validate_json(
+                config_path.read_text(encoding="utf-8")
+            )
+            if definition.id in profiles:
+                raise ValueError(f"Duplicate profile ID: {definition.id}")
+            profile_dir = config_path.parent.resolve()
+            profiles[definition.id] = LoadedProfile(
+                definition=definition,
+                match_prompt=cls._read_prompt(profile_dir, definition.match),
+                analysis_prompt=cls._read_prompt(profile_dir, definition.analysis),
+                enrichment_prompt=cls._read_prompt(
+                    profile_dir, definition.enrichment.prompt
+                ),
+            )
+        if not profiles:
+            raise ValueError(f"No profiles found under {root}")
+        return cls(profiles, default_profile)
+
+    @staticmethod
+    def _read_prompt(profile_dir: Path, relative_path: str) -> str:
+        path = (profile_dir / relative_path).resolve()
+        if not path.is_relative_to(profile_dir):
+            raise ValueError(f"Prompt path escapes profile directory: {relative_path}")
+        return path.read_text(encoding="utf-8").strip()
+
+    def get(self, profile_id: str) -> LoadedProfile:
+        try:
+            return self._profiles[profile_id]
+        except KeyError as exc:
+            raise ValueError(f"Unknown processing profile: {profile_id}") from exc
+
+    def validate_source_references(self, value: object) -> None:
+        """Reject unknown explicit profile IDs anywhere in source config."""
+        if isinstance(value, dict):
+            requested = value.get("profile")
+            if isinstance(requested, str):
+                normalized = requested.strip()
+                if normalized and normalized != "auto":
+                    self.get(normalized)
+            for child in value.values():
+                self.validate_source_references(child)
+        elif isinstance(value, list):
+            for child in value:
+                self.validate_source_references(child)
+
+    def match_catalog(self) -> str:
+        return "\n\n".join(
+            f"## {profile.id}: {profile.definition.name}\n{profile.match_prompt}"
+            for profile in self._profiles.values()
+        )
+
+    @property
+    def ids(self) -> set[str]:
+        return set(self._profiles)
