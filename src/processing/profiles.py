@@ -23,6 +23,20 @@ class ProfileFilter(BaseModel):
         return self
 
 
+class ProfileContent(BaseModel):
+    model_config = ConfigDict(extra="forbid")
+
+    analysis_max_chars: int = Field(default=1000, ge=500, le=100_000)
+    enrichment_max_chars: int = Field(default=8000, ge=500, le=100_000)
+    sampling: Literal["prefix", "head-middle-tail"] = "prefix"
+
+
+class ProfileTopicDedup(BaseModel):
+    model_config = ConfigDict(extra="forbid")
+
+    enabled: bool = True
+
+
 class ProfileBlock(BaseModel):
     model_config = ConfigDict(extra="forbid")
 
@@ -51,9 +65,12 @@ class ProfileDefinition(BaseModel):
 
     id: str = Field(pattern=r"^[a-z][a-z0-9_-]*$")
     name: str
+    display_names: dict[str, str] = Field(default_factory=dict)
     match: str
     analysis: str
     filter: ProfileFilter
+    content: ProfileContent = Field(default_factory=ProfileContent)
+    topic_dedup: ProfileTopicDedup = Field(default_factory=ProfileTopicDedup)
     enrichment: ProfileEnrichment
 
 
@@ -143,12 +160,20 @@ class ProfileRegistry:
             for child in value:
                 self.validate_source_references(child)
 
-    def match_catalog(self) -> str:
-        return "\n\n".join(
-            f"## {profile.id}: {profile.definition.name}\n{profile.match_prompt}"
-            for profile in self._profiles.values()
-        )
-
     @property
     def ids(self) -> set[str]:
         return set(self._profiles)
+
+    @property
+    def profiles(self) -> tuple[LoadedProfile, ...]:
+        return tuple(self._profiles.values())
+
+    @property
+    def names(self) -> dict[str, dict[str, str]]:
+        return {
+            profile_id: {
+                "default": profile.definition.name,
+                **profile.definition.display_names,
+            }
+            for profile_id, profile in self._profiles.items()
+        }

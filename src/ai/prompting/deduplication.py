@@ -1,4 +1,4 @@
-"""AI prompts that are not owned by processing profiles."""
+"""Prompt constants for topic deduplication."""
 
 TOPIC_DEDUP_SYSTEM = """You are a news deduplication assistant. Identify groups of news items that cover the exact same real-world event, release, or announcement.
 

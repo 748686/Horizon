@@ -150,6 +150,66 @@ def test_generate_summary_zh_uses_localized_selection_header_and_numeric_date():
     assert "Apr 25, 08:00" not in result
 
 
+def test_generate_summary_groups_items_by_profile_with_heading_hierarchy():
+    news = _make_item(1)
+    blog = _make_item(2)
+    blog.profile = "tech-blog"
+    blog.processing.classification.profile = "tech-blog"
+    summarizer = DailySummarizer(
+        profile_names={
+            "tech-news": {"default": "Technology News", "zh": "科技新闻"},
+            "tech-blog": {"default": "Technology Blog", "zh": "科技博客"},
+        }
+    )
+
+    result = _run_async(
+        summarizer.generate_summary(
+            [news, blog],
+            date="2026-04-25",
+            total_fetched=2,
+            language="en",
+        )
+    )
+
+    assert result.count("# Horizon Daily") == 1
+    assert "## Technology News" in result
+    assert "## Technology Blog" in result
+    assert "### [Important Item 1]" in result
+    assert "### [Important Item 2]" in result
+
+
+def test_generate_summary_renumbers_interleaved_profiles_and_localizes_headings():
+    first_news = _make_item(1)
+    blog = _make_item(2)
+    second_news = _make_item(3)
+    blog.profile = "tech-blog"
+    blog.processing.classification.profile = "tech-blog"
+    summarizer = DailySummarizer(
+        profile_names={
+            "tech-news": {"default": "Technology News", "zh": "科技新闻"},
+            "tech-blog": {"default": "Technology Blog", "zh": "科技博客"},
+        }
+    )
+
+    result = _run_async(
+        summarizer.generate_summary(
+            [first_news, blog, second_news],
+            date="2026-04-25",
+            total_fetched=3,
+            language="zh",
+        )
+    )
+
+    assert "## 科技新闻" in result
+    assert "## 科技博客" in result
+    assert "1. [Important Item 1](#item-tech-news-1)" in result
+    assert "2. [Important Item 3](#item-tech-news-2)" in result
+    assert "1. [Important Item 2](#item-tech-blog-1)" in result
+    assert result.index("2. [Important Item 3]") < result.index("1. [Important Item 2]")
+    assert '<a id="item-tech-news-1"></a>' in result
+    assert '<a id="item-tech-blog-1"></a>' in result
+
+
 def test_generate_empty_summary_zh_uses_localized_analyzed_line():
     summarizer = DailySummarizer()
 

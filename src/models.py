@@ -551,6 +551,14 @@ class ProcessingConfig(BaseModel):
     default_profile: str = "tech-news"
 
 
+class DisplayConfig(BaseModel):
+    """Controls terminal output presentation."""
+
+    model_config = ConfigDict(extra="forbid")
+
+    icon_style: Literal["emoji", "nerd", "ascii"] = "emoji"
+
+
 class CollectionConfig(BaseModel):
     """Controls which source items are fetched."""
 
@@ -580,6 +588,7 @@ class Config(BaseModel):
     collection: CollectionConfig = Field(default_factory=CollectionConfig)
     digest: DigestConfig = Field(default_factory=DigestConfig)
     processing: ProcessingConfig = Field(default_factory=ProcessingConfig)
+    display: DisplayConfig = Field(default_factory=DisplayConfig)
     extractors: Dict[str, ExtractorConfig] = Field(default_factory=dict)
     email: Optional[EmailConfig] = None
     webhook: Optional[WebhookConfig] = None

@@ -15,7 +15,12 @@ Profiles live under `profiles/<id>/`:
 
 ```text
 profiles/
-`-- tech-news/
+|-- tech-news/
+|   |-- profile.json
+|   |-- match.md
+|   |-- analysis.md
+|   `-- enrichment.md
+`-- tech-blog/
     |-- profile.json
     |-- match.md
     |-- analysis.md
@@ -26,6 +31,30 @@ profiles/
 - `match.md` tells automatic routing what content belongs to the profile.
 - `analysis.md` defines the first-pass analysis and scoring rubric.
 - `enrichment.md` defines how to write the localized output blocks.
+
+## Built-in Profiles
+
+| Profile | Purpose | Output |
+| --- | --- | --- |
+| `tech-news` | Timely releases, incidents, research results, and technology-industry developments | Compact summary with optional background and community discussion |
+| `tech-blog` | Long-form engineering deep dives, tutorials, investigations, retrospectives, and technical arguments | One structured, multi-paragraph `story` |
+
+The blog profile uses larger input budgets, head-middle-tail sampling, no score
+filtering, and no AI topic deduplication. For RSS feeds, pair it with a full-text
+extractor so the profile receives the article rather than only the feed excerpt:
+
+```json
+{
+  "name": "NVIDIA CUDA Technical Blog",
+  "url": "https://developer.nvidia.com/blog/tag/cuda/feed/",
+  "profile": "tech-blog",
+  "content_extractor": "trafilatura"
+}
+```
+
+Install the optional extractor locally with `uv sync --extra trafilatura`, or
+build Docker with `--build-arg EXTRAS=trafilatura`. Extraction
+failures fall back to the feed-provided content.
 
 Configure discovery in `data/config.json`:
 
@@ -47,11 +76,22 @@ profiles are found or the default does not exist.
 {
   "id": "tech-news",
   "name": "Technology News",
+  "display_names": {
+    "zh": "科技新闻"
+  },
   "match": "match.md",
   "analysis": "analysis.md",
   "filter": {
     "enabled": true,
     "threshold": 8.0
+  },
+  "content": {
+    "analysis_max_chars": 1000,
+    "enrichment_max_chars": 8000,
+    "sampling": "prefix"
+  },
+  "topic_dedup": {
+    "enabled": true
   },
   "enrichment": {
     "prompt": "enrichment.md",
@@ -82,9 +122,12 @@ profiles are found or the default does not exist.
 | --- | --- |
 | `id` | Unique profile ID. It starts with a lowercase letter and may contain lowercase letters, digits, `_`, and `-`. |
 | `name` | Human-readable name used in the matching catalog. |
+| `display_names` | Optional language-keyed names used as digest section headings. |
 | `match` | Profile-relative path to the matching prompt. |
 | `analysis` | Profile-relative path to the analysis prompt. |
 | `filter` | Per-profile score-filter configuration. |
+| `content` | Input budgets and long-content sampling strategy for AI stages. |
+| `topic_dedup` | Whether this profile participates in AI semantic topic deduplication. |
 | `enrichment.prompt` | Profile-relative path to the enrichment prompt. |
 | `enrichment.blocks` | Contract for localized output blocks. At least one block is required. |
 
@@ -175,6 +218,42 @@ Tools are allowed per block through its `tools` array. The only built-in tool is
 `"tools": ["web_search"]`. Use an empty array for blocks that need no tools.
 Unknown tools are rejected when profiles are initialized.
 
+## Content Selection
+
+Profiles can control how much source content each AI stage receives:
+
+```json
+{
+  "content": {
+    "analysis_max_chars": 16000,
+    "enrichment_max_chars": 24000,
+    "sampling": "head-middle-tail"
+  }
+}
+```
+
+`sampling` accepts `"prefix"` or `"head-middle-tail"`. Prefix sampling preserves
+the compact behavior used by news profiles. Head-middle-tail sampling keeps the
+opening, a middle excerpt, and the conclusion of long-form content. Both limits
+must be between 500 and 100000 characters.
+
+## Topic Deduplication
+
+AI topic deduplication can be disabled for profiles where different treatments
+of the same subject should remain separate:
+
+```json
+{
+  "topic_dedup": {
+    "enabled": false
+  }
+}
+```
+
+This does not disable conservative cross-source URL deduplication. Items with
+the same normalized URL and requested Profile are still merged before analysis;
+the same URL routed to different Profiles remains separate.
+
 Search-backed statements cite tool results through source references. Horizon
 rejects references that were not returned by a tool call.
 
@@ -190,3 +269,5 @@ with:
 
 The Markdown briefing renders the localized title and lead, each block under
 its localized heading, and a sources list when external references were used.
+Items are grouped by Profile: the briefing title is H1, localized Profile names
+are H2 sections, items are H3 headings, and artifact blocks are H4 headings.

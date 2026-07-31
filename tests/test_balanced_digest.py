@@ -1,5 +1,6 @@
 import asyncio
 from datetime import datetime, timezone
+from pathlib import Path
 from types import SimpleNamespace
 
 import pytest
@@ -19,6 +20,7 @@ from src.models import (
     SourcesConfig,
 )
 from src.orchestrator import HorizonOrchestrator
+from src.processing import ProfileRegistry
 
 
 def make_item(item_id: str, score: float, category: str | None) -> ContentItem:
@@ -115,6 +117,28 @@ def test_max_items_works_without_category_groups() -> None:
     assert [item.id for item in result.items] == ["higher"]
 
 
+def test_filter_items_skips_ai_topic_dedup_for_disabled_profile(monkeypatch) -> None:
+    orchestrator = make_orchestrator(DigestConfig())
+    orchestrator.profiles = ProfileRegistry.load(
+        Path(__file__).resolve().parents[1] / "profiles", "tech-news"
+    )
+    items = [make_item("first", 9.0, "blog"), make_item("second", 8.0, "blog")]
+    for item in items:
+        item.profile = "tech-blog"
+        item.processing.classification.profile = "tech-blog"
+
+    async def unexpected_dedup(input_items, *, log=True):  # type: ignore[no-untyped-def]
+        raise AssertionError("AI topic dedup must be skipped for tech-blog")
+
+    monkeypatch.setattr(orchestrator, "merge_topic_duplicates", unexpected_dedup)
+
+    result = asyncio.run(
+        orchestrator.filter_items(items, topic_dedup=True, apply_balance=False, log=False)
+    )
+
+    assert [item.id for item in result.items] == ["first", "second"]
+
+
 def test_duplicate_category_warns_and_first_group_wins() -> None:
     filtering = DigestConfig(
         category_groups={
@@ -189,10 +213,10 @@ def test_run_applies_balanced_digest_before_enrichment(tmp_path, monkeypatch) ->
         enriched_ids.extend(item.id for item in input_items)
 
     monkeypatch.setattr(orchestrator, "fetch_all_sources", fetch_all_sources)
-    monkeypatch.setattr(orchestrator, "_analyze_content", analyze_content)
+    monkeypatch.setattr(orchestrator, "analyze_items", analyze_content)
     monkeypatch.setattr(orchestrator, "merge_topic_duplicates", merge_topic_duplicates)
     monkeypatch.setattr(orchestrator, "_expand_twitter_discussion", expand_twitter_discussion)
-    monkeypatch.setattr(orchestrator, "_enrich_important_items", enrich_important_items)
+    monkeypatch.setattr(orchestrator, "enrich_items", enrich_important_items)
     monkeypatch.chdir(tmp_path)
 
     asyncio.run(orchestrator.run())
@@ -236,10 +260,10 @@ def test_run_balances_after_twitter_reanalysis(tmp_path, monkeypatch) -> None:
         enriched_ids.extend(item.id for item in input_items)
 
     monkeypatch.setattr(orchestrator, "fetch_all_sources", fetch_all_sources)
-    monkeypatch.setattr(orchestrator, "_analyze_content", analyze_content)
+    monkeypatch.setattr(orchestrator, "analyze_items", analyze_content)
     monkeypatch.setattr(orchestrator, "merge_topic_duplicates", merge_topic_duplicates)
     monkeypatch.setattr(orchestrator, "_expand_twitter_discussion", expand_twitter_discussion)
-    monkeypatch.setattr(orchestrator, "_enrich_important_items", enrich_important_items)
+    monkeypatch.setattr(orchestrator, "enrich_items", enrich_important_items)
     monkeypatch.chdir(tmp_path)
 
     asyncio.run(orchestrator.run())

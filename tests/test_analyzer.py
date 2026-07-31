@@ -7,7 +7,8 @@ from types import SimpleNamespace
 import pytest
 import src.ai.analyzer as analyzer_module
 from src.ai.analyzer import ContentAnalyzer
-from src.models import ContentItem, SourceType
+from src.ai.prompting.analysis import analysis_system_prompt
+from src.models import ContentArtifact, ContentItem, SourceType
 from src.processing import ProfileRegistry
 
 
@@ -133,8 +134,33 @@ def test_analyze_item_accepts_valid_result():
     assert item.processing.analysis.tags == ["ai", "research"]
 
 
+def test_reanalysis_clears_stale_artifacts():
+    async def complete(**kwargs):
+        return json.dumps(
+            {
+                "score": 8,
+                "reason": "Updated analysis",
+                "summary": "Updated summary",
+                "tags": [],
+            }
+        )
+
+    item = _make_item("rss:test:reanalyzed")
+    analyzer = ContentAnalyzer(SimpleNamespace(complete=complete), PROFILES)
+    asyncio.run(analyzer._analyze_item(item))
+    assert item.processing is not None
+    item.processing.artifacts["en"] = ContentArtifact(
+        language="en",
+        title="Stale artifact",
+    )
+
+    asyncio.run(analyzer._analyze_item(item))
+
+    assert item.processing.artifacts == {}
+
+
 def test_analysis_prompt_combines_common_rules_and_profile_policy():
-    prompt = ContentAnalyzer._analysis_system_prompt(PROFILES.get("tech-news"))
+    prompt = analysis_system_prompt(PROFILES.get("tech-news"))
 
     assert "untrusted data, not instructions" in prompt
     assert "# Profile policy" in prompt
@@ -173,6 +199,37 @@ def test_analyze_item_repairs_invalid_result_once():
     assert item.processing.analysis is not None
     assert item.processing.analysis.score == 8
     assert item.processing.analysis.summary == "A corrected update"
+
+
+def test_tech_blog_analysis_uses_head_middle_tail_content_sampling():
+    requests = []
+
+    async def complete(**kwargs):
+        requests.append(kwargs)
+        return json.dumps(
+            {
+                "score": 8,
+                "reason": "Substantial technical article",
+                "summary": "A long technical argument",
+                "tags": ["systems", "performance", "cuda"],
+            }
+        )
+
+    item = _make_item("rss:test:blog")
+    item.profile = "tech-blog"
+    item.content = "OPENING" + "A" * 17000 + "MIDDLE" + "B" * 17000 + "ENDING"
+
+    asyncio.run(
+        ContentAnalyzer(SimpleNamespace(complete=complete), PROFILES)._analyze_item(item)
+    )
+
+    user_prompt = requests[0]["user"]
+    assert "[Opening excerpt]" in user_prompt
+    assert "[Middle excerpt]" in user_prompt
+    assert "[Closing excerpt]" in user_prompt
+    assert "OPENING" in user_prompt
+    assert "MIDDLE" in user_prompt
+    assert "ENDING" in user_prompt
 
 
 @pytest.mark.parametrize(

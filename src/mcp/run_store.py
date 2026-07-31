@@ -19,6 +19,13 @@ STAGES = {
     "filtered": "filtered_items.json",
     "enriched": "enriched_items.json",
 }
+STAGE_ORDER = tuple(STAGES)
+_META_PREFIXES = {
+    "scored": ("scored_", "selected_count"),
+    "filtered": ("filtered_", "filter_", "topic_", "balanced_"),
+    "enriched": ("enrichment_", "enriched_", "citation_count"),
+    "summary": ("summary_",),
+}
 RUN_ID_RE = re.compile(r"^[A-Za-z0-9][A-Za-z0-9._-]*$")
 LANGUAGE_RE = re.compile(r"^[A-Za-z0-9_-]+$")
 
@@ -53,7 +60,50 @@ class RunStore:
         return (self.run_dir(run_id) / self._stage_file(stage)).exists()
 
     def save_items(self, run_id: str, stage: str, items: list[dict[str, Any]]) -> Path:
-        return self.write_json(run_id, self._stage_file(stage), items)
+        path = self.write_json(run_id, self._stage_file(stage), items)
+        self.invalidate_after(run_id, stage)
+        return path
+
+    def invalidate_after(self, run_id: str, stage: str) -> None:
+        """Remove artifacts derived from the newly saved stage."""
+        try:
+            stage_index = STAGE_ORDER.index(stage)
+        except ValueError as exc:
+            raise ValueError(f"Unsupported stage: {stage}") from exc
+        run_dir = self.run_dir(run_id)
+        for downstream in STAGE_ORDER[stage_index + 1 :]:
+            (run_dir / STAGES[downstream]).unlink(missing_ok=True)
+        for summary_path in run_dir.glob("summary-*.md"):
+            summary_path.unlink()
+        self._invalidate_meta(run_id, (*STAGE_ORDER[stage_index + 1 :], "summary"))
+
+    def invalidate_from(self, run_id: str, stage: str) -> None:
+        """Remove a stage and every artifact derived from it."""
+        try:
+            stage_index = STAGE_ORDER.index(stage)
+        except ValueError as exc:
+            raise ValueError(f"Unsupported stage: {stage}") from exc
+        run_dir = self.run_dir(run_id)
+        for invalidated in STAGE_ORDER[stage_index:]:
+            (run_dir / STAGES[invalidated]).unlink(missing_ok=True)
+        for summary_path in run_dir.glob("summary-*.md"):
+            summary_path.unlink()
+        self._invalidate_meta(run_id, (*STAGE_ORDER[stage_index:], "summary"))
+
+    def _invalidate_meta(self, run_id: str, stages: tuple[str, ...]) -> None:
+        prefixes = tuple(
+            prefix
+            for stage in stages
+            for prefix in _META_PREFIXES.get(stage, ())
+        )
+        meta = self.load_meta(run_id)
+        cleaned = {
+            key: value
+            for key, value in meta.items()
+            if not key.startswith(prefixes)
+        }
+        if cleaned != meta:
+            self.write_json(run_id, "meta.json", cleaned)
 
     def load_items(self, run_id: str, stage: str) -> list[dict[str, Any]]:
         return self.read_json(run_id, self._stage_file(stage))

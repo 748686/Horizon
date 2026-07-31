@@ -13,6 +13,9 @@
     "profiles_dir": "profiles",
     "default_profile": "tech-news"
   },
+  "display": {
+    "icon_style": "emoji"
+  },
   "email": {
     "enabled": false,
     "smtp_server": "smtp.qq.com",
@@ -53,6 +56,14 @@
         "enabled": true,
         "category": "ai-tools",
         "profile": "tech-news"
+      },
+      {
+        "name": "NVIDIA CUDA Technical Blog",
+        "url": "https://developer.nvidia.com/blog/tag/cuda/feed/",
+        "enabled": true,
+        "category": "cuda",
+        "profile": "tech-blog",
+        "content_extractor": "trafilatura"
       },
       {
         "name": "LWN.net (subscriber full-text)",

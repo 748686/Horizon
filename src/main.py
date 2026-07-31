@@ -9,6 +9,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 from rich.console import Console
 
+from .console_icons import get_icons
 from .logging_config import configure_logging
 from .storage.manager import ConfigError, StorageManager
 from .orchestrator import HorizonOrchestrator
@@ -37,6 +38,7 @@ def main():
     """Main CLI entry point."""
     configure_logging(console)
     print_banner()
+    icons = get_icons()
 
     parser = argparse.ArgumentParser(description="Horizon - AI-Driven Information Aggregation System")
     parser.add_argument("--hours", type=int, help="Force fetch from last N hours")
@@ -59,7 +61,9 @@ def main():
         try:
             config = storage.load_config()
         except FileNotFoundError:
-            console.print("[bold red]❌ Configuration file not found![/bold red]\n")
+            console.print(
+                f"[bold red]{icons['error']} Configuration file not found![/bold red]\n"
+            )
             console.print(f"Expected config: [cyan]{storage.config_path}[/cyan]\n")
 
             example_path = data_dir / "config.example.json"
@@ -83,21 +87,27 @@ def main():
                 )
             sys.exit(1)
         except ConfigError as e:
-            console.print(f"[bold red]❌ Error loading configuration: {e}[/bold red]")
+            console.print(
+                f"[bold red]{icons['error']} Error loading configuration: {e}[/bold red]"
+            )
             sys.exit(1)
         except Exception as e:
-            console.print(f"[bold red]❌ Error loading configuration: {e}[/bold red]")
+            console.print(
+                f"[bold red]{icons['error']} Error loading configuration: {e}[/bold red]"
+            )
             sys.exit(1)
+
+        icons = get_icons(config.display.icon_style)
 
         # Create and run orchestrator
         orchestrator = HorizonOrchestrator(config, storage, console=console)
         asyncio.run(orchestrator.run(force_hours=args.hours))
 
     except KeyboardInterrupt:
-        console.print("\n[yellow]⚠️  Interrupted by user[/yellow]")
+        console.print(f"\n[yellow]{icons['warning']} Interrupted by user[/yellow]")
         sys.exit(0)
     except Exception as e:
-        console.print(f"\n[bold red]❌ Fatal error: {e}[/bold red]")
+        console.print(f"\n[bold red]{icons['error']} Fatal error: {e}[/bold red]")
         console.print_exception()
         sys.exit(1)
 
@@ -112,6 +122,9 @@ def print_config_template():
     "api_key_env": "ANTHROPIC_API_KEY",
     "temperature": 0.3,
     "max_tokens": 4096
+  },
+  "display": {
+    "icon_style": "emoji"
   },
   "sources": {
     "github": [

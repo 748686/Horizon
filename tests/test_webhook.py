@@ -1053,6 +1053,80 @@ class TestSendDailySummary:
         assert panels[1]["header"]["title"]["content"].startswith("2. Item B")
         del os.environ[_TEST_URL_ENV]
 
+    def test_feishu_collapsible_groups_profiles_and_resets_numbering(self):
+        os.environ[_TEST_URL_ENV] = _TEST_URL
+        config = WebhookConfig(
+            enabled=True,
+            url_env=_TEST_URL_ENV,
+            platform="feishu",
+            layout="collapsible",
+        )
+        notifier = WebhookNotifier(config)
+        summarizer = DailySummarizer(
+            profile_names={
+                "tech-news": {"default": "Technology News", "zh": "科技新闻"},
+                "tech-blog": {"default": "Technology Blog", "zh": "科技博客"},
+            }
+        )
+        news = _make_item(title="News")
+        blog = _make_item(title="Blog", url="https://example.com/blog")
+        blog.profile = "tech-blog"
+        blog.processing.classification.profile = "tech-blog"
+
+        messages = notifier.build_daily_summary_messages(
+            summary="# Full summary",
+            important_items=[news, blog],
+            all_items_count=2,
+            date="2026-04-24",
+            lang="zh",
+            summarizer=summarizer,
+        )
+
+        elements = messages[0]["_request_body_override"]["card"]["body"]["elements"]
+        headings = [element["content"] for element in elements if element["tag"] == "markdown"]
+        panels = [element for element in elements if element["tag"] == "collapsible_panel"]
+
+        assert headings[1:] == ["## 科技新闻", "## 科技博客"]
+        assert panels[0]["header"]["title"]["content"].startswith("1. News")
+        assert panels[1]["header"]["title"]["content"].startswith("1. Blog")
+        assert "第 1/1 条" in panels[0]["elements"][0]["content"]
+        assert "第 1/1 条" in panels[1]["elements"][0]["content"]
+        del os.environ[_TEST_URL_ENV]
+
+    def test_summary_and_items_keeps_global_and_profile_local_positions(self):
+        os.environ[_TEST_URL_ENV] = _TEST_URL
+        config = WebhookConfig(
+            enabled=True,
+            url_env=_TEST_URL_ENV,
+            delivery="summary_and_items",
+        )
+        notifier = WebhookNotifier(config)
+        summarizer = DailySummarizer()
+        news = _make_item(title="News")
+        blog = _make_item(title="Blog", url="https://example.com/blog")
+        blog.profile = "tech-blog"
+        blog.processing.classification.profile = "tech-blog"
+
+        messages = notifier.build_daily_summary_messages(
+            summary="# Full summary",
+            important_items=[news, blog],
+            all_items_count=2,
+            date="2026-04-24",
+            lang="en",
+            summarizer=summarizer,
+        )
+
+        news_message, blog_message = messages[1:]
+        assert news_message["item_index"] == 1
+        assert blog_message["item_index"] == 2
+        assert news_message["item_count"] == 2
+        assert blog_message["item_count"] == 2
+        assert news_message["profile_item_index"] == 1
+        assert blog_message["profile_item_index"] == 1
+        assert news_message["profile_item_count"] == 1
+        assert blog_message["profile_item_count"] == 1
+        del os.environ[_TEST_URL_ENV]
+
     def test_language_filter_skips_non_matching_lang(self):
         """webhook.languages=['zh'] skips 'en' language."""
         os.environ[_TEST_URL_ENV] = _TEST_URL

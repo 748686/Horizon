@@ -53,6 +53,37 @@ def test_save_and_load_summary(tmp_path: Path) -> None:
     assert content == "# 摘要"
 
 
+def test_saving_upstream_stage_invalidates_downstream_artifacts(tmp_path: Path) -> None:
+    store = RunStore(tmp_path)
+    run_id = store.create_run("run-invalidation")
+    for stage in ("raw", "scored", "filtered", "enriched"):
+        store.save_items(run_id, stage, [{"stage": stage}])
+    store.save_summary(run_id, "en", "old summary")
+    store.update_meta(
+        run_id,
+        {
+            "scored_count": 2,
+            "filtered_count": 1,
+            "enrichment_status": "success",
+            "summary_stage": "enriched",
+        },
+    )
+
+    store.save_items(run_id, "scored", [{"stage": "new scored"}])
+
+    assert store.has_stage(run_id, "raw") is True
+    assert store.has_stage(run_id, "scored") is True
+    assert store.has_stage(run_id, "filtered") is False
+    assert store.has_stage(run_id, "enriched") is False
+    with pytest.raises(FileNotFoundError):
+        store.load_summary(run_id, "en")
+    meta = store.load_meta(run_id)
+    assert "scored_count" in meta
+    assert "filtered_count" not in meta
+    assert "enrichment_status" not in meta
+    assert "summary_stage" not in meta
+
+
 def test_unsupported_stage_raises(tmp_path: Path) -> None:
     store = RunStore(tmp_path)
     run_id = store.create_run("run-invalid-stage")

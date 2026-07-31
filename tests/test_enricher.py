@@ -10,6 +10,7 @@ from src.ai.enricher import ContentEnricher
 from src.models import (
     ClassificationResult,
     ContentAnalysis,
+    ContentArtifact,
     ContentBlock,
     ContentItem,
     ProcessingResult,
@@ -117,7 +118,7 @@ def test_enrichment_generates_blocks_and_validated_sources():
                         "role": "background",
                         "title": "背景",
                         "content": "旧架构的背景信息。",
-                        "source_refs": ["tool-1-1"],
+                        "source_refs": ["tool-1"],
                     },
                 }
             ),
@@ -145,6 +146,7 @@ def test_enrichment_generates_blocks_and_validated_sources():
         "background",
     ]
     assert artifact.blocks[-1].title == "背景"
+    assert artifact.blocks[-1].source_refs == ["tool-1-1"]
     assert artifact.sources[0].url == "https://docs.example.com/project"
     assert len(requests) == 3
     assert "explicitly mentioned in the item" in requests[0]["system"]
@@ -195,6 +197,150 @@ def test_enrichment_rejects_malformed_tool_plan():
         asyncio.run(enricher._enrich_item(make_item()))
 
 
+def test_enrichment_repairs_malformed_tool_plan_once():
+    responses = iter(
+        [
+            "[]",
+            json.dumps({"tool_requests": []}),
+            json.dumps(
+                {
+                    "title": "Technical release",
+                    "lead": "",
+                    "blocks": [
+                        {
+                            "id": "summary",
+                            "type": "section",
+                            "role": "summary",
+                            "title": "Summary",
+                            "content": "A complete summary.",
+                            "source_refs": [],
+                        }
+                    ],
+                }
+            ),
+        ]
+    )
+    requests = []
+
+    async def complete(**kwargs):
+        requests.append(kwargs)
+        return next(responses)
+
+    item = make_item()
+    enricher = ContentEnricher(
+        SimpleNamespace(complete=complete),
+        PROFILES,
+        ["en"],
+        tools=FakeTools(),
+    )
+
+    asyncio.run(enricher._enrich_item(item))
+
+    assert len(requests) == 3
+    assert requests[1]["temperature"] == 0
+    assert item.processing.artifacts["en"].blocks[0].id == "summary"
+
+
+def test_enrichment_repairs_empty_story_once():
+    responses = iter(
+        [
+            json.dumps(
+                {
+                    "title": "A technical story",
+                    "lead": "",
+                    "blocks": [
+                        {
+                            "id": "story",
+                            "type": "section",
+                            "role": "story",
+                            "title": " ",
+                            "content": "",
+                            "source_refs": [],
+                        }
+                    ],
+                }
+            ),
+            json.dumps(
+                {
+                    "title": "A technical story",
+                    "lead": "",
+                    "blocks": [
+                        {
+                            "id": "story",
+                            "type": "section",
+                            "role": "story",
+                            "title": "The release",
+                            "content": "The author explains the release and its tradeoffs.",
+                            "source_refs": [],
+                        }
+                    ],
+                }
+            ),
+        ]
+    )
+    requests = []
+
+    async def complete(**kwargs):
+        requests.append(kwargs)
+        return next(responses)
+
+    item = make_item()
+    item.profile = "tech-blog"
+    item.processing.classification.profile = "tech-blog"
+    enricher = ContentEnricher(
+        SimpleNamespace(complete=complete),
+        PROFILES,
+        ["en"],
+        tools=FakeTools(),
+    )
+
+    asyncio.run(enricher._enrich_item(item))
+
+    assert len(requests) == 2
+    assert requests[1]["temperature"] == 0
+    assert "corrected JSON object" in requests[1]["user"]
+    assert item.processing.artifacts["en"].blocks[0].content.startswith("The author")
+
+
+def test_failed_reenrichment_removes_stale_target_artifact():
+    async def complete(**kwargs):
+        return json.dumps(
+            {
+                "title": "A technical story",
+                "lead": "",
+                "blocks": [
+                    {
+                        "id": "story",
+                        "type": "section",
+                        "role": "story",
+                        "title": "",
+                        "content": "",
+                        "source_refs": [],
+                    }
+                ],
+            }
+        )
+
+    item = make_item()
+    item.profile = "tech-blog"
+    item.processing.classification.profile = "tech-blog"
+    item.processing.artifacts["en"] = ContentArtifact(
+        language="en",
+        title="Stale story",
+    )
+    enricher = ContentEnricher(
+        SimpleNamespace(complete=complete),
+        PROFILES,
+        ["en"],
+        tools=FakeTools(),
+    )
+
+    with pytest.raises(ValueError, match="Invalid enrichment artifact"):
+        asyncio.run(enricher._enrich_item(item))
+
+    assert "en" not in item.processing.artifacts
+
+
 def test_enrichment_rejects_cross_block_source_reference():
     block = ContentBlock(
         id="summary",
@@ -223,11 +369,28 @@ def test_enrichment_rejects_cross_block_source_reference():
         )
 
 
-def test_enrichment_batch_raises_when_an_item_fails():
+def test_enrichment_rejects_empty_required_block():
+    block = ContentBlock(
+        id="summary",
+        type="section",
+        role="summary",
+        title=" ",
+        content="",
+        source_refs=[],
+    )
+
+    with pytest.raises(ValueError, match="cannot be empty"):
+        ContentEnricher._validate_blocks(
+            [block], PROFILES.get("tech-news"), []
+        )
+
+
+def test_enrichment_batch_reports_failure_without_discarding_successes():
     async def complete(**kwargs):
         raise RuntimeError("AI unavailable")
 
-    item = make_item()
+    successful_item = make_item()
+    failed_item = make_item().model_copy(update={"id": "rss:test:failed"})
     enricher = ContentEnricher(
         SimpleNamespace(complete=complete),
         PROFILES,
@@ -235,10 +398,15 @@ def test_enrichment_batch_raises_when_an_item_fails():
         tools=FakeTools(),
     )
 
-    async def fail_enrichment(failed_item):  # type: ignore[no-untyped-def]
-        raise RuntimeError("AI unavailable")
+    async def enrich_item(item):  # type: ignore[no-untyped-def]
+        if item.id == failed_item.id:
+            raise RuntimeError("AI unavailable")
 
-    enricher._enrich_item = fail_enrichment  # type: ignore[method-assign]
+    enricher._enrich_item = enrich_item  # type: ignore[method-assign]
 
-    with pytest.raises(RuntimeError, match=item.id):
-        asyncio.run(enricher.enrich_batch([item]))
+    result = asyncio.run(enricher.enrich_batch([successful_item, failed_item]))
+
+    assert result.status == "partial_failure"
+    assert result.succeeded_ids == [successful_item.id]
+    assert result.failed_ids == [failed_item.id]
+    assert result.failures[failed_item.id] == "RuntimeError: AI unavailable"

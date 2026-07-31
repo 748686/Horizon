@@ -2,6 +2,7 @@
 
 import html
 import re
+from dataclasses import dataclass
 from typing import Dict, List, Optional
 from urllib.parse import quote, urlsplit
 
@@ -89,11 +90,104 @@ LABELS = {
 }
 
 
+@dataclass(frozen=True)
+class SummaryItemView:
+    item: ContentItem
+    index: int
+    global_index: int
+    group_count: int
+    title: str
+    score: float | str
+    anchor_id: str
+
+
+@dataclass(frozen=True)
+class SummaryGroupView:
+    profile_id: str
+    name: str
+    items: List[SummaryItemView]
+
+
+@dataclass(frozen=True)
+class DailySummaryView:
+    groups: List[SummaryGroupView]
+    item_count: int
+
+
 class DailySummarizer:
     """Generates daily Markdown summaries from pre-analyzed content items."""
 
-    def __init__(self):
-        pass
+    def __init__(
+        self,
+        profile_names: Optional[Dict[str, Dict[str, str]]] = None,
+    ):
+        self.profile_names = profile_names or {}
+
+    @staticmethod
+    def _profile_id(item: ContentItem) -> str:
+        if item.processing:
+            return item.processing.classification.profile
+        return item.profile or "unclassified"
+
+    def profile_name(self, profile_id: str, language: str) -> str:
+        names = self.profile_names.get(profile_id, {})
+        return names.get(
+            language,
+            names.get(
+                "default",
+                profile_id.replace("-", " ").replace("_", " ").title(),
+            ),
+        )
+
+    def build_view(
+        self,
+        items: List[ContentItem],
+        language: str,
+    ) -> DailySummaryView:
+        grouped_items: Dict[str, List[ContentItem]] = {}
+        for item in items:
+            grouped_items.setdefault(self._profile_id(item), []).append(item)
+
+        groups = []
+        global_index = 1
+        for profile_id, profile_items in grouped_items.items():
+            view_items = []
+            for index, item in enumerate(profile_items, start=1):
+                artifact = (
+                    item.processing.artifacts.get(language)
+                    if item.processing
+                    else None
+                )
+                analysis = item.processing.analysis if item.processing else None
+                view_items.append(
+                    SummaryItemView(
+                        item=item,
+                        index=index,
+                        global_index=global_index,
+                        group_count=len(profile_items),
+                        title=artifact.title if artifact else item.title,
+                        score=(
+                            analysis.score
+                            if analysis and analysis.score is not None
+                            else "?"
+                        ),
+                        anchor_id=self._item_anchor(profile_id, index),
+                    )
+                )
+                global_index += 1
+            groups.append(
+                SummaryGroupView(
+                    profile_id=profile_id,
+                    name=self.profile_name(profile_id, language),
+                    items=view_items,
+                )
+            )
+        return DailySummaryView(groups=groups, item_count=len(items))
+
+    @staticmethod
+    def _item_anchor(profile_id: str, index: int) -> str:
+        safe_profile_id = re.sub(r"[^a-zA-Z0-9_-]+", "-", profile_id).strip("-")
+        return f"item-{safe_profile_id or 'unclassified'}-{index}"
 
     async def generate_summary(
         self,
@@ -126,22 +220,40 @@ class DailySummarizer:
             "---\n\n"
         )
 
-        # TOC
-        toc_entries = []
-        for i, item in enumerate(items):
-            artifact = item.processing.artifacts.get(language) if item.processing else None
-            analysis = item.processing.analysis if item.processing else None
-            _t = artifact.title if artifact else item.title
-            t = _escape_markdown(_t)
+        toc_sections = []
+        body_sections = []
+        view = self.build_view(items, language)
+        for group in view.groups:
+            profile_name = _escape_markdown(group.name)
             if language == "zh":
-                t = _pangu(t)
-            score = analysis.score if analysis and analysis.score is not None else "?"
-            toc_entries.append(f"{i + 1}. [{t}](#item-{i + 1}) \u2b50\ufe0f {score}/10")
-        toc = "\n".join(toc_entries) + "\n\n---\n\n"
+                profile_name = _pangu(profile_name)
+            toc_entries = [f"**{profile_name}**"]
+            for view_item in group.items:
+                title = _escape_markdown(view_item.title)
+                if language == "zh":
+                    title = _pangu(title)
+                toc_entries.append(
+                    f"{view_item.index}. [{title}](#{view_item.anchor_id}) "
+                    f"\u2b50\ufe0f {view_item.score}/10"
+                )
+            toc_sections.append("\n".join(toc_entries))
+            body_sections.append(f"## {profile_name}\n\n")
+            body_sections.extend(
+                self._format_item(
+                    view_item.item,
+                    labels,
+                    language,
+                    view_item.index,
+                    heading_level=3,
+                    anchor_id=view_item.anchor_id,
+                    title_override=view_item.title,
+                    score_override=view_item.score,
+                )
+                for view_item in group.items
+            )
 
-        parts = [self._format_item(item, labels, language, i + 1) for i, item in enumerate(items)]
-
-        return header + toc + "".join(parts)
+        toc = "\n\n".join(toc_sections) + "\n\n---\n\n"
+        return header + toc + "".join(body_sections)
 
     def generate_webhook_overview(
         self,
@@ -159,7 +271,7 @@ class DailySummarizer:
             header = (
                 f"# {labels['header']} - {date}\n\n"
                 f"> 从 {total_fetched} 条内容中筛选出 {len(items)} 条重要资讯。\n\n"
-                "下面会按新闻逐条发送详情，你可以只看感兴趣的标题。\n\n"
+                "下面会按内容逐条发送详情，你可以只看感兴趣的标题。\n\n"
             )
         else:
             header = (
@@ -168,19 +280,26 @@ class DailySummarizer:
                 "Details will be sent item by item so you can read only the topics you care about.\n\n"
             )
 
-        entries = []
-        for i, item in enumerate(items, start=1):
-            artifact = item.processing.artifacts.get(language) if item.processing else None
-            analysis = item.processing.analysis if item.processing else None
-            title = _escape_markdown(artifact.title if artifact else item.title)
+        sections = []
+        view = self.build_view(items, language)
+        for group in view.groups:
+            profile_name = _escape_markdown(group.name)
             if language == "zh":
-                title = _pangu(title)
-            score = analysis.score if analysis and analysis.score is not None else "?"
-            url = _safe_url(item.url)
-            title_link = f"[{title}]({url})" if url else title
-            entries.append(f"{i}. {title_link} \u2b50\ufe0f {score}/10")
+                profile_name = _pangu(profile_name)
+            entries = [f"**{profile_name}**"]
+            for view_item in group.items:
+                title = _escape_markdown(view_item.title)
+                if language == "zh":
+                    title = _pangu(title)
+                url = _safe_url(view_item.item.url)
+                title_link = f"[{title}]({url})" if url else title
+                entries.append(
+                    f"{view_item.index}. {title_link} "
+                    f"\u2b50\ufe0f {view_item.score}/10"
+                )
+            sections.append("\n".join(entries))
 
-        return header + "\n".join(entries)
+        return header + "\n\n".join(sections)
 
     def generate_webhook_item(
         self,
@@ -188,21 +307,48 @@ class DailySummarizer:
         language: str,
         index: int,
         total: int,
+        *,
+        title: Optional[str] = None,
+        score: float | str | None = None,
     ) -> str:
         """Generate one item message for multi-message webhook delivery."""
         labels = LABELS.get(language, LABELS["en"])
         prefix = f"第 {index}/{total} 条\n\n" if language == "zh" else f"Item {index}/{total}\n\n"
-        return prefix + self._format_item(item, labels, language, index).rstrip("-\n ")
+        return prefix + self._format_item(
+            item,
+            labels,
+            language,
+            index,
+            title_override=title,
+            score_override=score,
+        ).rstrip("-\n ")
 
-    def _format_item(self, item: ContentItem, labels: dict, language: str, index: int) -> str:
+    def _format_item(
+        self,
+        item: ContentItem,
+        labels: dict,
+        language: str,
+        index: int,
+        *,
+        heading_level: int = 2,
+        anchor_id: Optional[str] = None,
+        title_override: Optional[str] = None,
+        score_override: float | str | None = None,
+    ) -> str:
         """Format a single ContentItem into Markdown."""
         artifact = item.processing.artifacts.get(language) if item.processing else None
         analysis = item.processing.analysis if item.processing else None
-        _title = artifact.title if artifact else item.title
+        _title = title_override or (artifact.title if artifact else item.title)
         title = _escape_markdown(_title)
         raw_url = str(item.url)
         url = _safe_url(raw_url)
-        score = analysis.score if analysis and analysis.score is not None else "?"
+        score = (
+            score_override
+            if score_override is not None
+            else analysis.score
+            if analysis and analysis.score is not None
+            else "?"
+        )
         meta = item.metadata
 
         summary = artifact.lead if artifact else analysis.summary if analysis else ""
@@ -242,8 +388,8 @@ class DailySummarizer:
         title_link = f"[{title}]({url})" if url else title
 
         lines = [
-            f'<a id="item-{index}"></a>',
-            f"## {title_link} \u2b50\ufe0f {score}/10",  # ⭐️
+            f'<a id="{anchor_id or f"item-{index}"}"></a>',
+            f"{'#' * heading_level} {title_link} \u2b50\ufe0f {score}/10",  # ⭐️
             "",
             summary,
             "",
@@ -257,7 +403,9 @@ class DailySummarizer:
                 if language == "zh":
                     block_title = _pangu(block_title)
                     block_content = _pangu(block_content)
-                lines.extend(["", f"### {block_title}", "", block_content])
+                lines.extend(
+                    ["", f"{'#' * (heading_level + 1)} {block_title}", "", block_content]
+                )
 
         sources = artifact.sources if artifact else []
         if sources:

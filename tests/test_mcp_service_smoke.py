@@ -17,6 +17,7 @@ from src.models import (
     SourceType,
 )
 from src.ai.summarizer import DailySummarizer
+from src.ai.enricher import EnrichmentBatchResult
 from src.mcp.server import hz_get_metrics
 from src.mcp.service import HorizonPipelineService
 from src.orchestrator import (
@@ -260,15 +261,16 @@ def test_filter_items_uses_public_filtering_pipeline_api(tmp_path: Path, monkeyp
     monkeypatch.setattr("src.mcp.service.make_storage", lambda runtime, config_path: object())
 
     class FakeOrchestrator:
-        async def filter_items(self, items, **kwargs):  # type: ignore[no-untyped-def]
+        async def select_digest_items(self, items, **kwargs):  # type: ignore[no-untyped-def]
             assert kwargs == {"threshold": None, "topic_dedup": True, "log": False}
             kept = items[:1]
             return SimpleNamespace(
                 items=kept,
-                threshold_count=2,
-                topic_dedup_count=1,
-                topic_dedup_removed=1,
-                balanced_digest=BalancedDigestResult(items=kept),
+                    threshold_count=2,
+                    topic_dedup_count=1,
+                    topic_dedup_removed=1,
+                    eligible_count=None,
+                    balanced_digest=BalancedDigestResult(items=kept),
             )
 
     monkeypatch.setattr(
@@ -307,15 +309,16 @@ def test_filter_items_applies_balanced_digest(tmp_path: Path, monkeypatch) -> No
     monkeypatch.setattr("src.mcp.service.make_storage", lambda runtime, config_path: object())
 
     class FakeOrchestrator:
-        async def filter_items(self, items, **kwargs):  # type: ignore[no-untyped-def]
+        async def select_digest_items(self, items, **kwargs):  # type: ignore[no-untyped-def]
             assert kwargs == {"threshold": None, "topic_dedup": False, "log": False}
             kept = items[:1]
             return SimpleNamespace(
                 items=kept,
-                threshold_count=2,
-                topic_dedup_count=2,
-                topic_dedup_removed=0,
-                balanced_digest=BalancedDigestResult(
+                    threshold_count=2,
+                    topic_dedup_count=2,
+                    topic_dedup_removed=0,
+                    eligible_count=None,
+                    balanced_digest=BalancedDigestResult(
                     items=kept,
                     enabled=True,
                     group_counts={"other": 1},
@@ -342,7 +345,10 @@ def test_filter_items_matches_native_filtering_pipeline(tmp_path: Path, monkeypa
     monkeypatch.setattr(service, "_profiles", lambda ctx: PROFILES)
     service.run_store.create_run("run-parity")
     filtering = DigestConfig(max_items=1)
-    config = SimpleNamespace(digest=filtering)
+    config = SimpleNamespace(
+        digest=filtering,
+        sources=SimpleNamespace(twitter=None),
+    )
     items = [
         make_item("mid", score=8.0),
         make_item("top", score=10.0),
@@ -363,7 +369,9 @@ def test_filter_items_matches_native_filtering_pipeline(tmp_path: Path, monkeypa
         return orchestrator
 
     native_result = asyncio.run(
-        make_filtering_orchestrator().filter_items(items, topic_dedup=True, log=False)
+        make_filtering_orchestrator().select_digest_items(
+            items, topic_dedup=True, log=False
+        )
     )
     monkeypatch.setattr(
         service,
@@ -405,6 +413,7 @@ def test_generate_summary_persists_informative_empty_summary(
     tmp_path: Path, monkeypatch
 ) -> None:
     service = HorizonPipelineService(runs_root=tmp_path / "mcp-runs")
+    monkeypatch.setattr(service, "_profiles", lambda ctx: PROFILES)
     service.run_store.create_run("run-empty")
     service.run_store.save_items("run-empty", "raw", [])
     service.run_store.save_items("run-empty", "filtered", [])
@@ -481,29 +490,132 @@ def test_run_pipeline_skips_enrichment_when_filter_is_empty(
     assert [summary["preview"] for summary in result["summaries"]] == ["", ""]
 
 
+def test_run_pipeline_uses_filtered_stage_when_all_enrichment_fails(
+    tmp_path: Path, monkeypatch
+) -> None:
+    service = HorizonPipelineService(runs_root=tmp_path / "mcp-runs")
+    calls: list[str] = []
+
+    async def fetch_items(**kwargs):  # type: ignore[no-untyped-def]
+        return {"run_id": "run-failed-enrichment"}
+
+    async def score_items(**kwargs):  # type: ignore[no-untyped-def]
+        return {"scored": 1}
+
+    async def filter_items(**kwargs):  # type: ignore[no-untyped-def]
+        return {"kept": 1}
+
+    async def enrich_items(**kwargs):  # type: ignore[no-untyped-def]
+        return {"status": "failure", "enriched": 0, "failed": 1}
+
+    async def generate_summary(**kwargs):  # type: ignore[no-untyped-def]
+        calls.append(kwargs["source_stage"])
+        return {"items_used": 1, "preview": "analysis-only"}
+
+    monkeypatch.setattr(service, "fetch_items", fetch_items)
+    monkeypatch.setattr(service, "score_items", score_items)
+    monkeypatch.setattr(service, "filter_items", filter_items)
+    monkeypatch.setattr(service, "enrich_items", enrich_items)
+    monkeypatch.setattr(service, "generate_summary", generate_summary)
+    monkeypatch.setattr(
+        service,
+        "_build_context",
+        lambda **kwargs: (
+            SimpleNamespace(config=SimpleNamespace(ai=SimpleNamespace(languages=["zh"]))),
+            [],
+            [],
+        ),
+    )
+    monkeypatch.setattr(service.run_store, "load_meta", lambda run_id: {})
+
+    result = asyncio.run(service.run_pipeline())
+
+    assert calls == ["filtered"]
+    assert result["enrich"]["status"] == "failure"
+
+
 def test_enrich_items_propagates_batch_failure(tmp_path: Path, monkeypatch) -> None:
     service = HorizonPipelineService(runs_root=tmp_path / "mcp-runs")
     item = make_item("failed", score=9.0)
 
-    class FailingEnricher:
-        def __init__(self, *args, **kwargs) -> None:  # type: ignore[no-untyped-def]
-            pass
-
-        async def enrich_batch(self, items) -> None:  # type: ignore[no-untyped-def]
+    class FailingOrchestrator:
+        async def enrich_items(self, items) -> None:  # type: ignore[no-untyped-def]
             raise RuntimeError("enrichment failed")
 
     ctx = SimpleNamespace(
-        runtime=SimpleNamespace(
-            create_ai_client=lambda config: SimpleNamespace(),
-            ContentEnricher=FailingEnricher,
-        ),
+        runtime=SimpleNamespace(),
         config=SimpleNamespace(ai=SimpleNamespace(languages=["en"])),
     )
     monkeypatch.setattr(service, "_load_stage_items", lambda **kwargs: ([item], ctx))
-    monkeypatch.setattr(service, "_profiles", lambda loaded_ctx: PROFILES)
+    monkeypatch.setattr(service, "_orchestrator", lambda loaded_ctx: FailingOrchestrator())
 
     with pytest.raises(RuntimeError, match="enrichment failed"):
         asyncio.run(service.enrich_items("run-failed"))
+
+
+def test_enrich_items_reports_partial_failure_truthfully(
+    tmp_path: Path, monkeypatch
+) -> None:
+    service = HorizonPipelineService(runs_root=tmp_path / "mcp-runs")
+    service.run_store.create_run("run-partial")
+    successful_item = make_item("successful", score=9.0)
+    failed_item = make_item("failed", score=8.0)
+
+    class PartiallyFailingOrchestrator:
+        async def enrich_items(self, items):  # type: ignore[no-untyped-def]
+            return EnrichmentBatchResult(
+                succeeded_ids=[successful_item.id],
+                failures={failed_item.id: "ValueError: empty story"},
+            )
+
+    ctx = SimpleNamespace(
+        runtime=SimpleNamespace(),
+        config=SimpleNamespace(ai=SimpleNamespace(languages=["en"])),
+    )
+    monkeypatch.setattr(
+        service,
+        "_load_stage_items",
+        lambda **kwargs: ([successful_item, failed_item], ctx),
+    )
+    monkeypatch.setattr(
+        service,
+        "_orchestrator",
+        lambda loaded_ctx: PartiallyFailingOrchestrator(),
+    )
+
+    result = asyncio.run(service.enrich_items("run-partial"))
+
+    assert result["status"] == "partial_failure"
+    assert result["enriched"] == 1
+    assert result["failed"] == 1
+    assert result["failed_ids"] == [failed_item.id]
+    assert result["meta"]["enrichment_status"] == "partial_failure"
+    assert result["meta"]["enriched_count"] == 1
+    assert len(service.run_store.load_items("run-partial", "enriched")) == 2
+
+
+def test_enrich_items_does_not_create_stage_when_all_items_fail(
+    tmp_path: Path, monkeypatch
+) -> None:
+    service = HorizonPipelineService(runs_root=tmp_path / "mcp-runs")
+    service.run_store.create_run("run-all-failed")
+    item = make_item("failed", score=8.0)
+
+    class FailingOrchestrator:
+        async def enrich_items(self, items):  # type: ignore[no-untyped-def]
+            return EnrichmentBatchResult(
+                failures={item.id: "ValueError: empty story"}
+            )
+
+    ctx = SimpleNamespace(runtime=SimpleNamespace(), config=SimpleNamespace())
+    monkeypatch.setattr(service, "_load_stage_items", lambda **kwargs: ([item], ctx))
+    monkeypatch.setattr(service, "_orchestrator", lambda loaded_ctx: FailingOrchestrator())
+
+    result = asyncio.run(service.enrich_items("run-all-failed"))
+
+    assert result["status"] == "failure"
+    assert result["artifact"] is None
+    assert service.run_store.has_stage("run-all-failed", "enriched") is False
 
 
 def test_send_webhook_reports_delivery_failure_truthfully(

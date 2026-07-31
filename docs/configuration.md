@@ -29,6 +29,29 @@ mkdir -p /etc/horizon
 cp data/config.example.json /etc/horizon/config.json
 ```
 
+## Terminal Icons
+
+The `display.icon_style` setting controls icons printed to the terminal:
+
+```json
+{
+  "display": {
+    "icon_style": "nerd"
+  }
+}
+```
+
+Supported styles:
+
+| Value | Description |
+| --- | --- |
+| `emoji` | Color emoji icons. This is the default when `display` is omitted. |
+| `nerd` | Monochrome Nerd Font icons. Requires a Nerd Font in the terminal. |
+| `ascii` | ASCII-only markers for terminals without Unicode icon support. |
+
+This setting affects terminal output only. Icons embedded in generated Markdown
+and webhook message content are unchanged.
+
 ## Processing Profiles
 
 The `processing` section controls profile discovery and the fallback used when
@@ -746,6 +769,10 @@ When `delivery` is `summary_and_items`, item messages also include:
 |----------|-------------|
 | `#{item_index}` | 1-based item number |
 | `#{item_count}` | Total number of item messages |
+| `#{profile_item_index}` | 1-based item number within the current Profile |
+| `#{profile_item_count}` | Number of item messages in the current Profile |
+| `#{item_profile}` | Current Profile ID |
+| `#{item_profile_name}` | Localized current Profile name |
 | `#{item_title}` | Current item title |
 | `#{item_url}` | Current item URL |
 | `#{item_score}` | Current item analysis score |
