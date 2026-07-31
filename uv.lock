@@ -1112,6 +1112,7 @@ dependencies = [
     { name = "python-dotenv" },
     { name = "rich" },
     { name = "tenacity" },
+    { name = "trafilatura" },
 ]
 
 [package.optional-dependencies]
@@ -1122,9 +1123,6 @@ dev = [
 openbb = [
     { name = "openbb" },
     { name = "openbb-benzinga" },
-]
-trafilatura = [
-    { name = "trafilatura" },
 ]
 twitter = [
     { name = "playwright" },
@@ -1153,9 +1151,9 @@ requires-dist = [
     { name = "python-dotenv", specifier = ">=1.0.0" },
     { name = "rich", specifier = ">=13.9.0" },
     { name = "tenacity", specifier = ">=9.0.0" },
-    { name = "trafilatura", marker = "extra == 'trafilatura'", specifier = ">=2.1.0" },
+    { name = "trafilatura", specifier = ">=2.1.0" },
 ]
-provides-extras = ["dev", "openbb", "twitter", "trafilatura"]
+provides-extras = ["dev", "openbb", "twitter"]
 
 [[package]]
 name = "hpack"
