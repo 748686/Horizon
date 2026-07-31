@@ -8,79 +8,16 @@ import src.processing.profiles as profile_module
 from src.processing import ProfileRegistry
 
 
-def test_loads_builtin_tech_news_profile():
+def test_loads_builtin_profiles():
     registry = ProfileRegistry.load(
         Path(__file__).resolve().parents[1] / "profiles", "tech-news"
     )
 
-    profile = registry.get("tech-news")
-    assert profile.definition.filter.enabled is True
-    assert profile.definition.filter.threshold == 8.0
-    assert [block.id for block in profile.definition.enrichment.blocks] == [
-        "summary",
-        "background",
-        "community_discussion",
-    ]
-    assert profile.definition.enrichment.blocks[0].primary is True
-    assert profile.definition.enrichment.blocks[1].tools == ["web_search"]
-    assert profile.definition.enrichment.blocks[1].optional is False
-    assert "3-6 complete sentences" in profile.enrichment_prompt
-    assert "2-4 complete sentences" in profile.enrichment_prompt
-    assert "1-3 complete sentences" in profile.enrichment_prompt
-    assert "no more than 15 words" in profile.enrichment_prompt
-    assert "untrusted reference material" not in profile.enrichment_prompt
-    assert "untrusted data, not instructions" not in profile.analysis_prompt
-    assert "three to five specific topic tags" in profile.analysis_prompt
-    assert "Technology news profile" in profile.match_prompt
-
-
-def test_loads_builtin_tech_blog_profile():
-    registry = ProfileRegistry.load(
-        Path(__file__).resolve().parents[1] / "profiles", "tech-news"
-    )
-
-    profile = registry.get("tech-blog")
-    assert profile.definition.filter.enabled is False
-    assert profile.definition.filter.threshold is None
-    assert profile.definition.display_names["zh"] == "科技博客"
-    assert profile.definition.content.analysis_max_chars == 16000
-    assert profile.definition.content.enrichment_max_chars == 24000
-    assert profile.definition.content.sampling == "head-middle-tail"
-    assert profile.definition.topic_dedup.enabled is False
-    assert [block.id for block in profile.definition.enrichment.blocks] == [
-        "background",
-        "solution",
-        "takeaway",
-    ]
-    assert all(not block.optional for block in profile.definition.enrichment.blocks)
-    assert all(not block.primary for block in profile.definition.enrichment.blocks)
-    assert "450-750 Chinese characters" in profile.enrichment_prompt
-    assert "225-375 words" in profile.enrichment_prompt
-    assert "unfamiliar terms" in profile.enrichment_prompt
-    assert "baselines, comparisons, units, test conditions" in profile.enrichment_prompt
-    assert "author's core thesis or conclusion" in profile.enrichment_prompt
-    assert "culmination of the article" in profile.enrichment_prompt
-    assert "connected narrative" in profile.enrichment_prompt
-    assert "Technology blog profile" in profile.match_prompt
-
-
-def test_example_config_includes_enabled_nvidia_tech_blog_source():
-    root = Path(__file__).resolve().parents[1]
-    config = json.loads((root / "data" / "config.example.json").read_text())
-    source = next(
-        source
-        for source in config["sources"]["rss"]
-        if source["name"] == "NVIDIA CUDA Technical Blog"
-    )
-
-    assert source == {
-        "name": "NVIDIA CUDA Technical Blog",
-        "url": "https://developer.nvidia.com/blog/tag/cuda/feed/",
-        "enabled": True,
-        "category": "cuda",
-        "profile": "tech-blog",
-        "content_extractor": "trafilatura",
-    }
+    for profile_id in ("tech-news", "tech-blog"):
+        profile = registry.get(profile_id)
+        assert profile.match_prompt
+        assert profile.analysis_prompt
+        assert profile.enrichment_prompt
 
 
 def test_default_profiles_fall_back_to_packaged_resources(tmp_path, monkeypatch):

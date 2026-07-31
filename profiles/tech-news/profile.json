@@ -8,7 +8,7 @@
   "analysis": "analysis.md",
   "filter": {
     "enabled": true,
-    "threshold": 8.0
+    "threshold": 7.0
   },
   "enrichment": {
     "prompt": "enrichment.md",
