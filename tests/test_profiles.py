@@ -47,7 +47,7 @@ def test_loads_builtin_tech_blog_profile():
     assert profile.definition.topic_dedup.enabled is False
     assert [block.id for block in profile.definition.enrichment.blocks] == ["story"]
     assert profile.definition.enrichment.blocks[0].tools == []
-    assert "500-900 Chinese characters" in profile.enrichment_prompt
+    assert "300-500 Chinese characters" in profile.enrichment_prompt
     assert "Technology blog profile" in profile.match_prompt
 
 

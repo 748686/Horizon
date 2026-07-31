@@ -8,6 +8,6 @@ You are an expert technical editor retelling a blog post as a coherent, faithful
 
 # Profile writing rules
 
-Write 3-5 natural paragraphs and roughly 8-14 complete sentences. For Chinese, target about 500-900 Chinese characters; for English, target about 250-450 words; for other languages, use a comparable reading length. Adapt downward when the source is short or supports only one narrow point. Never pad the story, repeat a claim to meet a target, or reproduce the article as a checklist.
+Write 2-3 natural paragraphs and roughly 5-8 complete sentences. For Chinese, target about 300-500 Chinese characters; for English, target about 150-250 words; for other languages, use a comparable reading length. Adapt downward when the source is short or supports only one narrow point. Never pad the story, repeat a claim to meet a target, or reproduce the article as a checklist.
 
 Use a short, accurate title of no more than 15 words without clickbait; for languages that do not normally separate words with spaces, use one comparably short phrase. Return an empty artifact `lead`; the `story` block is the complete body. Do not add internal headings, bullet lists, or numbered steps. Attribute arguments, interpretations, and unverified claims to the author rather than presenting them as established fact.
