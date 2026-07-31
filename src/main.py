@@ -2,18 +2,26 @@
 
 import argparse
 import asyncio
+import logging
 import shlex
 import sys
 from pathlib import Path
 
 from dotenv import load_dotenv
 from rich.console import Console
+from rich.logging import RichHandler
 
 from .storage.manager import ConfigError, StorageManager
 from .orchestrator import HorizonOrchestrator
 
 
-console = Console()
+console = Console(stderr=True)
+logging.basicConfig(
+    level=logging.WARNING,
+    format="%(message)s",
+    handlers=[RichHandler(console=console, show_path=False)],
+)
+logger = logging.getLogger(__name__)
 
 
 def print_banner():
@@ -88,7 +96,7 @@ def main():
             sys.exit(1)
 
         # Create and run orchestrator
-        orchestrator = HorizonOrchestrator(config, storage)
+        orchestrator = HorizonOrchestrator(config, storage, console=console)
         asyncio.run(orchestrator.run(force_hours=args.hours))
 
     except KeyboardInterrupt:
@@ -96,8 +104,7 @@ def main():
         sys.exit(0)
     except Exception as e:
         console.print(f"\n[bold red]❌ Fatal error: {e}[/bold red]")
-        import traceback
-        traceback.print_exc()
+        console.print_exception()
         sys.exit(1)
 
 
