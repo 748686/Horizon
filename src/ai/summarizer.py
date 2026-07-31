@@ -351,13 +351,18 @@ class DailySummarizer:
         )
         meta = item.metadata
 
-        summary = artifact.lead if artifact else analysis.summary if analysis else ""
+        summary = analysis.summary if not artifact and analysis else ""
+        primary_block = artifact.blocks[0] if artifact and artifact.blocks else None
 
         summary = _escape_markdown(summary)
+        primary_content = (
+            _escape_markdown(primary_block.content) if primary_block else ""
+        )
 
         if language == "zh":
             title = _pangu(title)
             summary = _pangu(summary)
+            primary_content = _pangu(primary_content)
 
         # Source line with parts joined by " · ", link appended at end
         source_type = item.source_type.value
@@ -390,14 +395,15 @@ class DailySummarizer:
         lines = [
             f'<a id="{anchor_id or f"item-{index}"}"></a>',
             f"{'#' * heading_level} {title_link} \u2b50\ufe0f {score}/10",  # ⭐️
-            "",
-            summary,
-            "",
-            source_line,
         ]
+        if summary.strip():
+            lines.extend(["", summary])
+        if primary_content.strip():
+            lines.extend(["", primary_content])
+        lines.extend(["", source_line])
 
         if artifact:
-            for block in artifact.blocks:
+            for block in artifact.blocks[1:]:
                 block_title = _escape_markdown(block.title)
                 block_content = _escape_markdown(block.content)
                 if language == "zh":

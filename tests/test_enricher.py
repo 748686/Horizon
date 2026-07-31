@@ -87,7 +87,6 @@ def test_enrichment_generates_blocks_and_validated_sources():
             json.dumps(
                 {
                     "title": "新架构发布",
-                    "lead": "",
                     "blocks": [
                         {
                             "id": "summary",
@@ -111,7 +110,6 @@ def test_enrichment_generates_blocks_and_validated_sources():
             json.dumps(
                 {
                     "title": "",
-                    "lead": "",
                     "block": {
                         "id": "background",
                         "type": "section",
@@ -205,7 +203,6 @@ def test_enrichment_repairs_malformed_tool_plan_once():
             json.dumps(
                 {
                     "title": "Technical release",
-                    "lead": "",
                     "blocks": [
                         {
                             "id": "summary",
@@ -213,6 +210,14 @@ def test_enrichment_repairs_malformed_tool_plan_once():
                             "role": "summary",
                             "title": "Summary",
                             "content": "A complete summary.",
+                            "source_refs": [],
+                        },
+                        {
+                            "id": "background",
+                            "type": "section",
+                            "role": "background",
+                            "title": "Background",
+                            "content": "Context for the release.",
                             "source_refs": [],
                         }
                     ],
@@ -237,6 +242,7 @@ def test_enrichment_repairs_malformed_tool_plan_once():
     asyncio.run(enricher._enrich_item(item))
 
     assert len(requests) == 3
+    assert all(request["temperature"] == 0 for request in requests)
     assert requests[1]["temperature"] == 0
     assert item.processing.artifacts["en"].blocks[0].id == "summary"
 
@@ -247,7 +253,6 @@ def test_enrichment_repairs_empty_story_once():
             json.dumps(
                 {
                     "title": "A technical story",
-                    "lead": "",
                     "blocks": [
                         {
                             "id": "story",
@@ -263,7 +268,6 @@ def test_enrichment_repairs_empty_story_once():
             json.dumps(
                 {
                     "title": "A technical story",
-                    "lead": "",
                     "blocks": [
                         {
                             "id": "story",
@@ -307,7 +311,6 @@ def test_failed_reenrichment_removes_stale_target_artifact():
         return json.dumps(
             {
                 "title": "A technical story",
-                "lead": "",
                 "blocks": [
                     {
                         "id": "story",

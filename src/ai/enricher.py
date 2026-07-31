@@ -4,7 +4,7 @@ import asyncio
 import json
 import logging
 from dataclasses import dataclass, field
-from typing import Any, Optional, TypeVar
+from typing import Any, Callable, Optional, TypeVar
 
 from pydantic import BaseModel, Field, ValidationError, field_validator, model_validator
 from rich.console import Console
@@ -49,7 +49,6 @@ class ToolPlan(BaseModel):
 
 class GeneratedArtifact(BaseModel):
     title: str
-    lead: str = ""
     blocks: list[ContentBlock]
 
     @model_validator(mode="after")
@@ -64,7 +63,6 @@ class GeneratedArtifact(BaseModel):
 
 class GeneratedBlock(BaseModel):
     title: str = ""
-    lead: str = ""
     block: Optional[ContentBlock] = None
 
     @model_validator(mode="after")
@@ -155,17 +153,23 @@ class ContentEnricher:
         system: str,
         user: str,
         error_message: str,
+        validator: Optional[Callable[[ModelT], None]] = None,
     ) -> ModelT:
-        validation_error: Optional[ValidationError] = None
+        validation_error: Optional[Exception] = None
         for attempt in range(2):
-            request: dict[str, Any] = {"system": system, "user": user}
-            if attempt:
-                request["temperature"] = 0
+            request: dict[str, Any] = {
+                "system": system,
+                "user": user,
+                "temperature": 0,
+            }
             response = await self._complete(**request)
             parsed = parse_json_response(response)
             try:
-                return model.model_validate(parsed)
-            except ValidationError as exc:
+                result = model.model_validate(parsed)
+                if validator:
+                    validator(result)
+                return result
+            except (ValidationError, ValueError) as exc:
                 validation_error = exc
                 user += (
                     "\n\nYour previous response did not satisfy the output contract. "
@@ -233,7 +237,6 @@ class ContentEnricher:
             artifacts[language] = ContentArtifact(
                 language=language,
                 title=generated.title,
-                lead=generated.lead,
                 blocks=generated.blocks,
                 sources=[source for source in sources.values() if source.id in referenced],
             )
@@ -272,7 +275,7 @@ class ContentEnricher:
 
         plan = await self._complete_model(
             ToolPlan,
-            system=tool_planning_prompt(allowed),
+            system=tool_planning_prompt(profile.definition.enrichment.blocks),
             user=item_context(item, profile, include_content=True),
             error_message="Invalid enrichment tool plan",
         )
@@ -313,10 +316,21 @@ class ContentEnricher:
             block for block in configured_blocks if block.id not in result_block_ids
         ]
         title = ""
-        lead = ""
         generated_by_id: dict[str, ContentBlock] = {}
 
         if base_blocks:
+            required_base_ids = {
+                block.id for block in base_blocks if not block.optional
+            }
+
+            def validate_required_blocks(generated: GeneratedArtifact) -> None:
+                generated_ids = {block.id for block in generated.blocks}
+                missing = required_base_ids - generated_ids
+                if missing:
+                    raise ValueError(
+                        "missing required blocks: " + ", ".join(sorted(missing))
+                    )
+
             generated = await self._complete_model(
                 GeneratedArtifact,
                 system=artifact_prompt(profile, language, base_blocks),
@@ -325,9 +339,9 @@ class ContentEnricher:
                     + "\n\n# Tool results\n\nNo tool results are available to these blocks."
                 ),
                 error_message="Invalid enrichment artifact",
+                validator=validate_required_blocks,
             )
             title = generated.title.strip()
-            lead = generated.lead.strip()
             allowed_ids = {block.id for block in base_blocks}
             configured_ids = {block.id for block in configured_blocks}
             for generated_block in generated.blocks:
@@ -377,7 +391,6 @@ class ContentEnricher:
 
             if not title:
                 title = generated.title.strip()
-                lead = generated.lead.strip()
             if generated.block is None:
                 if not block.optional:
                     raise ValueError(f"Artifact is missing required block: {block.id}")
@@ -395,7 +408,7 @@ class ContentEnricher:
             for block in configured_blocks
             if block.id in generated_by_id
         ]
-        return GeneratedArtifact(title=title, lead=lead, blocks=blocks)
+        return GeneratedArtifact(title=title, blocks=blocks)
 
     @staticmethod
     def _sources_from_tool_results(

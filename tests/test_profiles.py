@@ -22,6 +22,7 @@ def test_loads_builtin_tech_news_profile():
         "community_discussion",
     ]
     assert profile.definition.enrichment.blocks[1].tools == ["web_search"]
+    assert profile.definition.enrichment.blocks[1].optional is False
     assert "3-6 complete sentences" in profile.enrichment_prompt
     assert "2-4 complete sentences" in profile.enrichment_prompt
     assert "1-3 complete sentences" in profile.enrichment_prompt

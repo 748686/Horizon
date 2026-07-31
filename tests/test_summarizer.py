@@ -44,7 +44,13 @@ def _make_item(idx: int) -> ContentItem:
                 language: ContentArtifact(
                     language=language,
                     title=f"Important Item {idx}",
-                    lead=f"Summary for item {idx}.",
+                    blocks=[
+                        ContentBlock(
+                            id="summary",
+                            title="Summary",
+                            content=f"Summary for item {idx}.",
+                        )
+                    ],
                 )
                 for language in ("en", "zh")
             },
@@ -178,6 +184,43 @@ def test_generate_summary_groups_items_by_profile_with_heading_hierarchy():
     assert "### [Important Item 2]" in result
 
 
+def test_generate_summary_renders_primary_block_before_source_without_heading():
+    item = _make_item(1)
+    item.processing.artifacts["en"] = ContentArtifact(
+        language="en",
+        title="Important Item 1",
+        blocks=[
+            ContentBlock(
+                id="summary",
+                title="Summary",
+                content="Primary explanation.",
+            ),
+            ContentBlock(
+                id="background",
+                title="Background",
+                content="Supporting context.",
+            ),
+        ],
+    )
+
+    result = _run_async(
+        DailySummarizer().generate_summary(
+            [item],
+            date="2026-04-25",
+            total_fetched=1,
+            language="en",
+        )
+    )
+
+    assert "#### Summary" not in result
+    assert result.index("Primary explanation.") < result.index(
+        "rss · tester · Apr 25, 08:00"
+    )
+    assert result.index("rss · tester · Apr 25, 08:00") < result.index(
+        "#### Background"
+    )
+
+
 def test_generate_summary_renumbers_interleaved_profiles_and_localizes_headings():
     first_news = _make_item(1)
     blog = _make_item(2)
@@ -236,8 +279,12 @@ def test_generate_summary_escapes_untrusted_text_in_all_output_contexts():
     item.processing.artifacts["en"] = ContentArtifact(
         language="en",
         title=item.title,
-        lead='<img src=x onerror="alert(1)"> **summary**',
         blocks=[
+            ContentBlock(
+                id="summary",
+                title="Summary",
+                content='<img src=x onerror="alert(1)"> **summary**',
+            ),
             ContentBlock(
                 id="background",
                 title="Background",
