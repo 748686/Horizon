@@ -9,7 +9,7 @@ Horizon is configured through a `.env` file for secrets, a JSON file for runtime
 
 ## Configuration Paths
 
-The CLI resolves configuration and state paths as follows:
+`horizon`, `horizon-wizard`, and `horizon-webhook` all resolve configuration and state paths the same way:
 
 | Option | Effect |
 | --- | --- |
@@ -22,12 +22,28 @@ uv run horizon --config /etc/horizon/config.json
 uv run horizon --data-dir /srv/horizon --config /etc/horizon/config.json
 ```
 
-When both options are present, configuration is loaded from `--config`, while summaries and subscribers remain under `--data-dir`. The setup wizard writes the default `data/config.json`; initialize a custom location manually:
+When both options are present, configuration is loaded from `--config`, while summaries and subscribers remain under `--data-dir`. Because this logic is identical across all three CLIs, passing the same `-d`/`-c` flags to each one keeps them pointed at the same files — for example, generating a config with `horizon-wizard --data-dir /srv/horizon`, then running `horizon --data-dir /srv/horizon` and testing with `horizon-webhook --data-dir /srv/horizon`.
+
+Without either flag, all three default to `data/config.json`. To bootstrap a custom location without the wizard, initialize it manually:
 
 ```bash
 mkdir -p /etc/horizon
 cp data/config.example.json /etc/horizon/config.json
 ```
+
+## Interactive Wizard
+
+`horizon-wizard` asks about your interests and generates `data/config.json` from matched presets and, optionally, AI recommendations:
+
+```bash
+uv run horizon-wizard
+```
+
+| Option | Default | Description |
+|--------|---------|-------------|
+| `-d`, `--data-dir PATH` | `data` | Path to the data directory |
+| `-c`, `--config PATH` | `<data-dir>/config.json` | Path to config file |
+| `-l`, `--log-level LEVEL` | `WARNING` | Logging level (DEBUG/INFO/WARNING/ERROR/CRITICAL) |
 
 ## Terminal Icons
 
@@ -731,23 +747,6 @@ Webhook notification is optional and disabled unless `webhook.enabled` is `true`
 
 When `request_body` is a JSON object or array, Horizon renders placeholders and serializes it as JSON. When it is a string, Horizon renders it directly and detects JSON if the rendered string is valid JSON.
 
-### Testing
-
-Use `horizon-webhook` to preview or send a test notification without running the full pipeline:
-
-```bash
-uv run horizon-webhook --dry-run
-```
-
-| Option | Default | Description |
-|--------|---------|-------------|
-| `--lang LANG` | first configured language | Language to test |
-| `--dry-run` | off | Preview rendered content without sending |
-| `--delivery {summary,summary_and_items}` | value from config | Override delivery mode for this test |
-| `--data-dir PATH`, `-d` | `data` | Path to the data directory |
-| `--config PATH`, `-c` | `<data-dir>/config.json` | Path to config file |
-| `--log-level LEVEL`, `-l` | `WARNING` | Logging level (DEBUG/INFO/WARNING/ERROR/CRITICAL) |
-
 ### Delivery Modes And Layouts
 
 `delivery` controls how many webhook messages Horizon sends:
@@ -891,6 +890,24 @@ With this layout, Horizon sends one interactive card containing the overview and
 }
 ```
 
+### Testing
+
+Use `horizon-webhook` to preview or send a test notification without running the full pipeline:
+
+```bash
+uv run horizon-webhook --dry-run
+```
+
+| Option | Default | Description |
+|--------|---------|-------------|
+| `--lang LANG` | first configured language | Language to test |
+| `--dry-run` | off | Preview rendered content without sending |
+| `--delivery {summary,summary_and_items}` | value from config | Override delivery mode for this test |
+| `-d`, `--data-dir PATH` | `data` | Path to the data directory |
+| `-c`, `--config PATH` | `<data-dir>/config.json` | Path to config file |
+| `-l`, `--log-level LEVEL` | `WARNING` | Logging level (DEBUG/INFO/WARNING/ERROR/CRITICAL) |
+
+
 ## Static Site
 
 Horizon writes generated summaries to `data/summaries/` (or `<data-dir>/summaries/` when `--data-dir` is set) and copies publishable Markdown into `docs/` for the GitHub Pages site. The repository includes a ready-to-use workflow at `.github/workflows/daily-summary.yml`.
@@ -904,10 +921,6 @@ Horizon includes an MCP server for AI assistants and MCP-compatible clients.
 ```bash
 uv run horizon-mcp
 ```
-
-| Option | Default | Description |
-|--------|---------|-------------|
-| `--log-level LEVEL`, `-l` | `WARNING` | Logging level (DEBUG/INFO/WARNING/ERROR/CRITICAL) |
 
 Available tools include `hz_validate_config`, `hz_fetch_items`, `hz_score_items`, `hz_filter_items`, `hz_enrich_items`, `hz_generate_summary`, and `hz_run_pipeline`.
 

@@ -217,16 +217,8 @@ uv pip install --only-binary=:all: openbb openbb-benzinga
 git clone https://github.com/Thysrael/Horizon.git
 cd horizon
 
-# 配置环境
-cp .env.example .env
-cp data/config.example.json data/config.json
-# 编辑 .env 和 data/config.json，填入你的 API 密钥和偏好设置
-
 # 可选：首次运行前构建逗号分隔的 extras
 docker compose build --build-arg EXTRAS=trafilatura horizon
-
-# 使用 Docker Compose 运行（可用选项见第 3 步）
-docker compose run --rm horizon [OPTIONS]
 ```
 
 多个 extra 可写为 `EXTRAS=trafilatura,openbb`。`twitter` extra 还需要 Playwright 浏览器及系统依赖，当前 Dockerfile 不会安装这些组件。
@@ -239,13 +231,7 @@ docker compose run --rm horizon [OPTIONS]
 uv run horizon-wizard
 ```
 
-| 选项 | 默认值 | 说明 |
-|--------|---------|-------------|
-| `--data-dir PATH`, `-d` | `data` | 数据目录路径 |
-| `--config PATH`, `-c` | `<data-dir>/config.json` | 配置文件路径 |
-| `--log-level LEVEL`, `-l` | `WARNING` | 日志级别（DEBUG/INFO/WARNING/ERROR/CRITICAL）|
-
-向导会询问你的兴趣（如"LLM 推理"、"嵌入式"、"web 安全"），自动推荐并生成 `data/config.json`，还可选让 AI 补充推荐小众源。若你想分享信息源，请前往 [horizon1123.top](https://horizon1123.top/)。
+向导会询问你的兴趣（如"LLM 推理"、"嵌入式"、"web 安全"），自动推荐并生成 `data/config.json`，还可选让 AI 补充推荐小众源。若你想分享信息源，请前往 [horizon1123.top](https://horizon1123.top/)。CLI 选项见[交互式向导](docs/configuration.md#interactive-wizard)。
 
 **方式 B：手动配置**
 
@@ -330,8 +316,6 @@ cp data/config.example.json data/config.json  # 自定义信息源
 uv run horizon [OPTIONS]
 ```
 
-`--data-dir` 会更改状态目录，包括日报、订阅者文件和默认配置位置；`--config` 只更改配置文件。两处位置都要修改时需同时使用两个参数。配置向导固定写入 `data/config.json`，使用自定义路径时请从 `data/config.example.json` 手动初始化。
-
 **B. Docker**
 
 ```bash
@@ -341,11 +325,11 @@ docker compose run --rm horizon [OPTIONS]
 | 选项 | 默认值 | 说明 |
 |--------|---------|-------------|
 | `--hours N` | 24 | 抓取最近 N 小时的内容 |
-| `--data-dir PATH`, `-d` | `data` | 数据目录路径 |
-| `--config PATH`, `-c` | `<data-dir>/config.json` | 配置文件路径 |
-| `--log-level LEVEL`, `-l` | `WARNING` | 日志级别（DEBUG/INFO/WARNING/ERROR/CRITICAL）|
+| `-d`, `--data-dir PATH` | `data` | 数据目录路径 |
+| `-c`, `--config PATH` | `<data-dir>/config.json` | 配置文件路径 |
+| `-l`, `--log-level LEVEL` | `WARNING` | 日志级别（DEBUG/INFO/WARNING/ERROR/CRITICAL）|
 
-生成的日报将保存在 `data/summaries/` 目录中（如设置了 `--data-dir`，则保存在 `<data-dir>/summaries/`）。
+`--data-dir` 会更改状态目录，包括日报、订阅者文件和默认配置位置；`--config` 只更改配置文件。生成的日报将保存在 `data/summaries/` 目录中（如设置了 `--data-dir`，则保存在 `<data-dir>/summaries/`）。两处位置都要修改，或需要初始化自定义配置位置时，请查看[配置路径](docs/configuration.md#configuration-paths)。
 
 ### 4. 自动化（可选）
 

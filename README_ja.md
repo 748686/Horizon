@@ -209,16 +209,8 @@ uv pip install --only-binary=:all: openbb openbb-benzinga
 git clone https://github.com/Thysrael/Horizon.git
 cd Horizon
 
-# 環境を設定
-cp .env.example .env
-cp data/config.example.json data/config.json
-# .env と data/config.json をAPIキーや好みに合わせて編集
-
 # オプション: 初回実行前にカンマ区切りのextrasを含めてビルド
 docker compose build --build-arg EXTRAS=trafilatura horizon
-
-# Docker Composeで実行（利用可能なオプションはステップ3を参照）
-docker compose run --rm horizon [OPTIONS]
 ```
 
 複数のextraは`EXTRAS=trafilatura,openbb`のように指定できます。`twitter` extraにはPlaywrightブラウザとシステムパッケージも必要ですが、現在のDockerfileはそれらをインストールしません。
@@ -231,13 +223,7 @@ docker compose run --rm horizon [OPTIONS]
 uv run horizon-wizard
 ```
 
-| オプション | デフォルト | 説明 |
-|--------|---------|-------------|
-| `--data-dir PATH`, `-d` | `data` | データディレクトリのパス |
-| `--config PATH`, `-c` | `<data-dir>/config.json` | 設定ファイルのパス |
-| `--log-level LEVEL`, `-l` | `WARNING` | ログレベル（DEBUG/INFO/WARNING/ERROR/CRITICAL）|
-
-ウィザードはあなたの興味（例: 「LLM inference」「嵌入式」「web security」）について質問し、`data/config.json`を自動生成します。
+ウィザードはあなたの興味（例: 「LLM inference」「嵌入式」「web security」）について質問し、`data/config.json`を自動生成します。CLIオプションは[対話式ウィザード](docs/configuration.md#interactive-wizard)を参照してください。
 
 **オプションB: 手動設定**
 
@@ -339,8 +325,6 @@ Geminiの場合は`GOOGLE_API_KEY`を使用します。
 uv run horizon [OPTIONS]
 ```
 
-`--data-dir`は、サマリー、購読者ファイル、デフォルト設定の場所を含む状態ディレクトリを変更します。`--config`は設定ファイルだけを変更するため、両方の場所を変更する場合は2つのオプションを併用してください。セットアップウィザードは`data/config.json`へ書き込むため、カスタムパスは`data/config.example.json`から手動で初期化します。
-
 **B. Docker**
 
 ```bash
@@ -350,11 +334,11 @@ docker compose run --rm horizon [OPTIONS]
 | オプション | デフォルト | 説明 |
 |--------|---------|-------------|
 | `--hours N` | 24 | 過去N時間から取得 |
-| `--data-dir PATH`, `-d` | `data` | データディレクトリのパス |
-| `--config PATH`, `-c` | `<data-dir>/config.json` | 設定ファイルのパス |
-| `--log-level LEVEL`, `-l` | `WARNING` | ログレベル（DEBUG/INFO/WARNING/ERROR/CRITICAL）|
+| `-d`, `--data-dir PATH` | `data` | データディレクトリのパス |
+| `-c`, `--config PATH` | `<data-dir>/config.json` | 設定ファイルのパス |
+| `-l`, `--log-level LEVEL` | `WARNING` | ログレベル（DEBUG/INFO/WARNING/ERROR/CRITICAL）|
 
-生成されたレポートは`data/summaries/`に保存されます（`--data-dir`を指定した場合は`<data-dir>/summaries/`）。
+`--data-dir`は、サマリー、購読者ファイル、デフォルト設定の場所を含む状態ディレクトリを変更します。`--config`は設定ファイルだけを変更します。生成されたレポートは`data/summaries/`に保存されます（`--data-dir`を指定した場合は`<data-dir>/summaries/`）。両方の場所を変更する場合やカスタム設定の初期化については、[設定パス](docs/configuration.md#configuration-paths)を参照してください。
 
 ### 4. 自動化（オプション）
 

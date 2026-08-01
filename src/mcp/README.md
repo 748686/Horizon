@@ -40,7 +40,7 @@ uv run horizon-mcp
 
 | Option | Default | Description |
 |--------|---------|-------------|
-| `--log-level LEVEL`, `-l` | `WARNING` | Logging level (DEBUG/INFO/WARNING/ERROR/CRITICAL) |
+| `-l`, `--log-level LEVEL` | `WARNING` | Logging level (DEBUG/INFO/WARNING/ERROR/CRITICAL) |
 
 The server runs over stdio and is intended to be launched by an MCP client. Stdout is reserved for the MCP protocol; progress, logs, warnings, and errors are written to stderr through one shared Rich console.
 
