@@ -61,17 +61,31 @@ automatic matching cannot select a profile:
 {
   "processing": {
     "profiles_dir": "profiles",
-    "default_profile": "tech-news"
+    "default_profile": "tech-news",
+    "profile_settings": {
+      "tech-news": {
+        "threshold": 7.0,
+        "topic_dedup": true
+      },
+      "tech-blog": {
+        "threshold": 4.0,
+        "topic_dedup": false
+      }
+    }
   }
 }
 ```
 
 - `profiles_dir`: Directory containing one subdirectory per processing profile.
 - `default_profile`: ID of a profile present in `profiles_dir`.
+- `profile_settings`: User preferences keyed by profile ID. `threshold` accepts
+  `0` through `10` or `null` for no score filter; `topic_dedup` defaults to
+  `true`. Unknown profile IDs are rejected when Horizon starts.
 
-Each profile owns its matching, analysis, filter, and enrichment behavior. See
-[Processing Profiles](profiles.md) for the file layout, complete schema, source
-routing rules, and block tool permissions.
+Each profile owns its matching, analysis, and enrichment behavior. Runtime
+filtering preferences stay in the main JSON configuration. See [Processing
+Profiles](profiles.md) for the file layout, complete schema, source routing
+rules, and block tool permissions.
 
 ## AI Providers
 
@@ -574,7 +588,7 @@ The runtime `digest` section controls optional balanced digest limits:
 - `default_group_limit`: Optional positive limit for unmatched items. If omitted,
   unmatched items are unlimited except for `max_items`.
 
-Balanced digest filtering runs after per-profile filtering and topic
+Balanced digest filtering runs after configured profile filtering and topic
 deduplication, but before enrichment. This reduces enrichment calls to only the
 items that can appear in the final digest.
 
@@ -589,8 +603,8 @@ Sources without a category set enter the default group.
 
 If the same category appears in multiple groups, Horizon logs a warning and uses
 the first group in configuration order. Omitting both `category_groups` and
-`max_items` disables balanced digest limits; the selected profile's filter still
-applies.
+`max_items` disables balanced digest limits; configured profile thresholds still
+apply.
 
 ## Environment Variable Substitution
 
