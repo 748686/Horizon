@@ -7,7 +7,8 @@
   "match": "match.md",
   "analysis": "analysis.md",
   "filter": {
-    "enabled": false
+    "enabled": true,
+    "threshold": 4.0
   },
   "content": {
     "analysis_max_chars": 16000,
