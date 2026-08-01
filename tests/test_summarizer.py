@@ -219,7 +219,7 @@ def test_generate_summary_renders_primary_block_before_source_without_heading():
         "rss · tester · Apr 25, 08:00"
     )
     assert result.index("rss · tester · Apr 25, 08:00") < result.index(
-        "**「Background」:** Supporting context."
+        "**「Background」** Supporting context."
     )
 
 
@@ -259,9 +259,9 @@ def test_generate_summary_renders_non_primary_blog_sections_after_source():
     )
 
     source_index = result.index("rss · tester · Apr 25, 08:00")
-    context_index = result.index("**「Background」:** The original constraints.")
-    solution_index = result.index("**「Solution」:** The implementation and evidence.")
-    takeaway_index = result.index("**「Takeaway」:** The durable lesson.")
+    context_index = result.index("**「Background」** The original constraints.")
+    solution_index = result.index("**「Solution」** The implementation and evidence.")
+    takeaway_index = result.index("**「Takeaway」** The durable lesson.")
     assert source_index < context_index < solution_index < takeaway_index
     assert "#### Background" not in result
 
@@ -288,7 +288,7 @@ def test_generate_webhook_item_normalizes_existing_zh_artifact_to_simplified():
     )
 
     assert "代理工作流更新" in result
-    assert "**「背景」：** 社群关注这项更新，并分享实际用量数据。" in result
+    assert "**「背景」** 社群关注这项更新，并分享实际用量数据。" in result
     assert "關注" not in result
 
 

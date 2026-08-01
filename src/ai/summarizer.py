@@ -424,8 +424,7 @@ class DailySummarizer:
                 if language == "zh":
                     block_title = _pangu(block_title)
                     block_content = _pangu(block_content)
-                separator = "：" if language == "zh" else ":"
-                lines.extend(["", f"**「{block_title}」{separator}** {block_content}"])
+                lines.extend(["", f"**「{block_title}」** {block_content}"])
 
         sources = artifact.sources if artifact else []
         if sources:
