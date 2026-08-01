@@ -232,6 +232,8 @@ uv run horizon-wizard
 
 | Option | Default | Description |
 |--------|---------|-------------|
+| `--data-dir PATH`, `-d` | `data` | Path to the data directory |
+| `--config PATH`, `-c` | `<data-dir>/config.json` | Path to config file |
 | `--log-level LEVEL`, `-l` | `WARNING` | Logging level (DEBUG/INFO/WARNING/ERROR/CRITICAL) |
 
 The wizard asks about your interests (e.g. "LLM inference", "嵌入式", "web security") and auto-generates `data/config.json`.

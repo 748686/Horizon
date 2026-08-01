@@ -1,7 +1,31 @@
 from __future__ import annotations
 
+import pytest
+
 from src.models import AIConfig, AIProvider, Config
 from src.setup import wizard
+
+
+class _StopWizard(Exception):
+    """Raised by a stubbed load_presets() to short-circuit main() for tests."""
+
+
+def _prepare_main(monkeypatch, load_presets_calls):
+    """Wire main() up to run until the preset-loading step, then stop."""
+
+    def fake_load_presets(**kwargs):
+        load_presets_calls.append(kwargs)
+        raise _StopWizard()
+
+    monkeypatch.setattr(wizard, "configure_logging", lambda console, level=None: None)
+    monkeypatch.setattr(wizard.console, "print", lambda *args, **kwargs: None)
+    monkeypatch.setattr(
+        wizard,
+        "configure_ai",
+        lambda: AIConfig(provider=AIProvider.OLLAMA, model="llama3.1", api_key_env=""),
+    )
+    monkeypatch.setattr(wizard, "get_interests", lambda: "test interests")
+    monkeypatch.setattr(wizard, "load_presets", fake_load_presets)
 
 
 def test_configure_ai_allows_ollama_without_api_key(monkeypatch):
@@ -160,3 +184,71 @@ def test_merge_configs_preserves_all_existing_configuration_and_deduplicates_lis
     assert merged.sources.reddit.users[0].fetch_limit == 3
     assert merged.sources.telegram.channels[0].enabled is False
     assert merged.sources.telegram.channels[0].fetch_limit == 7
+
+
+def test_data_dir_and_config_flags_are_forwarded_to_storage_and_presets(monkeypatch, tmp_path):
+    data_dir = tmp_path / "state"
+    config_path = tmp_path / "custom" / "horizon.json"
+    storage_calls = []
+    load_presets_calls = []
+
+    class RecordingStorage:
+        def __init__(self, data_dir, config_path):
+            storage_calls.append({"data_dir": data_dir, "config_path": config_path})
+
+    _prepare_main(monkeypatch, load_presets_calls)
+    monkeypatch.setattr(wizard, "StorageManager", RecordingStorage)
+    monkeypatch.setattr(
+        "sys.argv",
+        ["horizon-wizard", "--data-dir", str(data_dir), "--config", str(config_path)],
+    )
+
+    with pytest.raises(_StopWizard):
+        wizard.main()
+
+    assert storage_calls == [{"data_dir": str(data_dir), "config_path": str(config_path)}]
+    assert load_presets_calls == [
+        {"presets_path": str(data_dir / "presets.json"), "prefer_api": True}
+    ]
+
+
+def test_data_dir_and_config_default_to_data_directory(monkeypatch):
+    storage_calls = []
+    load_presets_calls = []
+
+    class RecordingStorage:
+        def __init__(self, data_dir, config_path):
+            storage_calls.append({"data_dir": data_dir, "config_path": config_path})
+
+    _prepare_main(monkeypatch, load_presets_calls)
+    monkeypatch.setattr(wizard, "StorageManager", RecordingStorage)
+    monkeypatch.setattr("sys.argv", ["horizon-wizard"])
+
+    with pytest.raises(_StopWizard):
+        wizard.main()
+
+    assert storage_calls == [{"data_dir": "data", "config_path": None}]
+    assert load_presets_calls == [{"presets_path": "data/presets.json", "prefer_api": True}]
+
+
+def test_log_level_flag_is_forwarded_to_configure_logging(monkeypatch):
+    logging_calls = []
+    load_presets_calls = []
+
+    class RecordingStorage:
+        def __init__(self, data_dir, config_path):
+            pass
+
+    _prepare_main(monkeypatch, load_presets_calls)
+    monkeypatch.setattr(wizard, "StorageManager", RecordingStorage)
+    monkeypatch.setattr(
+        wizard,
+        "configure_logging",
+        lambda console, level=None: logging_calls.append(level),
+    )
+    monkeypatch.setattr("sys.argv", ["horizon-wizard", "--log-level", "debug"])
+
+    with pytest.raises(_StopWizard):
+        wizard.main()
+
+    assert logging_calls == ["DEBUG"]

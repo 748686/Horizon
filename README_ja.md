@@ -233,6 +233,8 @@ uv run horizon-wizard
 
 | オプション | デフォルト | 説明 |
 |--------|---------|-------------|
+| `--data-dir PATH`, `-d` | `data` | データディレクトリのパス |
+| `--config PATH`, `-c` | `<data-dir>/config.json` | 設定ファイルのパス |
 | `--log-level LEVEL`, `-l` | `WARNING` | ログレベル（DEBUG/INFO/WARNING/ERROR/CRITICAL）|
 
 ウィザードはあなたの興味（例: 「LLM inference」「嵌入式」「web security」）について質問し、`data/config.json`を自動生成します。

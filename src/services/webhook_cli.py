@@ -5,13 +5,12 @@ import asyncio
 import json
 import sys
 from datetime import datetime, timezone
-from pathlib import Path
 
 from dotenv import load_dotenv
 from rich.console import Console
 from rich.panel import Panel
 
-from .._cli import add_log_level_argument
+from .._cli import add_data_dir_arguments, add_log_level_argument
 from ..logging_config import configure_logging
 
 from ..ai.summarizer import DailySummarizer
@@ -228,6 +227,7 @@ def main() -> None:
         choices=["summary", "summary_and_items"],
         help="Override the delivery mode from config for this test.",
     )
+    add_data_dir_arguments(parser)
     add_log_level_argument(parser)
     args = parser.parse_args()
 
@@ -236,7 +236,7 @@ def main() -> None:
     try:
         load_dotenv()
 
-        storage = StorageManager(data_dir=str(Path("data")))
+        storage = StorageManager(data_dir=args.data_dir, config_path=args.config)
         try:
             config = storage.load_config()
         except FileNotFoundError:

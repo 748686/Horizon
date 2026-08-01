@@ -731,6 +731,23 @@ Webhook notification is optional and disabled unless `webhook.enabled` is `true`
 
 When `request_body` is a JSON object or array, Horizon renders placeholders and serializes it as JSON. When it is a string, Horizon renders it directly and detects JSON if the rendered string is valid JSON.
 
+### Testing
+
+Use `horizon-webhook` to preview or send a test notification without running the full pipeline:
+
+```bash
+uv run horizon-webhook --dry-run
+```
+
+| Option | Default | Description |
+|--------|---------|-------------|
+| `--lang LANG` | first configured language | Language to test |
+| `--dry-run` | off | Preview rendered content without sending |
+| `--delivery {summary,summary_and_items}` | value from config | Override delivery mode for this test |
+| `--data-dir PATH`, `-d` | `data` | Path to the data directory |
+| `--config PATH`, `-c` | `<data-dir>/config.json` | Path to config file |
+| `--log-level LEVEL`, `-l` | `WARNING` | Logging level (DEBUG/INFO/WARNING/ERROR/CRITICAL) |
+
 ### Delivery Modes And Layouts
 
 `delivery` controls how many webhook messages Horizon sends:
@@ -887,6 +904,10 @@ Horizon includes an MCP server for AI assistants and MCP-compatible clients.
 ```bash
 uv run horizon-mcp
 ```
+
+| Option | Default | Description |
+|--------|---------|-------------|
+| `--log-level LEVEL`, `-l` | `WARNING` | Logging level (DEBUG/INFO/WARNING/ERROR/CRITICAL) |
 
 Available tools include `hz_validate_config`, `hz_fetch_items`, `hz_score_items`, `hz_filter_items`, `hz_enrich_items`, `hz_generate_summary`, and `hz_run_pipeline`.
 

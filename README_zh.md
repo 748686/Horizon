@@ -241,6 +241,8 @@ uv run horizon-wizard
 
 | 选项 | 默认值 | 说明 |
 |--------|---------|-------------|
+| `--data-dir PATH`, `-d` | `data` | 数据目录路径 |
+| `--config PATH`, `-c` | `<data-dir>/config.json` | 配置文件路径 |
 | `--log-level LEVEL`, `-l` | `WARNING` | 日志级别（DEBUG/INFO/WARNING/ERROR/CRITICAL）|
 
 向导会询问你的兴趣（如"LLM 推理"、"嵌入式"、"web 安全"），自动推荐并生成 `data/config.json`，还可选让 AI 补充推荐小众源。若你想分享信息源，请前往 [horizon1123.top](https://horizon1123.top/)。
