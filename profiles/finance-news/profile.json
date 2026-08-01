@@ -8,7 +8,7 @@
   "analysis": "analysis.md",
   "filter": {
     "enabled": true,
-    "threshold": 6.0
+    "threshold": 7.0
   },
   "content": {
     "analysis_max_chars": 4000,
