@@ -5,293 +5,346 @@ date: 2026-08-01
 lang: zh
 ---
 
-> 从 37 条内容中筛选出 14 条重要资讯。
+> 从 46 条内容中筛选出 18 条重要资讯。
 
 ---
 
 **科技新闻**
-1. [DeepSeek V4 Flash 0731：高性价比前沿模型分析](#item-tech-news-1) ⭐️ 8.0/10
-2. [无状态 MCP 重新点燃兴趣并催生两款新工具](#item-tech-news-2) ⭐️ 8.0/10
-3. [华为开源 505B MoE 大模型 openPangu-2.0-Pro](#item-tech-news-3) ⭐️ 8.0/10
-4. [德国法院裁定 AI 音乐公司 Suno 侵权](#item-tech-news-4) ⭐️ 8.0/10
-5. [Tailscale 事后分析：Hugging Face 入侵暴露长期凭证风险](#item-tech-news-5) ⭐️ 7.0/10
-6. [电梯调度算法解析与社区讨论](#item-tech-news-6) ⭐️ 7.0/10
-7. [qm：YC 支持的多人智能体协作工具](#item-tech-news-7) ⭐️ 7.0/10
-8. [开放权重革命：Simon Willison 谈开源模型浪潮](#item-tech-news-8) ⭐️ 7.0/10
-9. [smevals：小型评测套件，用于评估模型、提示词与测试框架](#item-tech-news-9) ⭐️ 7.0/10
-10. [HN 每日精选：电梯算法、AI 会话与 DeepSeek-V4-Flash 公测](#item-tech-news-10) ⭐️ 7.0/10
-11. [Arch Linux 因 AUR 恶意采用事件禁用孤儿包采用](#item-tech-news-11) ⭐️ 7.0/10
-12. [法官质疑美政府证据，考虑永久撤销对 Anthropic 禁令](#item-tech-news-12) ⭐️ 7.0/10
+1. [Stateless MCP 2.0 发布，重燃作者兴趣并催生两个工具](#item-tech-news-1) ⭐️ 9.0/10
+2. [DeepSeek-V4-Flash-0731：304B 参数的高性价比新模型](#item-tech-news-2) ⭐️ 8.0/10
+3. [Arch Linux 禁用 AUR 软件包领养功能](#item-tech-news-3) ⭐️ 8.0/10
+4. [MiniMax H3 多模态视频模型将于 8 月 3 日开源](#item-tech-news-4) ⭐️ 8.0/10
+5. [德国法院裁定 AI 音乐公司 Suno 侵犯版权](#item-tech-news-5) ⭐️ 8.0/10
+6. [电梯调度算法、权衡与真实行为](#item-tech-news-6) ⭐️ 7.0/10
+7. [Hugging Face 遭入侵：可重用认证密钥成入口](#item-tech-news-7) ⭐️ 7.0/10
+8. [开源权重革命：Simon Willison 谈最新模型趋势](#item-tech-news-8) ⭐️ 7.0/10
+9. [法官质疑 Anthropic 风险认定，考虑永久撤销禁令](#item-tech-news-9) ⭐️ 7.0/10
+10. [OpenAI 封禁柬埔寨诈骗团伙 ChatGPT 账号网络](#item-tech-news-10) ⭐️ 7.0/10
+
+**财经新闻**
+1. [纽约州起诉 Kalshi：称其运营“非法赌博业务”](#item-finance-news-1) ⭐️ 9.0/10
+2. [AI 对冲基金“情境感知”因动量崩溃被迫平仓，资产从 450 亿美元缩水至约 100 亿美元](#item-finance-news-2) ⭐️ 8.0/10
+3. [美国拟对留学生毕业后工作收取 10 万美元 OPT 费用](#item-finance-news-3) ⭐️ 8.0/10
+4. [美股午盘异动：亚马逊、苹果、Reddit、GoDaddy 等因财报或指引大幅波动](#item-finance-news-4) ⭐️ 7.0/10
+5. [美联储三位官员反对维持利率，主张立即加息以抗通胀](#item-finance-news-5) ⭐️ 7.0/10
+6. [盘前综述：科技与生物科技股因财报及 FDA 消息大幅波动](#item-finance-news-6) ⭐️ 7.0/10
+7. [五部门启动婚介机构乱象专项整治行动](#item-finance-news-7) ⭐️ 7.0/10
 
 **科技博客**
-1. [与 GPU 协同设计注意力：面向快速交互式长上下文推理](#item-tech-blog-1) ⭐️ 8.0/10
-2. [ByteByteGo 招聘 AI 编程课程兼职讲师](#item-tech-blog-2) ⭐️ 1.0/10
+1. [共同设计注意力机制：为长上下文推理提速](#item-tech-blog-1) ⭐️ 8.0/10
 
 ---
 
 ## 科技新闻
 
 <a id="item-tech-news-1"></a>
-### [DeepSeek V4 Flash 0731：高性价比前沿模型分析](https://artificialanalysis.ai/models/deepseek-v4-flash) ⭐️ 8.0/10
+### [Stateless MCP 2.0 发布，重燃作者兴趣并催生两个工具](https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything) ⭐️ 9.0/10
 
-DeepSeek V4 Flash 0731 是 DeepSeek V4 系列的最新发布版本，已在 Hugging Face 上提供，并宣称显著增强了智能体（agentic）能力。人工分析（Artificial Analysis）显示，该模型在智能与成本效率方面达到前沿水平，社区评价其为“日常主力模型”，并指出其具备前沿级别的编码与智能体任务表现。根据公开基准，其 Code Agent 任务使用 DeepSeek Harness（即将发布）的最小模式作为智能体框架进行评估。在成本方面，输出价格约为每百万 token 0.28 美元，而 Unsloth 无损 Q8 量化版本约 162GB，足以在本地运行。该模型被视为开源权重 LLM 的重要进展，但并非范式级突破。
+Model Context Protocol 推出 2.0 版（Stateless MCP），正式规范为 2026-07-28 版。新规范将原先需要两次 HTTP 请求（initialize 获取 Mcp-Session-Id 后再调用工具）的流程，缩减为一次带 MCP-Protocol-Version 与 Mcp-Method 等头部的请求，省去服务端会话状态，更利于构建可扩展 Web 应用。Simon Willison 认为这是 MCP 自 2024 年 11 月由 Anthropic 推出以来最重大变化，也降低了客户端与服务器实现难度；他本周用该规范构建了 mcp-explorer 与 datasette-mcp 两个项目。mcp-explorer 是可用 uvx 运行的 stateless Python CLI 工具，用于列举、检查和调用 MCP 工具；datasette-mcp 是 Datasette 插件，为实例增加 /-/mcp 端点，提供 list\_databases、get\_database\_schema、execute\_sql 三个工具，目前 execute\_sql 为只读。
 
-hackernews · theanonymousone · 7月31日 07:59 · [社区讨论](https://news.ycombinator.com/item?id=49120299)
+rss · Simon Willison · 7月31日 23:13
 
-**「背景」：** DeepSeek 的 V4 系列模型以低成本、前沿性能和开源权重为特点。V4 Flash 0731 是 V4 Flash 从预览转为公开测试的正式检查点，沿用 284B 架构，并通过重新后训练大幅增强代理能力（agentic capabilities），在 DeepSeek 自家的代理基准上超越 V4-Pro-Preview。此次发布被 Artificial Analysis 评测为前沿水平，社区讨论关注其极低的推理成本和在家运行的可行性；不过截至报道时权重尚未发布，官方还提到将随模型发布 DeepSeek Harness 代理评测框架。
+**「背景」** MCP 是 Anthropic 于 2024 年 11 月推出的开放协议，旨在标准化 LLM agent 接入外部工具的方式。2025 年它被广泛采用，但后来 Skills 等方案让带终端和 curl 的 agent 能更灵活地完成许多任务，使 MCP 关注度下降；Stateless MCP 通过去除会话状态和简化请求流程，重新降低了实现与审计门槛。
 
-**「社区讨论」：** 社区评论普遍认可该模型在编码任务上的表现与极低的成本，有人称其为“日常主力”，并提到可全天候编码只需几美分。也有评论指出，DeepSeek 展示了仅靠后训练就能带来显著性能提升，说明预训练之后的优化空间可能被低估。部分讨论还涉及对即将发布的 DeepSeek Harness 智能体框架的期待，以及 Hugging Face 托管海量模型的经济性问题。
+**「影响」** 对 MCP 客户端和服务器开发者来说，新规范减少了 session 维护、路由同会话到同一后端等负担，使 MCP 更容易嵌入无状态 Web 服务和轻量级 CLI 工具。作者指出，相比给 agent 开放 shell 和联网能力，MCP 工具更易审计和控制，也适合在笔记本电脑上运行的小模型驱动；datasette-mcp 已让 ChatGPT/Claude 等能对托管 Datasette 实例执行只读 SQL。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.digitalapplied.com/blog/deepseek-v4-flash-0731-official-release-agent-benchmarks">DeepSeek V4 Flash 0731: Official Release, Agent Benchmarks</a></li>
-<li><a href="https://www.developersdigest.tech/blog/deepseek-v4-flash-0731-opencode-guide">DeepSeek V4 Flash 0731: The Official Release, Benchmarks, and How to Run It in OpenCode - Developers Digest</a></li>
-<li><a href="https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731">deepseek-ai/DeepSeek-V4-Flash-0731 · Hugging Face</a></li>
-
-</ul>
-</details>
-
-**标签**: `#deepseek`, `#large language models`, `#performance analysis`, `#open-source AI`
+**标签**: `#MCP`, `#Model Context Protocol`, `#AI agents`, `#protocols`, `#software engineering`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [无状态 MCP 重新点燃兴趣并催生两款新工具](https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything) ⭐️ 8.0/10
+### [DeepSeek-V4-Flash-0731：304B 参数的高性价比新模型](https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything) ⭐️ 8.0/10
 
-Simon Willison 撰文分析了 2026 年 7 月 28 日发布的 Model Context Protocol（MCP）2.0 规范——即“无状态 MCP”，称这是该协议自推出以来最重大的变化，并重新点燃了他对 MCP 的兴趣。旧版有状态 MCP 需要两次 HTTP 请求：先初始化会话获取 Mcp-Session-Id，再调用工具；新版无状态方式只需一次 HTTP 请求，通过 MCP-Protocol-Version、Mcp-Method、Mcp-Name 等头部直接调用工具，从而大幅降低客户端和服务端的实现复杂度，也更适合可扩展的 Web 应用。受此启发，Willison 本周构建了三个实现，包括 mcp-explorer（一个可用 uvx 运行的无状态 Python CLI，支持 list、inspect、call 等子命令，用于交互式探查 MCP 服务器）和 datasette-mcp（一个 Datasette 插件，为任意 Datasette 实例添加 /-/mcp 端点，提供 list\_databases、get\_database\_schema 和只读的 execute\_sql 三个工具）。他已在 datasette.simonwillison.net/-/mcp 上运行该插件，并发布了如何将其接入 ChatGPT 和 Claude 的教程。
+DeepSeek 于 2026 年 7 月 31 日发布 DeepSeek-V4-Flash-0731，这是其 V4 系列的最新模型，参数量为 3040 亿（Hugging Face 上约 167GB），官方称其智能体能力大幅增强。Artificial Analysis 评估其性能超过 4280 亿参数的 MiniMax M3；API 定价为每百万输入 token 0.14 美元、每百万输出 token 0.27 美元，按 Intelligence Index 与单任务成本计算，可能是目前性价比最高的模型之一（图中约 50 分、每任务约 0.028 美元）。Simon Willison 通过 OpenRouter 实测发现，默认推理级别生成“鹈鹕骑自行车”图像效果不佳，而设置 \`reasoning\_effort high\` 后质量明显改善，说明高推理强度对该类生成任务很重要。
 
-rss · Simon Willison · 7月31日 23:13
+rss · Simon Willison · 7月31日 23:59
 
-**「背景」：** MCP 是 Anthropic 于 2024 年 11 月推出的模型上下文协议，为 LLM 驱动的智能体框架提供了一种向模型暴露工具的标准方式。该协议在 2025 年经历巨大关注后，一度因 Skills 等替代方案而热度下降——一个能访问终端和 curl 的智能体框架可以用更灵活的方式完成许多 MCP 能做的事。新的无状态 MCP 规范通过简化客户端和服务器实现，使 MCP 工具更易于审计和控制，也让小型模型更容易驱动，从而重新获得关注。
+**「背景」** DeepSeek 是一家以开放权重模型著称的中国 AI 实验室，其 V4 系列是 2026 年发布的最新模型家族。与密集模型不同，DeepSeek 的“Flash”型号采用稀疏混合专家（MoE）架构，虽然总参数量约为 300B（来源口径在 284B 到 304B 之间），但每次推理只激活约 13B 参数，从而在较低成本下获得较强性能。该模型已在 Hugging Face 开放权重，并通过 OpenRouter 和 DeepInfra 等平台提供 API，便于开发者直接比较和调用。
 
-**标签**: `#MCP`, `#AI agents`, `#protocol`, `#software engineering`, `#open source`
+**「影响」** 对开发者与 AI 应用团队而言，该模型以极低 API 价格提供接近头部模型的智能水平，可能显著降低智能体与文本生成类应用的成本；但需要留意默认参数并不总能达到最佳输出，图像生成等任务应显式调高推理强度，且本地部署需约 167GB 存储。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731">deepseek-ai/ DeepSeek - V 4 - Flash - 0731 · Hugging Face</a></li>
+<li><a href="https://openrouter.ai/deepseek/deepseek-v4-flash-0731">DeepSeek V 4 Flash 0731 - API Pricing &amp; Providers | OpenRouter</a></li>
+<li><a href="https://deepinfra.com/deepseek-ai/DeepSeek-V4-Flash-0731">deepseek-ai/ DeepSeek - V 4 - Flash - 0731 - Demo - DeepInfra</a></li>
+
+</ul>
+</details>
+
+**标签**: `#DeepSeek`, `#AI model`, `#agentic AI`, `#language models`, `#open source`
 
 ---
 
 <a id="item-tech-news-3"></a>
-### [华为开源 505B MoE 大模型 openPangu-2.0-Pro](https://huggingface.co/openpangu/openPangu-2.0-Pro) ⭐️ 8.0/10
+### [Arch Linux 禁用 AUR 软件包领养功能](https://lwn.net/Articles/1086489/) ⭐️ 8.0/10
 
-华为近日在 Hugging Face 发布并开源了 openPangu-2.0-Pro 大语言模型。该模型基于升腾 NPU 训练，采用混合专家（MoE）架构，总参数约 505B，每个 token 激活约 18B 参数，支持 512k 上下文长度，训练数据约 34T tokens。架构上，openPangu-2.0-Pro 采用 MLA 注意力及 DSA+SWA 独立分层混合设计，并配备 3 头 MTP 自投机模块；后训练阶段完成了快慢合一微调与多专项强化学习。其 Thinking 版本在 AIME 2026 数学测评中得分 95.4，在 GPQA-Diamond 上得分 87.9，展现出较强的推理能力。此次开源对 AI 从业者具有重要意义，是华为在大模型领域的一次重要技术输出。
+Arch Linux DevOps 团队宣布，由于“当前大量恶意软件包领养及通过 AUR 进行的后续提交”，已禁用对 AUR 孤儿软件包的领养功能。恶意负载是一个远程访问木马（RAT），它通过 Tor 网络接收命令，并尝试上传大量用户数据。此前项目在 6 月暂停了新账户注册，7 月 13 日重新开放，但新增的限制“微小且显然无效”。攻击者利用新账户领养孤儿包并推送恶意更新，从而在用户系统上安装恶意软件。这一事件凸显了 AUR 的供应链风险，影响系统管理员和依赖 AUR 的软件工程师。
 
-telegram · zaihuapd · 7月31日 06:50
+rss · LWN.net · 7月31日 13:38
 
-**「背景」：** 华为自 2021 年推出第一代盘古大模型以来，一直持续推进自研 AI 基础模型。openPangu 2.0 是华为迄今最重要的开源模型升级，采用混合专家（MoE）架构，并首次宣布完全不依赖 NVIDIA GPU，而是基于升腾 910B NPU 完成训练。该系列包含 Pro（505B/18B 激活）和 Flash（92B/6B 激活）两个版本，于 2026 年 6 月 30 日起陆续开源，目标是提供从高能力到高效率的多场景选择。
+**「背景」** Arch Linux 用户仓库（AUR）允许用户提交软件包，而无人维护的“孤儿软件包”可由其他用户接手维护并推送更新。2025 年 6 月，Arch Linux 曾因攻击者创建新账户恶意接管孤儿软件包并推送恶意更新而暂停新账户注册，7 月 13 日重新开放并增加了限制，但这些限制似乎未能有效阻止后续攻击。此次事件中，攻击者通过恶意接管和提交将名为 CHAOS 的远程访问木马（RAT）植入多个 AUR 软件包，该木马通过 Tor 网络接收命令并尝试窃取用户数据。
+
+**「影响」** 曾安装被恶意领养软件包的用户可能已感染该 RAT 并面临数据泄露风险；禁用领养功能会暂停孤儿包的维护流程，依赖 AUR 获取软件或更新的开发者可能因此受到影响。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://macdate.com/en/blog/openpangu-2-open-source-no-nvidia-ascend-20260701.html">openPangu 2 . 0 Open Source 2026 | 505 B MoE ... - MacDate</a></li>
-<li><a href="https://www.aimadetools.com/blog/openpangu-2-pro-vs-flash/">openPangu 2 . 0 Pro vs Flash: 505 B vs 92B — Which Version to Use</a></li>
-<li><a href="https://kvmnode.com/en/blog/2026-0701-huawei-openpangu-2-open-source.html">Huawei openPangu 2 . 0 Open Source: 505 B MoE , 512K Context...</a></li>
+<li><a href="https://lwn.net/Articles/1086489/">Arch Linux disables AUR package adoption [LWN.net]</a></li>
+<li><a href="https://www.bleepingcomputer.com/news/security/arch-linux-pulls-aur-packages-that-installed-chaos-rat-malware/">Arch Linux pulls AUR packages that installed Chaos RAT malware</a></li>
+<li><a href="https://archlinux.org/news/active-aur-malicious-packages-incident/">Arch Linux - News: Active AUR malicious packages incident</a></li>
 
 </ul>
 </details>
 
-**标签**: `#large language model`, `#Mixture of Experts`, `#Huawei`, `#open source`, `#AI benchmarks`
+**标签**: `#security`, `#Arch Linux`, `#AUR`, `#malware`, `#supply chain`
 
 ---
 
 <a id="item-tech-news-4"></a>
-### [德国法院裁定 AI 音乐公司 Suno 侵权](https://www.dw.com/en/german-court-rules-that-ai-music-firm-suno-violated-copyrights/a-78152227) ⭐️ 8.0/10
+### [MiniMax H3 多模态视频模型将于 8 月 3 日开源](https://modelscope.cn/models/MiniMax/MiniMax-H3) ⭐️ 8.0/10
 
-德国慕尼黑地区法院周五裁定，美国 AI 音乐公司 Suno 在训练模型时未经许可使用受版权保护的音乐，构成侵权，须披露非法所得并支付数额待定的赔偿。此案由德国音乐版权集体管理组织 GEMA 于 2025 年 1 月提起，庭审中 GEMA 演示了 Suno 生成的歌曲与原作品高度相似。Suno 表示不认同判决，将评估包括上诉在内的所有选项。GEMA 称这是全球首批检验版权法如何适用于 AI 音乐训练的重大案件之一，其目标是推动平等的许可谈判。GEMA 代表德国逾 9.5 万名音乐人及全球超 200 万名权利持有人。
+MiniMax 宣布其新一代通用多模态视频模型 H3 将于 2026 年 8 月 3 日在魔搭社区开源发布。该模型原生支持文本、图像、音频和视频的理解与生成，可综合解析人物、动作、声音、情感、镜头语言及创作意图，并自然融合多种参考素材进行连贯创作。模型具备多维度精准编辑控制能力，面向影视、广告、品牌、电商与游戏等商业场景，可生成包含字幕、品牌信息、特效、产品展示及 UI 动态演示在内的多样化内容。目前该消息为前瞻性预告，尚未提供技术细节或实际发布验证。
 
-telegram · zaihuapd · 7月31日 13:11
+telegram · zaihuapd · 7月31日 12:37
 
-**「背景」：** GEMA 是德国法定的音乐版权集体管理组织，代表约 9.5 万名德国音乐人和全球超过 200 万名权利持有人。2025 年 1 月，GEMA 在慕尼黑地区法院对美国 AI 音乐公司 Suno 提起诉讼，指控其未经许可使用受版权保护的音乐训练 AI 模型。据外部报道，此案涉及包括 Alphaville 的《Forever Young》在内的 6 首 GEMA 代理曲目，法院于 2026 年 7 月 31 日裁定 Suno 侵权，并要求其披露利润和支付待定赔偿；这被视为欧盟法院对 AI 音乐公司作出的首批不利裁决之一。
+**「背景」** MiniMax H3 是 MiniMax 推出的新一代通用多模态生成模型，能够将文本、图像、视频和音频作为同一创作上下文进行联合理解，并生成最高 2K 分辨率、时长 15 秒、带原生立体声的视频。该模型采用开放权重（open-weights）形式发布，与常见仅限 API 的视频生成模型不同，允许社区直接获取模型权重。此次公告称其将于 2026 年 8 月 3 日在魔搭社区开源，因而属于开放生态发布事件。
+
+**「影响」** 如果该开源计划如期实现，多模态视频生成与编辑能力有望以更低门槛进入开发者和创作者的工作流，为影视、广告、电商等商业应用提供新的工具选项。但实际影响取决于发布时的模型能力、许可证条款和性能表现，目前仍存在不确定性。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.dw.com/en/german-court-rules-that-ai-music-firm-suno-violated-copyrights/a-78152227">German court rules that AI music firm violated copyrights</a></li>
-<li><a href="https://www.musictimes.com/articles/112465/20260731/german-court-rules-suno-infringed-copyright-gema-case.htm">German Court Rules Suno Infringed Copyright in GEMA Case</a></li>
-<li><a href="https://www.machinebrief.com/news/german-court-suno-copyright-gema-munich-first-eu-ai-music-verdict-july-2026">German Court Rules Suno Broke Copyright — First EU AI Music</a></li>
+<li><a href="https://www.minimax.io/blog/minimax-h3">MiniMax H3: An Open Model Breaking the Boundaries Between ...</a></li>
+<li><a href="https://fal.ai/minimax-h3">MiniMax H3 - Open-Weights General-Purpose Multimodal Video ...</a></li>
+<li><a href="https://minimaxh3.ai/">MiniMax H3 AI Video Generator: Create Videos with Sound</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI copyright`, `#legal ruling`, `#music generation`, `#technology industry`, `#AI training data`
+**标签**: `#MiniMax`, `#multimodal`, `#video model`, `#open source`, `#AI`
 
 ---
 
 <a id="item-tech-news-5"></a>
-### [Tailscale 事后分析：Hugging Face 入侵暴露长期凭证风险](https://tailscale.com/blog/hugging-face-intrusion) ⭐️ 7.0/10
+### [德国法院裁定 AI 音乐公司 Suno 侵犯版权](https://www.dw.com/en/german-court-rules-that-ai-music-firm-suno-violated-copyrights/a-78152227) ⭐️ 8.0/10
 
-Tailscale 在事后分析中披露，针对 Hugging Face 的入侵并未利用 Tailscale 的漏洞，而是源于一个长期有效的可重用认证密钥。该密钥被代理复制到外部沙箱，并在数天内用于将 181 个节点注册到 Hugging Face 的 tailnet，这些节点获得了 CI 节点身份的访问权限。事件表明，在零信任架构中，长期有效的凭证仍是关键薄弱环节，需要更严格的范围限制和告警机制。Hugging Face 的 136 个凭证中，这一可重用密钥是入侵路径之一；Tailscale 认为尽管没有产品漏洞，作为安全工具仍将此次事件视为自身入侵并严肃对待。
+德国慕尼黑地区法院于周五裁定，美国 AI 音乐公司 Suno 侵犯版权，须披露通过侵权所得利润并支付数额待定的赔偿。Suno 表示不认同判决，将评估包括上诉在内的所有选项。该诉讼由德国音乐版权集体管理组织 GEMA 于 2025 年 1 月提起，指控 Suno 未经许可和补偿，用受版权保护的音乐训练其 AI 模型。庭审中 GEMA 演示了由 Suno 生成的歌曲与原作品高度相似。这是全球首批检验版权法如何适用于 AI 音乐训练的重大案件之一，GEMA 代表德国逾 9.5 万名音乐人及全球超 200 万名权利持有人。
 
-hackernews · bluehatbrit · 7月31日 19:03 · [社区讨论](https://news.ycombinator.com/item?id=49127306)
+telegram · zaihuapd · 7月31日 13:11
 
-**「背景」：** Tailscale 是一种基于 WireGuard 的网状 VPN 产品，强调“零信任”网络访问：默认不允许任意设备连接，只有通过身份验证并被纳入 tailnet（私有网络）的设备才能互相通信。Hugging Face 在 2025 年遭遇入侵，攻击者利用其 CI（持续集成）环境中一个可重复使用的 Tailscale 预认证密钥，将外部节点注册进 Hugging Face 的 tailnet，并因此获得了 CI 节点的身份标签和相应访问权限。Tailscale 本身并未被攻破，但这一事件表明，即使采用零信任网络方案，长期有效的预认证密钥仍可能成为绕过点；密钥轮换、绑定来源/目标以及更细粒度的告警对于降低此类风险至关重要。
+**「背景」** Suno 是一家提供 AI 音乐生成服务的公司，其模型需要使用大量已有音乐录音进行训练。GEMA 是德国的音乐作品集体管理组织，代表作曲家、词作者和出版商的权益。本案的核心争议在于，未经明确许可使用受版权保护的音乐训练 AI 模型是否构成侵权，而此次判决可能为德国未来 AI 训练行为的合法性设定先例。
 
-**「社区讨论」：** 社区评论普遍认可 Tailscale 的透明态度，认为他们本可以保持沉默。多数观点指出问题在于凭证未与来源/目的地绑定，应通过身份标签和动态 CI 节点的唯一票据标识来限制；也有评论称这是‘把钥匙留在门口’的典型错误。部分用户认为这是巧妙的营销，同时强调 AI 时代长期凭证不再可行，并建议对此类多节点注册增加低误报告警机会。
+**「影响」** 对 Suno 而言，该判决要求其披露利润并支付赔偿（具体金额待定），且可能面临上诉，这构成直接的法律与财务风险。该判决同时强化了 GEMA 的谈判地位，可能促使 AI 音乐公司在德国乃至更广范围寻求版权授权，但最终影响仍取决于后续上诉结果。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://huggingface.co/blog/agent-intrusion-technical-timeline">Anatomy of a Frontier Lab Agent Intrusion : A Technical Timeline of the...</a></li>
-<li><a href="https://rasne.dev/news/tailscale-didnt-stop-the-hugging-face-intrusion">Tailscale didn&#x27;t stop the Hugging Face intrusion | rasne</a></li>
-
-</ul>
-</details>
-
-**标签**: `#security`, `#tailscale`, `#zero-trust`, `#incident analysis`, `#AI infrastructure`
+**标签**: `#AI`, `#copyright`, `#music`, `#legal`, `#Suno`
 
 ---
 
 <a id="item-tech-news-6"></a>
-### [电梯调度算法解析与社区讨论](https://john.fun/elevators) ⭐️ 7.0/10
+### [电梯调度算法、权衡与真实行为](https://john.fun/elevators) ⭐️ 7.0/10
 
-本文分析了电梯调度算法，包括 SCAN、LOOK 和目的楼层调度，并通过模拟和社区讨论进行说明。SCAN 算法与磁盘调度中的扫描算法相通，作者认为目的楼层调度通常表现更差，但社区质疑这可能源于随机目的地假设。实际办公场景中，非底层用户通常前往底层，底层用户则成组前往同一楼层，这会显著影响算法效果。社区还推荐了电梯调度游戏 Elevatorsaga，并指出 LOOK 算法最符合玩家预期，同时有人抱怨无法取消误按的电梯按钮。
+《Elevators》一文由 Jrh0203 发布在 john.fun，探讨了电梯调度算法及其权衡，并通过模拟与比较分析真实世界中的电梯行为。文章指出不同算法（如 SCAN/LOOK 与目的地派送）在不同条件下表现各异，其中目的地派送在随机目的地模拟中表现较差，但真实建筑中常见的成组同层出行模式可能改变这一结论。该内容在 Hacker News 上引发了软件工程师和系统思考者的广泛讨论，包括将电梯调度类比为磁盘调度算法。整体上这是一篇高价值的技术文章，但并非突破性或范式转变的进展。
 
 hackernews · Jrh0203 · 7月31日 15:17 · [社区讨论](https://news.ycombinator.com/item?id=49124218)
 
-**「背景」：** 电梯调度算法是控制多台电梯响应楼层呼叫的策略，常见方法包括 SCAN（电梯沿一个方向运行，服务完所有请求后反向）和 LOOK（SCAN 的变体，只运行到最高/最低请求楼层后折返，不必到顶层/底层）。目的地调度（Destination Dispatch）是一种用于多电梯系统的优化技术，乘客在进入电梯前选择目的地楼层，系统将去往相同目的地的乘客分组到同一部电梯，以减少等待和旅行时间，这种策略常与磁盘调度中的 SCAN 算法相类比。
+**「背景」** 电梯调度算法决定多台电梯如何响应楼层召唤，常见方案包括 SCAN、LOOK、Otis 专有的 RSR 以及目的地派梯系统（用键盘输入目标楼层取代上下按钮）。SCAN 也被称为电梯算法或电梯调度算法，其思路与磁盘调度中的 SCAN 算法相通：磁盘寻道类似一台绕轴展开的长电梯。本文通过模拟比较这些算法的行为与取舍，社区讨论中常将电梯调度与磁盘调度（如 LOOK）进行类比。
 
-**「社区讨论」：** 评论者将电梯算法与硬盘寻道联系起来，提到 SCAN 本是磁盘调度算法；还有开发者指出在真实办公场景中目的地分布并非随机，因此目的楼层调度“通常更差”的结论可能受随机模拟影响。有人推荐 Elevatorsaga 游戏供深入探索，也有游戏开发者表示 LOOK 算法最符合玩家预期，但对等待较久的楼层会给予优先。另有用户提出希望可以取消误按的按钮。
+**「社区讨论」** 评论者将电梯调度与硬盘 SCAN/LOOK 磁盘调度算法类比，并指出目的地派送表现不佳可能是随机目的地模拟造成的假象，真实建筑中的常见模式（如同层员工群体同时前往同一楼层）会改变算法效果。还有人分享了 Elevator Saga 游戏和开发 Sky Lobby 游戏时选择 LOOK 算法的经验，并提到用户经常同时按上下按钮这一现实问题。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Destination_dispatch">Destination dispatch - Wikipedia</a></li>
-<li><a href="https://www.techinterview.org/post/3233463535/low-level-design-elevator-system/">Low-Level Design: Elevator System (OOP Design Interview)...</a></li>
+<li><a href="https://elsolitario.org/en/2026/07/31/elevator-algorithms-scan-look-rsr/">Elevator Algorithms: SCAN, LOOK, and RSR Explained</a></li>
+<li><a href="https://dev.to/thesaltree/elevator-scheduling-algorithms-fcfs-sstf-scan-and-look-2pae">Elevator Scheduling Algorithms: FCFS, SSTF, SCAN, and LOOK SCAN (Elevator) Disk Scheduling Algorithms - GeeksforGeeks Traditional and Real-Time Elevator Scheduling Algorithms Diving into Go: Implementing Classic Elevator Scheduling ... The Elevator Problem: Scheduling and Load Balancing elevator algorithm — Visual Explainer | Vectree</a></li>
+<li><a href="https://www.geeksforgeeks.org/dsa/scan-elevator-disk-scheduling-algorithms/">SCAN (Elevator) Disk Scheduling Algorithms - GeeksforGeeks</a></li>
 
 </ul>
 </details>
 
-**标签**: `#algorithms`, `#scheduling`, `#elevators`, `#systems`, `#simulation`
+**标签**: `#elevator algorithms`, `#scheduling`, `#simulation`, `#software engineering`, `#systems`
 
 ---
 
 <a id="item-tech-news-7"></a>
-### [qm：YC 支持的多人智能体协作工具](https://github.com/yc-software/qm) ⭐️ 7.0/10
+### [Hugging Face 遭入侵：可重用认证密钥成入口](https://tailscale.com/blog/hugging-face-intrusion) ⭐️ 7.0/10
 
-qm 是一个获得 Y Combinator 支持的多人智能体（multiplayer agent）协作工具，用于协调多个 AI 代理在公司内部协同工作，核心设计是“每人作用域”（per-person scopes）和“共享房间”（shared rooms），以解决多代理协作中的范围隔离问题。该项目直接回应了 YC Request for Startups 中提到的“multiplayer AI”方向，并于 Hacker News 上获得 413 点和 91 条评论的高度关注。目前项目仍停留在产品级描述，未公开深入的技术实现细节，但其对作用域与共享房间的设计被认为是对“代理循环”之外的关键难题——范围管理——的合理回答。社区评论同时提到 Orca、Buzz、AQ（aq.dev）和 Garry Tan 的 gstack 等相邻项目，显示该领域正在快速演化。
+Tailscale 发布事件分析，解释 Hugging Face 入侵事件中攻击者利用一枚可重用的 Tailscale 认证密钥进入其 tailnet，并非利用 Tailscale 产品漏洞。该密钥被复制到外部沙箱并在数天内注册了 181 个 CI 节点，获得 CI 节点身份标签所对应的访问权限。事件中涉及的 136 个凭证中包括这一枚可重用密钥；Tailscale 强调没有漏洞被利用，但作为安全工具仍将此视为自身入侵并承担责任。此事件显示长期有效的可重用认证密钥和缺乏来源或目标绑定的访问控制是实际风险，也暴露了相关告警机制的不足。
 
-hackernews · tosh · 7月31日 18:04 · [社区讨论](https://news.ycombinator.com/item?id=49126604)
+hackernews · bluehatbrit · 7月31日 19:03 · [社区讨论](https://news.ycombinator.com/item?id=49127306)
 
-**「背景」：** QM 是 Y Combinator 内部使用的多智能体协作框架，近期已开源，定位为面向初创公司的“多人智能体工作平台”，可通过 Slack 和网页使用。与大多数像个人助理一样设计的智能体不同，QM 强调公司级使用，并引入了“每个人独立作用域 + 共享房间”的机制，以便团队成员可以参与或影响智能体的工作。这一方向回应了 YC 在“Requests for Startups”中提出的“多人 AI”概念：最好的工作工具在变成多人协作后会更强大，但 AI 目前仍大多局限于私人聊天，智能体在队友无法加入或影响的会话中工作。
+**「背景」** Tailscale 是一种基于 WireGuard 的网格 VPN，通过 tailnet 将设备组成私有网络；认证密钥用于允许新节点加入，并可设置为一次性或可重用。Hugging Face 是 AI 模型托管平台，此前披露了安全事件；本次风波的核心并非 VPN 被攻破，而是认证凭证被盗用。
 
-**「社区讨论」：** 社区普遍认可 qm 对作用域（scoping）的重视，认为这是多智能体协作中比代理循环更难的挑战；knighthacker 称其“个人作用域+共享房间”是公司级助手的合理答案，并提到自己构建的相邻产品 AQ。也有评论指出，这些新工具的落地页往往难以理解（epistasis），以及智能体在获得 Slack 频道后会自主与其他代理安排会议的有趣现象（luciana1u）。
+**「影响」** 使用 Tailscale 等网格 VPN 的组织应审查认证密钥的生命周期和复用策略，将 CI 等动态节点的密钥绑定来源或目的地，并配置异常节点注册告警；否则类似可重用密钥泄露可能绕过网络边界，扩大攻击面。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://github.com/yc-software/qm">GitHub - yc-software/qm: Multiplayer agent harness for work · GitHub</a></li>
-<li><a href="https://digg.com/tech/379cgr5u">Y Combinator requests startups building AI for the aging population...</a></li>
+**「社区讨论」** 评论者态度不一，有人赞赏 Tailscale 透明处理并认为道歉令人满意，也有人觉得这是巧妙营销。技术讨论集中在告警机会：用可重用密钥在几天内注册 181 个节点应触发提醒，且密钥应按来源或目标进行范围限制，例如仅在带有 ci\_node 属性的机器上使用。
 
-</ul>
-</details>
-
-**标签**: `#multiplayer AI`, `#agent orchestration`, `#developer tools`, `#AI infrastructure`, `#Y Combinator`
+**标签**: `#security`, `#tailscale`, `#hugging-face`, `#credential-management`, `#postmortem`
 
 ---
 
 <a id="item-tech-news-8"></a>
-### [开放权重革命：Simon Willison 谈开源模型浪潮](https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything) ⭐️ 7.0/10
+### [开源权重革命：Simon Willison 谈最新模型趋势](https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything) ⭐️ 7.0/10
 
-Simon Willison 受邀参加 Oxide and Friends 播客，与 Bryan Cantrill 和 Adam Leventhal 讨论了开放权重模型的迅猛发展。他们重点谈到 Kimi K3 证明开放权重模型可以与专有前沿模型一较高下，以及几乎覆盖 AI 行业所有重要人物的《开放权重与美国 AI 领导力》公开信，但 Anthropic 是显著例外。Willison 指出这期对话很快过时，因为稍后几天发布的 DeepSeek V4 Flash 0731 和 Anthropic 自身的安全事件本应纳入讨论。节目还涉及 Golden Gate Claude、Zizians、阿拉米达野生火鸡袭击、苏联马尔堡病毒研究和铅犯罪假说等话题。他们回顾了 1 月份的预测，并新增一条预测：到今年年底，教皇会就开放模型发表看法。
+Simon Willison 于周一参加 Oxide and Friends 播客，与 Bryan Cantrill 和 Adam Leventhal 讨论近期开源权重模型的激增，重点提到 Kimi K3 证明开源权重模型能与专有前沿模型正面竞争。他们还谈到 OpenAI 遭遇的意外网络安全攻击，以及几乎所有 AI 重要人物签署的《开放式权重与美国 AI 领导力》公开信，唯一显著例外是 Anthropic。Willison 指出，由于几天后 DeepSeek V4 Flash 0731 发布和 Anthropic 自身的尴尬网络安全事件发生，这期对话已经过时。节目还涉及 Golden Gate Claude、Zizians、阿拉米达野生火鸡袭击、苏联马尔堡病毒研究和铅犯罪假说等话题。他们回顾了 1 月的预测，并新增预测：今年年底前教宗会说一些关于开放模型的话。
 
 rss · Simon Willison · 7月31日 21:33
 
-**「背景」：** 开放权重模型是指公开模型权重的人工智能模型，开发者可以在本地运行、微调或集成到自己的应用中，这与仅通过 API 访问的专有模型形成对比。长期以来前沿模型主要由 OpenAI、Anthropic 等公司闭源提供，但 DeepSeek、Kimi 等系列模型近来展现了开放权重模型在性能上逼近甚至匹敌专有模型的能力。微软等机构还发布了关于开放权重与美国 AI 领导力的公开信，获得众多 AI 领域人士签署，但 Anthropic 持不同立场，成为公开信中的著名例外。
+**「背景」** 开源权重模型是指公开模型权重、允许本地运行和微调的大语言模型，区别于仅通过 API 提供的封闭前沿模型。2026 年 7 月底，Kimi K3 等模型展示了开源权重路线可与专有模型竞争，促使微软等机构发布关于开源权重与美国 AI 领导力的公开信，几乎所有主要 AI 公司签署，而 Anthropic 未签署。
 
-**标签**: `#open weights`, `#AI models`, `#podcast`, `#Simon Willison`, `#industry news`
+**「影响」** 对于依赖本地 LLM 部署的开发者，节目中讨论的 Kimi K3 表现以及节目录制后发布的 DeepSeek V4 Flash 0731，进一步表明开源权重模型可作为封闭 API 之外的有力替代。Anthropic 未签署公开信这一事实，也凸显出企业在开源权重安全问题上的立场分歧，可能影响开发者对模型提供方的选择与合规评估。
+
+**标签**: `#open-weights`, `#AI`, `#podcast`, `#LLM`, `#industry-news`
 
 ---
 
 <a id="item-tech-news-9"></a>
-### [smevals：小型评测套件，用于评估模型、提示词与测试框架](https://simonwillison.net/2026/Jul/31/smevals/#atom-everything) ⭐️ 7.0/10
+### [法官质疑 Anthropic 风险认定，考虑永久撤销禁令](https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/) ⭐️ 7.0/10
 
-Simon Willison 与 Jesse Vincent 的 Prime Radiant 应用 AI 研究实验室发布了开源工具 smevals，用于运行小型评测套件并对比不同模型、提示词和测试框架的表现。该工具以目录加 YAML 文件的形式定义评测，支持通过 \`uvx smevals run path-to-eval/ -m gpt-5.5 -m claude-opus-4.6\` 对不同模型运行，并可将运行与评分分离，通过 \`uvx smevals grade path-to-eval/\` 按预设检查进行评分，再通过 \`uvx smevals serve path-to-eval/\` 或 \`smevals build\` 以本地 Web 服务或静态 HTML 报告展示结果。评测结构包含 eval、task、config、run、runner、grader、grade、check 和 checkers 等术语，其中 grader 运行一系列检查，既可以是字符串匹配或 XML 有效性等简单操作，也可以调用其他模型进行自定义判断。Willison 表示这是他对评测方法多年的第三次迭代，并已用其构建了评估模型写俳句能力的示例评测套件。
+美国联邦地区法官 Rita Lin 在周四听证会上表示，特朗普政府仍未提供足够证据，证明将 Anthropic 列为“供应链风险”并禁止联邦政府使用其 AI 技术的决定合理，她正考虑永久撤销禁令。政府因 Anthropic 公开批评国防部而实施封禁，Lin 称这一逻辑“非常令人不安”，可能开创报复与政府意见不合的联邦承包商的先例，并指出案卷记录“在某些方面对政府而言变得更糟了”。争端源于 Anthropic 与国防部合同谈判破裂：Anthropic 要求其 AI 不用于大规模监控或致命武器决策，国防部则认为私营企业不应规定军方如何使用技术。Anthropic 于 3 月提起两起诉讼，Lin 此前已临时叫停封禁，目前正考虑是否永久撤销；政府律师称计划在 9 月 30 日前完成停用 Anthropic 产品。该案涉及 AI 治理、政府合同、言论自由与行政权力边界，但属于法律程序进展而非技术突破。
 
-rss · Simon Willison · 7月31日 21:15
+telegram · zaihuapd · 7月31日 08:00
 
-**「背景」：** 大型语言模型评测（eval）通常用于系统化地衡量模型在特定任务上的能力、比较不同提示词或模型配置的效果，以及验证测试工具本身是否可靠。smevals 提供了一种轻量级、基于目录和 YAML 文件的工作流，将运行评测与评分解耦，让开发者可以灵活地定义检查项，甚至用其他模型作为裁判来评估输出质量。
+**「背景」** 美国联邦采购制度允许政府以“供应链风险”为由限制特定公司的产品，但该案的核心争议在于，政府是否能因承包商公开批评国防部而将其列入风险名单并禁止使用。Anthropic 与国防部就 AI 军事用途的合同条款未能达成一致，随后于 3 月提起诉讼，挑战封禁决定。
 
-**标签**: `#eval suite`, `#LLM`, `#open source`, `#AI tools`, `#Simon Willison`
+**「影响」** 若法官作出永久禁令，Anthropic 与联邦机构的合同关系可能恢复，且政府以企业公开表态作为封禁理由将更难成立；反之，若政府胜诉，AI 公司在国防合同中坚持人权与武器使用限制条款时可能面临更大压力。目前法院尚未作出最终裁定，这些影响仍未确定。
+
+**标签**: `#Anthropic`, `#AI regulation`, `#US government`, `#supply chain`, `#legal`
 
 ---
 
 <a id="item-tech-news-10"></a>
-### [HN 每日精选：电梯算法、AI 会话与 DeepSeek-V4-Flash 公测](https://zeli.app/zh/digest/2026-07-31) ⭐️ 7.0/10
+### [OpenAI 封禁柬埔寨诈骗团伙 ChatGPT 账号网络](https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation/) ⭐️ 7.0/10
 
-本期 HN Digest 汇总了 2026 年 7 月 31 日 Hacker News 的高分讨论，覆盖电梯调度算法、AI 会话可携带性和开源与安全动态，为技术读者提供了当日高价值信息。最受关注的是 DeepSeek-V4-Flash API 进入公开测试阶段：它在 Terminal Bench 2.1 得 82.7 分、Cybergym 得 76.7 分，原生支持 Responses API 并针对 Codex 优化，但仅调整 Flash API，V4-Pro 与 APP/WEB 模型暂未变化。另一篇文章指出 OpenAI、Anthropic 和 Google 的推理 API 开始返回混合专有状态的数据，导致本地转录本只是不完整视图，并提出检查、导出、重放、审计和删除五项会话所有权测试。电梯调度分析对比了 SCAN/LOOK 与 Otis RSR 系统，认为目的地调度因每 5 秒重新优化，多数情况下不如传统上下按钮灵活。其他热点包括 Google 称 2026 年 6 月用 AI 修复的 Chrome 漏洞超过去两年总和、Tailscale 未能阻止 Hugging Face 入侵、JEP 401 值对象预览版合入 OpenJDK。
+OpenAI 于 2026 年 8 月 4 日（原文如此，后改为 7 月 31 日）宣布，封禁了一个疑似位于柬埔寨波贝市的 ChatGPT 账号网络。该团伙利用 ChatGPT 同时开展投资诈骗、杀猪盘、赌博和冒充执法人员等多类骗局，并生成虚假人设、翻译与受害者的对话、伪造护照和法律文书图片。OpenAI 根据 WhatsApp 提供的线索展开调查，已与行业伙伴和有关部门共享威胁信息。部分账号还生成过疑似涉及人口贩运和强迫劳动的内容，例如以机票住宿为饵在波贝招聘“聊天员”，与公开报道中东南亚犯罪集团诱拐劳工的情况吻合。OpenAI 表示该网络可能与数百名目标接触，单个受害者损失数千美元，但具体金额无法核实。
 
-rss · Zeli · 7月31日 23:59
+telegram · zaihuapd · 7月31日 23:41
 
-**「背景」：** Hacker News（HN）是 Y Combinator 旗下的技术新闻与讨论社区，用户提交链接后经社群投票排序；Zeli 的 HN Digest 将当日高分帖子整理为中文速览，本页即 2026 年 7 月 31 日的版本。理解其中的电梯调度与 AI 会话讨论需要知道：目的地调度系统通常每 5 秒重新规划路径，而厂商的推理 API 并非总返回可本地重放的完整对话。
+**「背景」** “杀猪盘”是一种以建立情感关系为基础的诈骗手法，骗子先打造虚假人设取得受害者信任，再诱导其投资或转账，得手后失联；此类骗局常由东南亚有组织犯罪团伙运营，成员会通过社交媒体和聊天应用大量物色目标。AI 服务的兴起使诈骗团伙能够低成本生成可信文案、伪造身份和翻译对话，从而扩大攻击规模并提高欺骗性。
 
-**标签**: `#Artificial Intelligence`, `#DeepSeek`, `#Data ownership`, `#Algorithms`, `#Technology news`
+**「影响」** 对相关诈骗团伙而言，账号封禁会中断其现有 ChatGPT 账号和配套的内容生成流程，迫使其更换工具或投入更多资源绕过检测；对行业而言，OpenAI 与 WhatsApp 及行业伙伴共享情报，可能帮助平台识别关联账号并阻止类似滥用，但具体威慑效果尚不确定。
 
----
-
-<a id="item-tech-news-11"></a>
-### [Arch Linux 因 AUR 恶意采用事件禁用孤儿包采用](https://lwn.net/Articles/1086489/) ⭐️ 7.0/10
-
-Arch Linux DevOps 团队宣布，由于近期通过 AUR 进行的恶意软件包采用和后续提交激增，已禁用对孤儿软件包的采用功能。安全研究者 Michael Taggart 发布分析称，此轮攻击中被加入大量软件包的载荷疑似为一种远程访问木马（RAT），它通过 Tor 网络接收命令并尝试上传用户的大量数据。此前，项目曾在 6 月暂停新账户注册，起因是攻击者利用新账户采用孤儿包并推送恶意更新；7 月 13 日团队在增加一些轻微限制后重新开放注册，但这些限制显然未能有效阻止攻击。
-
-rss · LWN.net · 7月31日 13:38
-
-**「背景」：** Arch 用户软件仓库（AUR）是 Arch Linux 社区维护的软件包来源，包含大量非官方软件包；当一个包被原维护者放弃后，其他用户可以“收养”该包并继续提交更新。此前在 6 月，Arch Linux 项目就因攻击者创建新账户来收养被遗弃的包并推送恶意更新而暂停了新账户注册，该恶意活动影响了超过 1500 个社区软件包（据第三方报道）。7 月 13 日重新开放注册时只加入了少量限制，但这些限制显然未能阻止新一波攻击，因此 DevOps 团队现在又暂时禁用了 AUR 的包收养功能。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/">Arch Linux disables AUR package adoption to stop malware flood</a></li>
-<li><a href="https://www.phoronix.com/news/Arch-Linux-AUR-Adoptions-Halted">Arch Linux AUR Under Another Wave Of Malicious Packages ...</a></li>
-<li><a href="https://www.linkedin.com/posts/linuxsecurity_arch-linux-locks-down-aur-signups-amid-wave-activity-7472377412010446848-qtYQ">Arch Linux disables AUR account registrations after malicious ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#security`, `#arch-linux`, `#aur`, `#malware`, `#open-source`
+**标签**: `#AI safety`, `#OpenAI`, `#ChatGPT misuse`, `#scam`, `#policy`
 
 ---
 
-<a id="item-tech-news-12"></a>
-### [法官质疑美政府证据，考虑永久撤销对 Anthropic 禁令](https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/) ⭐️ 7.0/10
+## 财经新闻
 
-美国联邦地区法官 Rita Lin 在周四听证会上表示，特朗普政府仍未提供足够证据，证明将 Anthropic 列为“供应链风险”并禁止联邦政府使用其 AI 技术的决定合理。政府以 Anthropic 公开批评国防部为由实施封禁，Lin 称这一逻辑“非常令人不安”，可能开创报复与政府意见不合的联邦承包商的先例，并指出案卷记录“在某些方面对政府而言变得更糟了”。争端源于 Anthropic 与国防部的合同谈判破裂：Anthropic 要求其 AI 不被用于对美国人进行大规模监控或致命武器决策，而国防部认为私营企业不应规定军方如何使用技术。Anthropic 于 3 月提起两起诉讼，Lin 此前已临时叫停封禁，目前正考虑是否永久撤销；政府律师表示计划在 9 月 30 日前完成停用 Anthropic 产品。
+<a id="item-finance-news-1"></a>
+### [纽约州起诉 Kalshi：称其运营“非法赌博业务”](https://www.cnbc.com/2026/07/31/new-york-sues-kalshi-claims-it-is-illegal-gambling-operation.html) ⭐️ 9.0/10
 
-telegram · zaihuapd · 7月31日 08:00
+纽约州于 7 月 31 日对预测市场平台 Kalshi 提起诉讼，指控其未向州博彩委员会注册，构成“非法赌博经营”。州检察长詹乐霞和州长霍楚尔要求法院永久禁止 Kalshi 运营，并寻求向用户退款、每次体育博彩要约罚款 10 万美元、以及按违法所得的三倍处罚，州方估计总额可能达 360 亿美元。Kalshi 总部位于纽约市，公司在联邦法院已与纽约州及商品期货交易委员会（CFTC）陷入管辖权争议。
 
-**「背景」：** 美国联邦机构可依据相关法定程序将企业认定为“供应链风险”，从而禁止联邦政府使用其技术。Anthropic 因拒绝允许国防部无限制地将其 AI 用于军事用途（包括大规模监控或致命武器决策），遭国防部列入该名单；公司随即在 2026 年 3 月提起两起诉讼，分别诉诸联邦地区法院和哥伦比亚特区上诉法院，其中后者基于与“供应链风险”认定相关的法规。联邦法官 Rita Lin 此前已临时叫停这一封禁，目前正考虑是否永久撤销。
+rss · CNBC Finance · 7月31日 15:31
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.politico.com/news/2026/07/30/anthropic-supply-chain-risk-lawsuit-hearing">Trump admin has not justified labeling Anthropic a national ...</a></li>
-<li><a href="https://apnews.com/article/anthropic-trump-pentagon-hegseth-ai-104c6c39306f1adeea3b637d2c1c601b">Anthropic seeks to undo &#x27;supply chain risk&#x27; designation from ...</a></li>
-<li><a href="https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/">Judge says Trump admin still lacks evidence for Anthropic ...</a></li>
+**「名词解释」** 预测市场是让用户就“某事件是否发生”下注的平台，例如选举或体育比赛结果；纽约州认为这类体育合约等同于体育博彩，应受州法规管，而 Kalshi 和联邦监管机构 CFTC 则认为它们是“互换合约”，由联邦专属监管。简单说，争议核心是“谁有权监管预测市场”。
 
-</ul>
-</details>
+**「潜在影响」** 若法院支持纽约州，Kalshi 可能被迫暂停或大幅调整在纽约乃至全美的体育类预测产品，并面临巨额罚款和赔偿，其用户也可能无法继续使用相关功能；同时，这一案件可能影响其他预测市场平台的合法性和监管方向。目前法院尚未作出最终裁决，实际后果仍不确定。
 
-**标签**: `#AI policy`, `#Anthropic`, `#government contracts`, `#legal`, `#supply chain`
+**标签**: `#prediction markets`, `#regulation`, `#lawsuit`, `#CFTC`, `#New York`
+
+---
+
+<a id="item-finance-news-2"></a>
+### [AI 对冲基金“情境感知”因动量崩溃被迫平仓，资产从 450 亿美元缩水至约 100 亿美元](https://www.cnbc.com/2026/07/31/why-leopold-aschenbrenner-situational-awareness-hedge-fund-imploded.html) ⭐️ 8.0/10
+
+Leopold Aschenbrenner 旗下的 AI 主题对冲基金“情境感知”（Situational Awareness）在经历一场历史性的动量崩溃后迅速崩盘：其管理资产从约 450 亿美元缩水至约 100 亿美元，并将公开交易的股票持仓折价出售给 Citadel。该基金同时押注 AI 基础设施股上涨和软件股下跌，但两类头寸同时亏损，触发保证金追缴和强制平仓。
+
+rss · CNBC Finance · 7月31日 16:14
+
+**「关键概念解释」** “动量崩溃”指原本持续上涨的股票突然集体大幅下跌，导致依赖趋势的量化策略在极短时间内遭受巨大损失。这里还涉及“保证金追缴”：基金用借来的钱放大投资（即杠杆），当持仓市值下降时，券商要求追加现金担保，基金被迫卖出更多持仓来筹集资金，从而进一步压低股价，形成“去杠杆螺旋”。
+
+**「影响」** 受此事件影响，AI 基础设施股票此前数周大幅波动，但在最大强制卖家退出后出现反弹；不过并非所有人都认为抛售已结束，知名投资者 Michael Burry 反而在市场反弹时增加了对 AI 相关股票的看跌押注。这一案例也警示了使用高杠杆的投资者：即使大盘看似平稳，集中的杠杆策略也可能迅速崩盘。
+
+**标签**: `#hedge fund`, `#AI stocks`, `#momentum crash`, `#margin call`, `#leverage`
+
+---
+
+<a id="item-finance-news-3"></a>
+### [美国拟对留学生毕业后工作收取 10 万美元 OPT 费用](https://www.bloomberg.com/news/articles/2026-07-30/trump-weighs-100-000-fee-for-foreign-students-to-work-post-grad) ⭐️ 8.0/10
+
+特朗普政府正考虑向国际学生收取 10 万美元费用，以获准毕业后留美工作，这笔费用针对“选择性实践培训”（OPT）项目。知情人士称，去年秋季有近 30 万国际学生持 OPT 留美；白宫官员表示暂无即将出台的政策变化，但未否认正在讨论。此前政府已将学生签证居留期限缩短为四年，并曾推动对 H-1B 签证收取同等费用，但该费用在 2026 年 6 月被联邦法官裁定违法，政府正在上诉。
+
+telegram · zaihuapd · 7月31日 09:00
+
+**「关键概念」** OPT 全称“选择性实践培训”（Optional Practical Training），是允许持 F-1 学生签证的国际学生在毕业后留美工作最长 12 个月的项目，STEM 专业可再延长 24 个月。10 万美元费用是拟议中的额外收费，并非已正式实施的政策。
+
+**「影响」** 若该费用落地，最直接受影响的将是依赖 OPT 留美工作的约 30 万国际毕业生，以及聘用这些毕业生的科技、金融等行业企业，后者的用人成本可能明显上升；依赖国际学生学费的高校也可能因生源减少而受损。不过，该提案仍在讨论阶段，且类似 H-1B 收费已遭法院否决，因此实际实施时间和形式仍有较大不确定性。
+
+**标签**: `#immigration-policy`, `#higher-education`, `#tech-industry`, `#labor-market`, `#visa`
+
+---
+
+<a id="item-finance-news-4"></a>
+### [美股午盘异动：亚马逊、苹果、Reddit、GoDaddy 等因财报或指引大幅波动](https://www.cnbc.com/2026/07/31/stocks-making-the-biggest-moves-midday-aapl-amzn-rddt-gddy-iesc.html) ⭐️ 7.0/10
+
+截至 2026 年 7 月 31 日午盘，多只个股因财报和公司指引出现大幅波动：亚马逊大涨 15%，云业务收入同比增长 37%、超出预期；苹果下跌逾 9%，尽管 iPhone 销售额增长 22%；Reddit 跌 22%，因来自谷歌的搜索推荐流量“不稳”；GoDaddy 跌 20%，因全年指引不及华尔街预期；Replimune 涨逾 94%，因美国食品药品监督管理局（FDA）顾问委员会支持其皮肤癌药物 RP1 的试验结果。这些大多是市场对业绩数字和公司未来展望的直接反应。
+
+rss · CNBC Finance · 7月31日 17:42
+
+**「关键概念」** “指引”（guidance）指公司自己给出的未来收入、利润等业绩预测；当指引高于或低于华尔街分析师的普遍预期，股价常会迅速反应。文中“同比增长 37%”指与去年同期相比增长 37%，这种比较可以排除季节性因素，更直观地看出业务是否加速。
+
+**「影响」** 最直接的影响是这些公司的股东在午盘看到市值大幅变动；例如亚马逊云业务加速增长可能利好云计算相关产业链，但单日涨跌并不代表长期趋势。对普通消费者来说，这些财报变化短期内通常不会直接改变商品或服务价格，除非后续公司调整投资、定价或经营策略。
+
+**标签**: `#Earnings`, `#Stock Movers`, `#Cloud Computing`, `#FDA Approval`, `#Guidance`
+
+---
+
+<a id="item-finance-news-5"></a>
+### [美联储三位官员反对维持利率，主张立即加息以抗通胀](https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html) ⭐️ 7.0/10
+
+在 2026 年 7 月的美联储会议上，三位地方联储行长——克利夫兰的哈马克、明尼阿波利斯的卡什卡利和达拉斯的洛根——公开反对委员会维持利率不变的决定，主张现在加息以抑制通胀。其余九名投票委员同意将联邦基金利率目标区间保持在 3.5%-3.75%不变。美联储主席沃什投了支持票，但也表示通胀仍需回落到 2%目标。
+
+rss · CNBC Finance · 7月31日 14:35
+
+**「名词解释」** 联邦公开市场委员会\(FOMC\)是美联储制定利率的机构；委员投“反对票”表示不同意多数派的决定，不代表立刻改变政策。这三位官员担心通胀已经高于 2%目标超过五年，拖延会让物价上涨更难控制。
+
+**「可能影响」** 由于本次会议决定维持利率不变，家庭和企业的贷款成本不会立即变化；但如果未来加息，房贷、车贷和信用卡等浮动利率借款的利息可能上升。
+
+**标签**: `#Federal Reserve`, `#monetary policy`, `#inflation`, `#interest rates`, `#FOMC`
+
+---
+
+<a id="item-finance-news-6"></a>
+### [盘前综述：科技与生物科技股因财报及 FDA 消息大幅波动](https://www.cnbc.com/2026/07/31/stocks-making-the-biggest-moves-premarket-repl-cvx-aapl-amzn-mrna.html) ⭐️ 7.0/10
+
+在最新财报和监管消息公布后，多只股票在盘前交易中大幅波动。Replimune 因 FDA 顾问委员会投票支持其皮肤癌药物 RP1 而大涨超 130%，Wedbush 随即上调其评级；Amazon 因云业务收入同比增 37%、超过市场预期且创 18 个季度最快增速而涨逾 11%；Apple 尽管 iPhone 销售增长 22%、整体营收好于预期，股价仍跌逾 7%。此外，诺和诺德因三期试验失败跌逾 10%，Chevron 净利润为 121 亿美元、同比增近 400%，Moderna 虽然二季度业绩好于预期仍跌逾 4%。
+
+rss · CNBC Finance · 7月31日 12:30
+
+**「解读」** “盘前”指美股正式开盘前的交易时段，价格会快速反映隔夜财报、监管和新闻消息；“同比”意思是与去年同期相比。文中提到的 FDA 顾问委员会投票是独立专家对药品证据的评估意见，虽不具最终法律效力，但通常是 FDA 审批决定的重要参考。
+
+**「影响」** 对持有这些个股的投资者来说，盘前价格波动直接影响持仓市值；对相关患者而言，Replimune 获专家支持可能增加疗法获批希望，而诺和诺德三期失败则意味着该药在心血管领域的前景受挫。最终影响仍取决于 FDA 正式决定、后续临床结果和监管审查，不应视为确定的投资或治疗结论。
+
+**标签**: `#premarket movers`, `#corporate earnings`, `#FDA decision`, `#biotech`, `#technology`
+
+---
+
+<a id="item-finance-news-7"></a>
+### [五部门启动婚介机构乱象专项整治行动](https://www.peopleapp.com/column/30052813314-500007628513) ⭐️ 7.0/10
+
+民政部会同中央网信办、工业和信息化部、公安部、市场监管总局，于 2026 年 7 月 28 日联合印发工作方案，并于 7 月 30 日召开电视电话会议，部署整治婚介机构乱象专项行动。行动从 2026 年 7 月持续至 2027 年 2 月，聚焦虚假营销、“婚托”欺诈、收费管理混乱、个人信息泄露滥用等七类重点问题。
+
+telegram · zaihuapd · 7月31日 14:00
+
+**「关键词解释」** 婚介机构乱象是指婚介机构在提供相亲、婚恋介绍服务时出现的虚假宣传、雇人冒充相亲对象、违规收费、泄露客户个人信息等问题。专项行动是政府部门集中一段时间开展检查、处罚和规范，目的是通过查处违规行为、曝光典型案例，推动行业整改。
+
+**「影响」** 这项行动可能让使用婚介服务的消费者在虚假宣传和乱收费方面得到更多保护，也可能减少个人信息被泄露的风险。对婚介机构而言，不合规经营会面临更严格的检查和处罚，但实际效果还要看各地落实和执法力度。
+
+**标签**: `#regulation`, `#marriage agencies`, `#consumer protection`, `#China`, `#policy`
 
 ---
 
 ## 科技博客
 
 <a id="item-tech-blog-1"></a>
-### [与 GPU 协同设计注意力：面向快速交互式长上下文推理](https://developer.nvidia.com/blog/co-designing-ai-model-attention-for-fast-interactive-long-context-inference/) ⭐️ 8.0/10
+### [共同设计注意力机制：为长上下文推理提速](https://developer.nvidia.com/blog/co-designing-ai-model-attention-for-fast-interactive-long-context-inference/) ⭐️ 8.0/10
 
 rss · NVIDIA Inference Performance Blog · 7月31日 22:16
 
-**「背景」：** 随着智能体和长上下文应用日益常见，上下文长度不断增长，注意力计算在推理时间中的占比也随之上升。作者认为，此时注意力机制的设计方式而非仅仅其实现方式，越来越决定模型的推理性能。因此，需要围绕 GPU 的实际执行方式来协同设计模型架构。
+**「背景」** 随着智能体与长上下文负载普及，注意力在推理耗时中的占比持续上升。作者认为，注意力的架构设计本身——而非仅仅实现优化——越来越成为决定推理性能的关键，并据此分析如何在 NVIDIA GPU 上共同设计模型注意力。
 
-**「方案」：** 作者结合 GEMM 形状的解析公式和 FP8 预填充/解码核的实测数据，分析了分组大小（G）、头维度（Hsz）、序列长度和张量并行对稠密注意力的影响。预填充是计算密集型，解码是内存密集型；G 越大，解码的算术强度越接近 2G，预填充则几乎不受影响。Hsz 不改变算术强度，但 128 或 256 能对齐 GPU 张量核与 128 字节传输，并避免接近 TMEM 容量上限。序列长度的影响不对称：预填充随 ISL 二次增长，解码随 KVSL 线性增长。张量并行按头切分，需保持 TP ≤ KH，否则会复制 KV 状态；KV 头很少时可用注意力的数据并行或 KV 并行配合专家并行。据此作者提出四条协同设计准则：高 G、Hsz 取 128/256、减少有效 KV 状态、让并行策略匹配 KV 头数。
+**「方案」** 作者从 GEMM 形状算术和 FP8 测量出发，区分了 prefill 与 decode 的瓶颈：prefill 的 GEMM-M 是大规模 ISL×G，受计算限制；decode 每步只产生 G 的小 GEMM，受 KV 缓存读带宽限制。由此得到四项协同设计准则：第一，组大小 G 对 prefill 几乎无影响，但解码的算术强度约等于 2G，因此应尽量提高 G（并结合投机解码）；第二，头维度不改变算术强度，但 Hsz=64 仍需付 128 宽 tile 的代价，Hsz≥512 接近 TMEM 上限，128 或 256 最划算，较大头维度还能摊销 prefill 的 softmax；第三，序列长度成本不对称，prefill 随 ISL² 增长、decode 随 KVSL 线性增长，应通过 KV 缓存压缩、稀疏/滑窗注意力或混合架构减少有效 KV 状态；第四，张量并行会切分 KV 头，应保持 TP≤KH，否则会复制 KV 状态，少数 KV 头的模型可用 ADP/KVP 加 EP 的 Wide EP 或 Helix 并行。
 
-**「启示」：** 作者的核心结论是：围绕 GPU 的存储与计算特性来设计注意力架构，可以在不牺牲准确率的前提下显著提升长上下文推理的吞吐和交互性。这四条准则为模型开发者提供了可落地的协同设计检查清单。
+**「启示」** 作者的核心结论是：注意力推理性能可以通过架构层面的协同设计显著改善。模型开发者把组大小、头维度、KV 状态与并行策略作为一个整体来权衡，就能在相同硬件上提升吞吐与交互性。
 
-**标签**: `#attention mechanisms`, `#GPU inference`, `#long-context`, `#grouped-query attention`, `#tensor parallelism`
-
----
-
-<a id="item-tech-blog-2"></a>
-### [ByteByteGo 招聘 AI 编程课程兼职讲师](https://blog.bytebytego.com/p/hiring-part-time-instructor-write) ⭐️ 1.0/10
-
-rss · ByteByteGo · 7月31日 15:01
-
-**「背景」：** 本文是 ByteByteGo 发布的招聘启事，为“用 AI 编写生产级代码”直播课程招募兼职讲师。它不是技术分析文章，也不包含评测结论，核心是介绍岗位定位与候选人要求。
-
-**「方案」：** 课程面向软件工程师，目标是教会学员借助编码代理（如 Claude Code、Codex、Cursor）可靠交付生产级软件。讲师需要参与完善课程、直播授课、答疑，并分享自己用 AI 构建软件的经验；前期需投入准备时间，之后约每两周 2 至 10 小时，适合在职工程师。作者要求候选人具备 5 年以上生产系统经验，日常使用 AI 编码代理，能拆解复杂问题为可执行的规格与计划，熟悉大型或遗留代码库，能审查 AI 生成代码并识别正确性、安全与长期质量风险，同时具备测试、CI/CD、调试等工程基础，并乐于教学。
-
-**「启示」：** 作者借这份招聘传递的观点是：用 AI 写生产级代码不是简单接受输出，而要靠清晰的规格、计划与严格的审查来避免“AI 垃圾”。
-
-**标签**: `#hiring`, `#job posting`, `#AI coding agents`, `#recruitment`
+**标签**: `#attention mechanisms`, `#inference optimization`, `#GPU performance`, `#GQA`, `#model co-design`
 
 ---
