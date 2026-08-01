@@ -13,11 +13,23 @@ from rich.table import Table
 from rich.panel import Panel
 
 from ..models import (
-    AIConfig, AIProvider, AI_PROVIDER_DEFAULTS, Config, CollectionConfig, ProcessingConfig,
-    ProfileSettingsConfig, SourcesConfig,
-    GitHubSourceConfig, HackerNewsConfig, RSSSourceConfig,
-    RedditConfig, RedditSubredditConfig, RedditUserConfig,
-    TelegramConfig, TelegramChannelConfig,
+    AIConfig,
+    AIProvider,
+    AI_PROVIDER_DEFAULTS,
+    CollectionConfig,
+    Config,
+    DigestConfig,
+    GitHubSourceConfig,
+    HackerNewsConfig,
+    ProcessingConfig,
+    ProfileSettingsConfig,
+    RSSSourceConfig,
+    RedditConfig,
+    RedditSubredditConfig,
+    RedditUserConfig,
+    SourcesConfig,
+    TelegramChannelConfig,
+    TelegramConfig,
 )
 from ..storage.manager import StorageManager
 from .presets import load_presets, match_sources
@@ -293,6 +305,9 @@ def build_config(
         ai=ai_config,
         sources=sources,
         collection=collection,
+        digest=DigestConfig(
+            profile_order=["tech-news", "tech-blog", "finance-news"]
+        ),
         processing=ProcessingConfig(
             profile_settings={
                 "tech-news": ProfileSettingsConfig(threshold=7.0),

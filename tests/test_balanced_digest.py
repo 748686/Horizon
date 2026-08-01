@@ -186,6 +186,28 @@ def test_rejects_settings_for_unknown_profile() -> None:
         HorizonOrchestrator(config, SimpleNamespace())
 
 
+@pytest.mark.parametrize(
+    "profile_order",
+    [
+        ["tech-news", "tech-blog"],
+        ["tech-news", "tech-blog", "finance-news", "missing"],
+    ],
+)
+def test_rejects_incomplete_or_unknown_profile_order(profile_order) -> None:
+    config = Config(
+        ai=AIConfig(
+            provider="openai",
+            model="test",
+            api_key_env="TEST_API_KEY",
+        ),
+        sources=SourcesConfig(),
+        digest=DigestConfig(profile_order=profile_order),
+    )
+
+    with pytest.raises(ValueError, match="must list every loaded profile"):
+        HorizonOrchestrator(config, SimpleNamespace())
+
+
 def test_duplicate_category_warns_and_first_group_wins() -> None:
     filtering = DigestConfig(
         category_groups={
@@ -211,9 +233,11 @@ def test_duplicate_category_warns_and_first_group_wins() -> None:
         {"default_group_limit": 0},
         {"category_groups": {"ai": {"limit": 0, "categories": ["ai"]}}},
         {"category_groups": {"ai": {"limit": 1, "categories": []}}},
+        {"profile_order": ["tech-news", "tech-news"]},
+        {"profile_order": ["tech-news", ""]},
     ],
 )
-def test_balanced_digest_config_rejects_non_positive_or_empty_limits(kwargs) -> None:
+def test_digest_config_rejects_invalid_values(kwargs) -> None:
     with pytest.raises(ValidationError):
         DigestConfig(**kwargs)
 

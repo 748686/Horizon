@@ -41,8 +41,8 @@ profiles/
 
 | Profile | Purpose | Output |
 | --- | --- | --- |
-| `finance-news` | Macroeconomics, markets, company finance, and economically material policy | Concise summary, necessary background, and direct practical impact |
-| `tech-news` | Timely releases, incidents, research results, and technology-industry developments | Compact summary and background with optional community discussion |
+| `finance-news` | Macroeconomics, markets, company finance, and economically material policy | Concise summary, necessary background, and optional direct impact |
+| `tech-news` | Timely releases, incidents, research results, and technology-industry developments | Compact summary and background with optional impact and community discussion |
 | `tech-blog` | Long-form engineering deep dives, tutorials, investigations, retrospectives, and technical arguments | Required background, solution, and takeaway sections |
 
 The blog profile uses larger input budgets and head-middle-tail sampling. For RSS
@@ -309,4 +309,5 @@ without a primary block show the source first and then render every block under
 its bold localized title on the same line as its content. External references
 follow the blocks when used. Items
 are grouped by Profile: the briefing title is H1, localized Profile names are H2
-sections, and items are H3 headings.
+sections, and items are H3 headings. Set `digest.profile_order` to control the H2
+section order; a non-empty list must contain every loaded Profile exactly once.

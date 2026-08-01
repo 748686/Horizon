@@ -196,6 +196,20 @@ class HorizonOrchestrator:
         )
         for profile_id in config.processing.profile_settings:
             self.profiles.get(profile_id)
+        if config.digest.profile_order:
+            configured_profiles = set(config.digest.profile_order)
+            missing_profiles = self.profiles.ids - configured_profiles
+            unknown_profiles = configured_profiles - self.profiles.ids
+            if missing_profiles or unknown_profiles:
+                details = []
+                if missing_profiles:
+                    details.append(f"missing: {', '.join(sorted(missing_profiles))}")
+                if unknown_profiles:
+                    details.append(f"unknown: {', '.join(sorted(unknown_profiles))}")
+                raise ValueError(
+                    "digest.profile_order must list every loaded profile exactly once "
+                    f"({'; '.join(details)})"
+                )
         self.email_manager = EmailManager(config.email, console=self.console) if config.email else None
         self.webhook_notifier = (
             WebhookNotifier(config.webhook, console=self.console, icons=self.icons)
@@ -281,7 +295,10 @@ class HorizonOrchestrator:
             # 7. Generate and save daily summaries for each configured language
             today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
             for lang in self.config.ai.languages:
-                summarizer = DailySummarizer(profile_names=self.profiles.names)
+                summarizer = DailySummarizer(
+                    profile_names=self.profiles.names,
+                    profile_order=self.config.digest.profile_order,
+                )
                 summary = await summarizer.generate_summary(important_items, today, len(all_items), language=lang)
 
                 # Save to data/summaries/
@@ -1064,6 +1081,9 @@ class HorizonOrchestrator:
         """
         self.console.print(f"{self.icons['summary']} Generating daily summary...")
 
-        summarizer = DailySummarizer(profile_names=self.profiles.names)
+        summarizer = DailySummarizer(
+            profile_names=self.profiles.names,
+            profile_order=self.config.digest.profile_order,
+        )
 
         return await summarizer.generate_summary(items, date, total_fetched, language=language)

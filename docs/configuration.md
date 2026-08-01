@@ -536,10 +536,10 @@ No API key is required.
 
 ## Filtering
 
-Score filtering is configured by each processing profile, not by the runtime
-configuration. For example, a profile can enable filtering at `8.0`, use a
-different threshold, or disable score filtering entirely. See
-[Processing Profiles](profiles.md#filtering) and [Scoring](scoring.md).
+Score filtering is configured under `processing.profile_settings` in the runtime
+configuration. Each profile can use a different `threshold`; set it to `null` or
+omit that profile's settings to disable score filtering. See [Processing
+Profiles](profiles.md#filtering) and [Scoring](scoring.md).
 
 The runtime `collection` section controls the fetch window and contains only
 `time_window_hours`:
@@ -554,12 +554,14 @@ The runtime `collection` section controls the fetch window and contains only
 
 - `time_window_hours`: Fetch content from last N hours
 
-The runtime `digest` section controls optional balanced digest limits:
+The runtime `digest` section controls final section order and optional balanced
+digest limits:
 
 ```json
 {
   "digest": {
     "max_items": 20,
+    "profile_order": ["tech-news", "tech-blog", "finance-news"],
     "category_groups": {
       "ai": {
         "name": "AI / Machine Learning",
@@ -579,6 +581,8 @@ The runtime `digest` section controls optional balanced digest limits:
 ```
 
 - `max_items`: Optional final cap after all group limits are applied
+- `profile_order`: Optional final-summary section order. When non-empty, it must
+  list every loaded profile exactly once. The example keeps financial news last.
 - `category_groups`: Optional map of quota groups. Each group requires a positive
   `limit` and a non-empty `categories` list. Items within each group are kept by
   analysis score, highest first.

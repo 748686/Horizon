@@ -121,8 +121,10 @@ class DailySummarizer:
     def __init__(
         self,
         profile_names: Optional[Dict[str, Dict[str, str]]] = None,
+        profile_order: Optional[List[str]] = None,
     ):
         self.profile_names = profile_names or {}
+        self.profile_order = profile_order or []
 
     @staticmethod
     def _profile_id(item: ContentItem) -> str:
@@ -149,9 +151,20 @@ class DailySummarizer:
         for item in items:
             grouped_items.setdefault(self._profile_id(item), []).append(item)
 
+        ordered_groups = list(grouped_items.items())
+        if self.profile_order:
+            order = {
+                profile_id: index
+                for index, profile_id in enumerate(self.profile_order)
+            }
+            ordered_groups = sorted(
+                ordered_groups,
+                key=lambda group: order.get(group[0], len(order)),
+            )
+
         groups = []
         global_index = 1
-        for profile_id, profile_items in grouped_items.items():
+        for profile_id, profile_items in ordered_groups:
             view_items = []
             for index, item in enumerate(profile_items, start=1):
                 artifact = (

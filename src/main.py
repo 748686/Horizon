@@ -156,6 +156,11 @@ def print_config_template():
   },
   "digest": {
     "max_items": null,
+    "profile_order": [
+      "tech-news",
+      "tech-blog",
+      "finance-news"
+    ],
     "category_groups": {},
     "default_group": "other",
     "default_group_limit": null

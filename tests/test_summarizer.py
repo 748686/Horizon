@@ -185,6 +185,36 @@ def test_generate_summary_groups_items_by_profile_with_heading_hierarchy():
     assert "### [Important Item 2]" in result
 
 
+def test_generate_summary_uses_configured_profile_order():
+    finance = _make_item(1)
+    finance.profile = "finance-news"
+    finance.processing.classification.profile = "finance-news"
+    blog = _make_item(2)
+    blog.profile = "tech-blog"
+    blog.processing.classification.profile = "tech-blog"
+    news = _make_item(3)
+    summarizer = DailySummarizer(
+        profile_names={
+            "tech-news": {"default": "Technology News"},
+            "tech-blog": {"default": "Technology Blog"},
+            "finance-news": {"default": "Financial News"},
+        },
+        profile_order=["tech-news", "tech-blog", "finance-news"],
+    )
+
+    result = _run_async(
+        summarizer.generate_summary(
+            [finance, blog, news],
+            date="2026-04-25",
+            total_fetched=3,
+            language="en",
+        )
+    )
+
+    assert result.index("## Technology News") < result.index("## Technology Blog")
+    assert result.index("## Technology Blog") < result.index("## Financial News")
+
+
 def test_generate_summary_renders_primary_block_before_source_without_heading():
     item = _make_item(1)
     item.processing.artifacts["en"] = ContentArtifact(

@@ -587,6 +587,16 @@ class DigestConfig(BaseModel):
     category_groups: Dict[str, CategoryGroupConfig] = Field(default_factory=dict)
     default_group: str = "other"
     default_group_limit: Optional[int] = Field(default=None, gt=0)
+    profile_order: List[str] = Field(default_factory=list)
+
+    @field_validator("profile_order")
+    @classmethod
+    def validate_profile_order(cls, value: List[str]) -> List[str]:
+        if any(not profile_id.strip() for profile_id in value):
+            raise ValueError("digest.profile_order entries must be non-empty strings")
+        if len(value) != len(set(value)):
+            raise ValueError("digest.profile_order entries must be unique")
+        return value
 
 
 class Config(BaseModel):
