@@ -21,7 +21,7 @@
         "primary": true
       },
       {
-        "id": "explanation",
+        "id": "background",
         "type": "section",
         "tools": ["web_search"]
       },

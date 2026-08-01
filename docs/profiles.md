@@ -41,7 +41,7 @@ profiles/
 
 | Profile | Purpose | Output |
 | --- | --- | --- |
-| `finance-news` | Macroeconomics, markets, company finance, and economically material policy | Concise summary, plain-language explanation, and practical impact |
+| `finance-news` | Macroeconomics, markets, company finance, and economically material policy | Concise summary, necessary background, and direct practical impact |
 | `tech-news` | Timely releases, incidents, research results, and technology-industry developments | Compact summary and background with optional community discussion |
 | `tech-blog` | Long-form engineering deep dives, tutorials, investigations, retrospectives, and technical arguments | Required background, solution, and takeaway sections |
 
