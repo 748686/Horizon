@@ -15,6 +15,11 @@ Profiles live under `profiles/<id>/`:
 
 ```text
 profiles/
+|-- finance-news/
+|   |-- profile.json
+|   |-- match.md
+|   |-- analysis.md
+|   `-- enrichment.md
 |-- tech-news/
 |   |-- profile.json
 |   |-- match.md
@@ -36,6 +41,7 @@ profiles/
 
 | Profile | Purpose | Output |
 | --- | --- | --- |
+| `finance-news` | Macroeconomics, markets, company finance, and economically material policy | Concise summary, plain-language explanation, and practical impact |
 | `tech-news` | Timely releases, incidents, research results, and technology-industry developments | Compact summary and background with optional community discussion |
 | `tech-blog` | Long-form engineering deep dives, tutorials, investigations, retrospectives, and technical arguments | Required background, solution, and takeaway sections |
 
@@ -164,14 +170,25 @@ Set `profile` on a source entry to route its items directly:
 }
 ```
 
+Set `profile` to an array to restrict automatic matching to a candidate subset:
+
+```json
+{
+  "channel": "zaihuapd",
+  "profile": ["tech-news", "finance-news"]
+}
+```
+
 Routing follows these rules:
 
 1. An explicit profile ID uses that profile and skips AI matching.
 2. A missing `profile` or `"auto"` invokes AI matching against every loaded
    profile's `match.md`.
-3. An unknown explicit profile ID is an error.
-4. If automatic matching fails, Horizon records the failure and uses
-   `processing.default_profile`.
+3. A non-empty profile array invokes AI matching only against those candidates.
+4. Unknown, duplicate, blank, or `"auto"` entries in a candidate array are errors.
+5. If candidate matching fails, Horizon uses `processing.default_profile` when
+   it is a candidate, otherwise the first candidate. Unrestricted matching falls
+   back to `processing.default_profile`.
 
 All source types support profile routing. For sources with nested entries, put
 `profile` on the item-producing configuration, such as a GitHub entry, RSS feed,
