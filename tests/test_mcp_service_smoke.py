@@ -13,7 +13,9 @@ from src.models import (
     ContentAnalysis,
     ContentItem,
     DigestConfig,
+    ProcessingConfig,
     ProcessingResult,
+    ProfileSettingsConfig,
     SourceType,
 )
 from src.ai.summarizer import DailySummarizer
@@ -347,6 +349,11 @@ def test_filter_items_matches_native_filtering_pipeline(tmp_path: Path, monkeypa
     filtering = DigestConfig(max_items=1)
     config = SimpleNamespace(
         digest=filtering,
+        processing=ProcessingConfig(
+            profile_settings={
+                "tech-news": ProfileSettingsConfig(threshold=7.0)
+            }
+        ),
         sources=SimpleNamespace(twitter=None),
     )
     items = [

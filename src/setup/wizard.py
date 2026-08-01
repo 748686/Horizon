@@ -13,7 +13,8 @@ from rich.table import Table
 from rich.panel import Panel
 
 from ..models import (
-    AIConfig, AIProvider, AI_PROVIDER_DEFAULTS, Config, CollectionConfig, SourcesConfig,
+    AIConfig, AIProvider, AI_PROVIDER_DEFAULTS, Config, CollectionConfig, ProcessingConfig,
+    ProfileSettingsConfig, SourcesConfig,
     GitHubSourceConfig, HackerNewsConfig, RSSSourceConfig,
     RedditConfig, RedditSubredditConfig, RedditUserConfig,
     TelegramConfig, TelegramChannelConfig,
@@ -292,6 +293,15 @@ def build_config(
         ai=ai_config,
         sources=sources,
         collection=collection,
+        processing=ProcessingConfig(
+            profile_settings={
+                "tech-news": ProfileSettingsConfig(threshold=7.0),
+                "tech-blog": ProfileSettingsConfig(
+                    threshold=4.0, topic_dedup=False
+                ),
+                "finance-news": ProfileSettingsConfig(threshold=7.0),
+            }
+        ),
     )
 
 

@@ -6,17 +6,10 @@
   },
   "match": "match.md",
   "analysis": "analysis.md",
-  "filter": {
-    "enabled": true,
-    "threshold": 7.0
-  },
   "content": {
     "analysis_max_chars": 4000,
     "enrichment_max_chars": 8000,
     "sampling": "prefix"
-  },
-  "topic_dedup": {
-    "enabled": true
   },
   "enrichment": {
     "prompt": "enrichment.md",

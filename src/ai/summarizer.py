@@ -63,7 +63,7 @@ LABELS = {
             "- The AI score threshold is too high\n"
             "- Your information sources need expansion\n\n"
             "Consider:\n"
-            "1. Lowering the active profile's filter threshold\n"
+            "1. Lowering the configured profile threshold\n"
             "2. Adding more diverse information sources\n"
             "3. Checking if the AI model is working correctly\n"
         ),

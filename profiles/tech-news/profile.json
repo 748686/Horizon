@@ -6,10 +6,6 @@
   },
   "match": "match.md",
   "analysis": "analysis.md",
-  "filter": {
-    "enabled": true,
-    "threshold": 7.0
-  },
   "enrichment": {
     "prompt": "enrichment.md",
     "blocks": [

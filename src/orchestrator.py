@@ -194,6 +194,8 @@ class HorizonOrchestrator:
         self.profiles.validate_source_references(
             config.sources.model_dump(mode="json")
         )
+        for profile_id in config.processing.profile_settings:
+            self.profiles.get(profile_id)
         self.email_manager = EmailManager(config.email, console=self.console) if config.email else None
         self.webhook_notifier = (
             WebhookNotifier(config.webhook, console=self.console, icons=self.icons)
@@ -718,8 +720,8 @@ class HorizonOrchestrator:
                 profile_groups[profile_id].append(item)
             deduped_items = []
             for profile_id, profile_items in profile_groups.items():
-                profile = self.profiles.get(profile_id)
-                if profile.definition.topic_dedup.enabled:
+                settings = self.config.processing.profile_settings.get(profile_id)
+                if settings is None or settings.topic_dedup:
                     deduped_items.extend(
                         await self.merge_topic_duplicates(profile_items, log=log)
                     )
@@ -808,12 +810,15 @@ class HorizonOrchestrator:
     ) -> bool:
         if not item.processing or not item.processing.analysis:
             return False
-        rule = self.profiles.get(item.processing.classification.profile).definition.filter
-        if not rule.enabled:
+        profile_id = item.processing.classification.profile
+        settings = self.config.processing.profile_settings.get(profile_id)
+        effective_threshold = threshold
+        if effective_threshold is None and settings is not None:
+            effective_threshold = settings.threshold
+        if effective_threshold is None:
             return True
-        effective_threshold = threshold if threshold is not None else rule.threshold
         score = item.processing.analysis.score
-        return score is not None and effective_threshold is not None and score >= effective_threshold
+        return score is not None and score >= effective_threshold
 
     def apply_balanced_digest(
         self,

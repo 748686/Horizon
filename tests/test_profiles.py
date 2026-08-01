@@ -3,8 +3,10 @@ import shutil
 from pathlib import Path
 
 import pytest
+from pydantic import ValidationError
 
 import src.processing.profiles as profile_module
+from src.models import ProcessingConfig, ProfileSettingsConfig
 from src.processing import ProfileRegistry
 
 
@@ -53,7 +55,7 @@ def test_default_profiles_fall_back_to_packaged_resources(tmp_path, monkeypatch)
     assert registry.get("tech-news").analysis_prompt
 
 
-def test_rejects_enabled_filter_without_threshold(tmp_path):
+def test_rejects_runtime_filter_settings_in_profile(tmp_path):
     profile_dir = tmp_path / "invalid"
     profile_dir.mkdir()
     for name in ("match.md", "analysis.md", "enrichment.md"):
@@ -65,7 +67,7 @@ def test_rejects_enabled_filter_without_threshold(tmp_path):
                 "name": "Invalid",
                 "match": "match.md",
                 "analysis": "analysis.md",
-                "filter": {"enabled": True},
+                "filter": {"enabled": True, "threshold": 7.0},
                 "enrichment": {
                     "prompt": "enrichment.md",
                     "blocks": [{"id": "body", "type": "section", "tools": []}],
@@ -75,8 +77,23 @@ def test_rejects_enabled_filter_without_threshold(tmp_path):
         encoding="utf-8",
     )
 
-    with pytest.raises(ValueError, match="threshold"):
+    with pytest.raises(ValueError, match="Extra inputs are not permitted"):
         ProfileRegistry.load(tmp_path, "invalid")
+
+
+@pytest.mark.parametrize("threshold", [-0.1, 10.1])
+def test_rejects_profile_threshold_outside_score_range(threshold):
+    with pytest.raises(ValidationError):
+        ProfileSettingsConfig(threshold=threshold)
+
+
+def test_profile_settings_default_to_no_filter_and_topic_dedup():
+    settings = ProcessingConfig().profile_settings.get("tech-news")
+
+    assert settings is None
+    defaults = ProfileSettingsConfig()
+    assert defaults.threshold is None
+    assert defaults.topic_dedup is True
 
 
 def test_rejects_prompt_path_outside_profile_directory(tmp_path):
@@ -92,7 +109,6 @@ def test_rejects_prompt_path_outside_profile_directory(tmp_path):
                 "name": "Invalid",
                 "match": "../outside.md",
                 "analysis": "analysis.md",
-                "filter": {"enabled": False},
                 "enrichment": {
                     "prompt": "enrichment.md",
                     "blocks": [{"id": "body", "type": "section", "tools": []}],

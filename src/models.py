@@ -543,6 +543,15 @@ class CategoryGroupConfig(BaseModel):
     categories: List[str] = Field(min_length=1)
 
 
+class ProfileSettingsConfig(BaseModel):
+    """User preferences applied to a processing profile at runtime."""
+
+    model_config = ConfigDict(extra="forbid")
+
+    threshold: Optional[float] = Field(default=None, ge=0, le=10)
+    topic_dedup: bool = True
+
+
 class ProcessingConfig(BaseModel):
     """Profile discovery and fallback settings."""
 
@@ -550,6 +559,7 @@ class ProcessingConfig(BaseModel):
 
     profiles_dir: str = "profiles"
     default_profile: str = "tech-news"
+    profile_settings: Dict[str, ProfileSettingsConfig] = Field(default_factory=dict)
 
 
 class DisplayConfig(BaseModel):
