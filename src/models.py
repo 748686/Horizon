@@ -43,6 +43,8 @@ SOURCE_REGISTRY = {
     SourceType.GOOGLE_NEWS.value: SourceDefinition("google_news"),
 }
 
+ProfileRoute = Optional[Union[str, List[str]]]
+
 
 class ClassificationResult(BaseModel):
     """Resolved processing profile for a content item."""
@@ -112,7 +114,7 @@ class ContentItem(BaseModel):
     published_at: datetime
     fetched_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))
     metadata: Dict[str, Any] = Field(default_factory=dict)
-    profile: Optional[str] = None
+    profile: ProfileRoute = None
     processing: Optional[ProcessingResult] = None
 
 
@@ -220,7 +222,7 @@ class GitHubSourceConfig(BaseModel):
     repo: Optional[str] = None
     enabled: bool = True
     category: Optional[str] = None
-    profile: Optional[str] = None
+    profile: ProfileRoute = None
 
 
 class HackerNewsConfig(BaseModel):
@@ -230,7 +232,7 @@ class HackerNewsConfig(BaseModel):
     fetch_top_stories: int = 30
     min_score: int = 100
     category: Optional[str] = None
-    profile: Optional[str] = None
+    profile: ProfileRoute = None
 
 
 class ExtractorType(str, Enum):
@@ -257,7 +259,7 @@ class RSSSourceConfig(BaseModel):
     enabled: bool = True
     category: Optional[str] = None
     content_extractor: Optional[str] = None
-    profile: Optional[str] = None
+    profile: ProfileRoute = None
 
 
 class RedditSubredditConfig(BaseModel):
@@ -272,7 +274,7 @@ class RedditSubredditConfig(BaseModel):
     fetch_limit: int = 25
     min_score: int = 10
     category: Optional[str] = None
-    profile: Optional[str] = None
+    profile: ProfileRoute = None
 
 
 class RedditUserConfig(BaseModel):
@@ -283,7 +285,7 @@ class RedditUserConfig(BaseModel):
     sort: str = "new"
     fetch_limit: int = 10
     category: Optional[str] = None
-    profile: Optional[str] = None
+    profile: ProfileRoute = None
 
 
 class RedditConfig(BaseModel):
@@ -302,7 +304,7 @@ class TelegramChannelConfig(BaseModel):
     enabled: bool = True
     fetch_limit: int = 20
     category: Optional[str] = None
-    profile: Optional[str] = None
+    profile: ProfileRoute = None
 
 
 class TelegramConfig(BaseModel):
@@ -325,7 +327,7 @@ class TwitterConfig(BaseModel):
     users: List[str] = Field(default_factory=list)
     fetch_limit: int = 10
     category: Optional[str] = None
-    profile: Optional[str] = None
+    profile: ProfileRoute = None
     fetch_reply_text: bool = False
     max_replies_per_tweet: int = 3
     max_tweets_to_expand: int = 10
@@ -351,7 +353,7 @@ class OpenBBWatchlist(BaseModel):
     provider: str = "yfinance"
     fetch_limit: int = 20
     category: Optional[str] = None
-    profile: Optional[str] = None
+    profile: ProfileRoute = None
 
 
 class OpenBBConfig(BaseModel):
@@ -392,7 +394,7 @@ class OSSInsightConfig(BaseModel):
     min_stars: int = 5
     max_items: int = 30
     category: Optional[str] = None
-    profile: Optional[str] = None
+    profile: ProfileRoute = None
 
 
 class GDELTConfig(BaseModel):
@@ -413,7 +415,7 @@ class GDELTConfig(BaseModel):
     language: Optional[str] = None  # sourcelang filter, e.g. "english"; None = no filter
     country: Optional[str] = None  # sourcecountry filter; None = no filter
     category: Optional[str] = None  # Horizon category label for downstream grouping
-    profile: Optional[str] = None
+    profile: ProfileRoute = None
 
 
 class GoogleNewsConfig(BaseModel):
@@ -431,7 +433,7 @@ class GoogleNewsConfig(BaseModel):
     ceid: Optional[str] = None  # when None scraper derives it as "{country}:{language}"
     max_results: int = 100  # cap ~100
     category: Optional[str] = None
-    profile: Optional[str] = None
+    profile: ProfileRoute = None
 
 
 class SourcesConfig(BaseModel):

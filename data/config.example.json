@@ -58,6 +58,14 @@
         "profile": "tech-news"
       },
       {
+        "name": "CNBC Finance",
+        "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+        "enabled": true,
+        "category": "finance",
+        "profile": "finance-news",
+        "content_extractor": "trafilatura"
+      },
+      {
         "name": "NVIDIA CUDA Technical Blog",
         "url": "https://developer.nvidia.com/blog/tag/cuda/feed/",
         "enabled": true,
@@ -131,6 +139,17 @@
       "min_stars": 10,
       "max_items": 30,
       "profile": "tech-news"
+    },
+    "telegram": {
+      "enabled": true,
+      "channels": [
+        {
+          "channel": "zaihuapd",
+          "enabled": true,
+          "fetch_limit": 20,
+          "profile": ["tech-news", "finance-news"]
+        }
+      ]
     },
     "gdelt": {
       "enabled": false,

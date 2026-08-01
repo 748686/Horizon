@@ -128,7 +128,7 @@ class DailySummarizer:
     def _profile_id(item: ContentItem) -> str:
         if item.processing:
             return item.processing.classification.profile
-        return item.profile or "unclassified"
+        return item.profile if isinstance(item.profile, str) else "unclassified"
 
     def profile_name(self, profile_id: str, language: str) -> str:
         names = self.profile_names.get(profile_id, {})

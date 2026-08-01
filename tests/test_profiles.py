@@ -13,11 +13,30 @@ def test_loads_builtin_profiles():
         Path(__file__).resolve().parents[1] / "profiles", "tech-news"
     )
 
-    for profile_id in ("tech-news", "tech-blog"):
+    for profile_id in ("tech-news", "tech-blog", "finance-news"):
         profile = registry.get(profile_id)
         assert profile.match_prompt
         assert profile.analysis_prompt
         assert profile.enrichment_prompt
+
+
+@pytest.mark.parametrize(
+    ("route", "message"),
+    [
+        ([], "cannot be empty"),
+        (["tech-news", ""], "non-empty strings"),
+        (["tech-news", "tech-news"], "must be unique"),
+        (["tech-news", "auto"], "cannot contain 'auto'"),
+        (["tech-news", "missing"], "Unknown processing profile"),
+    ],
+)
+def test_rejects_invalid_profile_candidate_lists(route, message):
+    registry = ProfileRegistry.load(
+        Path(__file__).resolve().parents[1] / "profiles", "tech-news"
+    )
+
+    with pytest.raises(ValueError, match=message):
+        registry.validate_source_references({"profile": route})
 
 
 def test_default_profiles_fall_back_to_packaged_resources(tmp_path, monkeypatch):

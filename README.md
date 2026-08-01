@@ -268,7 +268,9 @@ Minimal manual configuration:
 ```
 
 An explicit source `profile` uses that profile directly. Omit it or set it to
-`"auto"` to let AI match the item against the available profiles. See
+`"auto"` to let AI match the item against all available profiles. Set it to an
+array such as `["tech-news", "finance-news"]` to restrict AI matching to those
+profiles. See
 [Processing Profiles](docs/profiles.md) for profile structure and behavior.
 
 **Balanced digest (optional)**

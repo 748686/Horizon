@@ -556,7 +556,12 @@ class HorizonOrchestrator:
         # Group by normalized URL
         url_groups: Dict[tuple[object, ...], List[ContentItem]] = {}
         for item in items:
-            requested_profile = (item.profile or "auto").strip() or "auto"
+            if isinstance(item.profile, list):
+                requested_profile: object = tuple(
+                    profile_id.strip() for profile_id in item.profile
+                )
+            else:
+                requested_profile = (item.profile or "auto").strip() or "auto"
             key = (*_deduplication_url_key(str(item.url)), requested_profile)
             url_groups.setdefault(key, []).append(item)
 

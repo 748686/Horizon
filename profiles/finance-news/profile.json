@@ -1,0 +1,42 @@
+{
+  "id": "finance-news",
+  "name": "Financial News",
+  "display_names": {
+    "zh": "财经新闻"
+  },
+  "match": "match.md",
+  "analysis": "analysis.md",
+  "filter": {
+    "enabled": true,
+    "threshold": 6.0
+  },
+  "content": {
+    "analysis_max_chars": 4000,
+    "enrichment_max_chars": 8000,
+    "sampling": "prefix"
+  },
+  "topic_dedup": {
+    "enabled": true
+  },
+  "enrichment": {
+    "prompt": "enrichment.md",
+    "blocks": [
+      {
+        "id": "summary",
+        "type": "section",
+        "tools": [],
+        "primary": true
+      },
+      {
+        "id": "explanation",
+        "type": "section",
+        "tools": ["web_search"]
+      },
+      {
+        "id": "impact",
+        "type": "section",
+        "tools": ["web_search"]
+      }
+    ]
+  }
+}

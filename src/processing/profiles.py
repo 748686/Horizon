@@ -160,6 +160,22 @@ class ProfileRegistry:
                 normalized = requested.strip()
                 if normalized and normalized != "auto":
                     self.get(normalized)
+            elif isinstance(requested, list):
+                normalized = [
+                    profile_id.strip()
+                    for profile_id in requested
+                    if isinstance(profile_id, str) and profile_id.strip()
+                ]
+                if not normalized:
+                    raise ValueError("profile candidate list cannot be empty")
+                if len(normalized) != len(requested):
+                    raise ValueError("profile candidates must be non-empty strings")
+                if len(normalized) != len(set(normalized)):
+                    raise ValueError("profile candidates must be unique")
+                if "auto" in normalized:
+                    raise ValueError("profile candidate list cannot contain 'auto'")
+                for profile_id in normalized:
+                    self.get(profile_id)
             for child in value.values():
                 self.validate_source_references(child)
         elif isinstance(value, list):
