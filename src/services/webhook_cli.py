@@ -11,6 +11,9 @@ from dotenv import load_dotenv
 from rich.console import Console
 from rich.panel import Panel
 
+from .._cli import add_log_level_argument
+from ..logging_config import configure_logging
+
 from ..ai.summarizer import DailySummarizer
 from ..console_icons import IconStyle, get_icons
 from ..models import (
@@ -225,7 +228,10 @@ def main() -> None:
         choices=["summary", "summary_and_items"],
         help="Override the delivery mode from config for this test.",
     )
+    add_log_level_argument(parser)
     args = parser.parse_args()
+
+    configure_logging(console, level=args.log_level)
 
     try:
         load_dotenv()

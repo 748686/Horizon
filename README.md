@@ -216,11 +216,8 @@ cp data/config.example.json data/config.json
 # Optional: build with comma-separated extras before the first run
 docker compose build --build-arg EXTRAS=trafilatura horizon
 
-# Run with Docker Compose
-docker compose run --rm horizon
-
-# Run with a custom time window
-docker compose run --rm horizon --hours 48
+# Run with Docker Compose (see step 3 for available options)
+docker compose run --rm horizon [OPTIONS]
 ```
 
 Multiple extras may be supplied as `EXTRAS=trafilatura,openbb`. The `twitter` extra also requires a Playwright browser and system packages, which the current Dockerfile does not install.
@@ -232,6 +229,10 @@ Multiple extras may be supplied as `EXTRAS=trafilatura,openbb`. The `twitter` ex
 ```bash
 uv run horizon-wizard
 ```
+
+| Option | Default | Description |
+|--------|---------|-------------|
+| `--log-level LEVEL`, `-l` | `WARNING` | Logging level (DEBUG/INFO/WARNING/ERROR/CRITICAL) |
 
 The wizard asks about your interests (e.g. "LLM inference", "嵌入式", "web security") and auto-generates `data/config.json`.
 
@@ -335,24 +336,26 @@ For the full reference, see the [Configuration Guide](docs/configuration.md).
 
 ### 3. Run
 
-#### Local Installation
+**A. Local installation**
 
 ```bash
-uv run horizon                          # Run with default 24h window
-uv run horizon --hours 48               # Fetch from last 48 hours
-uv run horizon -d /path/to/data         # Use a custom data directory
-uv run horizon -c /path/to/config.json  # Use a custom config file
+uv run horizon [OPTIONS]
 ```
 
 `--data-dir` changes the state directory, including summaries, subscribers, and the default config location. `--config` changes only the config file; combine both flags when both locations should change. The setup wizard writes `data/config.json`, so custom paths should be initialized manually from `data/config.example.json`.
 
-#### With Docker
+**B. Docker**
 
 ```bash
-docker compose run --rm horizon                          # Run with default 24h window
-docker compose run --rm horizon --hours 48               # Fetch from last 48 hours
-docker compose run --rm horizon -c /app/data/alt.json   # Use a custom config file
+docker compose run --rm horizon [OPTIONS]
 ```
+
+| Option | Default | Description |
+|--------|---------|-------------|
+| `--hours N` | 24 | Fetch from last N hours |
+| `--data-dir PATH`, `-d` | `data` | Path to the data directory |
+| `--config PATH`, `-c` | `<data-dir>/config.json` | Path to config file |
+| `--log-level LEVEL`, `-l` | `WARNING` | Logging level (DEBUG/INFO/WARNING/ERROR/CRITICAL) |
 
 The generated report will be saved to `data/summaries/` (or `<data-dir>/summaries/` if `--data-dir` is set).
 

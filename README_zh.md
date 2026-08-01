@@ -225,11 +225,8 @@ cp data/config.example.json data/config.json
 # 可选：首次运行前构建逗号分隔的 extras
 docker compose build --build-arg EXTRAS=trafilatura horizon
 
-# 使用 Docker Compose 运行
-docker compose run --rm horizon
-
-# 自定义时间窗口
-docker compose run --rm horizon --hours 48
+# 使用 Docker Compose 运行（可用选项见第 3 步）
+docker compose run --rm horizon [OPTIONS]
 ```
 
 多个 extra 可写为 `EXTRAS=trafilatura,openbb`。`twitter` extra 还需要 Playwright 浏览器及系统依赖，当前 Dockerfile 不会安装这些组件。
@@ -241,6 +238,10 @@ docker compose run --rm horizon --hours 48
 ```bash
 uv run horizon-wizard
 ```
+
+| 选项 | 默认值 | 说明 |
+|--------|---------|-------------|
+| `--log-level LEVEL`, `-l` | `WARNING` | 日志级别（DEBUG/INFO/WARNING/ERROR/CRITICAL）|
 
 向导会询问你的兴趣（如"LLM 推理"、"嵌入式"、"web 安全"），自动推荐并生成 `data/config.json`，还可选让 AI 补充推荐小众源。若你想分享信息源，请前往 [horizon1123.top](https://horizon1123.top/)。
 
@@ -321,24 +322,26 @@ cp data/config.example.json data/config.json  # 自定义信息源
 
 ### 3. 运行
 
-#### 本地安装
+**A. 本地安装**
 
 ```bash
-uv run horizon                          # 使用默认 24 小时窗口
-uv run horizon --hours 48               # 抓取最近 48 小时的内容
-uv run horizon -d /path/to/data         # 使用自定义数据目录
-uv run horizon -c /path/to/config.json  # 使用自定义配置文件
+uv run horizon [OPTIONS]
 ```
 
 `--data-dir` 会更改状态目录，包括日报、订阅者文件和默认配置位置；`--config` 只更改配置文件。两处位置都要修改时需同时使用两个参数。配置向导固定写入 `data/config.json`，使用自定义路径时请从 `data/config.example.json` 手动初始化。
 
-#### 使用 Docker
+**B. Docker**
 
 ```bash
-docker compose run --rm horizon                          # 使用默认 24 小时窗口
-docker compose run --rm horizon --hours 48               # 抓取最近 48 小时的内容
-docker compose run --rm horizon -c /app/data/alt.json   # 使用自定义配置文件
+docker compose run --rm horizon [OPTIONS]
 ```
+
+| 选项 | 默认值 | 说明 |
+|--------|---------|-------------|
+| `--hours N` | 24 | 抓取最近 N 小时的内容 |
+| `--data-dir PATH`, `-d` | `data` | 数据目录路径 |
+| `--config PATH`, `-c` | `<data-dir>/config.json` | 配置文件路径 |
+| `--log-level LEVEL`, `-l` | `WARNING` | 日志级别（DEBUG/INFO/WARNING/ERROR/CRITICAL）|
 
 生成的日报将保存在 `data/summaries/` 目录中（如设置了 `--data-dir`，则保存在 `<data-dir>/summaries/`）。
 

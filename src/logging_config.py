@@ -6,7 +6,7 @@ from rich.console import Console
 from rich.logging import RichHandler
 
 
-def configure_logging(console: Console, level: int = logging.WARNING) -> None:
+def configure_logging(console: Console, level: int | str = logging.WARNING) -> None:
     """Route application logging through the entry point's Rich console."""
     logging.basicConfig(
         level=level,

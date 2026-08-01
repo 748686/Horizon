@@ -1,5 +1,6 @@
 """Interactive setup wizard for Horizon configuration."""
 
+import argparse
 import json
 import os
 import sys
@@ -11,6 +12,9 @@ from rich.console import Console
 from rich.prompt import Prompt, Confirm
 from rich.table import Table
 from rich.panel import Panel
+
+from .._cli import add_log_level_argument
+from ..logging_config import configure_logging
 
 from ..models import (
     AIConfig,
@@ -385,6 +389,12 @@ def _gh_key(src: GitHubSourceConfig) -> str:
 
 def main():
     """Main entry point for the setup wizard."""
+    parser = argparse.ArgumentParser(description="Horizon setup wizard")
+    add_log_level_argument(parser)
+    args = parser.parse_args()
+
+    configure_logging(console, level=args.log_level)
+
     print_banner()
 
     storage = StorageManager(data_dir="data")

@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-import logging
+import argparse
 from datetime import datetime, timezone
 from time import perf_counter
 from typing import Any, Awaitable, Callable
@@ -10,6 +10,7 @@ from typing import Any, Awaitable, Callable
 from mcp.server.fastmcp import FastMCP
 from rich.console import Console
 
+from .._cli import add_log_level_argument
 from ..logging_config import configure_logging
 from .errors import HorizonMcpError
 from .service import HorizonPipelineService
@@ -500,8 +501,12 @@ def r_effective_config() -> dict[str, Any]:
 
 def main() -> None:
     """Run MCP server over stdio."""
+    parser = argparse.ArgumentParser(description="Horizon MCP server")
+    add_log_level_argument(parser)
+    args = parser.parse_args()
 
-    configure_logging(console, level=logging.INFO)
+    configure_logging(console, level=args.log_level)
+
     mcp.run()
 
 
