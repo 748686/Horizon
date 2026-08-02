@@ -1,5 +1,6 @@
 """Interactive setup wizard for Horizon configuration."""
 
+import argparse
 import json
 import os
 import sys
@@ -11,6 +12,9 @@ from rich.console import Console
 from rich.prompt import Prompt, Confirm
 from rich.table import Table
 from rich.panel import Panel
+
+from .._cli import add_data_dir_arguments, add_log_level_argument
+from ..logging_config import configure_logging
 
 from ..models import (
     AIConfig,
@@ -385,9 +389,16 @@ def _gh_key(src: GitHubSourceConfig) -> str:
 
 def main():
     """Main entry point for the setup wizard."""
+    parser = argparse.ArgumentParser(description="Horizon setup wizard")
+    add_data_dir_arguments(parser)
+    add_log_level_argument(parser)
+    args = parser.parse_args()
+
+    configure_logging(console, level=args.log_level)
+
     print_banner()
 
-    storage = StorageManager(data_dir="data")
+    storage = StorageManager(data_dir=args.data_dir, config_path=args.config)
 
     # Step 1: AI configuration
     ai_config = configure_ai()
@@ -401,7 +412,8 @@ def main():
     # Step 3: Preset library matching
     console.print("\n[dim]Fetching preset source library...[/dim]")
     try:
-        presets = load_presets(prefer_api=True)
+        presets_path = str(Path(args.data_dir) / "presets.json")
+        presets = load_presets(presets_path=presets_path, prefer_api=True)
         offline = os.environ.get("HORIZON_OFFLINE", "").lower() in ("1", "true", "yes")
         if offline:
             console.print("[dim]Using local presets (offline mode)[/dim]")

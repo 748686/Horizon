@@ -9,6 +9,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 from rich.console import Console
 
+from ._cli import add_data_dir_arguments, add_log_level_argument
 from .console_icons import get_icons
 from .logging_config import configure_logging
 from .storage.manager import ConfigError, StorageManager
@@ -42,11 +43,11 @@ def main():
 
     parser = argparse.ArgumentParser(description="Horizon - AI-Driven Information Aggregation System")
     parser.add_argument("--hours", type=int, help="Force fetch from last N hours")
-    parser.add_argument("-d", "--data-dir", default="data", metavar="PATH",
-                        help="Path to the data directory (default: 'data')")
-    parser.add_argument("-c", "--config", default=None, metavar="PATH",
-                        help="Path to config file (default: <data-dir>/config.json)")
+    add_data_dir_arguments(parser)
+    add_log_level_argument(parser)
     args = parser.parse_args()
+
+    configure_logging(console, level=args.log_level)
 
     try:
         # Load environment variables from .env file

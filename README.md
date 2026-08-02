@@ -208,19 +208,8 @@ uv pip install --only-binary=:all: openbb openbb-benzinga
 git clone https://github.com/Thysrael/Horizon.git
 cd Horizon
 
-# Configure environment
-cp .env.example .env
-cp data/config.example.json data/config.json
-# Edit .env and data/config.json with your API keys and preferences
-
 # Optional: build with comma-separated extras before the first run
 docker compose build --build-arg EXTRAS=trafilatura horizon
-
-# Run with Docker Compose
-docker compose run --rm horizon
-
-# Run with a custom time window
-docker compose run --rm horizon --hours 48
 ```
 
 Multiple extras may be supplied as `EXTRAS=trafilatura,openbb`. The `twitter` extra also requires a Playwright browser and system packages, which the current Dockerfile does not install.
@@ -233,7 +222,7 @@ Multiple extras may be supplied as `EXTRAS=trafilatura,openbb`. The `twitter` ex
 uv run horizon-wizard
 ```
 
-The wizard asks about your interests (e.g. "LLM inference", "嵌入式", "web security") and auto-generates `data/config.json`.
+The wizard asks about your interests (e.g. "LLM inference", "嵌入式", "web security") and auto-generates `data/config.json`. See [Interactive Wizard](docs/configuration.md#interactive-wizard) for CLI options.
 
 **Option B: Manual configuration**
 
@@ -335,26 +324,26 @@ For the full reference, see the [Configuration Guide](docs/configuration.md).
 
 ### 3. Run
 
-#### Local Installation
+**A. Local installation**
 
 ```bash
-uv run horizon                          # Run with default 24h window
-uv run horizon --hours 48               # Fetch from last 48 hours
-uv run horizon -d /path/to/data         # Use a custom data directory
-uv run horizon -c /path/to/config.json  # Use a custom config file
+uv run horizon [OPTIONS]
 ```
 
-`--data-dir` changes the state directory, including summaries, subscribers, and the default config location. `--config` changes only the config file; combine both flags when both locations should change. The setup wizard writes `data/config.json`, so custom paths should be initialized manually from `data/config.example.json`.
-
-#### With Docker
+**B. Docker**
 
 ```bash
-docker compose run --rm horizon                          # Run with default 24h window
-docker compose run --rm horizon --hours 48               # Fetch from last 48 hours
-docker compose run --rm horizon -c /app/data/alt.json   # Use a custom config file
+docker compose run --rm horizon [OPTIONS]
 ```
 
-The generated report will be saved to `data/summaries/` (or `<data-dir>/summaries/` if `--data-dir` is set).
+| Option | Default | Description |
+|--------|---------|-------------|
+| `--hours N` | 24 | Fetch from last N hours |
+| `-d`, `--data-dir PATH` | `data` | Path to the data directory |
+| `-c`, `--config PATH` | `<data-dir>/config.json` | Path to config file |
+| `-l`, `--log-level LEVEL` | `WARNING` | Logging level (DEBUG/INFO/WARNING/ERROR/CRITICAL) |
+
+`--data-dir` changes the state directory, including summaries, subscribers, and the default config location; `--config` changes only the config file. The generated report is saved to `data/summaries/` (or `<data-dir>/summaries/` if `--data-dir` is set). See [Configuration Paths](docs/configuration.md#configuration-paths) for combining both flags and initializing a custom config location.
 
 ### 4. Automate (Optional)
 
