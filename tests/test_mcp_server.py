@@ -17,7 +17,7 @@ def test_log_level_flag_is_forwarded_to_configure_logging(monkeypatch):
     assert logging_calls == ["DEBUG"]
 
 
-def test_log_level_defaults_to_warning(monkeypatch):
+def test_log_level_defaults_to_info(monkeypatch):
     logging_calls = []
 
     monkeypatch.setattr(
@@ -30,7 +30,7 @@ def test_log_level_defaults_to_warning(monkeypatch):
 
     server.main()
 
-    assert logging_calls == ["WARNING"]
+    assert logging_calls == ["INFO"]
 
 
 def test_main_starts_the_mcp_server(monkeypatch):

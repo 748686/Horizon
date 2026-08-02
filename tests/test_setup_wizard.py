@@ -188,6 +188,8 @@ def test_merge_configs_preserves_all_existing_configuration_and_deduplicates_lis
 
 def test_data_dir_and_config_flags_are_forwarded_to_storage_and_presets(monkeypatch, tmp_path):
     data_dir = tmp_path / "state"
+    data_dir.mkdir()
+    (data_dir / "presets.json").touch()
     config_path = tmp_path / "custom" / "horizon.json"
     storage_calls = []
     load_presets_calls = []
@@ -229,6 +231,27 @@ def test_data_dir_and_config_default_to_data_directory(monkeypatch):
 
     assert storage_calls == [{"data_dir": "data", "config_path": None}]
     assert load_presets_calls == [{"presets_path": "data/presets.json", "prefer_api": True}]
+
+
+def test_missing_custom_presets_falls_back_to_bundled_file(monkeypatch, tmp_path):
+    load_presets_calls = []
+
+    class RecordingStorage:
+        def __init__(self, data_dir, config_path):
+            pass
+
+    _prepare_main(monkeypatch, load_presets_calls)
+    monkeypatch.setattr(wizard, "StorageManager", RecordingStorage)
+    monkeypatch.setattr(
+        "sys.argv", ["horizon-wizard", "--data-dir", str(tmp_path / "state")]
+    )
+
+    with pytest.raises(_StopWizard):
+        wizard.main()
+
+    assert load_presets_calls == [
+        {"presets_path": "data/presets.json", "prefer_api": True}
+    ]
 
 
 def test_log_level_flag_is_forwarded_to_configure_logging(monkeypatch):

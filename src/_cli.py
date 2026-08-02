@@ -3,14 +3,16 @@
 import argparse
 
 
-def add_log_level_argument(parser: argparse.ArgumentParser) -> None:
+def add_log_level_argument(
+    parser: argparse.ArgumentParser, default: str = "WARNING"
+) -> None:
     parser.add_argument(
         "-l", "--log-level",
-        default="WARNING",
+        default=default,
         type=str.upper,
         choices=["DEBUG", "INFO", "WARNING", "ERROR", "CRITICAL"],
         metavar="LEVEL",
-        help="Logging level (default: WARNING)",
+        help=f"Logging level (default: {default})",
     )
 
 

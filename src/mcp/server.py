@@ -502,7 +502,7 @@ def r_effective_config() -> dict[str, Any]:
 def main() -> None:
     """Run MCP server over stdio."""
     parser = argparse.ArgumentParser(description="Horizon MCP server")
-    add_log_level_argument(parser)
+    add_log_level_argument(parser, default="INFO")
     args = parser.parse_args()
 
     configure_logging(console, level=args.log_level)
