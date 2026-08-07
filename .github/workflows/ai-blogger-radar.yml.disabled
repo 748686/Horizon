@@ -1,0 +1,38 @@
+﻿name: AI Blogger Horizon Radar
+
+on:
+  schedule:
+    # UTC 00:20 is 08:20 Asia/Shanghai. GitHub scheduled runs may be delayed.
+    - cron: "20 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  daily-radar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: astral-sh/setup-uv@v6
+      - name: Install dependencies
+        run: uv sync
+      - name: Activate AI-blogger configuration
+        run: cp data/config.ai-blogger.json data/config.json
+      - name: Generate daily briefing
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: uv run horizon --hours 24 --log-level INFO
+      - name: Publish daily site
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
+          publish_branch: gh-pages
+          keep_files: true
+          enable_jekyll: true
+          commit_message: "Daily AI radar"
