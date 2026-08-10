@@ -1,4 +1,4 @@
-﻿name: AI Blogger Horizon Radar
+name: AI Blogger Horizon Radar
 
 on:
   schedule:
@@ -20,13 +20,11 @@ jobs:
       - uses: astral-sh/setup-uv@v6
       - name: Install dependencies
         run: uv sync
-      - name: Activate AI-blogger configuration
-        run: cp data/config.ai-blogger.json data/config.json
       - name: Generate daily briefing
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: uv run horizon --hours 24 --log-level INFO
+        run: uv run horizon --config data/config.ai-blogger.json --hours 24 --log-level INFO
       - name: Publish daily site
         uses: peaceiris/actions-gh-pages@v4
         with:
