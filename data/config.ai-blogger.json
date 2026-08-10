@@ -1,0 +1,62 @@
+{
+  "ai": {
+    "provider": "deepseek",
+    "model": "deepseek-chat",
+    "base_url": "https://api.deepseek.com",
+    "api_key_env": "DEEPSEEK_API_KEY",
+    "temperature": 0.2,
+    "max_tokens": 4096,
+    "throttle_sec": 0.5,
+    "languages": ["zh"],
+    "analysis_concurrency": 3,
+    "enrichment_concurrency": 3
+  },
+  "processing": {
+    "profiles_dir": "profiles",
+    "default_profile": "ai-creator",
+    "profile_settings": {
+      "ai-creator": {"threshold": 7.0, "topic_dedup": true},
+      "tech-blog": {"threshold": 7.5, "topic_dedup": true}
+    }
+  },
+  "display": {"icon_style": "emoji"},
+  "sources": {
+    "github": [
+      {"type": "repo_releases", "owner": "openai", "repo": "openai-python", "enabled": true, "category": "model-product", "profile": "ai-creator"},
+      {"type": "repo_releases", "owner": "anthropics", "repo": "anthropic-sdk-python", "enabled": true, "category": "model-product", "profile": "ai-creator"},
+      {"type": "repo_releases", "owner": "huggingface", "repo": "transformers", "enabled": true, "category": "open-source", "profile": "ai-creator"}
+    ],
+    "hackernews": {"enabled": true, "fetch_top_stories": 25, "min_score": 120, "category": "industry-signal", "profile": "ai-creator"},
+    "rss": [
+      {"name": "Simon Willison", "url": "https://simonwillison.net/atom/everything/", "enabled": true, "category": "ai-tools", "profile": "tech-blog", "content_extractor": "trafilatura"},
+      {"name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml", "enabled": true, "category": "open-source", "profile": "ai-creator"},
+      {"name": "GitHub Trending Daily", "url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml", "enabled": true, "category": "open-source", "profile": "ai-creator"}
+    ],
+    "reddit": {
+      "enabled": true,
+      "subreddits": [
+        {"subreddit": "MachineLearning", "enabled": true, "sort": "hot", "time_filter": "day", "fetch_limit": 12, "min_score": 80, "category": "research-community", "profile": "ai-creator"},
+        {"subreddit": "LocalLLaMA", "enabled": true, "sort": "hot", "time_filter": "day", "fetch_limit": 12, "min_score": 100, "category": "open-source", "profile": "ai-creator"}
+      ],
+      "users": [],
+      "fetch_comments": 5
+    },
+    "telegram": {"enabled": false, "channels": []},
+    "twitter": {"enabled": false, "users": [], "profile": "ai-creator"},
+    "ossinsight": {"enabled": true, "period": "past_24_hours", "languages": ["Python", "TypeScript"], "keywords": ["ai", "llm", "agent", "mcp", "rag"], "min_stars": 20, "max_items": 10, "category": "open-source", "profile": "ai-creator"},
+    "google_news": {"enabled": true, "query": "artificial intelligence OR generative AI OR AI agent", "language": "en", "country": "US", "max_results": 30, "category": "industry-signal", "profile": "ai-creator"}
+  },
+  "collection": {"time_window_hours": 24},
+  "digest": {
+    "max_items": 12,
+    "profile_order": ["ai-creator", "tech-blog"],
+    "category_groups": {
+      "models": {"name": "模型与产品", "limit": 3, "categories": ["model-product"]},
+      "industry": {"name": "行业信号", "limit": 3, "categories": ["industry-signal", "research-community"]},
+      "open-source": {"name": "开源与工具", "limit": 4, "categories": ["open-source", "ai-tools"]}
+    },
+    "default_group": "other",
+    "default_group_limit": 2
+  },
+  "webhook": {"enabled": false, "url_env": "HORIZON_WEBHOOK_URL", "delivery": "summary", "platform": "generic", "layout": "markdown", "fallback_layout": "markdown", "languages": ["zh"], "headers": ""}
+}
