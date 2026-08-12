@@ -198,18 +198,17 @@ class HorizonOrchestrator:
             self.profiles.get(profile_id)
         if config.digest.profile_order:
             configured_profiles = set(config.digest.profile_order)
-            missing_profiles = self.profiles.ids - configured_profiles
             unknown_profiles = configured_profiles - self.profiles.ids
-            if missing_profiles or unknown_profiles:
-                details = []
-                if missing_profiles:
-                    details.append(f"missing: {', '.join(sorted(missing_profiles))}")
-                if unknown_profiles:
-                    details.append(f"unknown: {', '.join(sorted(unknown_profiles))}")
+            if unknown_profiles:
                 raise ValueError(
-                    "digest.profile_order must list every loaded profile exactly once "
-                    f"({'; '.join(details)})"
+                    "digest.profile_order contains unknown profiles "
+                    f"({', '.join(sorted(unknown_profiles))})"
                 )
+            config.digest.profile_order.extend(
+                profile.id
+                for profile in self.profiles.profiles
+                if profile.id not in configured_profiles
+            )
         self.email_manager = EmailManager(config.email, console=self.console) if config.email else None
         self.webhook_notifier = (
             WebhookNotifier(config.webhook, console=self.console, icons=self.icons)

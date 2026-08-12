@@ -186,14 +186,29 @@ def test_rejects_settings_for_unknown_profile() -> None:
         HorizonOrchestrator(config, SimpleNamespace())
 
 
-@pytest.mark.parametrize(
-    "profile_order",
-    [
-        ["tech-news", "tech-blog"],
-        ["tech-news", "tech-blog", "finance-news", "missing"],
-    ],
-)
-def test_rejects_incomplete_or_unknown_profile_order(profile_order) -> None:
+def test_appends_profiles_missing_from_configured_order() -> None:
+    config = Config(
+        ai=AIConfig(
+            provider="openai",
+            model="test",
+            api_key_env="TEST_API_KEY",
+        ),
+        sources=SourcesConfig(),
+        digest=DigestConfig(profile_order=["tech-news", "tech-blog"]),
+    )
+
+    HorizonOrchestrator(config, SimpleNamespace())
+
+    assert config.digest.profile_order == [
+        "tech-news",
+        "tech-blog",
+        "ai-creator",
+        "finance-news",
+    ]
+
+
+def test_rejects_unknown_profile_order() -> None:
+    profile_order = ["tech-news", "tech-blog", "finance-news", "missing"]
     config = Config(
         ai=AIConfig(
             provider="openai",
@@ -204,7 +219,7 @@ def test_rejects_incomplete_or_unknown_profile_order(profile_order) -> None:
         digest=DigestConfig(profile_order=profile_order),
     )
 
-    with pytest.raises(ValueError, match="must list every loaded profile"):
+    with pytest.raises(ValueError, match="contains unknown profiles.*missing"):
         HorizonOrchestrator(config, SimpleNamespace())
 
 
