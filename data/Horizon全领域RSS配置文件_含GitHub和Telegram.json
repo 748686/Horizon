@@ -1,0 +1,275 @@
+{
+  "ai": {
+    "provider": "gemini",
+    "model": "gemini-2.0-flash",
+    "api_key_env": "GOOGLE_API_KEY",
+    "throttle_sec": 0
+  },
+  "sources": {
+    "hackernews": {
+      "enabled": false,
+      "fetch_top_stories": 30,
+      "min_score": 100
+    },
+    "reddit": {
+      "enabled": false,
+      "subreddits": [],
+      "fetch_comments": 5
+    },
+    "rss": [
+      {
+        "name": "柳叶刀 The Lancet",
+        "url": "https://www.thelancet.com/rss/feed",
+        "enabled": true,
+        "category": "世界医学"
+      },
+      {
+        "name": "柳叶刀 Current Issue",
+        "url": "https://www.thelancet.com/action/showFeed?type=journal&feedId=latest&format=rss",
+        "enabled": true,
+        "category": "世界医学"
+      },
+      {
+        "name": "NEJM 临床医学",
+        "url": "https://www.nejm.org/rss/clinical",
+        "enabled": true,
+        "category": "世界医学"
+      },
+      {
+        "name": "NEJM 全部内容",
+        "url": "https://www.nejm.org/rss/all",
+        "enabled": true,
+        "category": "世界医学"
+      },
+      {
+        "name": "JAMA 美国医学会杂志",
+        "url": "https://jamanetwork.com/journals/jama/rss",
+        "enabled": true,
+        "category": "世界医学"
+      },
+      {
+        "name": "JAMA Internal Medicine",
+        "url": "https://jamanetwork.com/journals/jama-internal-medicine/rss",
+        "enabled": true,
+        "category": "世界医学"
+      },
+      {
+        "name": "BMJ 英国医学杂志",
+        "url": "https://www.bmj.com/rss",
+        "enabled": true,
+        "category": "世界医学"
+      },
+      {
+        "name": "BMJ Latest Articles",
+        "url": "https://www.bmj.com/rss/latest",
+        "enabled": true,
+        "category": "世界医学"
+      },
+      {
+        "name": "柳叶刀公共卫生",
+        "url": "https://www.thelancet.com/action/showFeed?journalId=lanpub&format=rss",
+        "enabled": true,
+        "category": "世界医学"
+      },
+      {
+        "name": "柳叶刀传染病",
+        "url": "https://www.thelancet.com/action/showFeed?journalId=laninf&format=rss",
+        "enabled": true,
+        "category": "世界医学"
+      },
+      {
+        "name": "柳叶刀全球健康",
+        "url": "https://www.thelancet.com/action/showFeed?journalId=langlo&format=rss",
+        "enabled": true,
+        "category": "世界医学"
+      },
+      {
+        "name": "WHO News 世卫组织新闻",
+        "url": "https://www.who.int/news/rss",
+        "enabled": true,
+        "category": "世界医学"
+      },
+      {
+        "name": "CDC MMWR",
+        "url": "https://www.cdc.gov/mmwr/rss",
+        "enabled": true,
+        "category": "世界医学"
+      },
+      {
+        "name": "柳叶刀神经病学",
+        "url": "https://www.thelancet.com/action/showFeed?journalId=lanneur&format=rss",
+        "enabled": true,
+        "category": "世界医学"
+      },
+      {
+        "name": "柳叶刀肿瘤学",
+        "url": "https://www.thelancet.com/action/showFeed?journalId=lanonc&format=rss",
+        "enabled": true,
+        "category": "世界医学"
+      },
+      {
+        "name": "柳叶刀呼吸医学",
+        "url": "https://www.thelancet.com/action/showFeed?journalId=lanres&format=rss",
+        "enabled": true,
+        "category": "世界医学"
+      },
+      {
+        "name": "柳叶刀风湿病学",
+        "url": "https://www.thelancet.com/action/showFeed?journalId=lanrhe&format=rss",
+        "enabled": true,
+        "category": "世界医学"
+      },
+      {
+        "name": "柳叶刀糖尿病与内分泌",
+        "url": "https://www.thelancet.com/action/showFeed?journalId=landia&format=rss",
+        "enabled": true,
+        "category": "世界医学"
+      },
+      {
+        "name": "柳叶刀胃肠病学与肝病学",
+        "url": "https://www.thelancet.com/action/showFeed?journalId=langeo&format=rss",
+        "enabled": true,
+        "category": "世界医学"
+      },
+      {
+        "name": "柳叶刀儿童与青少年健康",
+        "url": "https://www.thelancet.com/action/showFeed?journalId=lanchild&format=rss",
+        "enabled": true,
+        "category": "世界医学"
+      },
+      {
+        "name": "Nature 自然",
+        "url": "https://www.nature.com/nature.rss",
+        "enabled": true,
+        "category": "世界医学"
+      },
+      {
+        "name": "Nature Medicine 自然医学",
+        "url": "https://www.nature.com/nm.rss",
+        "enabled": true,
+        "category": "世界医学"
+      },
+      {
+        "name": "Nature Clinical Practice",
+        "url": "https://www.nature.com/ncp.rss",
+        "enabled": true,
+        "category": "世界医学"
+      },
+      {
+        "name": "Science 科学",
+        "url": "https://www.science.org/rss/express.xml",
+        "enabled": true,
+        "category": "世界医学"
+      },
+      {
+        "name": "Science Translational Medicine",
+        "url": "https://www.science.org/rss/translmed.xml",
+        "enabled": true,
+        "category": "世界医学"
+      },
+      {
+        "name": "Cell 细胞",
+        "url": "https://www.cell.com/cell/rss",
+        "enabled": true,
+        "category": "世界医学"
+      },
+      {
+        "name": "Cell Press 全部期刊",
+        "url": "https://www.cell.com/cellpress/rss",
+        "enabled": true,
+        "category": "世界医学"
+      },
+      {
+        "name": "PubMed Central",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/tools/rss/",
+        "enabled": true,
+        "category": "世界医学"
+      },
+      {
+        "name": "medRxiv 医学预印本",
+        "url": "https://www.medrxiv.org/cgi/recent.rss",
+        "enabled": true,
+        "category": "世界医学"
+      },
+      {
+        "name": "arXiv 数学总入口",
+        "url": "https://arxiv.org/list/math/recent",
+        "enabled": true,
+        "category": "数学",
+        "rsshub_url": "https://rsshub.app/arxiv/math"
+      },
+      {
+        "name": "arXiv 数学.AP 分析偏微分",
+        "url": "https://arxiv.org/list/math.AP/recent",
+        "enabled": true,
+        "category": "数学",
+        "rsshub_url": "https://rsshub.app/arxiv/math.AP"
+      },
+      {
+        "name": "arXiv 数学.NT 数论",
+        "url": "https://arxiv.org/list/math.NT/recent",
+        "enabled": true,
+        "category": "数学",
+        "rsshub_url": "https://rsshub.app/arxiv/math.NT"
+      },
+      {
+        "name": "arXiv 数学.GT 拓扑",
+        "url": "https://arxiv.org/list/math.GT/recent",
+        "enabled": true,
+        "category": "数学",
+        "rsshub_url": "https://rsshub.app/arxiv/math.GT"
+      },
+      {
+        "name": "arXiv 数学.AG 代数几何",
+        "url": "https://arxiv.org/list/math.AG/recent",
+        "enabled": true,
+        "category": "数学",
+        "rsshub_url": "https://rsshub.app/arxiv/math.AG"
+      },
+      {
+        "name": "arXiv 数学.CA 分析",
+        "url": "https://arxiv.org/list/math.CA/recent",
+        "enabled": true,
+        "category": "数学",
+        "rsshub_url": "https://rsshub.app/arxiv/math.CA"
+      },
+      {
+        "name": "arXiv 数学.CO 组合",
+        "url": "https://arxiv.org/list/math.CO/recent",
+        "enabled": true,
+        "category": "数学",
+        "rsshub_url": "https://rsshub.app/arxiv/math.CO"
+      },
+      {
+        "name": "arXiv 数学.ST 统计学",
+        "url": "https://arxiv.org/list/math.ST/recent",
+        "enabled": true,
+        "category": "数学",
+        "rsshub_url": "https://rsshub.app/arxiv/math.ST"
+      },
+      {
+        "name": "arXiv 数学.OC 最优化",
+        "url": "https://arxiv.org/list/math.OC/recent",
+        "enabled": true,
+        "category": "数学",
+        "rsshub_url": "https://rsshub.app/arxiv/math.OC"
+      },
+      {
+        "name": "arXiv 数学.PR 概率论",
+        "url": "https://arxiv.org/list/math.PR/recent",
+        "enabled": true,
+        "category": "数学",
+        "rsshub_url": "https://rsshub.app/arxiv/math.PR"
+      },
+      {
+        "name": "arXiv 数学.LO 数理逻辑",
+        "url": "https://arxiv.org/list/math.LO/recent",
+        "enabled": true,
+        "category": "数学",
+        "rsshub_url": "https://rsshub.app/arxiv/math.LO"
+      },
+      {
+        "name": "PNAS 美国科学院院刊",
+        "url": "https://www.pnas.org/about/rss",
+        "enabled": true,
+        "category": "�
