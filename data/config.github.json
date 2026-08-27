@@ -1610,12 +1610,12 @@
         "enabled": true,
         "category": "香港"
       },
-      {
-        "name": "苹果日报(Apple Daily)",
-        "url": "已停刊",
-        "enabled": true,
-        "category": "香港"
-      },
+     {
+  "name": "苹果日报(Apple Daily)",
+  "url": "https://www.appledaily.com",
+  "enabled": false,
+  "category": "香港"
+    },
       {
         "name": "自由时报(Liberty Times)",
         "url": "https://www.libertytimes.com.tw/rss/",
