@@ -14,7 +14,7 @@
   "analysis_concurrency": 5,
   "enrichment_concurrency": 5
 },
-  "sources": {
+ "sources": {
     "hackernews": {
       "enabled": false,
       "fetch_top_stories": 30,
@@ -281,4 +281,1537 @@
         "name": "PNAS 美国科学院院刊",
         "url": "https://www.pnas.org/about/rss",
         "enabled": true,
-        "category": "�
+        "category": "数学"
+      },
+      {
+        "name": "Physical Review Letters PRL",
+        "url": "https://journals.aps.org/prl/rss",
+        "enabled": true,
+        "category": "物理学"
+      },
+      {
+        "name": "Physical Review A 原子分子物理",
+        "url": "https://journals.aps.org/pra/rss",
+        "enabled": true,
+        "category": "物理学"
+      },
+      {
+        "name": "Physical Review B 凝聚态物理",
+        "url": "https://journals.aps.org/prb/rss",
+        "enabled": true,
+        "category": "物理学"
+      },
+      {
+        "name": "Physical Review C 核物理",
+        "url": "https://journals.aps.org/prc/rss",
+        "enabled": true,
+        "category": "物理学"
+      },
+      {
+        "name": "Physical Review D 粒子物理与场论",
+        "url": "https://journals.aps.org/prd/rss",
+        "enabled": true,
+        "category": "物理学"
+      },
+      {
+        "name": "Physical Review E 统计与非线性物理",
+        "url": "https://journals.aps.org/pre/rss",
+        "enabled": true,
+        "category": "物理学"
+      },
+      {
+        "name": "Physical Review X 开放获取高影响力物理",
+        "url": "https://journals.aps.org/prx/rss",
+        "enabled": true,
+        "category": "物理学"
+      },
+      {
+        "name": "arXiv hep-th 高能理论",
+        "url": "https://arxiv.org/list/hep-th/recent",
+        "enabled": true,
+        "category": "物理学",
+        "rsshub_url": "https://rsshub.app/arxiv/hep-th"
+      },
+      {
+        "name": "arXiv hep-ph 高能物理",
+        "url": "https://arxiv.org/list/hep-ph/recent",
+        "enabled": true,
+        "category": "物理学",
+        "rsshub_url": "https://rsshub.app/arxiv/hep-ph"
+      },
+      {
+        "name": "arXiv nucl-th 核理论",
+        "url": "https://arxiv.org/list/nucl-th/recent",
+        "enabled": true,
+        "category": "物理学",
+        "rsshub_url": "https://rsshub.app/arxiv/nucl-th"
+      },
+      {
+        "name": "arXiv nucl-ex 核实验",
+        "url": "https://arxiv.org/list/nucl-ex/recent",
+        "enabled": true,
+        "category": "物理学",
+        "rsshub_url": "https://rsshub.app/arxiv/nucl-ex"
+      },
+      {
+        "name": "arXiv astro-ph 天体物理",
+        "url": "https://arxiv.org/list/astro-ph/recent",
+        "enabled": true,
+        "category": "物理学",
+        "rsshub_url": "https://rsshub.app/arxiv/astro-ph"
+      },
+      {
+        "name": "arXiv gr-qc 引力与量子宇宙学",
+        "url": "https://arxiv.org/list/gr-qc/recent",
+        "enabled": true,
+        "category": "物理学",
+        "rsshub_url": "https://rsshub.app/arxiv/gr-qc"
+      },
+      {
+        "name": "arXiv cond-mat 凝聚态物理",
+        "url": "https://arxiv.org/list/cond-mat/recent",
+        "enabled": true,
+        "category": "物理学",
+        "rsshub_url": "https://rsshub.app/arxiv/cond-mat"
+      },
+      {
+        "name": "arXiv quant-ph 量子物理",
+        "url": "https://arxiv.org/list/quant-ph/recent",
+        "enabled": true,
+        "category": "物理学",
+        "rsshub_url": "https://rsshub.app/arxiv/quant-ph"
+      },
+      {
+        "name": "arXiv physics 全部物理",
+        "url": "https://arxiv.org/list/physics/recent",
+        "enabled": true,
+        "category": "物理学",
+        "rsshub_url": "https://rsshub.app/arxiv/physics"
+      },
+      {
+        "name": "JACS 美国化学会旗舰刊",
+        "url": "https://pubs.acs.org/journal/jacsac",
+        "enabled": true,
+        "category": "化学",
+        "rsshub_url": "https://rsshub.app/acs/jacs"
+      },
+      {
+        "name": "Angewandte Chemie 德国应用化学",
+        "url": "https://onlinelibrary.wiley.com/journal/15213773",
+        "enabled": true,
+        "category": "化学",
+        "rsshub_url": "https://rsshub.app/wiley/angewandte"
+      },
+      {
+        "name": "Chemical Reviews",
+        "url": "https://pubs.acs.org/journal/chreay",
+        "enabled": true,
+        "category": "化学",
+        "rsshub_url": "https://rsshub.app/acs/cr"
+      },
+      {
+        "name": "Accounts of Chemical Research",
+        "url": "https://pubs.acs.org/journal/acrahf",
+        "enabled": true,
+        "category": "化学",
+        "rsshub_url": "https://rsshub.app/acs/achem"
+      },
+      {
+        "name": "Nature Chemistry 自然化学",
+        "url": "https://www.nature.com/nchem/",
+        "enabled": true,
+        "category": "化学",
+        "rsshub_url": "https://rsshub.app/nature/nchem"
+      },
+      {
+        "name": "Chemical Society Reviews",
+        "url": "https://pubs.rsc.org/en/journals/journal/issues?jid=cs&issue=all",
+        "enabled": true,
+        "category": "化学",
+        "rsshub_url": "https://rsshub.app/rsc/cs"
+      },
+      {
+        "name": "Journal of Organic Chemistry",
+        "url": "https://pubs.acs.org/journal/jocach",
+        "enabled": true,
+        "category": "化学",
+        "rsshub_url": "https://rsshub.app/acs/joc"
+      },
+      {
+        "name": "Organic Letters",
+        "url": "https://pubs.acs.org/journal/oladge",
+        "enabled": true,
+        "category": "化学",
+        "rsshub_url": "https://rsshub.app/acs/ol"
+      },
+      {
+        "name": "Chemical Communications",
+        "url": "https://pubs.rsc.org/en/journals/journal/issues?jid=cc",
+        "enabled": true,
+        "category": "化学",
+        "rsshub_url": "https://rsshub.app/rsc/cc"
+      },
+      {
+        "name": "Inorganic Chemistry",
+        "url": "https://pubs.acs.org/journal/inocaj",
+        "enabled": true,
+        "category": "化学",
+        "rsshub_url": "https://rsshub.app/acs/inoc"
+      },
+      {
+        "name": "Journal of Physical Chemistry",
+        "url": "https://pubs.acs.org/journal/jpcafx",
+        "enabled": true,
+        "category": "化学",
+        "rsshub_url": "https://rsshub.app/acs/jpcb"
+      },
+      {
+        "name": "Journal of Chemical Physics",
+        "url": "https://aip.scitation.org/journal/jcp",
+        "enabled": true,
+        "category": "化学",
+        "rsshub_url": "https://rsshub.app/aip"
+      },
+      {
+        "name": "Advanced Materials 材料科学顶刊",
+        "url": "https://onlinelibrary.wiley.com/journal/15214095",
+        "enabled": true,
+        "category": "化学",
+        "rsshub_url": "https://rsshub.app/wiley/advmat"
+      },
+      {
+        "name": "ACS Nano",
+        "url": "https://pubs.acs.org/journal/ancac3",
+        "enabled": true,
+        "category": "化学",
+        "rsshub_url": "https://rsshub.app/acs/acsnano"
+      },
+      {
+        "name": "ACS Materials Letters",
+        "url": "https://pubs.acs.org/journal/acmled",
+        "enabled": true,
+        "category": "化学",
+        "rsshub_url": "https://rsshub.app/acs/acsmaterials"
+      },
+      {
+        "name": "Cell 细胞",
+        "url": "https://www.cell.com/cell/rss",
+        "enabled": true,
+        "category": "生物科学"
+      },
+      {
+        "name": "Nature 自然",
+        "url": "https://www.nature.com/nature.rss",
+        "enabled": true,
+        "category": "生物科学"
+      },
+      {
+        "name": "Science 科学",
+        "url": "https://www.science.org/rss/express.xml",
+        "enabled": true,
+        "category": "生物科学"
+      },
+      {
+        "name": "PLoS Biology",
+        "url": "https://journals.plos.org/plosbiology/article/feed",
+        "enabled": true,
+        "category": "生物科学"
+      },
+      {
+        "name": "eLife",
+        "url": "https://elifesciences.org/feed.xml",
+        "enabled": true,
+        "category": "生物科学"
+      },
+      {
+        "name": "Nature Genetics",
+        "url": "https://www.nature.com/ng/current",
+        "enabled": true,
+        "category": "生物科学",
+        "rsshub_url": "https://rsshub.app/nature/ng"
+      },
+      {
+        "name": "Nature Biotechnology",
+        "url": "https://www.nature.com/nbt/current",
+        "enabled": true,
+        "category": "生物科学",
+        "rsshub_url": "https://rsshub.app/nature/nbt"
+      },
+      {
+        "name": "Genome Research",
+        "url": "https://genome.cshlp.org/",
+        "enabled": true,
+        "category": "生物科学",
+        "rsshub_url": "https://rsshub.app/cshl/genomeresearch"
+      },
+      {
+        "name": "Nucleic Acids Research",
+        "url": "https://academic.oup.com/nar",
+        "enabled": true,
+        "category": "生物科学",
+        "rsshub_url": "https://rsshub.app/oup/nar"
+      },
+      {
+        "name": "Molecular Cell",
+        "url": "https://www.cell.com/molecular-cell/rss",
+        "enabled": true,
+        "category": "生物科学"
+      },
+      {
+        "name": "Journal of Cell Biology",
+        "url": "https://www.jcb.org/rss/jcb/misc/feeds.xml",
+        "enabled": true,
+        "category": "生物科学"
+      },
+      {
+        "name": "Developmental Cell",
+        "url": "https://www.cell.com/developmental-cell/rss",
+        "enabled": true,
+        "category": "生物科学"
+      },
+      {
+        "name": "Cell Stem Cell",
+        "url": "https://www.cell.com/cell-stem-cell/rss",
+        "enabled": true,
+        "category": "生物科学"
+      },
+      {
+        "name": "EMBO Journal",
+        "url": "https://onlinelibrary.wiley.com/journal/14602075",
+        "enabled": true,
+        "category": "生物科学",
+        "rsshub_url": "https://rsshub.app/wiley/emboj"
+      },
+      {
+        "name": "bioRxiv 生物学预印本",
+        "url": "https://www.biorxiv.org/cgi/recent.rss",
+        "enabled": true,
+        "category": "生物科学"
+      },
+      {
+        "name": "Nature Reviews Genetics",
+        "url": "https://www.nature.com/nrg/current",
+        "enabled": true,
+        "category": "生物科学",
+        "rsshub_url": "https://rsshub.app/nature/nrg"
+      },
+      {
+        "name": "Nature Reviews Molecular Cell Biology",
+        "url": "https://www.nature.com/nrm/current",
+        "enabled": true,
+        "category": "生物科学",
+        "rsshub_url": "https://rsshub.app/nature/nrm"
+      },
+      {
+        "name": "Trends in Genetics",
+        "url": "https://www.cell.com/trends/genetics/rss",
+        "enabled": true,
+        "category": "生物科学"
+      },
+      {
+        "name": "Annual Review of Biochemistry",
+        "url": "https://www.annualreviews.org/loi/biochem",
+        "enabled": true,
+        "category": "生物科学",
+        "rsshub_url": "https://rsshub.app/annualreviews/biochem"
+      },
+      {
+        "name": "Pediatrics 美国儿科学会期刊",
+        "url": "https://publications.aap.org/pediatrics",
+        "enabled": true,
+        "category": "儿科",
+        "rsshub_url": "https://rsshub.app/aap/pediatrics"
+      },
+      {
+        "name": "Archives of Disease in Childhood",
+        "url": "https://adc.bmj.com/",
+        "enabled": true,
+        "category": "儿科",
+        "rsshub_url": "https://rsshub.app/bmj/adc"
+      },
+      {
+        "name": "Journal of Pediatrics",
+        "url": "https://www.jpediatrics.com/",
+        "enabled": true,
+        "category": "儿科",
+        "rsshub_url": "https://rsshub.app/jpediatrics"
+      },
+      {
+        "name": "Pediatric Research",
+        "url": "https://www.nature.com/pr/",
+        "enabled": true,
+        "category": "儿科",
+        "rsshub_url": "https://rsshub.app/nature/pr"
+      },
+      {
+        "name": "Journal of Pediatric Psychology",
+        "url": "https://academic.oup.com/jpepsy",
+        "enabled": true,
+        "category": "儿科",
+        "rsshub_url": "https://rsshub.app/oup/jpepsy"
+      },
+      {
+        "name": "Child Development",
+        "url": "https://onlinelibrary.wiley.com/journal/14678624",
+        "enabled": true,
+        "category": "儿科",
+        "rsshub_url": "https://rsshub.app/wiley/cdev"
+      },
+      {
+        "name": "Journal of Child Psychology and Psychiatry",
+        "url": "https://onlinelibrary.wiley.com/journal/14697610",
+        "enabled": true,
+        "category": "儿科",
+        "rsshub_url": "https://rsshub.app/wiley/jcpp"
+      },
+      {
+        "name": "Journal of Pediatric Gastroenterology and Nutrition",
+        "url": "https://journals.lww.com/jpgn/pages/default.aspx",
+        "enabled": true,
+        "category": "儿科",
+        "rsshub_url": "https://rsshub.app/lww"
+      },
+      {
+        "name": "Pediatric Allergy and Immunology",
+        "url": "https://onlinelibrary.wiley.com/journal/13993038",
+        "enabled": true,
+        "category": "儿科",
+        "rsshub_url": "https://rsshub.app/wiley/pai"
+      },
+      {
+        "name": "Clinical Immunology",
+        "url": "https://www.sciencedirect.com/journal/clinical-immunology",
+        "enabled": true,
+        "category": "儿科",
+        "rsshub_url": "https://rsshub.app/sciencedirect/journal/clinical-immunology"
+      },
+      {
+        "name": "中医儿科杂志",
+        "url": "https://zyekzz.gszy.edu.cn/",
+        "enabled": true,
+        "category": "中医儿科",
+        "rsshub_url": "https://rsshub.app/zyekzz"
+      },
+      {
+        "name": "中国中药杂志",
+        "url": "https://www.chinajournal.net.cn/",
+        "enabled": true,
+        "category": "中医儿科",
+        "rsshub_url": "https://rsshub.app/chinajournal"
+      },
+      {
+        "name": "中华中医药杂志",
+        "url": "https://www.zhyj.org.cn/",
+        "enabled": true,
+        "category": "中医儿科",
+        "rsshub_url": "https://rsshub.app/zhyj"
+      },
+      {
+        "name": "中国针灸",
+        "url": "https://www.zgwjkj.com/",
+        "enabled": true,
+        "category": "中医儿科",
+        "rsshub_url": "https://rsshub.app/zgwjkj"
+      },
+      {
+        "name": "中医杂志",
+        "url": "https://www.zyzzyy.com/",
+        "enabled": true,
+        "category": "中医儿科",
+        "rsshub_url": "https://rsshub.app/zyzzyy"
+      },
+      {
+        "name": "Communications of the ACM",
+        "url": "https://cacm.acm.org/",
+        "enabled": true,
+        "category": "计算机",
+        "rsshub_url": "https://rsshub.app/acm/cacm"
+      },
+      {
+        "name": "Journal of the ACM",
+        "url": "https://dl.acm.org/journal/jacm",
+        "enabled": true,
+        "category": "计算机",
+        "rsshub_url": "https://rsshub.app/acm/jacm"
+      },
+      {
+        "name": "IEEE TPAMI 模式识别与机器学习",
+        "url": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34",
+        "enabled": true,
+        "category": "计算机",
+        "rsshub_url": "https://rsshub.app/ieee"
+      },
+      {
+        "name": "ACM Computing Surveys",
+        "url": "https://dl.acm.org/journal/csur",
+        "enabled": true,
+        "category": "计算机",
+        "rsshub_url": "https://rsshub.app/acm/csur"
+      },
+      {
+        "name": "arXiv cs.AI 人工智能",
+        "url": "https://arxiv.org/list/cs.AI/recent",
+        "enabled": true,
+        "category": "计算机",
+        "rsshub_url": "https://rsshub.app/arxiv/cs.AI"
+      },
+      {
+        "name": "arXiv cs.LG 机器学习",
+        "url": "https://arxiv.org/list/cs.LG/recent",
+        "enabled": true,
+        "category": "计算机",
+        "rsshub_url": "https://rsshub.app/arxiv/cs.LG"
+      },
+      {
+        "name": "arXiv cs.CL 计算语言学/NLP",
+        "url": "https://arxiv.org/list/cs.CL/recent",
+        "enabled": true,
+        "category": "计算机",
+        "rsshub_url": "https://rsshub.app/arxiv/cs.CL"
+      },
+      {
+        "name": "arXiv cs.CV 计算机视觉",
+        "url": "https://arxiv.org/list/cs.CV/recent",
+        "enabled": true,
+        "category": "计算机",
+        "rsshub_url": "https://rsshub.app/arxiv/cs.CV"
+      },
+      {
+        "name": "arXiv cs.SE 软件工程",
+        "url": "https://arxiv.org/list/cs.SE/recent",
+        "enabled": true,
+        "category": "计算机",
+        "rsshub_url": "https://rsshub.app/arxiv/cs.SE"
+      },
+      {
+        "name": "arXiv cs.CR 密码学与安全",
+        "url": "https://arxiv.org/list/cs.CR/recent",
+        "enabled": true,
+        "category": "计算机",
+        "rsshub_url": "https://rsshub.app/arxiv/cs.CR"
+      },
+      {
+        "name": "arXiv cs.DS 数据结构与算法",
+        "url": "https://arxiv.org/list/cs.DS/recent",
+        "enabled": true,
+        "category": "计算机",
+        "rsshub_url": "https://rsshub.app/arxiv/cs.DS"
+      },
+      {
+        "name": "arXiv cs.DB 数据库",
+        "url": "https://arxiv.org/list/cs.DB/recent",
+        "enabled": true,
+        "category": "计算机",
+        "rsshub_url": "https://rsshub.app/arxiv/cs.DB"
+      },
+      {
+        "name": "arXiv cs.PL 编程语言",
+        "url": "https://arxiv.org/list/cs.PL/recent",
+        "enabled": true,
+        "category": "计算机",
+        "rsshub_url": "https://rsshub.app/arxiv/cs.PL"
+      },
+      {
+        "name": "arXiv cs.RO 机器人",
+        "url": "https://arxiv.org/list/cs.RO/recent",
+        "enabled": true,
+        "category": "计算机",
+        "rsshub_url": "https://rsshub.app/arxiv/cs.RO"
+      },
+      {
+        "name": "arXiv cs.NE 神经网络",
+        "url": "https://arxiv.org/list/cs.NE/recent",
+        "enabled": true,
+        "category": "计算机",
+        "rsshub_url": "https://rsshub.app/arxiv/cs.NE"
+      },
+      {
+        "name": "arXiv cs.IR 信息检索",
+        "url": "https://arxiv.org/list/cs.IR/recent",
+        "enabled": true,
+        "category": "计算机",
+        "rsshub_url": "https://rsshub.app/arxiv/cs.IR"
+      },
+      {
+        "name": "IEEE Xplore 全部计算机期刊",
+        "url": "https://ieeexplore.ieee.org/browse/periodicals/title",
+        "enabled": true,
+        "category": "计算机",
+        "rsshub_url": "https://rsshub.app/ieee"
+      },
+      {
+        "name": "ACM Digital Library",
+        "url": "https://dl.acm.org/journals",
+        "enabled": true,
+        "category": "计算机",
+        "rsshub_url": "https://rsshub.app/acm"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/blog/rss.xml",
+        "enabled": true,
+        "category": "人工智能"
+      },
+      {
+        "name": "DeepMind Research",
+        "url": "https://deepmind.com/blog/",
+        "enabled": true,
+        "category": "人工智能",
+        "rsshub_url": "https://rsshub.app/deepmind"
+      },
+      {
+        "name": "Google Research",
+        "url": "https://research.google/",
+        "enabled": true,
+        "category": "人工智能",
+        "rsshub_url": "https://rsshub.app/google/research"
+      },
+      {
+        "name": "Anthropic Research",
+        "url": "https://www.anthropic.com/research",
+        "enabled": true,
+        "category": "人工智能",
+        "rsshub_url": "https://rsshub.app/anthropic"
+      },
+      {
+        "name": "Meta AI (FAIR)",
+        "url": "https://ai.meta.com/research/",
+        "enabled": true,
+        "category": "人工智能",
+        "rsshub_url": "https://rsshub.app/meta/ai"
+      },
+      {
+        "name": "Microsoft Research AI",
+        "url": "https://www.microsoft.com/en-us/research/topic/artificial-intelligence/",
+        "enabled": true,
+        "category": "人工智能",
+        "rsshub_url": "https://rsshub.app/microsoft/research"
+      },
+      {
+        "name": "Papers With Code",
+        "url": "https://paperswithcode.com",
+        "enabled": true,
+        "category": "人工智能",
+        "rsshub_url": "https://rsshub.app/paperswithcode"
+      },
+      {
+        "name": "Hugging Face Daily Papers",
+        "url": "https://huggingface.co/papers/feed",
+        "enabled": true,
+        "category": "人工智能"
+      },
+      {
+        "name": "Distill.pub 模型可视化",
+        "url": "https://distill.pub/rss.xml",
+        "enabled": true,
+        "category": "人工智能"
+      },
+      {
+        "name": "LessWrong AI风险社区",
+        "url": "https://www.lesswrong.com/feed.xml",
+        "enabled": true,
+        "category": "人工智能"
+      },
+      {
+        "name": "Alignment Forum AI对齐",
+        "url": "https://www.alignmentforum.org/rss.xml",
+        "enabled": true,
+        "category": "人工智能"
+      },
+      {
+        "name": "80000 Hours AI风险与职业",
+        "url": "https://80000hours.org/feed/",
+        "enabled": true,
+        "category": "人工智能"
+      },
+      {
+        "name": "AI Now Institute AI治理",
+        "url": "https://ainowinstitute.org/feed",
+        "enabled": true,
+        "category": "人工智能"
+      },
+      {
+        "name": "CSET Georgetown AI安全政策",
+        "url": "https://cset.georgetown.edu/feed/",
+        "enabled": true,
+        "category": "人工智能"
+      },
+      {
+        "name": "Brookings AI政策研究",
+        "url": "https://www.brookings.edu/topic/artificial-intelligence/feed/",
+        "enabled": true,
+        "category": "人工智能"
+      },
+      {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com/category/artificial-intelligence/",
+        "enabled": true,
+        "category": "人工智能",
+        "rsshub_url": "https://rsshub.app/techcrunch/category/artificial-intelligence"
+      },
+      {
+        "name": "VentureBeat AI",
+        "url": "https://venturebeat.com/category/ai/",
+        "enabled": true,
+        "category": "人工智能",
+        "rsshub_url": "https://rsshub.app/venturebeat/category/ai"
+      },
+      {
+        "name": "Foreign Affairs 美国对外关系",
+        "url": "https://www.foreignaffairs.com/",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/foreignaffairs"
+      },
+      {
+        "name": "International Security 国际安全",
+        "url": "https://www.mitpressjournals.org/loi/isec",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/mitpress"
+      },
+      {
+        "name": "International Organization 国际组织",
+        "url": "https://www.cambridge.org/core/journal/international-organization",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/cambridge/io"
+      },
+      {
+        "name": "American Journal of Political Science",
+        "url": "https://ajps.org/",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/ajps"
+      },
+      {
+        "name": "American Political Science Review",
+        "url": "https://www.cambridge.org/core/journals/american-political-science-review",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/cambridge/apsr"
+      },
+      {
+        "name": "World Politics 世界政治",
+        "url": "https://www.cambridge.org/core/journals/world-politics",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/cambridge/wp"
+      },
+      {
+        "name": "International Studies Quarterly",
+        "url": "https://academic.oup.com/isq",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/oup/isq"
+      },
+      {
+        "name": "Journal of Conflict Resolution",
+        "url": "https://journals.sagepub.com/home/jcr",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/sage/jcr"
+      },
+      {
+        "name": "Journal of Peace Research",
+        "url": "https://journals.sagepub.com/home/jpr",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/sage/jpr"
+      },
+      {
+        "name": "Security Studies 安全研究",
+        "url": "https://www.tandfonline.com/toc/fstb20/current",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/tandfonline/fstb20"
+      },
+      {
+        "name": "European Journal of International Relations",
+        "url": "https://journals.sagepub.com/home/eji",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/sage/eji"
+      },
+      {
+        "name": "Review of International Political Economy",
+        "url": "https://www.tandfonline.com/toc/ripe20/current",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/tandfonline/ripe20"
+      },
+      {
+        "name": "Political Science Quarterly",
+        "url": "https://www.wiley.com/wol1/journal/15405893",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/wiley/psq"
+      },
+      {
+        "name": "Journal of Democracy 民主期刊",
+        "url": "https://www.journalofdemocracy.org/",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/jdemocracy"
+      },
+      {
+        "name": "Democratization 民主化研究",
+        "url": "https://www.tandfonline.com/toc/fdem20/current",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/tandfonline/fdem20"
+      },
+      {
+        "name": "Comparative Political Studies",
+        "url": "https://journals.sagepub.com/home/cps",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/sage/cps"
+      },
+      {
+        "name": "Council on Foreign Relations 美国对外关系委员会",
+        "url": "https://www.cfr.org/",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/cfr"
+      },
+      {
+        "name": "Brookings Institution 布鲁金斯学会",
+        "url": "https://www.brookings.edu/",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/brookings"
+      },
+      {
+        "name": "Chatham House 英国皇家国际事务研究所",
+        "url": "https://www.chathamhouse.org/",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/chathamhouse"
+      },
+      {
+        "name": "Chatham House RSS",
+        "url": "https://www.chathamhouse.org/about-us/our-work/rss",
+        "enabled": true,
+        "category": "政治学与国际关系"
+      },
+      {
+        "name": "Carnegie Endowment 卡内基国际和平基金会",
+        "url": "https://carnegieendowment.org/",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/carnegieendowment"
+      },
+      {
+        "name": "RAND Corporation 兰德公司",
+        "url": "https://www.rand.org/",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/rand"
+      },
+      {
+        "name": "CSIS 战略与国际研究中心",
+        "url": "https://www.csis.org/",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/csis"
+      },
+      {
+        "name": "中国社会科学",
+        "url": "https://www.cssn.net.cn/",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/cssn"
+      },
+      {
+        "name": "世界经济与政治",
+        "url": "https://www.swiap.org/",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/swiap"
+      },
+      {
+        "name": "国际政治研究",
+        "url": "https://www.csis.org.cn/",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/csis"
+      },
+      {
+        "name": "美国研究",
+        "url": "https://www.usacn.com/",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/usacn"
+      },
+      {
+        "name": "当代世界与社会主义",
+        "url": "https://www.dsjynjy.com/",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/dsjynjy"
+      },
+      {
+        "name": "The Economist 经济学人",
+        "url": "https://www.economist.com/",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/economist"
+      },
+      {
+        "name": "Foreign Policy 外交政策",
+        "url": "https://foreignpolicy.com/",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/foreignpolicy"
+      },
+      {
+        "name": "The National Interest 国家利益",
+        "url": "https://nationalinterest.org/",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/nationalinterest"
+      },
+      {
+        "name": "Project Syndicate 全球学者评论",
+        "url": "https://www.project-syndicate.org/",
+        "enabled": true,
+        "category": "政治学与国际关系",
+        "rsshub_url": "https://rsshub.app/project-syndicate"
+      },
+      {
+        "name": "中国公共招聘网",
+        "url": "http://job.mohrss.gov.cn",
+        "enabled": true,
+        "category": "中国招聘/综合"
+      },
+      {
+        "name": "国聘网",
+        "url": "https://www.iguopin.com",
+        "enabled": true,
+        "category": "中国招聘/综合"
+      },
+      {
+        "name": "就业在线",
+        "url": "https://www.jobonline.cn",
+        "enabled": true,
+        "category": "中国招聘/综合"
+      },
+      {
+        "name": "前程无忧",
+        "url": "https://www.51job.com",
+        "enabled": true,
+        "category": "中国招聘/综合"
+      },
+      {
+        "name": "智联招聘",
+        "url": "https://www.zhaopin.com",
+        "enabled": true,
+        "category": "中国招聘/综合"
+      },
+      {
+        "name": "猎聘网",
+        "url": "https://www.liepin.com",
+        "enabled": true,
+        "category": "中国招聘/综合"
+      },
+      {
+        "name": "BOSS直聘",
+        "url": "https://www.zhipin.com",
+        "enabled": true,
+        "category": "中国招聘/综合"
+      },
+      {
+        "name": "中国铁路人才招聘网",
+        "url": "https://rczp.china-railway.com.cn",
+        "enabled": true,
+        "category": "中国招聘/综合"
+      },
+      {
+        "name": "高校人才网",
+        "url": "https://www.rencaiw.com",
+        "enabled": true,
+        "category": "中国招聘/综合"
+      },
+      {
+        "name": "国家公务员局",
+        "url": "http://bm.scs.gov.cn",
+        "enabled": true,
+        "category": "中国招聘/公务员招考"
+      },
+      {
+        "name": "国家公务员局-招考公告",
+        "url": "http://bm.scs.gov.cn/gkzpw/zsgz",
+        "enabled": true,
+        "category": "中国招聘/公务员招考"
+      },
+      {
+        "name": "人力资源和社会保障部",
+        "url": "https://www.mohrss.gov.cn",
+        "enabled": true,
+        "category": "中国招聘/公务员招考"
+      },
+      {
+        "name": "中央和国家机关事业单位招聘",
+        "url": "https://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp",
+        "enabled": true,
+        "category": "中国招聘/公务员招考"
+      },
+      {
+        "name": "全国人事考试服务平台",
+        "url": "https://www.cpta.com.cn",
+        "enabled": true,
+        "category": "中国招聘/公务员招考"
+      },
+      {
+        "name": "中国公务员网",
+        "url": "https://www.scs.gov.cn",
+        "enabled": true,
+        "category": "中国招聘/公务员招考"
+      },
+      {
+        "name": "军队人才网",
+        "url": "https://www.81rc.mil.cn",
+        "enabled": true,
+        "category": "中国招聘/公务员招考"
+      },
+      {
+        "name": "国家大学生就业服务平台",
+        "url": "https://www.ncss.cn",
+        "enabled": true,
+        "category": "中国招聘/公务员招考"
+      },
+      {
+        "name": "公考雷达",
+        "url": "https://www.gongkaoleida.com",
+        "enabled": true,
+        "category": "中国招聘/公务员招考"
+      },
+      {
+        "name": "事业单位招聘网",
+        "url": "https://www.qgsydw.com",
+        "enabled": true,
+        "category": "中国招聘/公务员招考"
+      },
+      {
+        "name": "人民日报(People's Daily)",
+        "url": "https://feedx.net/rss/people.xml",
+        "enabled": true,
+        "category": "中国"
+      },
+      {
+        "name": "光明日报(Guangming Daily)",
+        "url": "https://feedx.net/rss/guangmingribao.xml",
+        "enabled": true,
+        "category": "中国"
+      },
+      {
+        "name": "新华社(Xinhua News Agency)",
+        "url": "https://rsshub.dicomp.net/xinhua",
+        "enabled": true,
+        "category": "中国"
+      },
+      {
+        "name": "解放军报(PLA Daily)",
+        "url": "https://rsshub.dicomp.net/pla",
+        "enabled": true,
+        "category": "中国"
+      },
+      {
+        "name": "经济日报(Economic Daily)",
+        "url": "https://rsshub.dicomp.net/economicdaily",
+        "enabled": true,
+        "category": "中国"
+      },
+      {
+        "name": "参考消息(Reference News)",
+        "url": "https://rsshub.dicomp.net/cankaoxiaoxi/column/diyi",
+        "enabled": true,
+        "category": "中国"
+      },
+      {
+        "name": "求是杂志(Qiushi Journal)",
+        "url": "https://rsshub.dicomp.net/qstheory/toutiao",
+        "enabled": true,
+        "category": "中国"
+      },
+      {
+        "name": "央视新闻(CCTV News)",
+        "url": "http://www.cctv.com/rss/01/index.xml",
+        "enabled": true,
+        "category": "中国"
+      },
+      {
+        "name": "纽约时报(The New York Times)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+        "enabled": true,
+        "category": "美国"
+      },
+      {
+        "name": "华盛顿邮报(The Washington Post)",
+        "url": "https://feeds.washingtonpost.com/rss/national",
+        "enabled": true,
+        "category": "美国"
+      },
+      {
+        "name": "华尔街日报(The Wall Street Journal)",
+        "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
+        "enabled": true,
+        "category": "美国"
+      },
+      {
+        "name": "CNN(Cable News Network)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "enabled": true,
+        "category": "美国"
+      },
+      {
+        "name": "福克斯新闻(Fox News)",
+        "url": "https://feeds.foxnews.com/foxnews/latest.rss",
+        "enabled": true,
+        "category": "美国"
+      },
+      {
+        "name": "ABC新闻(American Broadcasting Company)",
+        "url": "https://feeds.abcnews.com/abcnews/topstories",
+        "enabled": true,
+        "category": "美国"
+      },
+      {
+        "name": "经济学人(The Economist)",
+        "url": "https://www.economist.com/the-world-this-week/rss.xml",
+        "enabled": true,
+        "category": "美国"
+      },
+      {
+        "name": "外交事务(Foreign Affairs)",
+        "url": "https://www.foreignaffairs.com/rss",
+        "enabled": true,
+        "category": "美国"
+      },
+      {
+        "name": "大西洋月刊(The Atlantic)",
+        "url": "https://www.theatlantic.com/rss/all/",
+        "enabled": true,
+        "category": "美国"
+      },
+      {
+        "name": "国家地理(National Geographic)",
+        "url": "https://www.nationalgeographic.com/feeds/main.xml",
+        "enabled": true,
+        "category": "美国"
+      },
+      {
+        "name": "政客(Politico)",
+        "url": "https://www.politico.com/rss/politicopicks.xml",
+        "enabled": true,
+        "category": "美国"
+      },
+      {
+        "name": "美联社(Associated Press (AP))",
+        "url": "https://feeds.apnews.com/rss/apf-topnews",
+        "enabled": true,
+        "category": "美国"
+      },
+      {
+        "name": "路透社(Reuters)",
+        "url": "https://feeds.reuters.com/reuters/topNews",
+        "enabled": true,
+        "category": "美国"
+      },
+      {
+        "name": "BBC(British Broadcasting Corporation)",
+        "url": "http://feeds.bbci.co.uk/news/rss.xml",
+        "enabled": true,
+        "category": "英国"
+      },
+      {
+        "name": "卫报(The Guardian)",
+        "url": "https://www.theguardian.com/world/rss",
+        "enabled": true,
+        "category": "英国"
+      },
+      {
+        "name": "泰晤士报(The Times)",
+        "url": "https://www.thetimes.co.uk/rss",
+        "enabled": true,
+        "category": "英国"
+      },
+      {
+        "name": "每日电讯报(The Daily Telegraph)",
+        "url": "https://www.telegraph.co.uk/rss.xml",
+        "enabled": true,
+        "category": "英国"
+      },
+      {
+        "name": "金融时报(Financial Times)",
+        "url": "https://www.ft.com/rss/home",
+        "enabled": true,
+        "category": "英国"
+      },
+      {
+        "name": "独立报(The Independent)",
+        "url": "https://www.independent.co.uk/rss",
+        "enabled": true,
+        "category": "英国"
+      },
+      {
+        "name": "旁观者周刊(The Spectator)",
+        "url": "https://www.spectator.co.uk/rss",
+        "enabled": true,
+        "category": "英国"
+      },
+      {
+        "name": "观察家报(The Observer)",
+        "url": "https://www.theguardian.com/uk-news/rss",
+        "enabled": true,
+        "category": "英国"
+      },
+      {
+        "name": "NHK(Nippon Hoso Kyokai)",
+        "url": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+        "enabled": true,
+        "category": "日本"
+      },
+      {
+        "name": "朝日新闻(Asahi Shimbun)",
+        "url": "https://rsshub.dicomp.net/asahi/all",
+        "enabled": true,
+        "category": "日本"
+      },
+      {
+        "name": "读卖新闻(Yomiuri Shimbun)",
+        "url": "https://www.yomiuri.co.jp/rss/",
+        "enabled": true,
+        "category": "日本"
+      },
+      {
+        "name": "每日新闻(Mainichi Shimbun)",
+        "url": "https://www.mainichi.jp/rss/",
+        "enabled": true,
+        "category": "日本"
+      },
+      {
+        "name": "日本经济新闻(Nikkei)",
+        "url": "https://www.nikkei.com/rss/",
+        "enabled": true,
+        "category": "日本"
+      },
+      {
+        "name": "产经新闻(Sankei Shimbun)",
+        "url": "https://www.sankei.com/rss/",
+        "enabled": true,
+        "category": "日本"
+      },
+      {
+        "name": "日本时报(The Japan Times)",
+        "url": "https://www.japantimes.co.jp/feed/",
+        "enabled": true,
+        "category": "日本"
+      },
+      {
+        "name": "KBS(Korean Broadcasting System)",
+        "url": "http://world.kbs.co.kr/rss/rss_news.htm?lang=e",
+        "enabled": true,
+        "category": "韩国"
+      },
+      {
+        "name": "联合通讯社(Yonhap News Agency)",
+        "url": "https://www.yna.co.kr/rss/",
+        "enabled": true,
+        "category": "韩国"
+      },
+      {
+        "name": "朝鲜日报(Chosun Ilbo)",
+        "url": "https://www.chosun.com/rss/",
+        "enabled": true,
+        "category": "韩国"
+      },
+      {
+        "name": "东亚日报(Dong-a Ilbo)",
+        "url": "https://www.donga.com/rss/",
+        "enabled": true,
+        "category": "韩国"
+      },
+      {
+        "name": "韩民族日报(Hankyoreh)",
+        "url": "https://www.hani.co.kr/rss/",
+        "enabled": true,
+        "category": "韩国"
+      },
+      {
+        "name": "中央日报(JoongAng Ilbo)",
+        "url": "https://www.joongang.co.kr/rss/",
+        "enabled": true,
+        "category": "韩国"
+      },
+      {
+        "name": "世界报(Le Monde)",
+        "url": "https://www.lemonde.fr/rss/une.xml",
+        "enabled": true,
+        "category": "法国"
+      },
+      {
+        "name": "费加罗报(Le Figaro)",
+        "url": "https://www.lefigaro.fr/rss/lefigaro.xml",
+        "enabled": true,
+        "category": "法国"
+      },
+      {
+        "name": "解放报(Libération)",
+        "url": "https://www.liberation.fr/rss/",
+        "enabled": true,
+        "category": "法国"
+      },
+      {
+        "name": "巴黎人报(Le Parisien)",
+        "url": "https://www.leparisien.fr/rss/",
+        "enabled": true,
+        "category": "法国"
+      },
+      {
+        "name": "France 24",
+        "url": "https://www.france24.com/en/rss",
+        "enabled": true,
+        "category": "法国"
+      },
+      {
+        "name": "快报(L'Express)",
+        "url": "https://www.lexpress.fr/rss/",
+        "enabled": true,
+        "category": "法国"
+      },
+      {
+        "name": "新观察家(Le Nouvel Observateur)",
+        "url": "https://www.nouvelobs.com/rss/",
+        "enabled": true,
+        "category": "法国"
+      },
+      {
+        "name": "法新社(Agence France-Presse (AFP))",
+        "url": "https://www.afp.com/rss",
+        "enabled": true,
+        "category": "法国"
+      },
+      {
+        "name": "明镜周刊(Der Spiegel)",
+        "url": "https://www.spiegel.de/schlagzeilen/index.rss",
+        "enabled": true,
+        "category": "德国"
+      },
+      {
+        "name": "法兰克福汇报(Frankfurter Allgemeine Zeitung (FAZ))",
+        "url": "https://www.faz.net/rss/aktuell",
+        "enabled": true,
+        "category": "德国"
+      },
+      {
+        "name": "时代周刊(Die Zeit)",
+        "url": "https://www.zeit.de/news/index",
+        "enabled": true,
+        "category": "德国",
+        "rsshub_url": "https://rsshub.app/zeit"
+      },
+      {
+        "name": "南德意志报(Süddeutsche Zeitung (SZ))",
+        "url": "https://www.sueddeutsche.de/rss",
+        "enabled": true,
+        "category": "德国"
+      },
+      {
+        "name": "世界报(Die Welt)",
+        "url": "https://www.welt.de/rss/",
+        "enabled": true,
+        "category": "德国"
+      },
+      {
+        "name": "商报(Handelsblatt)",
+        "url": "https://www.handelsblatt.com/rss/",
+        "enabled": true,
+        "category": "德国"
+      },
+      {
+        "name": "ARD/ZDF(ARD / ZDF)",
+        "url": "https://www.ard.de/sync/ard-online.xml",
+        "enabled": true,
+        "category": "德国"
+      },
+      {
+        "name": "真理报(Pravda)",
+        "url": "https://www.pravda.ru/rss/",
+        "enabled": true,
+        "category": "俄罗斯"
+      },
+      {
+        "name": "共青团真理报(Komsomolskaya Pravda)",
+        "url": "https://www.kp.ru/rss/",
+        "enabled": true,
+        "category": "俄罗斯"
+      },
+      {
+        "name": "消息报(Izvestia)",
+        "url": "https://www.izvestia.ru/rss/",
+        "enabled": true,
+        "category": "俄罗斯"
+      },
+      {
+        "name": "塔斯社(TASS)",
+        "url": "https://tass.com/rss",
+        "enabled": true,
+        "category": "俄罗斯"
+      },
+      {
+        "name": "俄新社(RIA Novosti)",
+        "url": "https://ria.ru/rss",
+        "enabled": true,
+        "category": "俄罗斯"
+      },
+      {
+        "name": "新报(Novaya Gazeta)",
+        "url": "https://www.novayagazeta.ru/rss/",
+        "enabled": true,
+        "category": "俄罗斯"
+      },
+      {
+        "name": "公报(Vedomosti)",
+        "url": "https://www.vedomosti.ru/rss/",
+        "enabled": true,
+        "category": "俄罗斯"
+      },
+      {
+        "name": "俄罗斯报(Rossiyskaya Gazeta)",
+        "url": "https://www.rg.ru/rss/",
+        "enabled": true,
+        "category": "俄罗斯"
+      },
+      {
+        "name": "今日俄罗斯(RT (Russia Today))",
+        "url": "https://www.rt.com/rss-feeds/",
+        "enabled": true,
+        "category": "俄罗斯"
+      },
+      {
+        "name": "明报(Ming Pao)",
+        "url": "https://www.mingpao.com/rss/",
+        "enabled": true,
+        "category": "香港"
+      },
+      {
+        "name": "南华早报(South China Morning Post)",
+        "url": "https://www.scmp.com/rss",
+        "enabled": true,
+        "category": "香港"
+      },
+      {
+        "name": "信报(The Standard)",
+        "url": "https://www.stan.com.hk/rss/",
+        "enabled": true,
+        "category": "香港"
+      },
+      {
+        "name": "TVB(Television Broadcasts Limited)",
+        "url": "https://www.tvb.com/news/rss",
+        "enabled": true,
+        "category": "香港"
+      },
+      {
+        "name": "RTHK(Radio Television Hong Kong)",
+        "url": "https://www.rthk.hk/rss/",
+        "enabled": true,
+        "category": "香港"
+      },
+      {
+        "name": "凤凰卫视(Phoenix TV)",
+        "url": "http://news.ifeng.com/pubres/rss/mainland/feed.xml",
+        "enabled": true,
+        "category": "香港"
+      },
+      {
+        "name": "苹果日报(Apple Daily)",
+        "url": "已停刊",
+        "enabled": true,
+        "category": "香港"
+      },
+      {
+        "name": "自由时报(Liberty Times)",
+        "url": "https://www.libertytimes.com.tw/rss/",
+        "enabled": true,
+        "category": "台湾"
+      },
+      {
+        "name": "联合报(United Daily)",
+        "url": "https://www.uniteddaily.com.tw/rss/",
+        "enabled": true,
+        "category": "台湾"
+      },
+      {
+        "name": "中国时报(China Times)",
+        "url": "https://www.chinatimes.com/rss/",
+        "enabled": true,
+        "category": "台湾"
+      },
+      {
+        "name": "TVBS",
+        "url": "https://www.tvbs.com.tw/rss/",
+        "enabled": true,
+        "category": "台湾"
+      },
+      {
+        "name": "三立新闻(SET News)",
+        "url": "https://www.setn.com/rss/",
+        "enabled": true,
+        "category": "台湾"
+      },
+      {
+        "name": "中央通讯社(CNA (Central News Agency))",
+        "url": "https://www.cna.com.tw/rss/",
+        "enabled": true,
+        "category": "台湾"
+      },
+      {
+        "name": "公共电视(PTS (Public Television Service))",
+        "url": "https://www.pts.org.tw/rss/",
+        "enabled": true,
+        "category": "台湾"
+      },
+      {
+        "name": "镜周刊(Mirror Magazine)",
+        "url": "https://www.mirrormedia.com/rss/",
+        "enabled": true,
+        "category": "台湾"
+      }
+    ],
+    "github": {
+      "enabled": true,
+      "users": [
+        "openai",
+        "huggingface",
+        "karpathy",
+        "torvalds",
+        "gvanrossum",
+        "owid"
+      ],
+      "repos": [
+        "pytorch/pytorch",
+        "microsoft/vscode",
+        "ollama/ollama",
+        "firstlookmedia/theintercept"
+      ]
+    },
+    "telegram": {
+      "enabled": true,
+      "channels": [
+        "breakingnews",
+        "ria_news",
+        "tass_agency",
+        "techcrunch",
+        "nature",
+        "science",
+        "hackernewsbot",
+        "interesting_engineering",
+        "art_of_programming"
+      ]
+    }
+  },
+  "notes": "全球前沿信息RSS订阅源汇总 - Horizon配置文件\n包含学术前沿(146个)、全球政治新闻(101个)、中国招聘信息(19个)，共273个订阅源\n其中116个已配置RSSHub转换链接作为备用\n新增GitHub追踪(6用户+4仓库)和Telegram订阅(9频道)"
+}
