@@ -1,10 +1,19 @@
 {
-  "ai": {
-    "provider": "gemini",
-    "model": "gemini-2.0-flash",
-    "api_key_env": "GOOGLE_API_KEY",
-    "throttle_sec": 0
-  },
+ "ai": {
+  "provider": "agnes",
+  "model": "agnes-2.5-flash",
+  "base_url": "https://api.agnes-ai.cn/v1",
+  "api_key_env": "AGNES_API_KEY",
+  "temperature": 0.3,
+  "max_tokens": 8192,
+  "throttle_sec": 1,
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "analysis_concurrency": 5,
+  "enrichment_concurrency": 5
+},
   "sources": {
     "hackernews": {
       "enabled": false,
