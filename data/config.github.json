@@ -1,6 +1,6 @@
 {
  "ai": {
-  "provider": "agnes",
+  "provider"openai",
   "model": "agnes-2.5-flash",
   "base_url": "https://api.agnes-ai.cn/v1",
   "api_key_env": "AGNES_API_KEY",
