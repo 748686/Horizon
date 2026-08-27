@@ -1847,123 +1847,64 @@
     "profile": "tech-news"
   }
   ],
-  "telegram": {
-
-  "enabled": true,
-
-  "channels": [
-
-    {
-
-      "channel": "breakingnews",
-
-      "enabled": true,
-
-      "fetch_limit": 20,
-
-      "profile": "tech-news"
-
-    },
-
-    {
-
-      "channel": "ria_news",
-
-      "enabled": true,
-
-      "fetch_limit": 20,
-
-      "profile": "tech-news"
-
-    },
-
-    {
-
-      "channel": "tass_agency",
-
-      "enabled": true,
-
-      "fetch_limit": 20,
-
-      "profile": "tech-news"
-
-    },
-
-    {
-
-      "channel": "techcrunch",
-
-      "enabled": true,
-
-      "fetch_limit": 20,
-
-      "profile": "tech-news"
-
-    },
-
-    {
-
-      "channel": "nature",
-
-      "enabled": true,
-
-      "fetch_limit": 20,
-
-      "profile": "tech-news"
-
-    },
-
-    {
-
-      "channel": "science",
-
-      "enabled": true,
-
-      "fetch_limit": 20,
-
-      "profile": "tech-news"
-
-    },
-
-    {
-
-      "channel": "hackernewsbot",
-
-      "enabled": true,
-
-      "fetch_limit": 20,
-
-      "profile": "tech-news"
-
-    },
-
-    {
-
-      "channel": "interesting_engineering",
-
-      "enabled": true,
-
-      "fetch_limit": 20,
-
-      "profile": "tech-news"
-
-    },
-
-    {
-
-      "channel": "art_of_programming",
-
-      "enabled": true,
-
-      "fetch_limit": 20,
-
-      "profile": "tech-news"
-
-    }
-
-  ]
-
-
+    "telegram": {
+    "enabled": true,
+    "channels": [
+      {
+        "channel": "breakingnews",
+        "enabled": true,
+        "fetch_limit": 20,
+        "profile": "tech-news"
+      },
+      {
+        "channel": "ria_news",
+        "enabled": true,
+        "fetch_limit": 20,
+        "profile": "tech-news"
+      },
+      {
+        "channel": "tass_agency",
+        "enabled": true,
+        "fetch_limit": 20,
+        "profile": "tech-news"
+      },
+      {
+        "channel": "techcrunch",
+        "enabled": true,
+        "fetch_limit": 20,
+        "profile": "tech-news"
+      },
+      {
+        "channel": "nature",
+        "enabled": true,
+        "fetch_limit": 20,
+        "profile": "tech-news"
+      },
+      {
+        "channel": "science",
+        "enabled": true,
+        "fetch_limit": 20,
+        "profile": "tech-news"
+      },
+      {
+        "channel": "hackernewsbot",
+        "enabled": true,
+        "fetch_limit": 20,
+        "profile": "tech-news"
+      },
+      {
+        "channel": "interesting_engineering",
+        "enabled": true,
+        "fetch_limit": 20,
+        "profile": "tech-news"
+      },
+      {
+        "channel": "art_of_programming",
+        "enabled": true,
+        "fetch_limit": 20,
+        "profile": "tech-news"
+      }
+    ]
   },
   "notes": "全球前沿信息RSS订阅源汇总 - Horizon配置文件\n包含学术前沿(146个)、全球政治新闻(101个)、中国招聘信息(19个)，共273个订阅源\n其中116个已配置RSSHub转换链接作为备用\n新增GitHub追踪(6用户+4仓库)和Telegram订阅(9频道)"
 }
