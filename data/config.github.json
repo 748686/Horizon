@@ -1781,37 +1781,189 @@
         "category": "台湾"
       }
     ],
-    "github": {
+   "github": [
+  {
+    "type": "user_events",
+    "username": "openai",
+    "enabled": true,
+    "profile": "tech-news"
+  },
+  {
+    "type": "user_events",
+    "username": "huggingface",
+    "enabled": true,
+    "profile": "tech-news"
+  },
+  {
+    "type": "user_events",
+    "username": "karpathy",
+    "enabled": true,
+    "profile": "tech-news"
+  },
+  {
+    "type": "user_events",
+    "username": "torvalds",
+    "enabled": true,
+    "profile": "tech-news"
+  },
+  {
+    "type": "user_events",
+    "username": "gvanrossum",
+    "enabled": true,
+    "profile": "tech-news"
+  },
+  {
+    "type": "user_events",
+    "username": "owid",
+    "enabled": true,
+    "profile": "tech-news"
+  },
+  {
+    "type": "repo_releases",
+    "owner": "pytorch",
+    "repo": "pytorch",
+    "enabled": true,
+    "profile": "tech-news"
+  },
+  {
+    "type": "repo_releases",
+    "owner": "microsoft",
+    "repo": "vscode",
+    "enabled": true,
+    "profile": "tech-news"
+  },
+  {
+    "type": "repo_releases",
+    "owner": "ollama",
+    "repo": "ollama",
+    "enabled": true,
+    "profile": "tech-news"
+  },
+  {
+    "type": "repo_releases",
+    "owner": "firstlookmedia",
+    "repo": "theintercept",
+    "enabled": true,
+    "profile": "tech-news"
+  }
+]
+"telegram": {
+
+  "enabled": true,
+
+  "channels": [
+
+    {
+
+      "channel": "breakingnews",
+
       "enabled": true,
-      "users": [
-        "openai",
-        "huggingface",
-        "karpathy",
-        "torvalds",
-        "gvanrossum",
-        "owid"
-      ],
-      "repos": [
-        "pytorch/pytorch",
-        "microsoft/vscode",
-        "ollama/ollama",
-        "firstlookmedia/theintercept"
-      ]
+
+      "fetch_limit": 20,
+
+      "profile": "tech-news"
+
     },
-    "telegram": {
+
+    {
+
+      "channel": "ria_news",
+
       "enabled": true,
-      "channels": [
-        "breakingnews",
-        "ria_news",
-        "tass_agency",
-        "techcrunch",
-        "nature",
-        "science",
-        "hackernewsbot",
-        "interesting_engineering",
-        "art_of_programming"
-      ]
+
+      "fetch_limit": 20,
+
+      "profile": "tech-news"
+
+    },
+
+    {
+
+      "channel": "tass_agency",
+
+      "enabled": true,
+
+      "fetch_limit": 20,
+
+      "profile": "tech-news"
+
+    },
+
+    {
+
+      "channel": "techcrunch",
+
+      "enabled": true,
+
+      "fetch_limit": 20,
+
+      "profile": "tech-news"
+
+    },
+
+    {
+
+      "channel": "nature",
+
+      "enabled": true,
+
+      "fetch_limit": 20,
+
+      "profile": "tech-news"
+
+    },
+
+    {
+
+      "channel": "science",
+
+      "enabled": true,
+
+      "fetch_limit": 20,
+
+      "profile": "tech-news"
+
+    },
+
+    {
+
+      "channel": "hackernewsbot",
+
+      "enabled": true,
+
+      "fetch_limit": 20,
+
+      "profile": "tech-news"
+
+    },
+
+    {
+
+      "channel": "interesting_engineering",
+
+      "enabled": true,
+
+      "fetch_limit": 20,
+
+      "profile": "tech-news"
+
+    },
+
+    {
+
+      "channel": "art_of_programming",
+
+      "enabled": true,
+
+      "fetch_limit": 20,
+
+      "profile": "tech-news"
+
     }
+
+  ]
+
+
   },
   "notes": "全球前沿信息RSS订阅源汇总 - Horizon配置文件\n包含学术前沿(146个)、全球政治新闻(101个)、中国招聘信息(19个)，共273个订阅源\n其中116个已配置RSSHub转换链接作为备用\n新增GitHub追踪(6用户+4仓库)和Telegram订阅(9频道)"
 }
