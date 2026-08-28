@@ -5,3176 +5,954 @@ date: 2026-08-28
 lang: zh
 ---
 
-> 从 515 条内容中筛选出 473 条重要资讯。
+> 从 499 条内容中筛选出 435 条重要资讯。
 
 ---
 
 **财经新闻**
-1. [Trump signs order to rename Lake Ontario as Lake America](#item-finance-news-1) ⭐️ 9.0/10
-2. [Liveblog Irankrieg: Gipfel zur Straße von Hormus – ohne die USA](#item-finance-news-2) ⭐️ 9.0/10
-3. [Russia says UK ‘playing with fire’ amid reports CIA chief has warned Kremlin not to attack Nato](#item-finance-news-3) ⭐️ 8.0/10
-4. [07 版 -  拓展国际经贸互利合作空间](#item-finance-news-4) ⭐️ 7.0/10
-5. [Judge Once Again Bars Postal Service From Restricting Mail-In Vote](#item-finance-news-5) ⭐️ 7.0/10
-6. [Canadian retailers scramble to deal with ‘staggering’ U.S. tariffs](#item-finance-news-6) ⭐️ 7.0/10
-7. [Wärmenetze: Kosten für Fernwärme sollen überwacht werden](#item-finance-news-7) ⭐️ 7.0/10
-8. [03 版 -  “2026·中国—南非人权研讨会”在浙江杭州举办](#item-finance-news-8) ⭐️ 5.0/10
-9. [04 版 -  最大限度争取救援主动](#item-finance-news-9) ⭐️ 5.0/10
-10. [16 版 -  康师傅成立 34 年  倾力打造民族品牌高质量发展样本](#item-finance-news-10) ⭐️ 5.0/10
-11. [UK urged to help free British-Egyptian ‘arrested in Cairo over sister’s activism’](#item-finance-news-11) ⭐️ 5.0/10
-12. [The cowboy clinics selling unproven longevity treatments](#item-finance-news-12) ⭐️ 5.0/10
-13. [Number of asylum seekers living in hotels across UK halves in a year](#item-finance-news-13) ⭐️ 5.0/10
-14. [Andy Burnham’s autumn of pain– podcast](#item-finance-news-14) ⭐️ 5.0/10
-15. [Inditex 旗下 Lefties 以机器人门店入驻英国，瞄准 Primark](#item-finance-news-15) ⭐️ 5.0/10
-16. [泰晤士水务试水期间永久性化学物质超标 13 倍](#item-finance-news-16) ⭐️ 5.0/10
-17. [Analyse zu Transitionsplänen: Deutsche Unternehmen sind keine Klimapioniere](#item-finance-news-17) ⭐️ 5.0/10
-18. [Helaba 利润因房贷业务大幅下降](#item-finance-news-18) ⭐️ 5.0/10
-19. [德国 Girocard 交易创半年新高，即将支持线上预订](#item-finance-news-19) ⭐️ 5.0/10
-20. [F.A.Z.-exklusiv: Der Goldbesitz der Deutschen übersteigt die Billionengrenze](#item-finance-news-20) ⭐️ 5.0/10
-21. [Immobilien vor Gericht: Wenn der Hobbyraum zum Wohnzimmer wird](#item-finance-news-21) ⭐️ 5.0/10
-22. [04 版 -  7 月全国查处违反中央八项规定精神问题 27995 起](#item-finance-news-22) ⭐️ 4.0/10
-23. [Buprenorphine Dispensed by Pharmacies and Administered in Emergency Departments in Urban and Rural Areas - United States, 2019-2025](#item-finance-news-23) ⭐️ 3.0/10
-24. [17 版 -  上合人文交流成果丰硕](#item-finance-news-24) ⭐️ 3.0/10
-25. [Trump Raises Money in Texas With Control of the Senate in the Balance](#item-finance-news-25) ⭐️ 3.0/10
-26. [LA Mayor Karen Bass Eases Street Vending Crackdown After Debate](#item-finance-news-26) ⭐️ 3.0/10
-27. [Achse der Autokratie: So greifen China und Russland den Westen gemeinsam an](#item-finance-news-27) ⭐️ 3.0/10
-28. [Rape and sex offence specialists on all police forces by 2027, PM says](#item-finance-news-28) ⭐️ 1.0/10
-29. [Hypermobility - the little-known &\#x27;bendy disease&\#x27; that causes pain and fatigue](#item-finance-news-29) ⭐️ 1.0/10
-30. [08 版 -  本版责编：吴  燕  韩文榕  黄金玉](#item-finance-news-30) ⭐️ 0.0/10
-31. [09 版 -  在国际比较中把握全过程人民民主的实践特征与实践绩效（深入学习贯彻习近平新时代中国特色社会主义思想·《习近平谈治国理政》第一至五卷通读）](#item-finance-news-31) ⭐️ 0.0/10
-32. [17 版 -  本版责编：白  阳  强  薇](#item-finance-news-32) ⭐️ 0.0/10
-33. [Norwegians lay flowers at palace as King Harald&\#x27;s condition worsens](#item-finance-news-33) ⭐️ 0.0/10
-34. [Teacher guilty of indecent assaults against two pupils](#item-finance-news-34) ⭐️ 0.0/10
-35. [Diamond League: Zwei Hürden-Weltrekorde in nur 40 Minuten](#item-finance-news-35) ⭐️ 0.0/10
-36. [奥地利国民议会议长将于 8 月底访华](#item-finance-news-36) ⭐️ ?/10
-37. [Yielding on French Could Restart Trade Talks, Canadian Officials Say](#item-finance-news-37) ⭐️ ?/10
-38. [What could Meta’s US settlement mean around the world – and what now for other claims against firm?](#item-finance-news-38) ⭐️ ?/10
-39. [Teesside MPs call for more police help after Middlesbrough and A66 deaths](#item-finance-news-39) ⭐️ ?/10
-40. [Venezuela weighs OPEC exit after decades as it deepens U.S. ties](#item-finance-news-40) ⭐️ ?/10
-41. [Faster Tokyo inflation supports near-term BOJ rate hike case](#item-finance-news-41) ⭐️ ?/10
-42. [Nepal floods test 36-year-old PM with huge rebuilding challenge](#item-finance-news-42) ⭐️ ?/10
-43. [Japanese economic report cites need to closely monitor impact of natural disasters](#item-finance-news-43) ⭐️ ?/10
-44. [Japan to subsidize trips to quake-hit Kyushu region among other measures](#item-finance-news-44) ⭐️ ?/10
-45. [Daniela Cavallo: Diese VW-Frau ist kampferprobt](#item-finance-news-45) ⭐️ ?/10
+1. [Judge Once Again Bars Postal Service From Restricting Mail-In Vote](#item-finance-news-1) ⭐️ 9.0/10
+2. [Nepal und TIbet: Weiter Hunderte Vermisste nach verheerender Sturzflut](#item-finance-news-2) ⭐️ 9.0/10
+3. [F.A.Z. Podcast für Deutschland: „Wir werden angegriffen“- Kanada erklärt USA den Handelskrieg](#item-finance-news-3) ⭐️ 8.0/10
+4. [06 版 -  把“紧日子”过出“高效能”](#item-finance-news-4) ⭐️ 7.0/10
+5. [Trump Administration to Expand Deportation Flights to Haiti](#item-finance-news-5) ⭐️ 7.0/10
+6. [Energieversorgung: Kabinett beschließt Pläne zur Regulierung von Fernwärme](#item-finance-news-6) ⭐️ 6.0/10
+7. [03 版 -  王毅会见美国驻华大使庞德伟](#item-finance-news-7) ⭐️ 5.0/10
+8. [奥地利国民议会议长将于 8 月下旬访华](#item-finance-news-8) ⭐️ 5.0/10
+9. [04 版 -  7 月全国查处违反中央八项规定精神问题 27995 起](#item-finance-news-9) ⭐️ 5.0/10
+10. [09 版 -  推动人文经济高质量发展（专题深思）](#item-finance-news-10) ⭐️ 5.0/10
+11. [人民日报评论：延伸农业产业链带动农民增收](#item-finance-news-11) ⭐️ 5.0/10
+12. [中华全国总工会部署 2026 年防暑降温专项行动](#item-finance-news-12) ⭐️ 5.0/10
+13. [美国国债突破 40 万亿美元，政治反应平淡](#item-finance-news-13) ⭐️ 5.0/10
+14. [F.A.Z. Frühdenker: Nähert sich Island der Europäischen Union an?](#item-finance-news-14) ⭐️ 5.0/10
+15. [Rhein-Main-Feierabendbriefing: Rund 1000 neue Jobs bei Rheinmetall in Kassel](#item-finance-news-15) ⭐️ 5.0/10
+16. [中非人权研讨会在杭州举行](#item-finance-news-16) ⭐️ 3.0/10
+17. [进步派批评亲以色列民主党人执掌众议院中东小组委员会](#item-finance-news-17) ⭐️ 3.0/10
+18. [加拿大官员称法语问题或重启贸易谈判](#item-finance-news-18) ⭐️ 3.0/10
+19. [Tate brothers blast US jail conditions as they seek bail in UK extradition fight](#item-finance-news-19) ⭐️ 3.0/10
+20. [Identity of high-profile Queensland man drawn into extortion case to remain secret after court ruling](#item-finance-news-20) ⭐️ 3.0/10
+21. [法兰克福多功能体育馆规划推进，任命 Populous 为总设计师](#item-finance-news-21) ⭐️ 3.0/10
+22. [评论：基层违规发补助折射纪律意识淡薄](#item-finance-news-22) ⭐️ 2.0/10
+23. [19 版 -  大城市里，“小月饼”有了第二个家（大国小家）](#item-finance-news-23) ⭐️ 2.0/10
+24. [Grüne „Wahlkampfurlauber“: Sie reisen aus der gesamten Republik an, um vor der AfD zu warnen](#item-finance-news-24) ⭐️ 2.0/10
+25. [德国州议会选举民调概览](#item-finance-news-25) ⭐️ 2.0/10
+26. [19 版 -  本版责编：申少铁](#item-finance-news-26) ⭐️ 1.0/10
+27. [Trump Plans to Mark 9/11 at the Pentagon, Not Ground Zero](#item-finance-news-27) ⭐️ 1.0/10
+28. [RNC threatens legal action against New Jersey officials over noncitizens on voter rolls: &\#x27;On notice&\#x27;](#item-finance-news-28) ⭐️ 1.0/10
+29. [Serial rapist police officer passed vetting despite warnings, BBC reveals](#item-finance-news-29) ⭐️ 1.0/10
+30. [Officials urge calm after malaria outbreak kills two staff at Frankfurt airport](#item-finance-news-30) ⭐️ 1.0/10
+31. [无实质内容可报道](#item-finance-news-31) ⭐️ 0.0/10
+32. [18 版 -  本版责编：邓剑洋](#item-finance-news-32) ⭐️ 0.0/10
+33. [20 版 -  本版责编：任飞帆](#item-finance-news-33) ⭐️ 0.0/10
+34. [Tony Romo hit with several new citations after OWI arrest, further jeopardizing return to NFL broadcasts](#item-finance-news-34) ⭐️ 0.0/10
+35. [Mark Ruffalo accused of antisemitism by Hollywood insiders over Paramount merger remarks](#item-finance-news-35) ⭐️ 0.0/10
+36. [Have expensively assembled Rangers improved at all under &\#x27;mortified&\#x27; McInnes?](#item-finance-news-36) ⭐️ 0.0/10
+37. [Woman found guilty of indecent assault against two pupils at London boys’ school in 1980s](#item-finance-news-37) ⭐️ 0.0/10
+38. [Misstrauensvotum: Es ist wieder Höcke-Show](#item-finance-news-38) ⭐️ 0.0/10
+39. [Warum KETO-diät wirkt: „Man zwingt den Körper, auf die Fettreserven zuzugreifen“](#item-finance-news-39) ⭐️ 0.0/10
+40. [03 版 -  第 140 届广交会推介会在秘鲁举行](#item-finance-news-40) ⭐️ ?/10
+41. [04 版 -  “九五”普法从政策驱动向依法实施转变（权威发布）](#item-finance-news-41) ⭐️ ?/10
+42. [06 版 -  国家卫生健康委等强化对县级医院对口帮扶](#item-finance-news-42) ⭐️ ?/10
+43. [11 版 -  从“请进来”到“走出去”  51Talk 着力培育文化交流新使者](#item-finance-news-43) ⭐️ ?/10
+44. [伊尔汉·奥马尔之子公寓遭警方搜查](#item-finance-news-44) ⭐️ ?/10
+45. [NHS 管理层警告 ADHD 与自闭症护理面临混乱](#item-finance-news-45) ⭐️ ?/10
+46. [警方增援调查逆行撞车及火灾致死案](#item-finance-news-46) ⭐️ ?/10
+47. [Russia says UK ‘playing with fire’ amid reports CIA chief has warned Kremlin not to attack Nato](#item-finance-news-47) ⭐️ ?/10
+48. [英国首相宣布整顿“流氓法警”和“劣质建筑商”](#item-finance-news-48) ⭐️ ?/10
+49. [Is China’s ‘wise camel’ the winner from the US-Iran war?](#item-finance-news-49) ⭐️ ?/10
+50. [Toyota sales fall for six straight months on weak China demand](#item-finance-news-50) ⭐️ ?/10
+51. [Christian Lindner mahnt: Schuldenpolitik ist gleich doppelt unsozial](#item-finance-news-51) ⭐️ ?/10
+52. [Liveblog Ukrainekrieg: Trump: Bin nicht besorgt, dass Russland NATO-Staaten angreifen könnte](#item-finance-news-52) ⭐️ ?/10
 
 **科技新闻**
-1. [普林斯顿开发光可编程二维半导体](#item-tech-news-1) ⭐️ 9.0/10
-2. [澳大利亚团队开发尼龙 11 压电薄膜可稳定发电](#item-tech-news-2) ⭐️ 8.0/10
-3. [AI 可通过乳腺 X 光片检测女性心血管疾病](#item-tech-news-3) ⭐️ 8.0/10
-4. [Activation Oracles significantly underperform without a safe base model](#item-tech-news-4) ⭐️ 7.0/10
-5. [Trump administration illegally retaliated against Anthropic, judge rules](#item-tech-news-5) ⭐️ 7.0/10
-6. [China’s humanoid robots aren’t smart enough to take your job — yet](#item-tech-news-6) ⭐️ 6.0/10
-7. [Brain preservation as existential risk reduction](#item-tech-news-7) ⭐️ 5.0/10
-8. [Anthropic tests new way for Claude to work with robots and scientific lab tools](#item-tech-news-8) ⭐️ 5.0/10
-9. [Meta settlement opens new front in global fight over social media harm](#item-tech-news-9) ⭐️ 5.0/10
-10. [ollama/ollama released v0.33.2-rc1](#item-tech-news-10) ⭐️ 4.0/10
-11. [Three journalists sue Pentagon after being fired from military news outlet](#item-tech-news-11) ⭐️ 4.0/10
-12. [China bets on exports of cheap 3D-printed drone killers](#item-tech-news-12) ⭐️ 4.0/10
-13. [Use of Nowcasting to Estimate Real-Time Transmission Trends During a Measles Outbreak - South Carolina, October 2025-March 2026](#item-tech-news-13) ⭐️ 3.0/10
-14. [AI Safety in Japan has deeper problems than capital allocation](#item-tech-news-14) ⭐️ 3.0/10
-15. [Incomplete alignment to servitude isn&\#x27;t inherently lethal](#item-tech-news-15) ⭐️ 3.0/10
-16. [06 版 -  国家卫生健康委等强化对县级医院对口帮扶](#item-tech-news-16) ⭐️ 3.0/10
-17. [Greens call for temporary ban on new data centres](#item-tech-news-17) ⭐️ 3.0/10
-18. [US corporate profits surge to record as worker payouts wilt](#item-tech-news-18) ⭐️ 3.0/10
-19. [Canada poaches 48 top US-based academics](#item-tech-news-19) ⭐️ 3.0/10
-20. [Saudi Arabia shakes up flagship real estate project](#item-tech-news-20) ⭐️ 3.0/10
-21. [Black Box: The Chatbots: a new series from The Guardian Investigates – trailer](#item-tech-news-21) ⭐️ 3.0/10
-22. [Three UK airports hit by cyber-attack with data of 8.7m customers accessed](#item-tech-news-22) ⭐️ 3.0/10
-23. [AI-proof? Younger workers desert the digital world for traditional crafts](#item-tech-news-23) ⭐️ 3.0/10
-24. [Corals show how El Nino is intensifying as the planet warms](#item-tech-news-24) ⭐️ 3.0/10
-25. [Glacier collapse behind Nepal flood highlights region’s climate risk](#item-tech-news-25) ⭐️ 3.0/10
-26. [‘Numakage Public Pool’ documents the demise of a third space](#item-tech-news-26) ⭐️ 3.0/10
-27. [Zwei Jahre mit Fenix 8: Gut gelaufen?](#item-tech-news-27) ⭐️ 3.0/10
-28. [Erneuerbare Energien: Solare Landschaften](#item-tech-news-28) ⭐️ 3.0/10
-29. [08 版 -  能源的饭碗必须端在自己手里（高质量发展故事汇·第 22 期）](#item-tech-news-29) ⭐️ 2.0/10
-30. [15 版 -  研究：气候变化或致欧洲野火过火面积激增](#item-tech-news-30) ⭐️ 2.0/10
-31. [15 版 -  征  集](#item-tech-news-31) ⭐️ 2.0/10
-32. [Progressives Condemn Pick of Pro-Israel Democrat Atop House Panel](#item-tech-news-32) ⭐️ 2.0/10
-33. [‘Intrinsic Capacity’: The Most Important Longevity Term You’ve Never Heard Of](#item-tech-news-33) ⭐️ 2.0/10
-34. [DHS hits back at James Talarico after Democrat claims ICE &\#x27;kidnapped&\#x27; 5-year-old boy deported with father](#item-tech-news-34) ⭐️ 2.0/10
-35. [Teens accused of destroying Flock camera until battery exploded, igniting fire near homes: report](#item-tech-news-35) ⭐️ 2.0/10
-36. [Climate crisis could be destabilising mountain areas like Nepal, experts warn](#item-tech-news-36) ⭐️ 2.0/10
-37. [Seven charged with damaging Trump’s Scottish golf course accused of ‘terrorist connection’](#item-tech-news-37) ⭐️ 2.0/10
-38. [‘No precedent’: Lorde and Little Simz to star at world-first festival run on clean power](#item-tech-news-38) ⭐️ 2.0/10
-39. [Is China’s ‘wise camel’ the winner from the US-Iran war?](#item-tech-news-39) ⭐️ 2.0/10
-40. [Zero-interest convertible bonds set for record year](#item-tech-news-40) ⭐️ 2.0/10
-41. [UK expects Meta to match US child safety measures after $18bn settlement](#item-tech-news-41) ⭐️ 2.0/10
-42. [Hormuz oil flows rising as Gulf giants’ ramp-up gathers pace](#item-tech-news-42) ⭐️ 2.0/10
-43. [Trump fans Canada spat by renaming Lake Ontario as Lake America](#item-tech-news-43) ⭐️ 2.0/10
-44. [meta-Vergleich: Die Geduld mit Big Tech schwindet](#item-tech-news-44) ⭐️ 2.0/10
-45. [RWE-Chef Krebber: „Der Strom wird weltweit nicht billiger“](#item-tech-news-45) ⭐️ 2.0/10
-46. [03 版 -  推动构建更加公正合理的全球治理体系](#item-tech-news-46) ⭐️ 1.0/10
-47. [03 版 -  贡献上合智慧  推进中吉友好（大使随笔）](#item-tech-news-47) ⭐️ 1.0/10
-48. [03 版 -  王毅会见美国驻华大使庞德伟](#item-tech-news-48) ⭐️ 1.0/10
-49. [04 版 -  高位冰崩如何演变为泥石流](#item-tech-news-49) ⭐️ 1.0/10
-50. [04 版 -  守护红色根脉  凝聚发展动能（牢记初心使命  奋进复兴征程）](#item-tech-news-50) ⭐️ 1.0/10
-51. [07 版 -  重庆南川：立足生态资源禀赋  丰富夜间消费场景](#item-tech-news-51) ⭐️ 1.0/10
-52. [15 版 -  全球过敏患者为何越来越多（国际科技前沿）](#item-tech-news-52) ⭐️ 1.0/10
-53. [Trump Plans to Mark 9/11 at the Pentagon, Not Ground Zero](#item-tech-news-53) ⭐️ 1.0/10
-54. [Trump Administration to Expand Deportation Flights to Haiti](#item-tech-news-54) ⭐️ 1.0/10
-55. [Rescuers Search Himalayan Valleys After Devastating Flood](#item-tech-news-55) ⭐️ 1.0/10
-56. [C.I.A. Chief Delivered Bleak Assessment of Russia’s War in Secretive Moscow Visit](#item-tech-news-56) ⭐️ 1.0/10
-57. [Wall Street Loved Scott Bessent and Kevin Warsh. Not Anymore.](#item-tech-news-57) ⭐️ 1.0/10
-58. [Climber Stranded for Hours on 6-Inch Rock Ledge Before Rescue](#item-tech-news-58) ⭐️ 1.0/10
-59. [Peter Cullen, who voiced Optimus Prime in Transformers, dies at 85](#item-tech-news-59) ⭐️ 1.0/10
-60. [Maine meteorologist suffers giggle attack on live TV after prank backfires spectacularly](#item-tech-news-60) ⭐️ 1.0/10
-61. [Dodgers owner Mark Walter denies reports, says team payroll is supported by revenue: &\#x27;There has been no fraud&\#x27;](#item-tech-news-61) ⭐️ 1.0/10
-62. [WATCH:  Yayoi Kusama, &\#x27;Friends&\#x27; reunion, Busy Phillips: Here&\#x27;s what&\#x27;s trending](#item-tech-news-62) ⭐️ 1.0/10
-63. [What we know after the big Grand Theft Auto 6 preview](#item-tech-news-63) ⭐️ 1.0/10
-64. [Former British-Israeli Hamas hostage married in Tel Aviv](#item-tech-news-64) ⭐️ 1.0/10
-65. [Watch: How the collapse of a glacier caused such devastation](#item-tech-news-65) ⭐️ 1.0/10
-66. [Allan Little: I met dangerously fanatical Mladić early in Bosnian war](#item-tech-news-66) ⭐️ 1.0/10
-67. [Blake Lively awarded $400,000 of $8m she claimed for legal fees in Baldoni battle](#item-tech-news-67) ⭐️ 1.0/10
-68. [&\#x27;Mortified&\#x27; McInnes takes responsibility for Rangers&\#x27; European exit](#item-tech-news-68) ⭐️ 1.0/10
-69. [Man City and Aston Villa to face holders PSG in Champions League](#item-tech-news-69) ⭐️ 1.0/10
-70. [Smith &amp; Cox help England to 248-9 on truncated day one](#item-tech-news-70) ⭐️ 1.0/10
-71. [Trump signs executive order to rename Lake Ontario as Lake America](#item-tech-news-71) ⭐️ 1.0/10
-72. [Identity of high-profile Queensland man drawn into extortion case to remain secret after court ruling](#item-tech-news-72) ⭐️ 1.0/10
-73. [Greek Orthodox priest and cult musician clarifies views on homosexuality](#item-tech-news-73) ⭐️ 1.0/10
-74. [Officials urge calm after malaria outbreak kills two staff at Frankfurt airport](#item-tech-news-74) ⭐️ 1.0/10
-75. [Warning of fresh danger from rising lake water in Nepal – as it happened](#item-tech-news-75) ⭐️ 1.0/10
-76. [The devastating forces behind the deadly Himalayan flood](#item-tech-news-76) ⭐️ 1.0/10
-77. [Trump orders Lake Ontario to be renamed ‘Lake America’ in new slight to Canada](#item-tech-news-77) ⭐️ 1.0/10
-78. [Ex-Barclays boss denies having sex with woman dressed as Snow White after Epstein emails](#item-tech-news-78) ⭐️ 1.0/10
-79. [‘Sad moments ahead’: Kew Gardens to fell rare trees in race to save Victorian greenhouse](#item-tech-news-79) ⭐️ 1.0/10
-80. [BBC to bring back Top Gear amid speculation about show’s next presenters](#item-tech-news-80) ⭐️ 1.0/10
-81. [Bosnian Serb war criminal Ratko Mladic dies in hospital](#item-tech-news-81) ⭐️ 1.0/10
-82. [Real Madrid coach Jose Mourinho seeking more than goals from superstar Kylian Mbappe](#item-tech-news-82) ⭐️ 1.0/10
-83. [Märkte immer unruhiger: Gefahrenherd Frankreich](#item-tech-news-83) ⭐️ 1.0/10
-84. [Besser Schlafen: Vergesst die Acht-Stunden-Regel](#item-tech-news-84) ⭐️ 1.0/10
-85. [Fußball-Transferticker: Leon Goretzka wechselt in die Premier League](#item-tech-news-85) ⭐️ 1.0/10
-86. [Germanwings-Katastrophe: Die Angehörigen verlangen endlich Aufklärung](#item-tech-news-86) ⭐️ 1.0/10
-87. [Klimaanpassung: Minister Schneider muss klein beigeben](#item-tech-news-87) ⭐️ 1.0/10
-88. [Lake America Statt Ontario?: Trumps liebste Drohung: Ein neuer Name](#item-tech-news-88) ⭐️ 1.0/10
-89. [Eilantrag gescheitert: Formfehler bewahrt Kunden vor Stromsperre](#item-tech-news-89) ⭐️ 1.0/10
-90. [Genesis GV90: Klotzen mit Sesam](#item-tech-news-90) ⭐️ 1.0/10
-91. [F.A.Z. exklusiv: Deutschland droht erstmals Klimaziel zu verfehlen](#item-tech-news-91) ⭐️ 1.0/10
-92. [Hitzeschutz: Warum Klimaanlagen in Altenheimen noch die Ausnahme sind](#item-tech-news-92) ⭐️ 1.0/10
-93. [Референдум по инициативе &quot;О нейтралитете&quot; 27 сентября в Швейцарии может отменить](#item-tech-news-93) ⭐️ 1.0/10
-94. [Группа из 15 японских студентов посетила Санкт-Петербург 12-20 августа в рамках ](#item-tech-news-94) ⭐️ 1.0/10
-95. [РФ не конкурирует с держателями привычных маршрутов и их выгодоприобретателями —](#item-tech-news-95) ⭐️ 1.0/10
-96. [Главком ВМС Великобритании высоко оценил мощь подводного флота России.](#item-tech-news-96) ⭐️ 1.0/10
-97. [03 版 -  外交部：中方正同尼方密切沟通  共同做好搜救工作](#item-tech-news-97) ⭐️ 0.0/10
-98. [03 版 -  第 140 届广交会推介会在秘鲁举行](#item-tech-news-98) ⭐️ 0.0/10
-99. [04 版 -  受灾群众转移安置工作有序开展](#item-tech-news-99) ⭐️ 0.0/10
-100. [06 版 -  本版责编：康  岩  刘涓溪  王  博](#item-tech-news-100) ⭐️ 0.0/10
-101. [07 版 -  坚守初心正道  勇担时代使命](#item-tech-news-101) ⭐️ 0.0/10
-102. [07 版 -  安徽下好创新先手棋（活力中国调研行）](#item-tech-news-102) ⭐️ 0.0/10
-103. [07 版 -  “九五”普法从政策驱动向依法实施转变（权威发布）](#item-tech-news-103) ⭐️ 0.0/10
-104. [09 版 -  推动人文经济高质量发展（专题深思）](#item-tech-news-104) ⭐️ 0.0/10
-105. [10 版 -  车站有清凉  城市有温暖（编辑手记）](#item-tech-news-105) ⭐️ 0.0/10
-106. [14 版 -  讲好丝路故事  传承丝路精神](#item-tech-news-106) ⭐️ 0.0/10
-107. [14 版 -  本版责编：纪雅林  卢  涛  翟钦奇](#item-tech-news-107) ⭐️ 0.0/10
-108. [18 版 -  长白山下，有种像苹果的梨（三餐四季）](#item-tech-news-108) ⭐️ 0.0/10
-109. [18 版 -  “烘焙村”里糕饼香（美丽乡村我的家）](#item-tech-news-109) ⭐️ 0.0/10
-110. [20 版 -  本版责编：任飞帆](#item-tech-news-110) ⭐️ 0.0/10
-111. [In Trump’s Washington, Ballooning National Debt Stirs Little Action](#item-tech-news-111) ⭐️ 0.0/10
-112. [Survivors of Nepal Flood Left in Stunned Disbelief: ‘They All Died, and I Lived’](#item-tech-news-112) ⭐️ 0.0/10
-113. [Judge Says Trump’s Name Should Stay Off Kennedy Center for Now](#item-tech-news-113) ⭐️ 0.0/10
-114. [There Is a Sickness Worse Than Wokeness](#item-tech-news-114) ⭐️ 0.0/10
-115. [Tropical Storm Dolly tracker: Map and projected storm path](#item-tech-news-115) ⭐️ 0.0/10
-116. [California authorities identify final unknown victim of ‘Happy Face Killer’ Keith Jesperson after 34 years](#item-tech-news-116) ⭐️ 0.0/10
-117. [Old Al Michaels stumbles through awkward Lake America-Trump jab during Thursday Night Football broadcast](#item-tech-news-117) ⭐️ 0.0/10
-118. [Broncos coach Sean Payton buries Geoff Schwartz after analyst butchers Bo Nix&\#x27;s downfield game](#item-tech-news-118) ⭐️ 0.0/10
-119. [Megan Rapinoe mocks Enes Kanter Freedom&\#x27;s &\#x27;protect women&\#x27; comments, calls him &\#x27;bad-faith actor&\#x27;](#item-tech-news-119) ⭐️ 0.0/10
-120. [73-year-old camper vanishes off the grid before his RV turns up in wilderness](#item-tech-news-120) ⭐️ 0.0/10
-121. [Predicting each Power 4 conference champion ahead of the 2026 college football season](#item-tech-news-121) ⭐️ 0.0/10
-122. [Abbott taunts far-left AG with fiery warning over ICE extradition fight: &\#x27;Such bad lawyers&\#x27;](#item-tech-news-122) ⭐️ 0.0/10
-123. [DOJ says no action to add Trump&\#x27;s name to Kennedy Center before October](#item-tech-news-123) ⭐️ 0.0/10
-124. [FAA looking to fire air traffic controllers after deadly March collision: Sources](#item-tech-news-124) ⭐️ 0.0/10
-125. [Tropical Storm Dolly forms in the Atlantic](#item-tech-news-125) ⭐️ 0.0/10
-126. [WATCH:  Inside the largest private collection of Dolly Parton memorabilia](#item-tech-news-126) ⭐️ 0.0/10
-127. [WATCH:  Author discusses how to escape living paycheck-to-paycheck](#item-tech-news-127) ⭐️ 0.0/10
-128. [Bank holiday weekend to see more thunderstorms and rain](#item-tech-news-128) ⭐️ 0.0/10
-129. [What we know so far](#item-tech-news-129) ⭐️ 0.0/10
-130. [&\#x27;My family members were swept away&\#x27;: Survivors describe horror](#item-tech-news-130) ⭐️ 0.0/10
-131. [Tate brothers blast US jail conditions as they seek bail in UK extradition fight](#item-tech-news-131) ⭐️ 0.0/10
-132. [Uefa preparing criminal legal action against Infantino](#item-tech-news-132) ⭐️ 0.0/10
-133. [Sports Direct founder Mike Ashley attacks Burnham&\#x27;s &\#x27;populist&\#x27; High Street plans](#item-tech-news-133) ⭐️ 0.0/10
-134. [Chelsea agree £7.5m fee for Villa&\#x27;s Martinez](#item-tech-news-134) ⭐️ 0.0/10
-135. [Werro edges closer to 800m mark as world records fall in Zurich](#item-tech-news-135) ⭐️ 0.0/10
-136. [‘Confluence of errors’ led to Belgian tourist Celine Cremer’s death in Tasmanian wilderness, coroner finds](#item-tech-news-136) ⭐️ 0.0/10
-137. [前 AFL 球星尼基·温马因暴力袭击被判六个月监禁](#item-tech-news-137) ⭐️ 0.0/10
-138. [‘We just want them to return’: relatives of Australians missing in Nepal floods wait anxiously for news of loved ones](#item-tech-news-138) ⭐️ 0.0/10
-139. [波斯尼亚塞族指挥官姆拉迪奇在狱中去世](#item-tech-news-139) ⭐️ 0.0/10
-140. [西班牙博物馆四分钟内被盗青铜时代宝藏](#item-tech-news-140) ⭐️ 0.0/10
-141. [民主党议员调查特朗普之子投资的私募公司业绩](#item-tech-news-141) ⭐️ 0.0/10
-142. [Woman found guilty of indecent assault against two pupils at London boys’ school in 1980s](#item-tech-news-142) ⭐️ 0.0/10
-143. [Birmingham seeks injunction to stop anti-migrant group erecting flags on infrastructure](#item-tech-news-143) ⭐️ 0.0/10
-144. [‘I Don’t Know You’: A provocative, humanist drama with no easy answers](#item-tech-news-144) ⭐️ 0.0/10
-145. [Heavy rain ongoing in Toyama and Ishikawa prefectures as warnings downgraded](#item-tech-news-145) ⭐️ 0.0/10
-146. [Takaichi begins meeting with LDP executives ahead of expected Cabinet reshuffle](#item-tech-news-146) ⭐️ 0.0/10
-147. [Zuckersteuer: Steuerpolitik Zero](#item-tech-news-147) ⭐️ 0.0/10
-148. [Auslosung der Ligaphase: Das sind die Gegner der deutschen Teams in der Champions League](#item-tech-news-148) ⭐️ 0.0/10
-149. [Liveblog Ukrainekrieg: Trump: Bin nicht besorgt, dass Russland NATO-Staaten angreifen könnte](#item-tech-news-149) ⭐️ 0.0/10
-150. [Hanks welt: Macht Hitze arm?](#item-tech-news-150) ⭐️ 0.0/10
-151. [Neue Mehrheit: CDU wieder in Frankfurter Stadtspitze](#item-tech-news-151) ⭐️ 0.0/10
-152. [О том, как дольщику сохранить деньги при банкротстве застройщика, рассказал ТАСС](#item-tech-news-152) ⭐️ 0.0/10
-153. [🚨 При атаке ВСУ на жилой дом в Севастополе пострадали два человека, еще двое пол](#item-tech-news-153) ⭐️ 0.0/10
-154. [Минпросвещения дало рекомендации по проведению линейки 1 сентября в школах, след](#item-tech-news-154) ⭐️ 0.0/10
-155. [Одновременные визиты в Москву руководителя ЦРУ и главы дипломатии Ватикана означ](#item-tech-news-155) ⭐️ 0.0/10
-156. [Tasmania, Australia.](#item-tech-news-156) ⭐️ 0.0/10
-157. [Lugard Road Lookout at Victoria Peak.](#item-tech-news-157) ⭐️ 0.0/10
-158. [Kapasbiru Waterfall, Indonesia.](#item-tech-news-158) ⭐️ 0.0/10
-159. [土耳其科伊切吉兹地点标签](#item-tech-news-159) ⭐️ 0.0/10
-160. [The Jashak Salt Dome is a geological formation located in southwestern Iran.](#item-tech-news-160) ⭐️ 0.0/10
-161. [Wonders of Bali.](#item-tech-news-161) ⭐️ 0.0/10
-162. [欧洲中部风景如画的杜纳耶茨河](#item-tech-news-162) ⭐️ 0.0/10
-163. [Incredible underwater world.](#item-tech-news-163) ⭐️ 0.0/10
-164. [Daniel Kokotajlo 提出 AI 2040 年发展计划](#item-tech-news-164) ⭐️ ?/10
-165. [《习近平文化文选》第一卷、第二卷出版发行](#item-tech-news-165) ⭐️ ?/10
-166. [中国发布全球治理倡议一年进展综述](#item-tech-news-166) ⭐️ ?/10
-167. [十四届全国人大常委会举行第七十二次委员长会议](#item-tech-news-167) ⭐️ ?/10
-168. [人民日报：中国车市重构新逻辑，智能时代供给与消费全面升级](#item-tech-news-168) ⭐️ ?/10
-169. [安徽以科技创新推动高质量发展](#item-tech-news-169) ⭐️ ?/10
-170. [01 版 -  吉隆泥石流灾区道路已抢通 800 米](#item-tech-news-170) ⭐️ ?/10
-171. [01 版 -  导读](#item-tech-news-171) ⭐️ ?/10
-172. [02 版 -  《习近平文化文选》第一卷、第二卷主要篇目介绍](#item-tech-news-172) ⭐️ ?/10
-173. [03 版 -  中吉务实合作驶入快车道](#item-tech-news-173) ⭐️ ?/10
-174. [中共中央国务院转发“九五”普法规划，普法向依法实施转变](#item-tech-news-174) ⭐️ ?/10
-175. [人民日报 2026 年 8 月 28 日版面责编名单](#item-tech-news-175) ⭐️ ?/10
-176. [05 版 -  以学习跑赢时光、赢得荣光（中国道路中国梦）](#item-tech-news-176) ⭐️ ?/10
-177. [云南泸沽湖游客互拍意外重逢失联 70 多年亲人](#item-tech-news-177) ⭐️ ?/10
-178. [05 版 -  智能时代如何打好底子（金台随笔）](#item-tech-news-178) ⭐️ ?/10
-179. [05 版 -  图片报道](#item-tech-news-179) ⭐️ ?/10
-180. [05 版 -  警惕“小口子”越撕越大（纵横）](#item-tech-news-180) ⭐️ ?/10
-181. [05 版 -  携手向前，成就中国创造（人民时评）](#item-tech-news-181) ⭐️ ?/10
-182. [05 版 -  欢迎赐稿](#item-tech-news-182) ⭐️ ?/10
-183. [05 版 -  本版责编：李  拯  何  娟  孟繁哲](#item-tech-news-183) ⭐️ ?/10
-184. [06 版 -  十四届全国人大常委会第二十四次会议审议多部报告和法律草案](#item-tech-news-184) ⭐️ ?/10
-185. [06 版 -  把“紧日子”过出“高效能”](#item-tech-news-185) ⭐️ ?/10
-186. [06 版 -  认识当下的国内汽车市场，重构汽车市场新逻辑](#item-tech-news-186) ⭐️ ?/10
-187. [09 版 -  为强国建设培养更多“会创造的人”（有的放矢）](#item-tech-news-187) ⭐️ ?/10
-188. [10 版 -  “学校练的和企业要的是同一套东西”\(稳就业·暖心故事\)](#item-tech-news-188) ⭐️ ?/10
-189. [市场监管总局发布陪诊服务国家标准](#item-tech-news-189) ⭐️ ?/10
-190. [10 版 -  城市书房赋能全民阅读](#item-tech-news-190) ⭐️ ?/10
-191. [第四十七届世界葡萄与葡萄酒大会将于 10 月在银川举办](#item-tech-news-191) ⭐️ ?/10
-192. [人民日报 2026 年 8 月 28 日第十版编辑信息](#item-tech-news-192) ⭐️ ?/10
-193. [贵州“村超”全国赛扩至 105 支队伍并建立县域产业联盟](#item-tech-news-193) ⭐️ ?/10
-194. [11 版 -  那只中国体育的“报春燕”飞走了](#item-tech-news-194) ⭐️ ?/10
-195. [11 版 -  赵心童即时排名升至世界第一](#item-tech-news-195) ⭐️ ?/10
-196. [11 版 -  从“请进来”到“走出去”  51Talk 着力培育文化交流新使者](#item-tech-news-196) ⭐️ ?/10
-197. [11 版 -  本版责编：巩育华  史  哲  曹继炜](#item-tech-news-197) ⭐️ ?/10
-198. [12 版 -  贵州  做强做优数字经济  数智赋能高质量发展](#item-tech-news-198) ⭐️ ?/10
-199. [13 版 -  家庭医生签约服务，何以提升感受度（人民眼·健康中国）](#item-tech-news-199) ⭐️ ?/10
-200. [13 版 -  当好“健康守门人”（有所思）](#item-tech-news-200) ⭐️ ?/10
-201. [人民日报 2026 年 8 月 28 日第 13 版编辑信息](#item-tech-news-201) ⭐️ ?/10
-202. [人民日报报道乡村产业从“头”到“尾”的致富路径](#item-tech-news-202) ⭐️ ?/10
-203. [18 版 -  本版责编：邓剑洋](#item-tech-news-203) ⭐️ ?/10
-204. [中华全国总工会部署 2026 年工会送清凉行动](#item-tech-news-204) ⭐️ ?/10
-205. [上海首个骑手友好社区两年：袋鼠宝贝之家与暖新驿站惠及新就业群体](#item-tech-news-205) ⭐️ ?/10
-206. [19 版 -  从癌症患者到抗癌志愿者（枝叶关情）](#item-tech-news-206) ⭐️ ?/10
-207. [19 版 -  本版责编：申少铁](#item-tech-news-207) ⭐️ ?/10
-208. [20 版 -  科技新词，如何在汉语中“安家”（读书有味）](#item-tech-news-208) ⭐️ ?/10
-209. [20 版 -  永葆“赶考”的清醒和坚定](#item-tech-news-209) ⭐️ ?/10
-210. [20 版 -  科学减重有章可循（序与跋）](#item-tech-news-210) ⭐️ ?/10
-211. [20 版 -  道德进步不是天真的幻想](#item-tech-news-211) ⭐️ ?/10
-212. [20 版 -  一封写给棉花的信](#item-tech-news-212) ⭐️ ?/10
-213. [Canada Hires U.S. Scholars From Harvard and Other Top Universities](#item-tech-news-213) ⭐️ ?/10
-214. [How SSENSE, a Canadian Retailer, Is Grappling With Trump’s Tariffs](#item-tech-news-214) ⭐️ ?/10
-215. [Inside the Iceland Eclipse Festival: $1,000-a-Week Yurts and Endless Optimism](#item-tech-news-215) ⭐️ ?/10
-216. [Near-Total Lunar Eclipse Will Turn Moon Blood Red](#item-tech-news-216) ⭐️ ?/10
-217. [In ‘9 to 5,’ Dolly Parton Put a Friendly Face on Feminism](#item-tech-news-217) ⭐️ ?/10
-218. [Fans Push to Rename Nashville Airport for Dolly Parton](#item-tech-news-218) ⭐️ ?/10
-219. [On Night of Deadly Air Canada Crash, Two LaGuardia Controllers Left Early](#item-tech-news-219) ⭐️ ?/10
-220. [Gwyneth Paltrow’s Hamptons Dinner for Sam Altman Postponed](#item-tech-news-220) ⭐️ ?/10
-221. [CNN 播出多莉·帕顿替身照片后道歉](#item-tech-news-221) ⭐️ ?/10
-222. [Prosecutor says he has portion of Josh Jacobs&\#x27; domestic incident with ex-girlfriend on video](#item-tech-news-222) ⭐️ ?/10
-223. [Mark Ruffalo accused of antisemitism by Hollywood insiders over Paramount merger remarks](#item-tech-news-223) ⭐️ ?/10
-224. [弗吉尼亚州三非法移民涉儿童剥削案保释释放](#item-tech-news-224) ⭐️ ?/10
-225. [RNC threatens legal action against New Jersey officials over noncitizens on voter rolls: &\#x27;On notice&\#x27;](#item-tech-news-225) ⭐️ ?/10
-226. [Huge Knicks fan Kylie Jenner talks courtside fits &amp; desire to become even bigger fan with enhanced implants](#item-tech-news-226) ⭐️ ?/10
-227. [Social media erupts after cops reportedly raid home of Ilhan Omar&\#x27;s son: &\#x27;Not a good look&\#x27;](#item-tech-news-227) ⭐️ ?/10
-228. [Russia threatens strikes on UK military targets, ‘catastrophic consequences’ over Ukraine](#item-tech-news-228) ⭐️ ?/10
-229. [Trump admin urges returning education to states, citing $3 trillion of taxes spent and poor proficiency scores](#item-tech-news-229) ⭐️ ?/10
-230. [Gov Shapiro sues Trump administration over ‘lifesaving reproductive care’ in escalating abortion battle](#item-tech-news-230) ⭐️ ?/10
-231. [Team USA hero Connor Hellebuyck confirms that he requested a trade from the Winnipeg Jets](#item-tech-news-231) ⭐️ ?/10
-232. [WATCH:  Kinley Rasmus ends record-setting run at the Little League World Series](#item-tech-news-232) ⭐️ ?/10
-233. [WATCH:  Kitten gets tiny hard hat after rescue from excavator](#item-tech-news-233) ⭐️ ?/10
-234. [WATCH:  Seattle Storm makes 1 girl&\#x27;s dream become a reality](#item-tech-news-234) ⭐️ ?/10
-235. [WATCH:  Flight evacuated after 2 tires blew while taxiing for takeoff](#item-tech-news-235) ⭐️ ?/10
-236. [Business](#item-tech-news-236) ⭐️ ?/10
-237. [Cartoon: America and Canada stand on the brink of a trade war](#item-tech-news-237) ⭐️ ?/10
-238. [Politics](#item-tech-news-238) ⭐️ ?/10
-239. [Watch: Tracing the deadly path of the Nepal-Tibet flash flood](#item-tech-news-239) ⭐️ ?/10
-240. [克利夫兰警方调派 200 名警力支援车祸火灾调查](#item-tech-news-240) ⭐️ ?/10
-241. [Clean-up of illegal waste supersite costs taxpayers £6m](#item-tech-news-241) ⭐️ ?/10
-242. [NHS bosses warn of chaos in ADHD and autism care](#item-tech-news-242) ⭐️ ?/10
-243. [Jacob Elordi on why The Dog Stars had him asking &\#x27;What am I missing&\#x27; in life?](#item-tech-news-243) ⭐️ ?/10
-244. [I was spending £700 a month: How I beat my late-night shopping addiction](#item-tech-news-244) ⭐️ ?/10
-245. [The Papers: &\#x27;Town gripped by fear&\#x27; and &\#x27;Nepal death toll climbs&\#x27;](#item-tech-news-245) ⭐️ ?/10
-246. [Weekly quiz: Who is taking over as Gilderoy Lockhart in HBO&\#x27;s Harry Potter series?](#item-tech-news-246) ⭐️ ?/10
-247. [Rohingya refugees face fierce new wave of hostility in Malaysia](#item-tech-news-247) ⭐️ ?/10
-248. [&\#x27;Cowboy builders&\#x27; targeted in new government clampdown](#item-tech-news-248) ⭐️ ?/10
-249. [Nepal-Tibet flash flood live updates: death toll rises to 469, police say; debris-clogged river at risk of flooding again](#item-tech-news-249) ⭐️ ?/10
-250. [South Korea to re-examine 310,000 missing person cases after fake record scandal](#item-tech-news-250) ⭐️ ?/10
-251. [USS Abraham Lincoln to visit port in Thailand after more than 250 days at sea](#item-tech-news-251) ⭐️ ?/10
-252. [Australia news live: Antarctic staff to withdraw from Macquarie Island amid bird flu risk; Virgin’s profit rises despite US-Iran war](#item-tech-news-252) ⭐️ ?/10
-253. [Race to get aid into Nepal and Tibet amid warnings flood lake could burst](#item-tech-news-253) ⭐️ ?/10
-254. [Search is on for at least 33 Britons missing after flash floods in Nepal and Tibet](#item-tech-news-254) ⭐️ ?/10
-255. [‘Nature thrives when given a chance’: restored Cheshire wetland now a haven for rare grebe](#item-tech-news-255) ⭐️ ?/10
-256. [Burnham announces crackdown on rogue bailiffs and ‘cowboy builders’](#item-tech-news-256) ⭐️ ?/10
-257. [Burnham accused of U-turn after initially backing political donations cap to fall below £500k](#item-tech-news-257) ⭐️ ?/10
-258. [Federal judge again halts Trump’s executive order limiting mail voting in midterms](#item-tech-news-258) ⭐️ ?/10
-259. [特朗普暂停部分进口牛肉关税并助选得州参议员](#item-tech-news-259) ⭐️ ?/10
-260. [FDA 批准针对 XFG 变异株的更新版新冠疫苗](#item-tech-news-260) ⭐️ ?/10
-261. [Wild swimming linked to higher risk of stomach bugs and skin rashes](#item-tech-news-261) ⭐️ ?/10
-262. [地方治理者应主导新建水库建设](#item-tech-news-262) ⭐️ ?/10
-263. [Qatar steps in to mediate as Trump says U.S. not talking to Iran](#item-tech-news-263) ⭐️ ?/10
-264. [Cuba readies to kick off school year despite scant supplies](#item-tech-news-264) ⭐️ ?/10
-265. [Japan to survey animal cafes over hygiene and welfare concerns](#item-tech-news-265) ⭐️ ?/10
-266. [Jets star Connor Hellebuyck goes public with trade request](#item-tech-news-266) ⭐️ ?/10
-267. [U.N. urges child-safe design across social media, after Meta settlement](#item-tech-news-267) ⭐️ ?/10
-268. [Sloppy Springboks look to clean up mistakes in second test against New Zealand](#item-tech-news-268) ⭐️ ?/10
-269. [No ties reset until Japan revises Taiwan position, Chinese official tells delegation](#item-tech-news-269) ⭐️ ?/10
-270. [Court Approves Rehabilitation Proceedings for JTBC](#item-tech-news-270) ⭐️ ?/10
-271. [Consortiums Led by SKT, KT, Kakao Selected to Build Public AI Service](#item-tech-news-271) ⭐️ ?/10
-272. [Gas, Diesel Prices Drop Again Friday](#item-tech-news-272) ⭐️ ?/10
-273. [S. Korea, US, Japan to Conduct ‘Freedom Edge’ Multidomain Exercise Next Month](#item-tech-news-273) ⭐️ ?/10
-274. [朝鲜完成元山-Kalma 旅游开发区火车站](#item-tech-news-274) ⭐️ ?/10
-275. [Rapid Response Team in Nepal to Support Search for 9 Missing S. Koreans](#item-tech-news-275) ⭐️ ?/10
-276. [KOSPI Opens Down 0.95% Friday](#item-tech-news-276) ⭐️ ?/10
-277. [济州岛海域放生 11 只海龟](#item-tech-news-277) ⭐️ ?/10
-278. [韩国游客十人在尼泊尔洪灾中获救，撤离尚需时日](#item-tech-news-278) ⭐️ ?/10
-279. [FM Seeks Nepal’s Help in Search for S. Koreans](#item-tech-news-279) ⭐️ ?/10
-280. [9 of 10 Stranded S. Koreans Rescued from Nepal Flood Zone](#item-tech-news-280) ⭐️ ?/10
-281. [Rain Forecast Nationwide Friday as Heat Persists](#item-tech-news-281) ⭐️ ?/10
-282. [Top Court: Lack of Birth Registration Rules for Foreigners Born in S. Korea Unconstitutional](#item-tech-news-282) ⭐️ ?/10
-283. [Foreign Minister: S. Korea Might Send More Rescue Teams to Nepal](#item-tech-news-283) ⭐️ ?/10
-284. [Lee Calls for All-Out Efforts to Rescue S. Koreans Missing in Nepal Floods](#item-tech-news-284) ⭐️ ?/10
-285. [Ex-Special Forces Commander Gets 12 Years in Prison for Role in 2024 Martial Law Incident](#item-tech-news-285) ⭐️ ?/10
-286. [Jeju Police Chief Can’t Understand Why Officer Prematurely Closed Missing Persons Case](#item-tech-news-286) ⭐️ ?/10
-287. [KOSPI Up 1.53% Thusday](#item-tech-news-287) ⭐️ ?/10
-288. [Q2 Household Income Rises 4.5% on Higher Wage, Transfer Income](#item-tech-news-288) ⭐️ ?/10
-289. [BOK Chief: Back-to-Back Rate Hikes Aim to Stabilize Macroeconomy](#item-tech-news-289) ⭐️ ?/10
-290. [Seoul Sends Rapid Response Team to Nepal for Missing S. Koreans](#item-tech-news-290) ⭐️ ?/10
-291. [Doosan Enerbility, Korea South-East Power Rush to Nepal](#item-tech-news-291) ⭐️ ?/10
-292. [BOK Announces Back-to-Back Rate Hike, Raises 2026 Growth Forecast to 3.3%](#item-tech-news-292) ⭐️ ?/10
-293. [Gov’t to Build 5 New Climate-Resilient Dams, Scrap 9 Dam Projects Initiated under Yoon](#item-tech-news-293) ⭐️ ?/10
-294. [NBS Poll: Lee’s Approval Rating Rebounds to 50%](#item-tech-news-294) ⭐️ ?/10
-295. [9 South Koreans among Hundreds Missing in Flash Floods in Nepal](#item-tech-news-295) ⭐️ ?/10
-296. [A l’étranger, la « cavale » très politique de la chroniqueuse russe de CNews Xenia Fedorova](#item-tech-news-296) ⭐️ ?/10
-297. [L’annulation de la dette de la France, la proposition polémique qui place Jean-Luc Mélenchon au cœur des débats de la présidentielle](#item-tech-news-297) ⭐️ ?/10
-298. [Enlèvement en Colombie d’un soldat franco-colombien de la Légion étrangère française](#item-tech-news-298) ⭐️ ?/10
-299. [En Ukraine, le blocage des ports de la mer Noire asphyxie les exportations de céréales](#item-tech-news-299) ⭐️ ?/10
-300. [Victor Wembanyama réussit ses retrouvailles avec le public parisien en guidant les Bleus vers un large succès](#item-tech-news-300) ⭐️ ?/10
-301. [La nouvelle révision du DPE va faire sortir plus de 300 000 logements du statut de « passoires thermiques »](#item-tech-news-301) ⭐️ ?/10
-302. [Altercation avec des policiers : le député LFI Sébastien Delogu gardé à vue puis convoqué pour outrage](#item-tech-news-302) ⭐️ ?/10
-303. [La fusée Ariane-6 réussit le lancement du satellite météorologique MTG-I2](#item-tech-news-303) ⭐️ ?/10
-304. [En Syrie, la dissolution des FDS scelle la fin de l’autonomie des Kurdes](#item-tech-news-304) ⭐️ ?/10
-305. [Au Mexique, 135 animaux dont des lions, des tigres et des bisons découverts lors d’une perquisition chez des trafiquants de carburant](#item-tech-news-305) ⭐️ ?/10
-306. [Nepal-Tibet live: China warns lake formed by mudslide on Nepal border could breach](#item-tech-news-306) ⭐️ ?/10
-307. [OpenAI, Anthropic join global call to strengthen cyber defences](#item-tech-news-307) ⭐️ ?/10
-308. [Kherson residents urged to leave as Russian attacks threaten power and heating](#item-tech-news-308) ⭐️ ?/10
-309. [US military faces ‘beyond critical’ shortage of Patriot missiles in Europe](#item-tech-news-309) ⭐️ ?/10
-310. [Nigeria: the lucrative business of kidnappings](#item-tech-news-310) ⭐️ ?/10
-311. [法国总统候选人首次辩论，激烈交锋](#item-tech-news-311) ⭐️ ?/10
-312. [Red Cross mobilises in Nepal following natural disaster: &\#x27;Entire villages &amp; communities washed out&\#x27;](#item-tech-news-312) ⭐️ ?/10
-313. [Why Trump wants H-1B skilled worker visas to cost employers more than $100,000](#item-tech-news-313) ⭐️ ?/10
-314. [Title holders PSG to face Barcelona and Man City as Champions League draw is made](#item-tech-news-314) ⭐️ ?/10
-315. [UEFA moves to file criminal complaint against Infantino over failed FIFA sell-off](#item-tech-news-315) ⭐️ ?/10
-316. [Pakistan: Protests continue in Azad Kashmir despite repression and internet blackout](#item-tech-news-316) ⭐️ ?/10
-317. [&\#x27;National treasure: If we could all be like Dolly, the world would be a much better place&\#x27;](#item-tech-news-317) ⭐️ ?/10
-318. [&\#x27;Great public test&\#x27;: French presidential hopefuls to face off at business summit](#item-tech-news-318) ⭐️ ?/10
-319. [Exclusive - French astronaut describes climate change as seen from space](#item-tech-news-319) ⭐️ ?/10
-320. [&\#x27;Extremely challenging&\#x27; conditions hamper Nepal-Tibet flood rescue efforts](#item-tech-news-320) ⭐️ ?/10
-321. [Why were so many Indian pilgrims in Tibet during the Himalayan mudslide disaster?](#item-tech-news-321) ⭐️ ?/10
-322. [Ghana bars export of unrefined gold](#item-tech-news-322) ⭐️ ?/10
-323. [Tunisia mourns deceased migrants after small boat tragedy](#item-tech-news-323) ⭐️ ?/10
-324. [Alleged underworld kingpin testifies at S. African commission](#item-tech-news-324) ⭐️ ?/10
-325. [Norway holds its breath as King Harald&\#x27;s health deteriorates](#item-tech-news-325) ⭐️ ?/10
-326. [Alleged 9/11 mastermind Khalid Sheikh Mohammed to go on trial in 2028](#item-tech-news-326) ⭐️ ?/10
-327. [KI-Zentren: Was kann Deutschland aus den Protesten in den USA lernen?](#item-tech-news-327) ⭐️ ?/10
-328. [Donald Trump: Der Aufstand gegen KI-Rechenzentren wird zur Gefahr für den US-Präsidenten](#item-tech-news-328) ⭐️ ?/10
-329. [News: Konstruktives Misstrauensvotum in Thüringen, CDU und Linke, Friedrich Merz gegen Kinderärztin](#item-tech-news-329) ⭐️ ?/10
-330. [Wechseljahre und Ernährung: Wie Frauen Genuss und Körper neu entdecken](#item-tech-news-330) ⭐️ ?/10
-331. [Grillen: BBQ-Ideen – was Profiköche privat auf den Rost legen](#item-tech-news-331) ⭐️ ?/10
-332. [Südukraine: Gouverneur ruft Einwohner von Cherson zur Evakuierung auf](#item-tech-news-332) ⭐️ ?/10
-333. [Österreich: Deutscher Bergsteiger bekommt nach 63 Jahren seinen Rucksack zurück](#item-tech-news-333) ⭐️ ?/10
-334. [USA fordern Klartext von Nato-Partnern – und loben Deutschland](#item-tech-news-334) ⭐️ ?/10
-335. [医师协会：对插队挂专家号的患者开罚](#item-tech-news-335) ⭐️ ?/10
-336. [Collier mit 673 Diamanten aus Wiener Museum gestohlen](#item-tech-news-336) ⭐️ ?/10
-337. [»GTA 6«-Video auf Netflix erschienen: 26 Minuten zum meisterwarteten Spiel des Jahres](#item-tech-news-337) ⭐️ ?/10
-338. [法国大选：七位候选人角逐经济与移民政策](#item-tech-news-338) ⭐️ ?/10
-339. [Anthropic: US-KI-Konzern lockt Investoren mit 30-Billionen-Dollar-Markt](#item-tech-news-339) ⭐️ ?/10
-340. [拜仁名宿霍内斯因邻居新栽两棵树遭起诉](#item-tech-news-340) ⭐️ ?/10
-341. [Österreich: 64-jähriger Wanderer stürzt in Vorarlberg 70 Meter in den Tod](#item-tech-news-341) ⭐️ ?/10
-342. [USA: Demokraten warnen vor tödlichen Folgen von ICE-Elektro-Handschuhen](#item-tech-news-342) ⭐️ ?/10
-343. [Sturzflut im Himalaya: Satellitenaufnahmen dokumentieren Schäden im Flutgebiet](#item-tech-news-343) ⭐️ ?/10
-344. [Donald Trump überzeugt: Wladimir Putin werde »kein Nato-Territorium angreifen»](#item-tech-news-344) ⭐️ ?/10
-345. [Holocaustüberlebende Renate Aris: »Ich habe Angst, dass es wieder aus dem Ruder läuft«](#item-tech-news-345) ⭐️ ?/10
-346. [Champions-League-Auslosung: Bayern trifft auf Arsenal und Manchester United](#item-tech-news-346) ⭐️ ?/10
-347. [Zum Tod von Ratko Mladić: Der Schlächter vom Balkan](#item-tech-news-347) ⭐️ ?/10
-348. [Super-El-Niño: Die kommenden Monate werden die Klimazukunft der Erde sichtbar machen](#item-tech-news-348) ⭐️ ?/10
-349. [VW ID.Buzz California: Bett, Tisch, zwei Stühle – der E-Bulli wird zum Minimal-Camper](#item-tech-news-349) ⭐️ ?/10
-350. [Friedrich Merz liefert sich TV-Schlagabtausch mit Kinderärztin](#item-tech-news-350) ⭐️ ?/10
-351. [Malaria am Flughafen Frankfurt: Wie groß ist das Risiko einer Ausbreitung in Deutschland?](#item-tech-news-351) ⭐️ ?/10
-352. [Kanada: Könnte das Land EU-Mitglied werden?](#item-tech-news-352) ⭐️ ?/10
-353. [Nepal: SPIEGEL-Reporter berichtet aus dem Katastrophengebiet](#item-tech-news-353) ⭐️ ?/10
-354. [Geldsorgen: Wie die SPD aus der Not eine Tugend machen will](#item-tech-news-354) ⭐️ ?/10
-355. [SPD muss sparen: Arme Sozis](#item-tech-news-355) ⭐️ ?/10
-356. [Merz im RTL-Interview mit Kinderärztin verstreitet sich](#item-tech-news-356) ⭐️ ?/10
-357. [德国社州改革提议被批无聊且自由主义缺失](#item-tech-news-357) ⭐️ ?/10
-358. [Quent: AfD in Ostdeutschland im Siegesrausch](#item-tech-news-358) ⭐️ ?/10
-359. [Grüne „Wahlkampfurlauber“: Sie reisen aus der gesamten Republik an, um vor der AfD zu warnen](#item-tech-news-359) ⭐️ ?/10
-360. [AfD und die Medien: Wie der „Stern“ dem Geschäft mit der AfD-Panik entkommen will](#item-tech-news-360) ⭐️ ?/10
-361. [TV-Kritik: Sarah Tacke: Warum nicht einmal über Positivbeispiele reden?](#item-tech-news-361) ⭐️ ?/10
-362. [Warum KETO-diät wirkt: „Man zwingt den Körper, auf die Fettreserven zuzugreifen“](#item-tech-news-362) ⭐️ ?/10
-363. [Spanien: 3000 Jahre alter Goldschatz aus Museum gestohlen](#item-tech-news-363) ⭐️ ?/10
-364. [F.A.Z. Frühdenker: Nähert sich Island der Europäischen Union an?](#item-tech-news-364) ⭐️ ?/10
-365. [historiker Michael Sommer: Der Professor, der die Antike zum Bestseller macht](#item-tech-news-365) ⭐️ ?/10
-366. [Ratcliffe in Moskau: Ein Besuch der CIA schreckt Putin nicht ab](#item-tech-news-366) ⭐️ ?/10
-367. [Rentenreform: Und wer denkt an die Beitragszahler?](#item-tech-news-367) ⭐️ ?/10
-368. [Verfahren statt Boykott: Die UEFA eröffnet die nächste Runde](#item-tech-news-368) ⭐️ ?/10
-369. [Hidden Heroes Award: Warum Grzimek verstecken?](#item-tech-news-369) ⭐️ ?/10
-370. [Kampf gegen Klimawandel: Warum bleibt trotzdem alles beim Alten?](#item-tech-news-370) ⭐️ ?/10
-371. [Unglück im Himalaja: Die Katastrophe war angekündigt – warum hörte niemand hin?](#item-tech-news-371) ⭐️ ?/10
-372. [Auslandsinvestitionen: KI revolutioniert die Globalisierung](#item-tech-news-372) ⭐️ ?/10
-373. [Ukraine: Krisen an vielen Fronten](#item-tech-news-373) ⭐️ ?/10
-374. [Was bringt Eisbaden?: „Objektiv nachweisbar ist der Effekt nicht“](#item-tech-news-374) ⭐️ ?/10
-375. [CDU-Strategie in Sachsen-Anhalt: Schulze greift AfD im TV-Duell an](#item-tech-news-375) ⭐️ ?/10
-376. [中国投入人力机器人研发应对劳动力短缺](#item-tech-news-376) ⭐️ ?/10
-377. [莱茵金属在卡塞尔新建约 1000 个岗位](#item-tech-news-377) ⭐️ ?/10
-378. [加拿大与美国贸易谈判破裂，贸易战爆发](#item-tech-news-378) ⭐️ ?/10
-379. [F.A.Z. Frühdenker: Wie stark wollen die „Sparsamen“ um Merz den EU-Haushalt kürzen?](#item-tech-news-379) ⭐️ ?/10
-380. [Russische Frontstadt: Ein Kandidat gegen Putins Krieg](#item-tech-news-380) ⭐️ ?/10
-381. [CIA-Direktor in Moskau: Eine Warnung an den russischen Präsidenten](#item-tech-news-381) ⭐️ ?/10
-382. [Nigeria: Soldaten und Polizisten suchen nach 600 Entführten](#item-tech-news-382) ⭐️ ?/10
-383. [Klausur in Münster: Vorher gibt es ein Abendessen mit Jens Spahn](#item-tech-news-383) ⭐️ ?/10
-384. [Brief aus dem Irankrieg: Um den Tod herrscht ein seltsames Schweigen](#item-tech-news-384) ⭐️ ?/10
-385. [US-Vergleich mit Meta: Zieht den Social-Media-Tycoons die Lederhosen aus](#item-tech-news-385) ⭐️ ?/10
-386. [Aufstiegsdoku bei Sky: Für das Wunder von Schalke brauchte es die richtigen Worte](#item-tech-news-386) ⭐️ ?/10
-387. [OVG-Urteil: Wenn Informationsfreiheit zur Waffe gegen Wissenschaft wird](#item-tech-news-387) ⭐️ ?/10
-388. [Genealogie der KI: Der Zwerg reinigt die Kittel](#item-tech-news-388) ⭐️ ?/10
-389. [4:1 gegen Motherwell: Freiburg erreicht problemlos die Ligaphase der Conference League](#item-tech-news-389) ⭐️ ?/10
-390. [Nächster Sieg bei Vuelta: Pogacar triumphiert auf Schotterpiste](#item-tech-news-390) ⭐️ ?/10
-391. [FIFA-Machtkampf eskaliert: UEFA will Infantino verklagen](#item-tech-news-391) ⭐️ ?/10
-392. [Fußball-Nationalteam: Afghanische Frauen haben sich das Träumen erkämpft](#item-tech-news-392) ⭐️ ?/10
-393. [In Gosen-Neu Zittau: Gewalttat an Brandenburger Schule – zwei Tote](#item-tech-news-393) ⭐️ ?/10
-394. [Wegen Betrugs verurteilt: Hochstapler Hendrik Holt flieht bei Freigang aus Gefängnis](#item-tech-news-394) ⭐️ ?/10
-395. [德国气象局周四晚发布强对流天气预警](#item-tech-news-395) ⭐️ ?/10
-396. [Gegen Elterntaxis: Laufbus ermuntert Grundschüler zum selbständigen Schulweg](#item-tech-news-396) ⭐️ ?/10
-397. [Umfragen zu Landtagswahlen 2026: Wie endet das Superwahljahr?](#item-tech-news-397) ⭐️ ?/10
-398. [Трамп лично направил главу ЦРУ в Россию, даже некоторые чиновники Белого дома за](#item-tech-news-398) ⭐️ ?/10
-399. [Глава СЕНТКОМ заявил о полной разминировании Ормузского пролива](#item-tech-news-399) ⭐️ ?/10
-400. [🚨 Женщина пострадала при атаке БПЛА в Севастополе, сообщил губернатор Развожаев ](#item-tech-news-400) ⭐️ ?/10
-401. [Порт Измаила обеспечивает лишь треть экспорта Украины, следует из подсчетов ТАСС](#item-tech-news-401) ⭐️ ?/10
-402. [В Подмосковье с 1 сентября ограничивают продажу топлива несовершеннолетним, соот](#item-tech-news-402) ⭐️ ?/10
-403. [Киев настраивает ИИ в БПЛА на атаки по пассажирским автобусам, заявил ТАСС Родио](#item-tech-news-403) ⭐️ ?/10
-404. [🚗 Движение на выезде из Ярославля в сторону Москвы временно перекрыто, сообщил г](#item-tech-news-404) ⭐️ ?/10
+1. [Tracking AI progress across 18 cognitive dimensions \(ADeLe scales\)](#item-tech-news-1) ⭐️ 8.0/10
+2. [Misaligned models rate themselves as more harmful, and realignment reverses it](#item-tech-news-2) ⭐️ 8.0/10
+3. [Trump Administration’s Blacklisting of Anthropic Was Illegal, Judge Rules](#item-tech-news-3) ⭐️ 8.0/10
+4. [AI can detect heart disease in women using mammograms, study suggests](#item-tech-news-4) ⭐️ 8.0/10
+5. [💡 Scientists Made a Semiconductor That Can Be Reprogrammed With Light](#item-tech-news-5) ⭐️ 8.0/10
+6. [15 版 -  尼龙也能“发电”（创新汇）](#item-tech-news-6) ⭐️ 7.0/10
+7. [Has Social Media For Children Just Changed Forever?](#item-tech-news-7) ⭐️ 7.0/10
+8. [‘No precedent’: Lorde and Little Simz to star at world-first festival run on clean power](#item-tech-news-8) ⭐️ 7.0/10
+9. [AI Safety in Japan has deeper problems than capital allocation](#item-tech-news-9) ⭐️ 6.0/10
+10. [Trump orders Lake Ontario to be renamed ‘Lake America’ in new slight to Canada](#item-tech-news-10) ⭐️ 6.0/10
+11. [Use of Nowcasting to Estimate Real-Time Transmission Trends During a Measles Outbreak - South Carolina, October 2025-March 2026](#item-tech-news-11) ⭐️ 5.0/10
+12. [11 版 -  赵心童即时排名升至世界第一](#item-tech-news-12) ⭐️ 5.0/10
+13. [China bets on exports of cheap 3D-printed drone killers](#item-tech-news-13) ⭐️ 5.0/10
+14. [中国大规模投资人形机器人应对劳动力短缺](#item-tech-news-14) ⭐️ 5.0/10
+15. [挪威国王哈康五世逝世，享年 89 岁](#item-tech-news-15) ⭐️ 4.0/10
+16. [卫报调查：Black Box: Chatbots 系列预告片](#item-tech-news-16) ⭐️ 4.0/10
+17. [Gabby-Petito-Case: Polizei-Fehler und unerkannter Doppelmord](#item-tech-news-17) ⭐️ 4.0/10
+18. [ollama/ollama released v0.33.2-rc1](#item-tech-news-18) ⭐️ 3.0/10
+19. [AI Village 社区对比 HuggingFace 事件与 OpenAI 报告](#item-tech-news-19) ⭐️ 3.0/10
+20. [04 版 -  高位冰崩如何演变为泥石流](#item-tech-news-20) ⭐️ 3.0/10
+21. [06 版 -  认识当下的国内汽车市场，重构汽车市场新逻辑](#item-tech-news-21) ⭐️ 3.0/10
+22. [07 版 -  安徽下好创新先手棋（活力中国调研行）](#item-tech-news-22) ⭐️ 3.0/10
+23. [10 版 -  市场监管总局发布陪诊服务标准](#item-tech-news-23) ⭐️ 3.0/10
+24. [12 版 -  贵州  做强做优数字经济  数智赋能高质量发展](#item-tech-news-24) ⭐️ 3.0/10
+25. [15 版 -  当 AI“善解人意”，请多一分清醒（科技大观）](#item-tech-news-25) ⭐️ 3.0/10
+26. [Fiery views on Lindsay Clancy at work could get you fired — and be perfectly legal, employment lawyer warns](#item-tech-news-26) ⭐️ 3.0/10
+27. [Greens call for temporary ban on new data centres](#item-tech-news-27) ⭐️ 3.0/10
+28. [Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning](#item-tech-news-28) ⭐️ 3.0/10
+29. [The cowboy clinics selling unproven longevity treatments](#item-tech-news-29) ⭐️ 3.0/10
+30. [Zero-interest convertible bonds set for record year](#item-tech-news-30) ⭐️ 3.0/10
+31. [Three UK airports hit by cyber-attack with data of 8.7m customers accessed](#item-tech-news-31) ⭐️ 3.0/10
+32. [»GTA 6«-Video auf Netflix erschienen: 26 Minuten zum meisterwarteten Spiel des Jahres](#item-tech-news-32) ⭐️ 3.0/10
+33. [Anthropic bereitet Börsengang mit 30-Billionen-Dollar-Marktpotenzial vor](#item-tech-news-33) ⭐️ 3.0/10
+34. [特朗普政府寻求直接控制委内瑞拉石油资源](#item-tech-news-34) ⭐️ 3.0/10
+35. [DMJM：建筑师与工程师助推美国成为超级大国](#item-tech-news-35) ⭐️ 3.0/10
+36. [09 版 -  为强国建设培养更多“会创造的人”（有的放矢）](#item-tech-news-36) ⭐️ 2.0/10
+37. [全球过敏患者为何越来越多](#item-tech-news-37) ⭐️ 2.0/10
+38. [研究称气候变化或致欧洲野火过火面积激增](#item-tech-news-38) ⭐️ 2.0/10
+39. [科技新词在汉语中的本土化之路](#item-tech-news-39) ⭐️ 2.0/10
+40. [加拿大高校趁美国政策收紧吸纳美顶尖学者](#item-tech-news-40) ⭐️ 2.0/10
+41. [How SSENSE, a Canadian Retailer, Is Grappling With Trump’s Tariffs](#item-tech-news-41) ⭐️ 2.0/10
+42. [Canadian retailers scramble to deal with ‘staggering’ U.S. tariffs](#item-tech-news-42) ⭐️ 2.0/10
+43. [《星星与条纹》员工起诉五角大楼，指控第一修正案报复](#item-tech-news-43) ⭐️ 2.0/10
+44. [经济学人商业版块摘要](#item-tech-news-44) ⭐️ 2.0/10
+45. [电动自行车与滑板车电池火灾致 18 人死亡近 700 人受伤](#item-tech-news-45) ⭐️ 2.0/10
+46. [Saudi Arabia shakes up flagship real estate project](#item-tech-news-46) ⭐️ 2.0/10
+47. [OVG-Urteil: Wenn Informationsfreiheit zur Waffe gegen Wissenschaft wird](#item-tech-news-47) ⭐️ 2.0/10
+48. [Wärmenetze: Kosten für Fernwärme sollen überwacht werden](#item-tech-news-48) ⭐️ 2.0/10
+49. [Grojogan Watu Purbo Waterfall, Indonesia.](#item-tech-news-49) ⭐️ 2.0/10
+50. [美国 2019-2025 年城乡布托啡诺药房调配与急诊室给药趋势分析](#item-tech-news-50) ⭐️ 1.0/10
+51. [03 版 -  中吉务实合作驶入快车道](#item-tech-news-51) ⭐️ 1.0/10
+52. [04 版 -  最大限度争取救援主动](#item-tech-news-52) ⭐️ 1.0/10
+53. [人民日报报道城市公园绿地服务提升](#item-tech-news-53) ⭐️ 1.0/10
+54. [09 版 -  在国际比较中把握全过程人民民主的实践特征与实践绩效（深入学习贯彻习近平新时代中国特色社会主义思想·《习近平谈治国理政》第一至五卷通读）](#item-tech-news-54) ⭐️ 1.0/10
+55. [石家庄建成 26 座城市书房推动全民阅读](#item-tech-news-55) ⭐️ 1.0/10
+56. [贵州“村超”全国赛扩至 105 支队伍，探索以赛兴农新模式](#item-tech-news-56) ⭐️ 1.0/10
+57. [13 版 -  当好“健康守门人”（有所思）](#item-tech-news-57) ⭐️ 1.0/10
+58. [15 版 -  征  集](#item-tech-news-58) ⭐️ 1.0/10
+59. [16 版 -  康师傅成立 34 年  倾力打造民族品牌高质量发展样本](#item-tech-news-59) ⭐️ 1.0/10
+60. [17 版 -  本版责编：白  阳  强  薇](#item-tech-news-60) ⭐️ 1.0/10
+61. [Judge Says Trump’s Name Should Stay Off Kennedy Center for Now](#item-tech-news-61) ⭐️ 1.0/10
+62. [LA Mayor Karen Bass Eases Street Vending Crackdown After Debate](#item-tech-news-62) ⭐️ 1.0/10
+63. [‘Intrinsic Capacity’: The Most Important Longevity Term You’ve Never Heard Of](#item-tech-news-63) ⭐️ 1.0/10
+64. [C.I.A. Chief Delivered Bleak Assessment of Russia’s War in Secretive Moscow Visit](#item-tech-news-64) ⭐️ 1.0/10
+65. [Fans Push to Rename Nashville Airport for Dolly Parton](#item-tech-news-65) ⭐️ 1.0/10
+66. [On Night of Deadly Air Canada Crash, Two LaGuardia Controllers Left Early](#item-tech-news-66) ⭐️ 1.0/10
+67. [《纽约时报》质疑贝森特与沃什的经济领导力信誉](#item-tech-news-67) ⭐️ 1.0/10
+68. [热带风暴多莉追踪：路径预测](#item-tech-news-68) ⭐️ 1.0/10
+69. [变形金刚擎天柱配音演员彼得·库伦逝世](#item-tech-news-69) ⭐️ 1.0/10
+70. [Aliyah Boston discusses Caitlin Clark&\#x27;s viral smile at Angel Reese](#item-tech-news-70) ⭐️ 1.0/10
+71. [加州当局确认“笑脸杀手”最后一名无名受害者身份](#item-tech-news-71) ⭐️ 1.0/10
+72. [Old Al Michaels stumbles through awkward Lake America-Trump jab during Thursday Night Football broadcast](#item-tech-news-72) ⭐️ 1.0/10
+73. [Broncos coach Sean Payton buries Geoff Schwartz after analyst butchers Bo Nix&\#x27;s downfield game](#item-tech-news-73) ⭐️ 1.0/10
+74. [Dolly Parton 去世后阿拉巴马州 literacy 车牌承诺激增](#item-tech-news-74) ⭐️ 1.0/10
+75. [CNN 道歉因误播多莉·帕顿模仿者照片](#item-tech-news-75) ⭐️ 1.0/10
+76. [特朗普政府推动教育权归还各州](#item-tech-news-76) ⭐️ 1.0/10
+77. [Little League World Series: Ohio defeats Alabama with Kinley Rasmus standout performance](#item-tech-news-77) ⭐️ 1.0/10
+78. [WATCH:  Flight evacuated after 2 tires blew while taxiing for takeoff](#item-tech-news-78) ⭐️ 1.0/10
+79. [经济学人政治板块：非技术性内容](#item-tech-news-79) ⭐️ 1.0/10
+80. [Jacob Elordi on why The Dog Stars had him asking, &\#x27;what am I missing&\#x27; in life?](#item-tech-news-80) ⭐️ 1.0/10
+81. [I was spending £700 a month: How I beat my late-night shopping addiction](#item-tech-news-81) ⭐️ 1.0/10
+82. [BBC 简报：米德尔斯伯勒暴力事件引发恐慌](#item-tech-news-82) ⭐️ 1.0/10
+83. [Six months into the Iran war: What has Trump accomplished?](#item-tech-news-83) ⭐️ 1.0/10
+84. [Rohingya refugees face fierce new wave of hostility in Malaysia](#item-tech-news-84) ⭐️ 1.0/10
+85. [曼城与维拉欧冠联赛阶段将战巴黎圣日耳曼](#item-tech-news-85) ⭐️ 1.0/10
+86. [BBC 体育: 萨顿与皇家血液鼓手预测英超](#item-tech-news-86) ⭐️ 1.0/10
+87. [韩国重启 31 万失踪人口案件调查](#item-tech-news-87) ⭐️ 1.0/10
+88. [USS Abraham Lincoln to visit port in Thailand after more than 250 days at sea](#item-tech-news-88) ⭐️ 1.0/10
+89. [‘We execute the prick’: wife can’t say if Charles Perrottet text was plotting downfall of NSW Liberal minister, Icac hears](#item-tech-news-89) ⭐️ 1.0/10
+90. [Dolphin dies from H5 bird flu in SA as researchers withdrawn from sub-Antarctic island over ‘psychosocial risk’](#item-tech-news-90) ⭐️ 1.0/10
+91. [Greek Orthodox priest and cult musician clarifies views on homosexuality](#item-tech-news-91) ⭐️ 1.0/10
+92. [Bronze age treasure stolen in four-minute Spanish museum heist](#item-tech-news-92) ⭐️ 1.0/10
+93. [七人被控破坏特朗普苏格兰高尔夫球场](#item-tech-news-93) ⭐️ 1.0/10
+94. [Federal judge again halts Trump’s executive order limiting mail voting in midterms](#item-tech-news-94) ⭐️ 1.0/10
+95. [Canadian prime minister and New York lawmaker denounce Trump’s move to rename Lake Ontario as Lake America – as it happened](#item-tech-news-95) ⭐️ 1.0/10
+96. [US corporate profits surge to record as worker payouts wilt](#item-tech-news-96) ⭐️ 1.0/10
+97. [Ex-Barclays boss denies having sex with woman dressed as Snow White after Epstein emails](#item-tech-news-97) ⭐️ 1.0/10
+98. [Teesside 议员呼吁增加警力和消防支持](#item-tech-news-98) ⭐️ 1.0/10
+99. [英国酒店庇护难民人数一年减半](#item-tech-news-99) ⭐️ 1.0/10
+100. [BBC 确认《Top Gear》回归](#item-tech-news-100) ⭐️ 1.0/10
+101. [德国天气局再次发布强雷暴预警](#item-tech-news-101) ⭐️ 1.0/10
+102. [法兰克福汇报发起科学研究竞赛，征集截止 2026 年 10 月](#item-tech-news-102) ⭐️ 1.0/10
+103. [F.A.Z. exklusiv: Deutschland droht erstmals Klimaziel zu verfehlen](#item-tech-news-103) ⭐️ 1.0/10
+104. [❗️ВС РФ поразили в Киевской области складской комплекс, использующийся для хране](#item-tech-news-104) ⭐️ 1.0/10
+105. [❗️ВС РФ поразили в порту Одесса шесть хранилищ с военным имуществом, сообщили в ](#item-tech-news-105) ⭐️ 1.0/10
+106. [🚨 БПЛА попал в магазин &quot;Магнит&quot; в подмосковном Павловском Посаде, взрывной волно](#item-tech-news-106) ⭐️ 1.0/10
+107. [The Dunajec River is one of the most picturesque rivers in Central Europe, flowi](#item-tech-news-107) ⭐️ 1.0/10
+108. [01 版 -  导读](#item-tech-news-108) ⭐️ 0.0/10
+109. [02 版 -  《习近平文化文选》第一卷、第二卷主要篇目介绍](#item-tech-news-109) ⭐️ 0.0/10
+110. [03 版 -  推动构建更加公正合理的全球治理体系](#item-tech-news-110) ⭐️ 0.0/10
+111. [上合组织比什凯克峰会与中吉关系进展](#item-tech-news-111) ⭐️ 0.0/10
+112. [云南湖畔失散 70 年两岸亲人意外重逢](#item-tech-news-112) ⭐️ 0.0/10
+113. [人民日报版面向公众长期征稿](#item-tech-news-113) ⭐️ 0.0/10
+114. [人民日报 2026 年 8 月 28 日版面内容为空](#item-tech-news-114) ⭐️ 0.0/10
+115. [全国人大常委会审议乡村振兴、银行业监管与水法修订草案](#item-tech-news-115) ⭐️ 0.0/10
+116. [人民日报 2026 年 8 月 28 日第 08 版编辑信息](#item-tech-news-116) ⭐️ 0.0/10
+117. [上海、成都、深圳地铁开设便民纳凉空间](#item-tech-news-117) ⭐️ 0.0/10
+118. [人民日报：车站有清凉 城市有温暖](#item-tech-news-118) ⭐️ 0.0/10
+119. [10 版 -  “学校练的和企业要的是同一套东西”\(稳就业·暖心故事\)](#item-tech-news-119) ⭐️ 0.0/10
+120. [第四十七届世界葡萄与葡萄酒大会将在银川举办](#item-tech-news-120) ⭐️ 0.0/10
+121. [中国体育报春燕郑凤荣逝世](#item-tech-news-121) ⭐️ 0.0/10
+122. [13 版 -  家庭医生签约服务，何以提升感受度（人民眼·健康中国）](#item-tech-news-122) ⭐️ 0.0/10
+123. [14 版 -  本版责编：纪雅林  卢  涛  翟钦奇](#item-tech-news-123) ⭐️ 0.0/10
+124. [15 版 -  本版责编：王  慧  黄发红](#item-tech-news-124) ⭐️ 0.0/10
+125. [17 版 -  互学互鉴  相知相亲](#item-tech-news-125) ⭐️ 0.0/10
+126. [20 版 -  永葆“赶考”的清醒和坚定](#item-tech-news-126) ⭐️ 0.0/10
+127. [20 版 -  科学减重有章可循（序与跋）](#item-tech-news-127) ⭐️ 0.0/10
+128. [In ‘9 to 5,’ Dolly Parton Put a Friendly Face on Feminism](#item-tech-news-128) ⭐️ 0.0/10
+129. [格温妮丝·帕特洛为山姆·阿尔特曼举办的汉普顿晚宴延期](#item-tech-news-129) ⭐️ 0.0/10
+130. [德克萨斯州警方追逐涉嫌人口走私分子](#item-tech-news-130) ⭐️ 0.0/10
+131. [Maine meteorologist suffers giggle attack on live TV after prank backfires spectacularly](#item-tech-news-131) ⭐️ 0.0/10
+132. [Prosecutor says he has portion of Josh Jacobs&\#x27; domestic incident with ex-girlfriend on video](#item-tech-news-132) ⭐️ 0.0/10
+133. [3 illegal aliens arrested in major Virginia child exploitation sting released on bond](#item-tech-news-133) ⭐️ 0.0/10
+134. [Gov Shapiro sues Trump administration over ‘lifesaving reproductive care’ in escalating abortion battle](#item-tech-news-134) ⭐️ 0.0/10
+135. [WATCH:  Yayoi Kusama, &\#x27;Friends&\#x27; reunion, Busy Phillips: Here&\#x27;s what&\#x27;s trending](#item-tech-news-135) ⭐️ 0.0/10
+136. [WATCH:  Author discusses how to escape living paycheck-to-paycheck](#item-tech-news-136) ⭐️ 0.0/10
+137. [WATCH:  Kitten gets tiny hard hat after rescue from excavator](#item-tech-news-137) ⭐️ 0.0/10
+138. [WATCH:  Dolly Parton Scholarship winner on loss of the country legend](#item-tech-news-138) ⭐️ 0.0/10
+139. [Cartoon: America and Canada stand on the brink of a trade war](#item-tech-news-139) ⭐️ 0.0/10
+140. [Oxfordshire 非法垃圾堆清理花费纳税人 600 万英镑](#item-tech-news-140) ⭐️ 0.0/10
+141. [英国银行假日周末雷雨与降雨预报](#item-tech-news-141) ⭐️ 0.0/10
+142. [&\#x27;Cowboy builders&\#x27; targeted in new government clampdown](#item-tech-news-142) ⭐️ 0.0/10
+143. [Blake Lively awarded $400K of $8M in legal fees](#item-tech-news-143) ⭐️ 0.0/10
+144. [What is the aim for Kompany, Kane and Bayern?](#item-tech-news-144) ⭐️ 0.0/10
+145. [维纳斯·威廉姆斯获外卡的深层原因](#item-tech-news-145) ⭐️ 0.0/10
+146. [Burnham accused of U-turn after initially backing political donations cap to fall below £500k](#item-tech-news-146) ⭐️ 0.0/10
+147. [Democrats to investigate ‘miraculous’ rise of Trump Jr’s investment firm](#item-tech-news-147) ⭐️ 0.0/10
+148. [Birmingham seeks injunction to stop anti-migrant group erecting flags on infrastructure](#item-tech-news-148) ⭐️ 0.0/10
+149. [Uli Hoeneß: Nachbar am Tegernsee klagt wegen zwei neu gepflanzten Bäumen](#item-tech-news-149) ⭐️ 0.0/10
+150. [Österreich: 64-jähriger Wanderer stürzt in Vorarlberg 70 Meter in den Tod](#item-tech-news-150) ⭐️ 0.0/10
+151. [USA: Demokraten warnen vor tödlichen Folgen von ICE-Elektro-Handschuhen](#item-tech-news-151) ⭐️ 0.0/10
+152. [TV 评论：Sarah Tacke 探讨基本收入](#item-tech-news-152) ⭐️ 0.0/10
+153. [德国总理默茨在 RTL 采访中与儿科医生发生争执](#item-tech-news-153) ⭐️ 0.0/10
+154. [Auf dem Rennrad nach Berlin: Es geht nicht nur um die Beine – es geht auch um den Kopf](#item-tech-news-154) ⭐️ 0.0/10
+155. [冰浴的健康功效缺乏客观医学证据](#item-tech-news-155) ⭐️ 0.0/10
+156. [日本艺术家草间弥生 97 岁去世](#item-tech-news-156) ⭐️ 0.0/10
+157. [巴黎浪漫生活博物馆翻新后重新开放](#item-tech-news-157) ⭐️ 0.0/10
+158. [Fazit zu Filmkomödie &quot;One Night Only&quot;](#item-tech-news-158) ⭐️ 0.0/10
+159. [4:1 gegen Motherwell: Freiburg erreicht problemlos die Ligaphase der Conference League](#item-tech-news-159) ⭐️ 0.0/10
+160. [Pogačar gewinnt Vuelta-Etappe auf Schotterpiste](#item-tech-news-160) ⭐️ 0.0/10
+161. [德国法院裁定地下室可改为居住空间](#item-tech-news-161) ⭐️ 0.0/10
+162. [荷兰收藏家 Joop van Caldenborgh：相信眼睛的人会被艺术打动](#item-tech-news-162) ⭐️ 0.0/10
+163. [拉夫罗夫：CIA 局长与梵蒂冈外交官同期访俄意在对话](#item-tech-news-163) ⭐️ 0.0/10
+164. [Главные заявления Лаврова в интервью  телеканалу РБК:](#item-tech-news-164) ⭐️ 0.0/10
+165. [俄罗斯国防部将设立第 22 所学校](#item-tech-news-165) ⭐️ 0.0/10
+166. [俄罗斯在职退休人员 7 月养老金平均上涨 2600 卢布](#item-tech-news-166) ⭐️ 0.0/10
+167. [Главные новости к этому часу:](#item-tech-news-167) ⭐️ 0.0/10
+168. [非技术内容：Köyceğiz, Türkiye](#item-tech-news-168) ⭐️ 0.0/10
+169. [The Jashak Salt Dome is a geological formation located in southwestern Iran.](#item-tech-news-169) ⭐️ 0.0/10
+170. [巴厘岛奇观：无关技术的 Telegram 内容](#item-tech-news-170) ⭐️ 0.0/10
+171. [Incredible underwater world.](#item-tech-news-171) ⭐️ 0.0/10
+172. [Activation Oracles significantly underperform without a safe base model](#item-tech-news-172) ⭐️ ?/10
+173. [AI 2027’s author returns with a plan to change the ending \| Daniel Kokotajlo](#item-tech-news-173) ⭐️ ?/10
+174. [01 版 -  《习近平文化文选》第一卷、第二卷出版发行](#item-tech-news-174) ⭐️ ?/10
+175. [01 版 -  推动构建更加公正合理的全球治理体系](#item-tech-news-175) ⭐️ ?/10
+176. [01 版 -  十四届全国人大常委会举行第七十二次委员长会议](#item-tech-news-176) ⭐️ ?/10
+177. [01 版 -  认识当下的国内汽车市场，重构汽车市场新逻辑](#item-tech-news-177) ⭐️ ?/10
+178. [安徽以科技创新驱动经济提质增效](#item-tech-news-178) ⭐️ ?/10
+179. [西藏吉隆泥石流灾区已抢通 800 米道路](#item-tech-news-179) ⭐️ ?/10
+180. [中国拓展国际经贸互利合作空间](#item-tech-news-180) ⭐️ ?/10
+181. [吉林白山守护红色根脉凝聚发展动能](#item-tech-news-181) ⭐️ ?/10
+182. [04 版 -  一版责编：许  诺  赵  政  张宇杰  二版责编：蒋雪婕  祁嘉润  张安宇  三版责编：吴  刚  李欣怡  谢佳宁  四版责编：白之羽  刘静文  余  璇](#item-tech-news-182) ⭐️ ?/10
+183. [05 版 -  以学习跑赢时光、赢得荣光（中国道路中国梦）](#item-tech-news-183) ⭐️ ?/10
+184. [人民日报：智能时代教育应打好人格与创造底子](#item-tech-news-184) ⭐️ ?/10
+185. [《中国新闻工作者职业道德准则》颁布 35 周年座谈会在京召开](#item-tech-news-185) ⭐️ ?/10
+186. [中国拓展国际经贸互利合作空间](#item-tech-news-186) ⭐️ ?/10
+187. [07 版 -  重庆南川：立足生态资源禀赋  丰富夜间消费场景](#item-tech-news-187) ⭐️ ?/10
+188. [08 版 -  能源的饭碗必须端在自己手里（高质量发展故事汇·第 22 期）](#item-tech-news-188) ⭐️ ?/10
+189. [11 版 -  本版责编：巩育华  史  哲  曹继炜](#item-tech-news-189) ⭐️ ?/10
+190. [《人民日报》2026 年 8 月 28 日第 13 版版面信息](#item-tech-news-190) ⭐️ ?/10
+191. [14 版 -  讲好丝路故事  传承丝路精神](#item-tech-news-191) ⭐️ ?/10
+192. [Climber Stranded for Hours on 6-Inch Rock Ledge Before Rescue](#item-tech-news-192) ⭐️ ?/10
+193. [道奇队老板否认欺诈指控：薪酬由收入支撑](#item-tech-news-193) ⭐️ ?/10
+194. [Huge Knicks fan Kylie Jenner talks courtside fits &amp; desire to become even bigger fan with enhanced implants](#item-tech-news-194) ⭐️ ?/10
+195. [Russia threatens strikes on UK military targets, ‘catastrophic consequences’ over Ukraine](#item-tech-news-195) ⭐️ ?/10
+196. [Team USA hero Connor Hellebuyck confirms that he requested a trade from the Winnipeg Jets](#item-tech-news-196) ⭐️ ?/10
+197. [DHS hits back at James Talarico after Democrat claims ICE &\#x27;kidnapped&\#x27; 5-year-old boy deported with father](#item-tech-news-197) ⭐️ ?/10
+198. [What we know so far](#item-tech-news-198) ⭐️ ?/10
+199. [Allan Little: I met dangerously fanatical Mladić early in Bosnian war](#item-tech-news-199) ⭐️ ?/10
+200. [Werro edges closer to 800m mark as world records fall in Zurich](#item-tech-news-200) ⭐️ ?/10
+201. [UK urged to help free British-Egyptian ‘arrested in Cairo over sister’s activism’](#item-tech-news-201) ⭐️ ?/10
+202. [Climate crisis could be destabilising mountain areas like Nepal, experts warn](#item-tech-news-202) ⭐️ ?/10
+203. [FDA approves updated Covid-19 vaccines for dominant XFG variant](#item-tech-news-203) ⭐️ ?/10
+204. [Andy Burnham’s autumn of pain– podcast](#item-tech-news-204) ⭐️ ?/10
+205. [We need new reservoirs – and it’s a job for the state, not private companies \| Letters](#item-tech-news-205) ⭐️ ?/10
+206. [Bots and bargains: Zara owner launches cut-price Lefties in UK to rival Primark](#item-tech-news-206) ⭐️ ?/10
+207. [AI-proof? Younger workers desert the digital world for traditional crafts](#item-tech-news-207) ⭐️ ?/10
+208. [Japan’s nursery school waiting lists grow for first time in nine years](#item-tech-news-208) ⭐️ ?/10
+209. [Venezuela weighs OPEC exit as U.S. discusses oil fields stake](#item-tech-news-209) ⭐️ ?/10
+210. [Nippon Life open to becoming net JGB buyer next fiscal year](#item-tech-news-210) ⭐️ ?/10
+211. [横滨市长或因权力骚扰指控辞职](#item-tech-news-211) ⭐️ ?/10
+212. [SK Hynix weighs closer ties with Japan’s memory industry](#item-tech-news-212) ⭐️ ?/10
+213. [Japan regulator steps up scrutiny of 50-year home loans](#item-tech-news-213) ⭐️ ?/10
+214. [Mizuho files case against Radiant World in Singapore court](#item-tech-news-214) ⭐️ ?/10
+215. [Duo arrested over luxury watch smash-and-grab in Tokyo](#item-tech-news-215) ⭐️ ?/10
+216. [Marshall Wace joins hedge fund peers in planning Japan office](#item-tech-news-216) ⭐️ ?/10
+217. [韩国支持特朗普重启朝核对话的努力](#item-tech-news-217) ⭐️ ?/10
+218. [Thousands still in evacuation centers one month after Kumamoto quake](#item-tech-news-218) ⭐️ ?/10
+219. [Qatar steps in to mediate as Trump says U.S. not talking to Iran](#item-tech-news-219) ⭐️ ?/10
+220. [Multiple world records fall at Zurich Diamond League meet](#item-tech-news-220) ⭐️ ?/10
+221. [Corals show how El Nino is intensifying as the planet warms](#item-tech-news-221) ⭐️ ?/10
+222. [Hormuz oil flows rising as Gulf giants’ ramp-up gathers pace](#item-tech-news-222) ⭐️ ?/10
+223. [Anthropic tests new way for Claude to work with robots and scientific lab tools](#item-tech-news-223) ⭐️ ?/10
+224. [Cuba readies to kick off school year despite scant supplies](#item-tech-news-224) ⭐️ ?/10
+225. [Faster Tokyo inflation supports near-term BOJ rate hike case](#item-tech-news-225) ⭐️ ?/10
+226. [Japan to survey animal cafes over hygiene and welfare concerns](#item-tech-news-226) ⭐️ ?/10
+227. [Jets 球星海勒布克公开发布交易申请](#item-tech-news-227) ⭐️ ?/10
+228. [Sloppy Springboks look to clean up mistakes in second test against New Zealand](#item-tech-news-228) ⭐️ ?/10
+229. [Glacier collapse behind Nepal flood highlights region’s climate risk](#item-tech-news-229) ⭐️ ?/10
+230. [Real Madrid coach Jose Mourinho seeking more than goals from superstar Kylian Mbappe](#item-tech-news-230) ⭐️ ?/10
+231. [‘Numakage Public Pool’ documents the demise of a third space](#item-tech-news-231) ⭐️ ?/10
+232. [《我不认识你》：没有简单答案的人性戏剧](#item-tech-news-232) ⭐️ ?/10
+233. [Response Teams Focus on Locating Missing S. Korean Workers in Nepal Flood Zone](#item-tech-news-233) ⭐️ ?/10
+234. [Seoul Court Orders N. Korea to Pay 50 Million Won to Defector for Abuse, Torture](#item-tech-news-234) ⭐️ ?/10
+235. [演员金秀贤时隔 18 个月恢复韩国国内活动](#item-tech-news-235) ⭐️ ?/10
+236. [Seoul to Coordinate with Washington to Ensure US-N. Korea Dialogue Doesn’t Sideline S. Korea](#item-tech-news-236) ⭐️ ?/10
+237. [S. Korean Team in Nepal to Search for 9 Missing from Trishuli Construction Site](#item-tech-news-237) ⭐️ ?/10
+238. [Court Approves Rehabilitation Proceedings for JTBC](#item-tech-news-238) ⭐️ ?/10
+239. [Consortiums Led by SKT, KT, Kakao Selected to Build Public AI Service](#item-tech-news-239) ⭐️ ?/10
+240. [Gas, Diesel Prices Drop Again Friday](#item-tech-news-240) ⭐️ ?/10
+241. [S. Korea, US, Japan to Conduct ‘Freedom Edge’ Multidomain Exercise Next Month](#item-tech-news-241) ⭐️ ?/10
+242. [N. Korea Marks Completion of Railway Station in Wonsan-Kalma Tourist Zone](#item-tech-news-242) ⭐️ ?/10
+243. [Rapid Response Team in Nepal to Support Search for 9 Missing S. Koreans](#item-tech-news-243) ⭐️ ?/10
+244. [KOSPI Opens Down 0.95% Friday](#item-tech-news-244) ⭐️ ?/10
+245. [At Least 392 Dead, Some 1,500 Missing after Flash Floods in Nepal](#item-tech-news-245) ⭐️ ?/10
+246. [11 Sea Turtles Released into Waters off Jeju Island](#item-tech-news-246) ⭐️ ?/10
+247. [10 S. Koreans Stranded in Nepal Floods Safe, but Evacuation Could Take Time](#item-tech-news-247) ⭐️ ?/10
+248. [FM Seeks Nepal’s Help in Search for S. Koreans](#item-tech-news-248) ⭐️ ?/10
+249. [9 of 10 Stranded S. Koreans Rescued from Nepal Flood Zone](#item-tech-news-249) ⭐️ ?/10
+250. [韩国周五全国预报有雨，高温持续](#item-tech-news-250) ⭐️ ?/10
+251. [Top Court: Lack of Birth Registration Rules for Foreigners Born in S. Korea Unconstitutional](#item-tech-news-251) ⭐️ ?/10
+252. [Foreign Minister: S. Korea Might Send More Rescue Teams to Nepal](#item-tech-news-252) ⭐️ ?/10
+253. [Lee Calls for All-Out Efforts to Rescue S. Koreans Missing in Nepal Floods](#item-tech-news-253) ⭐️ ?/10
+254. [Ex-Special Forces Commander Gets 12 Years in Prison for Role in 2024 Martial Law Incident](#item-tech-news-254) ⭐️ ?/10
+255. [Jeju Police Chief Can’t Understand Why Officer Prematurely Closed Missing Persons Case](#item-tech-news-255) ⭐️ ?/10
+256. [KOSPI Up 1.53% Thursday](#item-tech-news-256) ⭐️ ?/10
+257. [Pour Xenia Fedorova, la chroniqueuse russe de CNews, une « cavale » très politique à l’étranger](#item-tech-news-257) ⭐️ ?/10
+258. [Présidentielle 2027 : le clivage gauche-droite s’impose en début de campagne sur les enjeux économiques](#item-tech-news-258) ⭐️ ?/10
+259. [En Ukraine, le blocage des ports de la mer Noire asphyxie les exportations de céréales](#item-tech-news-259) ⭐️ ?/10
+260. [Un soldat franco-colombien de la Légion étrangère française enlevé en Colombie par la guérilla](#item-tech-news-260) ⭐️ ?/10
+261. [LFI 议员 Delogu 因与警察冲突被羁押](#item-tech-news-261) ⭐️ ?/10
+262. [Arbres arrachés, routes inondées… Un violent orage s’abat sur l’Ile-de-France, provoquant des dégâts matériels et de fortes perturbations dans les transports](#item-tech-news-262) ⭐️ ?/10
+263. [La nouvelle révision du DPE va faire sortir plus de 300 000 logements du statut de « passoires thermiques »](#item-tech-news-263) ⭐️ ?/10
+264. [阿根廷众议院通过央行改革法案以遏制通胀](#item-tech-news-264) ⭐️ ?/10
+265. [2027 年法国总统竞选：沙隆展览会成候选人聚集地](#item-tech-news-265) ⭐️ ?/10
+266. [Des exercices militaires communs prévus en septembre entre les Etats-Unis, la Corée du Sud et le Japon, annonce Séoul](#item-tech-news-266) ⭐️ ?/10
+267. [Victor Wembanyama réussit ses retrouvailles avec le public parisien en guidant les Bleus vers un large succès](#item-tech-news-267) ⭐️ ?/10
+268. [Entre le cinéaste Arnaud Desplechin et l’acteur Hippolyte Girardot, une séduction réciproque](#item-tech-news-268) ⭐️ ?/10
+269. [La modernité futuriste de Pierre Paulin exposée à Montpellier](#item-tech-news-269) ⭐️ ?/10
+270. [French Foreign Legion soldier kidnapped in Colombia](#item-tech-news-270) ⭐️ ?/10
+271. [Champions League Draw: PSG to face Barcelona and Man City](#item-tech-news-271) ⭐️ ?/10
+272. [OpenAI, Anthropic join global call to strengthen cyber defences](#item-tech-news-272) ⭐️ ?/10
+273. [Kherson residents urged to leave as Russian attacks threaten power and heating](#item-tech-news-273) ⭐️ ?/10
+274. [US military faces ‘beyond critical’ shortage of Patriot missiles in Europe](#item-tech-news-274) ⭐️ ?/10
+275. [Nigeria: the lucrative business of kidnappings](#item-tech-news-275) ⭐️ ?/10
+276. [法国总统候选人首次电视辩论激烈交锋](#item-tech-news-276) ⭐️ ?/10
+277. [特朗普拟对 H-1B 签证雇主征收超 10 万美元费用](#item-tech-news-277) ⭐️ ?/10
+278. [UEFA moves to file criminal complaint against Infantino over failed FIFA sell-off](#item-tech-news-278) ⭐️ ?/10
+279. [Pakistan: Protests continue in Azad Kashmir despite repression and internet blackout](#item-tech-news-279) ⭐️ ?/10
+280. [&\#x27;National treasure: If we could all be like Dolly, the world would be a much better place&\#x27;](#item-tech-news-280) ⭐️ ?/10
+281. [&\#x27;Great public test&\#x27;: French presidential hopefuls to face off at business summit](#item-tech-news-281) ⭐️ ?/10
+282. [Exclusive - French astronaut describes climate change as seen from space](#item-tech-news-282) ⭐️ ?/10
+283. [An &\#x27;icon&\#x27; of contemporary art: A look back at the career of Yayoi Kusama](#item-tech-news-283) ⭐️ ?/10
+284. [&\#x27;Extremely challenging&\#x27; conditions hamper Nepal-Tibet flood rescue efforts](#item-tech-news-284) ⭐️ ?/10
+285. [Why were so many Indian pilgrims in Tibet during the Himalayan mudslide disaster?](#item-tech-news-285) ⭐️ ?/10
+286. [Ghana bars export of unrefined gold](#item-tech-news-286) ⭐️ ?/10
+287. [挪威国王哈康五世去世：终身担任国家凝聚者](#item-tech-news-287) ⭐️ ?/10
+288. [Leichtathletik: Europameister Owen Ansah beantragt Verfahren vor Sportschiedsgericht](#item-tech-news-288) ⭐️ ?/10
+289. [DAZN, Sky, Sat1, Sportschau: Hier sehen Sie die Bundesliga live im TV](#item-tech-news-289) ⭐️ ?/10
+290. [Flughafen Leipzig/Halle: Flugzeuge nach Drohnensichtung umgeleitet](#item-tech-news-290) ⭐️ ?/10
+291. [Spiegel kritisiert ARD-Serie »Selling Sex&quot;](#item-tech-news-291) ⭐️ ?/10
+292. [Mecklenburg-Vorpommern: Manuela Schwesig fordert Preisdeckel für Benzin](#item-tech-news-292) ⭐️ ?/10
+293. [Andrew und Tristan Tate: Influencer fordern Freilassung aus Gefängnis in Miami](#item-tech-news-293) ⭐️ ?/10
+294. [Bei Vollmond schlecht schlafen: Was ist dran?](#item-tech-news-294) ⭐️ ?/10
+295. [Germanwings-Absturz 2015 in den Alpen: Hinterbliebene verklagen Bundesrepublik auf Schadensersatz](#item-tech-news-295) ⭐️ ?/10
+296. [KI-Zentren: Was kann Deutschland aus den Protesten in den USA lernen?](#item-tech-news-296) ⭐️ ?/10
+297. [Donald Trump: Der Aufstand gegen KI-Rechenzentren wird zur Gefahr für den US-Präsidenten](#item-tech-news-297) ⭐️ ?/10
+298. [News: Konstruktives Misstrauensvotum in Thüringen, CDU und Linke, Friedrich Merz gegen Kinderärztin](#item-tech-news-298) ⭐️ ?/10
+299. [Wechseljahre und Ernährung: Wie Frauen Genuss und Körper neu entdecken](#item-tech-news-299) ⭐️ ?/10
+300. [Grillen: BBQ-Ideen – was Profiköche privat auf den Rost legen](#item-tech-news-300) ⭐️ ?/10
+301. [Südukraine: Gouverneur ruft Einwohner von Cherson zur Evakuierung auf](#item-tech-news-301) ⭐️ ?/10
+302. [Anthropic: US-Gericht stoppt Sperrung von KI-Unternehmen durch Pentagon](#item-tech-news-302) ⭐️ ?/10
+303. [Österreich: Deutscher Bergsteiger bekommt nach 63 Jahren seinen Rucksack zurück](#item-tech-news-303) ⭐️ ?/10
+304. [USA fordern Klartext von Nato-Partnern – und loben Deutschland](#item-tech-news-304) ⭐️ ?/10
+305. [Ärztekammer: Strafen für Menschen, die sich beim Facharzt vordrängeln](#item-tech-news-305) ⭐️ ?/10
+306. [价值数百万欧元的 673 颗钻石项链从维也纳博物馆被盗](#item-tech-news-306) ⭐️ ?/10
+307. [Frankreich: Sieben Bewerber im Präsidentschaftswahlkampf](#item-tech-news-307) ⭐️ ?/10
+308. [Gletscher in Österreich: Bergsteiger bekommt nach 63 Jahren seinen Rucksack zurück](#item-tech-news-308) ⭐️ ?/10
+309. [Deutsche Bahn erschwert Bahnbonus-Sammeln für Geschäftskunden](#item-tech-news-309) ⭐️ ?/10
+310. [SPD muss sparen: Arme Sozis](#item-tech-news-310) ⭐️ ?/10
+311. [Demographischer Wandel: Das hässliche Gesicht des Sozialstaats](#item-tech-news-311) ⭐️ ?/10
+312. [AfD und die Medien: Wie der „Stern“ dem Geschäft mit der AfD-Panik entkommen will](#item-tech-news-312) ⭐️ ?/10
+313. [Rentenreform: Und wer denkt an die Beitragszahler?](#item-tech-news-313) ⭐️ ?/10
+314. [Ratcliffe in Moskau: Ein Besuch der CIA schreckt Putin nicht ab](#item-tech-news-314) ⭐️ ?/10
+315. [Verfahren statt Boykott: Die UEFA eröffnet die nächste Runde](#item-tech-news-315) ⭐️ ?/10
+316. [KfW-Stiftung entfernt Grzimek-Namen vom Naturschutzpreis](#item-tech-news-316) ⭐️ ?/10
+317. [Klimawandel: Sommer zeigt Wirkung, aber Handeln bleibt aus](#item-tech-news-317) ⭐️ ?/10
+318. [德国对科技巨头耐心下降：Meta 被要求更好保护青少年](#item-tech-news-318) ⭐️ ?/10
+319. [Fußball-Transferticker: Weltmeister Palacios verlässt Leverkusen](#item-tech-news-319) ⭐️ ?/10
+320. [Geldsorgen: Wie die SPD aus der Not eine Tugend machen will](#item-tech-news-320) ⭐️ ?/10
+321. [Liveblog Irankrieg: Gipfel zur Straße von Hormus wird verschoben](#item-tech-news-321) ⭐️ ?/10
+322. [Russische Frontstadt: Ein Kandidat gegen Putins Krieg](#item-tech-news-322) ⭐️ ?/10
+323. [CIA-Direktor in Moskau: Eine Warnung an den russischen Präsidenten](#item-tech-news-323) ⭐️ ?/10
+324. [F.A.Z. exklusiv: Die Stimmung im Handwerk rutscht ab](#item-tech-news-324) ⭐️ ?/10
+325. [Business-Ticker: Betreiberin der Deko-Kette Depot kündigt alle Verträge](#item-tech-news-325) ⭐️ ?/10
+326. [„Dies ist nur ein Test“: Ransomware-Hacker tricksen KI-Sicherheitssysteme aus](#item-tech-news-326) ⭐️ ?/10
+327. [Germanwings-Gerichtsfall: Hinterbliebene verklagen den Staat](#item-tech-news-327) ⭐️ ?/10
+328. [Prince-Album „Timeless“: B-Seiten? Ich höre wohl nicht richtig\!](#item-tech-news-328) ⭐️ ?/10
+329. [Analyse zu Transitionsplänen: Deutsche Unternehmen sind keine Klimapioniere](#item-tech-news-329) ⭐️ ?/10
+330. [Helaba: Gewinnrückgang wegen Immobiliengeschäft](#item-tech-news-330) ⭐️ ?/10
+331. [Kontaktloses Bezahlen: Die Girocard soll mehr wie eine Kreditkarte werden](#item-tech-news-331) ⭐️ ?/10
+332. [德国人均黄金持有量首次突破万亿欧元](#item-tech-news-332) ⭐️ ?/10
+333. [Raritäten der Klaviermusik: Die Frau schrieb weder trivial noch süßlich](#item-tech-news-333) ⭐️ ?/10
+334. [柏林附近学校发生暴力事件致两人死亡](#item-tech-news-334) ⭐️ ?/10
+335. [Rhein-Main-Liveblog: Umgestürzte Bäume und abgedeckte Dächer nach Gewittern](#item-tech-news-335) ⭐️ ?/10
+336. [Neue Mehrheit: Durchmarsch mit Brautstrauß](#item-tech-news-336) ⭐️ ?/10
+337. [Mathildenhöhe Darmstadt: Stadtparlament befürwortet Baustopp für Besucherzentrum](#item-tech-news-337) ⭐️ ?/10
+338. [Zwei Jahre mit Fenix 8: Gut gelaufen?](#item-tech-news-338) ⭐️ ?/10
+339. [Genesis GV90: Klotzen mit Sesam](#item-tech-news-339) ⭐️ ?/10
+340. [Erneuerbare Energien: Solare Landschaften](#item-tech-news-340) ⭐️ ?/10
+341. [Besser Schlafen: Vergesst die Acht-Stunden-Regel](#item-tech-news-341) ⭐️ ?/10
+342. [Правительство РФ рассматривает контроль за оборотом нефтепродуктов](#item-tech-news-342) ⭐️ ?/10
+343. [Трамп составил рейтинг президентов США, назвав себя величайшим из них.](#item-tech-news-343) ⭐️ ?/10
+344. [Токаев подписал указ об отставке правительства Казахстана, сообщила пресс-служба](#item-tech-news-344) ⭐️ ?/10
+345. [❗️Посольство РФ в Непале не получало новых данных о россиянах в зоне бедствия, з](#item-tech-news-345) ⭐️ ?/10
+346. [🚨 В течение прошедшей ночи над регионами РФ перехвачены и уничтожены 512 украинс](#item-tech-news-346) ⭐️ ?/10
+347. [Россия успешно противодействует работе системы Starlink, которую используют ВСУ,](#item-tech-news-347) ⭐️ ?/10
+348. [В работе &quot;Википедии&quot; с полуночи продолжают наблюдаться сбои в РФ, свидетельствую](#item-tech-news-348) ⭐️ ?/10
+349. [Lugard Road Lookout at Victoria Peak.](#item-tech-news-349) ⭐️ ?/10
+350. [印尼卡皮斯布鲁瀑布](#item-tech-news-350) ⭐️ ?/10
 
 **AI 创作者雷达**
-1. [OpenAI 发布千人大样本研究：ChatGPT 与批判性思维训练对学业表现的影响](#item-ai-creator-1) ⭐️ 8.0/10
-2. [Tracking AI progress across 18 cognitive dimensions \(ADeLe scales\)](#item-ai-creator-2) ⭐️ 7.0/10
-3. [Misaligned models rate themselves as more harmful, and realignment reverses it](#item-ai-creator-3) ⭐️ 7.0/10
-4. [Has Social Media For Children Just Changed Forever?](#item-ai-creator-4) ⭐️ 7.0/10
-5. [From Tamagotchi to Plarail, Tokyo Toy Show kicks off](#item-ai-creator-5) ⭐️ 3.0/10
-6. [China’s ‘Ethnic Unity’ law is already harming Uyghurs](#item-ai-creator-6) ⭐️ 3.0/10
-7. [Malign initializations are more robust when the model can think better in the reasoning language than in the output language](#item-ai-creator-7) ⭐️ 2.0/10
-8. [10 版 -  地铁小角落  便民纳凉处（民生一线）](#item-ai-creator-8) ⭐️ 2.0/10
-9. [Mord an Gabby Petito: „Die Beamten haben die Geste offenbar nicht erkannt“](#item-ai-creator-9) ⭐️ 2.0/10
-10. [Ost-West-Debatte: Die westdeutsche Solidarität ist keine Illusion](#item-ai-creator-10) ⭐️ 2.0/10
-11. [Romantikmuseum in Paris: Blumen im Haar, Wolken am Himmel](#item-ai-creator-11) ⭐️ 2.0/10
-12. [Sammler Joop van Caldenborgh: Wer seinen Augen traut, wird von der Kunst bewegt](#item-ai-creator-12) ⭐️ 2.0/10
-13. [15 版 -  本版责编：王  慧  黄发红](#item-ai-creator-13) ⭐️ 1.0/10
-14. [King &\#x27;heartbroken&\#x27; by deadly Nepal flash floods](#item-ai-creator-14) ⭐️ 1.0/10
-15. [《人民日报》报道上合组织人文交流：与 AI 无关](#item-ai-creator-15) ⭐️ 0.0/10
-16. [Why does Claude seem to make abstract things into actors?](#item-ai-creator-16) ⭐️ ?/10
+1. [Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training](#item-ai-creator-1) ⭐️ 7.0/10
+2. [Claude 为何把抽象概念拟人化？](#item-ai-creator-2) ⭐️ 5.0/10
+3. [Nepal flash floods: 1,300+ missing, including Americans, Canadians, Brits](#item-ai-creator-3) ⭐️ 5.0/10
+4. [上合组织人文交流成果综述](#item-ai-creator-4) ⭐️ 3.0/10
+5. [05 版 -  携手向前，成就中国创造（人民时评）](#item-ai-creator-5) ⭐️ 2.0/10
+6. [WATCH:  Inside the largest private collection of Dolly Parton memorabilia](#item-ai-creator-6) ⭐️ 2.0/10
+7. [Einspruch Exklusiv: „Oh Gott, was wird jetzt aus meiner Karriere?“](#item-ai-creator-7) ⭐️ 2.0/10
+8. [04 版 -  受灾群众转移安置工作有序开展](#item-ai-creator-8) ⭐️ 1.0/10
+9. [18 版 -  “烘焙村”里糕饼香（美丽乡村我的家）](#item-ai-creator-9) ⭐️ 1.0/10
+10. [西雅图风暴队实现 11 岁女孩愿望](#item-ai-creator-10) ⭐️ 1.0/10
+11. [Ost-West-Debatte: Die westdeutsche Solidarität ist keine Illusion](#item-ai-creator-11) ⭐️ 1.0/10
+12. [退休药剂师抗癌 18 年，陪伴 2000 多名病友](#item-ai-creator-12) ⭐️ 0.0/10
+13. [邱华栋书评：《棉花与云朵》](#item-ai-creator-13) ⭐️ 0.0/10
+14. [Hanson tells star One Nation candidate to stop speaking Japanese – as it happened](#item-ai-creator-14) ⭐️ 0.0/10
+15. [钻石联赛苏黎世站：40 分钟内两破跨栏世界纪录](#item-ai-creator-15) ⭐️ 0.0/10
+16. [Hypermobility - the little-known &\#x27;bendy disease&\#x27; that causes pain and fatigue](#item-ai-creator-16) ⭐️ ?/10
+17. [金泽市消防部门提醒：不要整理急救人员脱下的鞋子](#item-ai-creator-17) ⭐️ ?/10
+18. [英国湿地修复奇迹：黑颈䴙䴘种群重现切郡](#item-ai-creator-18) ⭐️ ?/10
 
 **科技博客**
-1. [AI Village Reacts to HuggingFace Incident: Comparing the OpenAI report to AI Village observations](#item-tech-blog-1) ⭐️ 5.0/10
-2. [15 版 -  当 AI“善解人意”，请多一分清醒（科技大观）](#item-tech-blog-2) ⭐️ 3.0/10
-3. [„Dies ist nur ein Test“: Ransomware-Hacker tricksen KI-Sicherheitssysteme aus](#item-tech-blog-3) ⭐️ 1.0/10
-4. [Fotos von Barbara Klemm: Zeitbilder, die ins Heute weisen](#item-tech-blog-4) ⭐️ 1.0/10
-5. [One Night Only – eine Filmkomödien-Rezension](#item-tech-blog-5) ⭐️ 0.0/10
-6. [Prince 新专辑 Timeless 简介](#item-tech-blog-6) ⭐️ 0.0/10
-7. [FAZ 竞争&quot;Weiter gedacht&quot;公告](#item-tech-blog-7) ⭐️ 0.0/10
-8. [Warning Shots: A Theory](#item-tech-blog-8) ⭐️ ?/10
+1. [脑保存作为存在性风险的对冲策略](#item-tech-blog-1) ⭐️ 6.0/10
+2. [AI 的非服务偏好未必致命](#item-tech-blog-2) ⭐️ 5.0/10
+3. [龙井苹果梨：从荒山到全产业链](#item-tech-blog-3) ⭐️ 3.0/10
+4. [德国球队欧冠附加赛对手揭秘](#item-tech-blog-4) ⭐️ 1.0/10
+5. [人民日报版面元数据](#item-tech-blog-5) ⭐️ 0.0/10
+6. [20 版 -  道德进步不是天真的幻想](#item-tech-blog-6) ⭐️ 0.0/10
+7. [historiker Michael Sommer: Der Professor, der die Antike zum Bestseller macht](#item-tech-blog-7) ⭐️ 0.0/10
+8. [Genealogie der KI: Der Zwerg reinigt die Kittel](#item-tech-blog-8) ⭐️ 0.0/10
+9. [Spanischer Museumsgoldfund gestohlen](#item-tech-blog-9) ⭐️ 0.0/10
+10. [Warning Shots: A Theory](#item-tech-blog-10) ⭐️ ?/10
+11. [Malign initializations are more robust when the model can think better in the reasoning language than in the output language](#item-tech-blog-11) ⭐️ ?/10
+12. [There Is a Sickness Worse Than Wokeness](#item-tech-blog-12) ⭐️ ?/10
+13. [Weekly quiz: Who is taking over as Gilderoy Lockhart in HBO&\#x27;s Harry Potter series?](#item-tech-blog-13) ⭐️ ?/10
+14. [Former British-Israeli Hamas hostage married in Tel Aviv](#item-tech-blog-14) ⭐️ ?/10
+15. [蒂姆·克里：银幕变形记](#item-tech-blog-15) ⭐️ ?/10
 
 ---
 
 ## 财经新闻
 
 <a id="item-finance-news-1"></a>
-### [Trump signs order to rename Lake Ontario as Lake America](https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&amp;at_campaign=rss) ⭐️ 9.0/10
+### [Judge Once Again Bars Postal Service From Restricting Mail-In Vote](https://www.nytimes.com/2026/08/27/us/politics/judge-postal-service-mail-ballots.html) ⭐️ 9.0/10
 
-President Trump signed an executive order renaming Lake Ontario to Lake America following the collapse of US-Canada trade talks.
+A federal judge has again prohibited the Postal Service from enforcing new restrictions on mail-in voting after reviewing its compliance plan with presidential directives.
 
-rss · BBC\(British Broadcasting Corporation\) · 8月27日 23:14
+rss · 纽约时报\(The New York Times\) · 8月28日 03:53
 
-**标签**: `#US-Canada relations`, `#Executive orders`, `#Trade policy`, `#Diplomacy`
+**标签**: `#election administration`, `#judicial review`, `#postal policy`, `#voting rights`, `#federal regulation`
 
 ---
 
 <a id="item-finance-news-2"></a>
-### [Liveblog Irankrieg: Gipfel zur Straße von Hormus – ohne die USA](https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-gipfel-zur-strasse-von-hormus-in-istanbul-ohne-die-usa-faz-200583539.html) ⭐️ 9.0/10
+### [Nepal und TIbet: Weiter Hunderte Vermisste nach verheerender Sturzflut](https://www.faz.net/aktuell/gesellschaft/ungluecke/sturzflut-in-nepal-und-tibet-usa-sprechen-von-90-vermissten-wohl-auch-acht-deutsche-verschollen-accg-201162968.html) ⭐️ 9.0/10
 
-A German-Turkish initiative-hosted summit on the Strait of Hormus convenes in Istanbul without US participation as Iran labels US sanctions as economic terrorism and shipping traffic falls below ten-day averages.
+A catastrophic flash flood in Nepal and Tibet has killed at least 390 people and left hundreds missing, including dozens of foreigners.
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 17:30
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 16:50
 
-**标签**: `#geopolitics`, `#energy markets`, `#international relations`, `#trade routes`, `#sanctions`
+**标签**: `#Natural Disaster`, `#Casualties`, `#Nepal`, `#Tibet`, `#Humanitarian Crisis`
 
 ---
 
 <a id="item-finance-news-3"></a>
-### [Russia says UK ‘playing with fire’ amid reports CIA chief has warned Kremlin not to attack Nato](https://www.theguardian.com/world/2026/aug/27/britain-ukraine-war-russia) ⭐️ 8.0/10
+### [F.A.Z. Podcast für Deutschland: „Wir werden angegriffen“- Kanada erklärt USA den Handelskrieg](https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/faz-podcast-wir-werden-angegriffen-kanada-erklaert-usa-den-handelskrieg-201163690.html) ⭐️ 8.0/10
 
-Russia warns of retaliation after the UK and France agree to supply Ukraine with technology for long-range missile production amid CIA warnings against attacking NATO.
+A F.A.Z. podcast discusses the failed US-Canada trade negotiations and Canada&\#x27;s declaration of a trade war, featuring interviews with the mayor of Windsor and the head of the German-Canadian Chamber of Commerce.
 
-rss · 卫报\(The Guardian\) · 8月27日 19:26
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 14:55
 
-**标签**: `#geopolitics`, `#military policy`, `#international relations`, `#defense`, `#Russia-Ukraine war`
+**标签**: `#international trade`, `#US-Canada relations`, `#trade war`, `#economic policy`, `#market disruption`
 
 ---
 
 <a id="item-finance-news-4"></a>
-### [07 版 -  拓展国际经贸互利合作空间](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177666.html) ⭐️ 7.0/10
+### [06 版 -  把“紧日子”过出“高效能”](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177659.html) ⭐️ 7.0/10
 
-China&\#x27;s 2026 policy push to expand international trade cooperation features expanded zero-tariff access, strong service and goods import growth, and sustained foreign investment engagement through platforms like the CIIE.
+A People&\#x27;s Daily report on China&\#x27;s fiscal science management pilot showing cross-departmental asset sharing and budget reforms that have saved billions in public funds while strengthening grassroots financial guarantees.
 
 rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
 
-**标签**: `#international trade policy`, `#service trade growth`, `#tariff reduction`, `#foreign investment`, `#China economy`
+**标签**: `#fiscal policy`, `#government budget`, `#public administration`, `#China economy`
 
 ---
 
 <a id="item-finance-news-5"></a>
-### [Judge Once Again Bars Postal Service From Restricting Mail-In Vote](https://www.nytimes.com/2026/08/27/us/politics/judge-postal-service-mail-ballots.html) ⭐️ 7.0/10
+### [Trump Administration to Expand Deportation Flights to Haiti](https://www.nytimes.com/2026/08/27/us/politics/haiti-deportation-flights.html) ⭐️ 7.0/10
 
-A federal judge has blocked the U.S. Postal Service from implementing new restrictions on mail-in voting after reviewing the agency&\#x27;s compliance plan with presidential directives.
+The Trump administration will increase deportation flights to Haiti from monthly to weekly after the Supreme Court permitted the cancellation of a humanitarian program.
 
-rss · 纽约时报\(The New York Times\) · 8月28日 03:53
+rss · 纽约时报\(The New York Times\) · 8月27日 21:14
 
-**标签**: `#election administration`, `#postal policy`, `#voting rights`, `#judicial review`, `#U.S. politics`
+**标签**: `#immigration policy`, `#Haiti`, `#Supreme Court`, `#deportation`, `#US politics`
 
 ---
 
 <a id="item-finance-news-6"></a>
-### [Canadian retailers scramble to deal with ‘staggering’ U.S. tariffs](https://www.washingtonpost.com/nation/2026/08/27/canadian-retailers-scramble-deal-with-staggering-us-tariffs/) ⭐️ 7.0/10
+### [Energieversorgung: Kabinett beschließt Pläne zur Regulierung von Fernwärme](https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/kabinett-beschliesst-plaene-zur-regulierung-von-fernwaerme-accg-201163815.html) ⭐️ 6.0/10
 
-Canadian retailers are implementing strategies such as blocking affected products for U.S. online shoppers in response to new U.S. tariffs.
+The German government has approved key points of a district-heating network package aimed at easing expansion and improving price transparency for consumers.
 
-rss · 华盛顿邮报\(The Washington Post\) · 8月27日 19:00
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 08:45
 
-**标签**: `#trade policy`, `#tariffs`, `#Canadian retail`, `#cross-border commerce`, `#small business`
+**标签**: `#Energy policy`, `#Regulation`, `#Consumer protection`, `#Climate policy`, `#Germany`
 
 ---
 
 <a id="item-finance-news-7"></a>
-### [Wärmenetze: Kosten für Fernwärme sollen überwacht werden](https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/energie-heizung/fernwaerme-preisaufsicht-und-sonderkuendigungsrecht-geplant-201164727.html) ⭐️ 7.0/10
+### [03 版 -  王毅会见美国驻华大使庞德伟](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177637.html) ⭐️ 5.0/10
 
-Germany plans new price supervision and a special cancellation right for expensive district heating, affecting tenants and landlords.
+Chinese Foreign Minister Wang Yi met with US Ambassador to China Pond Weaver to discuss promoting constructive strategic stability in bilateral relations.
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 12:54
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
 
-**标签**: `#energy regulation`, `#housing policy`, `#consumer protection`, `#district heating`, `#German economy`
+**标签**: `#Diplomacy`, `#China-US Relations`, `#Foreign Policy`
 
 ---
 
 <a id="item-finance-news-8"></a>
-### [03 版 -  “2026·中国—南非人权研讨会”在浙江杭州举办](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177639.html) ⭐️ 5.0/10
+### [奥地利国民议会议长将于 8 月下旬访华](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177640.html) ⭐️ 5.0/10
 
-China and South Africa held a human rights seminar in Hangzhou discussing development rights and governance, with a reference to China&\#x27;s zero-tariff policy benefiting South African manufacturing.
+新华社报道，应全国人大常委会委员长赵乐际邀请，奥地利国民议会议长罗森克兰茨将于 8 月 29 日至 9 月 4 日率团访华。
 
 rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
 
-**标签**: `#China-Africa trade policy`, `#tariff policy`, `#human rights diplomacy`, `#South Africa manufacturing`, `#economic dialogue`
+**「背景」** 这是一次例行外交安排，中奥双方通过高层互动维持双边关系，此次访问由中方发出邀请。
+
+**标签**: `#Diplomacy`, `#Foreign Affairs`, `#Trade Policy`
 
 ---
 
 <a id="item-finance-news-9"></a>
-### [04 版 -  最大限度争取救援主动](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177642.html) ⭐️ 5.0/10
+### [04 版 -  7 月全国查处违反中央八项规定精神问题 27995 起](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177643.html) ⭐️ 5.0/10
 
-A government dispatch covering multi-agency rescue operations after a debris flow in Gyirong County, Tibet, with a single sentence on PBOC financial support.
+China reported 27,995 cases of violations of the central eight-point regulation in July 2026, with detailed breakdowns by category and official rank.
 
 rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
 
-**标签**: `#disaster relief`, `#monetary policy`, `#emergency response`, `#China`, `#infrastructure`
+**标签**: `#anti-corruption`, `#Chinese government policy`, `#regulatory enforcement`, `#monthly statistics`, `#governance`
 
 ---
 
 <a id="item-finance-news-10"></a>
-### [16 版 -  康师傅成立 34 年  倾力打造民族品牌高质量发展样本](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177697.html) ⭐️ 5.0/10
+### [09 版 -  推动人文经济高质量发展（专题深思）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177672.html) ⭐️ 5.0/10
 
-A People&\#x27;s Daily feature on Brand Kongshifu&\#x27;s 34-year development, highlighting H1 2026 earnings growth, public-welfare initiatives, product innovation, and supply-chain sustainability efforts.
+A policy-oriented essay outlining how to advance high-quality economic development by integrating cultural resources, technology, and institutional reforms.
 
 rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
 
-**标签**: `#Corporate Earnings`, `#Brand Profile`, `#Corporate Social Responsibility`, `#Food &amp; Beverage Industry`, `#Chinese Economy`
+**标签**: `#policy analysis`, `#cultural economy`, `#theoretical commentary`, `#China economic development`
 
 ---
 
 <a id="item-finance-news-11"></a>
-### [UK urged to help free British-Egyptian ‘arrested in Cairo over sister’s activism’](https://www.theguardian.com/world/2026/aug/27/uk-urged-to-help-free-british-egyptian-arrested-in-cairo-over-sisters-activism) ⭐️ 5.0/10
+### [人民日报评论：延伸农业产业链带动农民增收](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177701.html) ⭐️ 5.0/10
 
-UK diplomats are urged to intervene after a British-Egyptian woman was arrested in Cairo, allegedly as leverage against her sister&\#x27;s political activism.
+人民日报发表评论称，通过精深加工与产业融合延伸农业链条是提升农产品附加值的有效路径。文章引用数据称，今年上半年全国规模以上农副食品加工业增加值同比增长 4.8%；江苏盱眙县小龙虾产业总产值已超 400 亿元。
 
-rss · 卫报\(The Guardian\) · 8月27日 08:00
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
 
-**标签**: `#Consular Affairs`, `#Human Rights`, `#UK-Egypt Relations`, `#Legal Proceedings`, `#Geopolitical Risk`
+**「背景」** 该评论强调改变农业单纯“卖原料”的传统模式，主张通过补齐冷链、物流及品牌短板，实现从初级产品向深加工产品的转变，并将产业链收益更多惠及农民群体。
+
+**标签**: `#agricultural policy`, `#rural industry development`, `#food processing`, `#rural economy`, `#value-chain extension`
 
 ---
 
 <a id="item-finance-news-12"></a>
-### [The cowboy clinics selling unproven longevity treatments](https://www.ft.com/content/007e0862-ffe7-4b8f-a540-05a19d1a45dc?syn-25a6b1a6=1) ⭐️ 5.0/10
+### [中华全国总工会部署 2026 年防暑降温专项行动](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177705.html) ⭐️ 5.0/10
 
-A Financial Times investigation highlights a US market for unproven stem cell longevity therapies, with experts warning of the associated dangers.
+中华全国总工会 8 月印发通知部署 2026 年“工会送清凉”专项行动，各地配套出台举措推动防暑降温政策落地。
 
-rss · 金融时报\(Financial Times\) · 8月28日 04:00
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
 
-**标签**: `#Healthcare Regulation`, `#Consumer Protection`, `#Medical Therapies`, `#Investigative Journalism`
+**「政策背景」** 《防暑降温措施管理办法》规定，日最高气温达到 40 摄氏度以上应停止当日室外露天作业，37 至 40 摄氏度需限制作业时间，35 至 37 摄氏度应缩短连续作业时间，未将温度降至 33 摄氏度以下的室内劳动者也纳入高温津贴保障范围。
+
+**标签**: `#labor policy`, `#occupational health`, `#public administration`, `#workers&\#x27; rights`, `#human resources`
 
 ---
 
 <a id="item-finance-news-13"></a>
-### [Number of asylum seekers living in hotels across UK halves in a year](https://www.theguardian.com/uk-news/2026/aug/27/number-of-asylum-seekers-living-in-hotels-across-uk-halves-within-a-year) ⭐️ 5.0/10
+### [美国国债突破 40 万亿美元，政治反应平淡](https://www.nytimes.com/2026/08/27/us/politics/national-debt-trump-reaction.html) ⭐️ 5.0/10
 
-UK hotel housing for asylum seekers halved in a year to about 16,000 as the government shifted some people to private rentals, alongside a reported decline in small boat arrivals.
+美国国债总额已突破 40 万亿美元大关，但政客和公众对此表现出相对漠然，反映出赤字支出政治环境的根本性转变。
 
-rss · 观察家报\(The Observer\) · 8月27日 15:31
+rss · 纽约时报\(The New York Times\) · 8月27日 21:15
 
-**标签**: `#Asylum policy`, `#UK migration statistics`, `#Home Office data`, `#Small boat crossings`, `#Public accommodation`
+**「背景」** 过去，国债规模的扩大往往会引发强烈的政治争论和财政保守派的警惕；如今，跨党派对赤字财政的容忍度显著提高，使得这一里程碑事件未激起实质性的政策行动。
+
+**标签**: `#national debt`, `#fiscal policy`, `#deficit spending`, `#U.S. economy`, `#political indifference`
 
 ---
 
 <a id="item-finance-news-14"></a>
-### [Andy Burnham’s autumn of pain– podcast](https://www.theguardian.com/politics/audio/2026/aug/27/andy-burnhams-autumn-of-pain-podcast) ⭐️ 5.0/10
+### [F.A.Z. Frühdenker: Nähert sich Island der Europäischen Union an?](https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/naehert-sich-island-der-europaeischen-union-an-f-a-z-fruehdenker-201166293.html) ⭐️ 5.0/10
 
-A Guardian podcast examining the tough political and economic decisions facing UK Prime Minister Andy Burnham in his first month, including possible insolvency law changes for utilities.
+A brief podcast overview noting Iceland’s referendum on resuming EU accession talks alongside unrelated news about Thuringia and German football.
 
-rss · 观察家报\(The Observer\) · 8月27日 14:31
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 04:23
 
-**标签**: `#UK Politics`, `#Fiscal Policy`, `#Energy Regulation`, `#Insolvency Law`, `#Economic Policy`
+**标签**: `#EU enlargement`, `#Iceland`, `#referendum`, `#policy`, `#podcast`
 
 ---
 
 <a id="item-finance-news-15"></a>
-### [Inditex 旗下 Lefties 以机器人门店入驻英国，瞄准 Primark](https://www.theguardian.com/business/2026/aug/27/zara-cut-price-lefties-uk-rival-primark) ⭐️ 5.0/10
+### [Rhein-Main-Feierabendbriefing: Rund 1000 neue Jobs bei Rheinmetall in Kassel](https://www.faz.net/podcasts/rhein-main-feierabendbriefing/rheinmetall-schafft-neue-arbeitsplaetze-in-kassel-201165104.html) ⭐️ 5.0/10
 
-Zara 所有者 Inditex 以机器人辅助门店入驻英国市场。Lefties 首店落地利物浦，旨在与 Primark、Shein 及超市竞争。
+A FAZ podcast episode highlights Rheinmetall&\#x27;s investment and creation of approximately 1000 new jobs in Kassel alongside other regional news.
 
-rss · 观察家报\(The Observer\) · 8月27日 14:00
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 15:00
 
-**「背景」** 该品牌此前已在英国上线网站，此次实体店开业标志其正式进入英国折扣时尚零售领域。
-
-**标签**: `#Retail`, `#Corporate Expansion`, `#Market Competition`, `#Fast Fashion`, `#UK Economy`
+**标签**: `#Corporate Investment`, `#Employment`, `#Local Economy`, `#Defense Industry`
 
 ---
 
 <a id="item-finance-news-16"></a>
-### [泰晤士水务试水期间永久性化学物质超标 13 倍](https://www.theguardian.com/environment/2026/aug/27/forever-chemicals-london-thames-water) ⭐️ 5.0/10
+### [中非人权研讨会在杭州举行](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177639.html) ⭐️ 3.0/10
 
-泰晤士水务（Thames Water）在伦敦西南部的一项抗旱海水淡化循环计划试点期间，水中有毒的“永久性化学物质”（PFAS）水平升至法定限值的 13 倍。该结果与该水务公司此前声称该项目不会危害河流环境的说法相矛盾。
+“2026·中国—南非人权研讨会”8 月 27 日在浙江杭州举办，围绕中非经贸合作、绿色转型和社会治理现代化等议题研讨。自今年 5 月 1 日起，中国对 53 个非洲建交国全面实施零关税举措。
 
-rss · 观察家报\(The Observer\) · 8月27日 05:00
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
 
-**「背景」** 该试点方案计划在干旱期间从泰晤士河抽取数千万升水，并注入经处理的污水进行循环。PFAS 被称为“永久性化学物质”，因其在环境中难以降解且可能对人体有害而备受关注。
+**「背景」** 中国对 53 个非洲建交国实施的零关税举措自今年 5 月 1 日起施行，8 月 8 日迎来 100 天。该举措将肯尼亚咖啡、南非红酒等此前适用 8%至 30%不等的进口关税降至零，为非洲产品进入中国市场创造条件。本次在杭州举办的人权研讨会以“共同现代化与人权发展”为主题，覆盖经贸合作、绿色转型与社会治理等议题。
 
-**标签**: `#environmental regulation`, `#utilities`, `#water quality`, `#corporate accountability`, `#public health risk`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://cn.chinadiplomacy.org.cn/2026-08/08/content_118639743.shtml">赋能发展 推动共赢——“零关税”百日见证中非合作新气象_习近平外交思想和新时代中国外交</a></li>
+
+</ul>
+</details>
+
+**标签**: `#human rights`, `#China-Africa relations`, `#trade policy`, `#diplomatic seminar`
 
 ---
 
 <a id="item-finance-news-17"></a>
-### [Analyse zu Transitionsplänen: Deutsche Unternehmen sind keine Klimapioniere](https://www.faz.net/aktuell/finanzen/deutsche-unternehmen-sind-keine-klimapioniere-201164336.html) ⭐️ 5.0/10
+### [进步派批评亲以色列民主党人执掌众议院中东小组委员会](https://www.nytimes.com/2026/08/27/us/politics/democrats-progressives-moskowitz-israel-house-panel.html) ⭐️ 3.0/10
 
-An Oddo BHF analysis indicates German companies have significant catching up to do in climate transition planning.
+进步派民主党人批评亲以色列的众议员贾里德·莫斯科维茨（Jared Moskowitz）被任命为众议院中东政策小组委员会的高级民主党成员，认为这凸显了民主党在以色列问题上的内部分歧。
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 14:14
+rss · 纽约时报\(The New York Times\) · 8月27日 21:10
 
-**标签**: `#corporate sustainability`, `#climate policy`, `#German business`, `#ESG`
+**「背景」** 美国民主党内部在对待以色列的政策立场上存在显著分歧，进步派翼往往对以色列政府持更批评的态度。
+
+**标签**: `#US politics`, `#Democratic Party`, `#Israel policy`, `#congressional appointments`
 
 ---
 
 <a id="item-finance-news-18"></a>
-### [Helaba 利润因房贷业务大幅下降](https://www.faz.net/aktuell/finanzen/helaba-ergebnis-bricht-ein-wegen-immobiliengeschaeft-201164169.html) ⭐️ 5.0/10
+### [加拿大官员称法语问题或重启贸易谈判](https://www.nytimes.com/2026/08/27/world/canada/trade-war-french-language.html) ⭐️ 3.0/10
 
-德国州立银行 Helaba 因房地产业务受损，全年盈利出现大幅下降，且无法维持原有的年度利润预测。
+加拿大负责美国贸易的官员表示，在法语议题上展现灵活性可能成为重启与美贸易谈判的关键。目前美国贸易代表 Jamieson Greer 的相关评论尚未涉及具体细节。
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 13:08
+rss · 纽约时报\(The New York Times\) · 8月27日 21:47
 
-**「背景」** Helaba 近年来在住房抵押贷款及房地产相关业务上的风险敞口扩大，导致账面损失增加并迫使银行调整经营策略。
+**「背景」** 加拿大与美国正处于贸易谈判僵局中，美国贸易代表杰米森·格里尔此前曾就法语语言及文化保护问题对加拿大施加压力，甚至暗示可能将安大略湖更名为“美洲湖”，但近期态度出现缓和。
 
-**标签**: `#Banking`, `#Real Estate`, `#Corporate Earnings`, `#Germany`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nytimes.com/2026/08/27/world/canada/trade-war-french-language.html">Yielding on French Could Restart Trade Talks , Canadian Officials Say</a></li>
+<li><a href="https://www.aljazeera.com/economy/2026/8/27/canada-welcomes-us-shift-on-french-language-discoverability-in-trade-talks">Canada welcomes US shift on French language ... | Al Jazeera</a></li>
+<li><a href="https://www.bnnbloomberg.ca/tariffs/2026/08/25/i-love-french-canadians-trump-says-as-he-considers-renaming-lake-ontario-to-lake-america-follow-for-live-updates/">Canada - U . S . tariffs news: Trump says he love French Canadians</a></li>
+
+</ul>
+</details>
+
+**标签**: `#trade policy`, `#Canada-U.S. relations`, `#diplomacy`, `#incomplete report`
 
 ---
 
 <a id="item-finance-news-19"></a>
-### [德国 Girocard 交易创半年新高，即将支持线上预订](https://www.faz.net/aktuell/finanzen/girocard-bald-auch-fuer-mietwagen-und-hotelreservierungen-accg-201156642.html) ⭐️ 5.0/10
+### [Tate brothers blast US jail conditions as they seek bail in UK extradition fight](https://www.bbc.co.uk/news/articles/c9v9nndjznvo?at_medium=RSS&amp;at_campaign=rss) ⭐️ 3.0/10
 
-德国借记卡 Girocard 在上半年被使用了 42.1 亿次，创下历史新高；据悉该平台即将扩展功能，支持应用程序支付以及酒店和租车预订。
+The Tate brothers&\#x27; legal team argued in a Miami court that they are not a flight risk while seeking bail in their UK extradition fight.
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 10:59
+rss · BBC\(British Broadcasting Corporation\) · 8月28日 01:43
 
-**「背景」** Girocard 是德国本土广泛使用的借记卡系统，以往主要用于线下实体支付，此次升级旨在缩小其与信用卡在场景覆盖上的差距。
-
-**「影响」** 这项变化将直接便利德国消费者的日常在线消费及旅行预订，减少用户对信用卡的依赖，但主要影响局限于支付体验的优化。
-
-**标签**: `#payments`, `#debit cards`, `#fintech adoption`, `#consumer finance`, `#Germany`
+**标签**: `#legal`, `#extradition`, `#high-profile case`, `#court proceedings`
 
 ---
 
 <a id="item-finance-news-20"></a>
-### [F.A.Z.-exklusiv: Der Goldbesitz der Deutschen übersteigt die Billionengrenze](https://www.faz.net/aktuell/finanzen/finanzmarkt/goldbesitz-der-deutschen-erstmals-mehr-als-eine-billion-euro-accg-201160470.html) ⭐️ 5.0/10
+### [Identity of high-profile Queensland man drawn into extortion case to remain secret after court ruling](https://www.theguardian.com/australia-news/2026/aug/28/identity-of-high-profile-queensland-man-drawn-into-extortion-case-to-remain-secret-after-court-ruling-ntwnfb) ⭐️ 3.0/10
 
-A credible German financial report highlights that household gold holdings in Germany have exceeded one trillion euros, while warning that many investors are poorly informed about tax implications.
+A high-profile Queensland man&\#x27;s identity will remain suppressed following a supreme court dismissal of a legal challenge in an unrelated extortion case.
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 07:00
+rss · 卫报\(The Guardian\) · 8月28日 05:20
 
-**标签**: `#retail gold demand`, `#German households`, `#tax awareness`, `#personal assets`, `#consumer investing`
+**标签**: `#Legal`, `#Court Ruling`, `#Australia`, `#Crime`
 
 ---
 
 <a id="item-finance-news-21"></a>
-### [Immobilien vor Gericht: Wenn der Hobbyraum zum Wohnzimmer wird](https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/immobilien-duerfen-kellerraeume-zum-wohnzimmer-werden-accg-201069048.html) ⭐️ 5.0/10
+### [法兰克福多功能体育馆规划推进，任命 Populous 为总设计师](https://www.faz.net/aktuell/rhein-main/frankfurt/multifunktionsarena-soll-frankfurt-staerken-accg-201116805.html) ⭐️ 3.0/10
 
-A property owner may use a basement room as living space under a court ruling, as long as it does not disturb other residents more than before.
+法兰克福计划在建的王氏体育场（Waldstadion）旁打造一座多功能体育馆，目前已聘请知名建筑设计公司 Populous 担任总体规划师。该项目旨在提升法兰克福的城市吸引力。
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 12:30
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 06:35
 
-**标签**: `#German real estate law`, `#residential use regulation`, `#property rights`, `#neighbor disputes`
+**「背景信息」** 法兰克福市政官员 Moritz Schneider 在采访中讨论了该体育馆项目，并回应了关于交通拥堵和潜在运营模式的担忧，表明这是当地城市基础设施发展的重要一步。
+
+**标签**: `#real estate development`, `#urban infrastructure`, `#local economics`, `#project news`
 
 ---
 
 <a id="item-finance-news-22"></a>
-### [04 版 -  7 月全国查处违反中央八项规定精神问题 27995 起](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177643.html) ⭐️ 4.0/10
+### [评论：基层违规发补助折射纪律意识淡薄](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177654.html) ⭐️ 2.0/10
 
-Official data shows China investigated nearly 28,000 cases of misconduct in July 2026, mostly involving formalism and bureaucratic issues.
+人民日报发表评论文章，警示基层干部以“合情”或“集体研究”为由违规发放误工、燃油等补助的行为。文章援引今年 7 月数据，乡科级及以下干部违反中央八项规定精神问题占比达 93.3%，强调“小节不可放任”。
 
 rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
 
-**标签**: `#China governance`, `#anti-corruption statistics`, `#regulatory enforcement`, `#public-sector accountability`
+**「背景」** 该评论针对某村在项目实施期间向干部发放补助被查处案例，指出此类行为往往始于“人情”思维，认为一顿饭、一份礼或一次帮忙仅是熟人往来，从而逐步松动纪律底线。
+
+**「影响」** 文章呼吁监督需紧随权力运行，聚焦惠民资金、工程项目等重点领域，推动“小微权力”在阳光下运行，防止基层干部因人情突破原则。
+
+**标签**: `#governance`, `#anti-corruption`, `#public administration`, `#editorial`, `#regulation`
 
 ---
 
 <a id="item-finance-news-23"></a>
-### [Buprenorphine Dispensed by Pharmacies and Administered in Emergency Departments in Urban and Rural Areas - United States, 2019-2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&amp;c=766320) ⭐️ 3.0/10
+### [19 版 -  大城市里，“小月饼”有了第二个家（大国小家）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177706.html) ⭐️ 2.0/10
 
-A CDC MMWR report summary on buprenorphine access in urban and rural US areas from 2019 to 2025.
+A human-interest profile on a Shanghai rider-friendly community program offering childcare and support services to delivery workers.
 
-rss · CDC MMWR · 8月27日 17:00
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
 
-**标签**: `#public health`, `#drug access`, `#CDC report`, `#rural healthcare`
+**标签**: `#human interest`, `#social policy`, `#gig economy`, `#community services`
 
 ---
 
 <a id="item-finance-news-24"></a>
-### [17 版 -  上合人文交流成果丰硕](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177699.html) ⭐️ 3.0/10
+### [Grüne „Wahlkampfurlauber“: Sie reisen aus der gesamten Republik an, um vor der AfD zu warnen](https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-gruene-aus-muenchen-machen-wahlkampf-in-halle-201145508.html) ⭐️ 2.0/10
 
-A state-media essay summarizing the SCO&\#x27;s 25 years of cultural and educational cooperation achievements without financial or economic market substance.
+The Greens are deploying members from across Germany to campaign in eastern cities like Halle ahead of the Saxony-Anhalt election amid local staffing shortages.
 
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 18:49
 
-**标签**: `#Shanghai Cooperation Organization`, `#cultural diplomacy`, `#international relations`, `#public policy`
+**标签**: `#German politics`, `#election campaigning`, `#party logistics`, `#state election`
 
 ---
 
 <a id="item-finance-news-25"></a>
-### [Trump Raises Money in Texas With Control of the Senate in the Balance](https://www.nytimes.com/2026/08/27/us/politics/trump-texas-senate-fund-raiser.html) ⭐️ 3.0/10
+### [德国州议会选举民调概览](https://www.faz.net/aktuell/politik/inland/sachsen-anhalt-wahlumfrage-2026-die-afd-will-erstmals-regieren-am-liebsten-allein-200483132.html) ⭐️ 2.0/10
 
-President Trump held a fund-raising event in Texas, leveraging his continued ability to attract Republican financial support despite low poll numbers.
+德国九月份的州议会选举可能使政治版图发生重大变化，多项民调已发布供参考。由于该报道主要为政治评论且缺乏具体的经济数据或政策细节，目前无直接的金融实质内容可供解读。
 
-rss · 纽约时报\(The New York Times\) · 8月27日 19:27
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 09:27
 
-**标签**: `#Fundraising`, `#Political Economy`, `#Republican Party`, `#US Politics`
+**「背景」** 德国设有多个州级议会（Landtag），其选举结果通常会反映各党派在地方治理中的支持度变化，并可能影响联邦层面的政治格局，但此类政治动态通常不直接构成即时金融市场新闻。
+
+**标签**: `#elections`, `#opinion`, `#non-financial`
 
 ---
 
 <a id="item-finance-news-26"></a>
-### [LA Mayor Karen Bass Eases Street Vending Crackdown After Debate](https://www.nytimes.com/2026/08/27/us/los-angeles-street-vendors-karen-bass.html) ⭐️ 3.0/10
+### [19 版 -  本版责编：申少铁](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177708.html) ⭐️ 1.0/10
 
-Los Angeles Mayor Karen Bass is relaxing enforcement against street vendors following political debate with opponent Nithya Raman.
+The item is a newspaper page skeleton with no actual financial news content.
 
-rss · 纽约时报\(The New York Times\) · 8月28日 00:17
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
 
-**标签**: `#Local Policy`, `#Urban Regulation`, `#Politics`, `#Small Business`
+**标签**: `#metadata\_only`, `#no\_financial\_content`, `#newspaper\_page`
 
 ---
 
 <a id="item-finance-news-27"></a>
-### [Achse der Autokratie: So greifen China und Russland den Westen gemeinsam an](https://www.faz.net/premium/weltwirtschaft/weltwissen/china-und-russland-wachsende-bedrohung-fuer-den-westen-accg-201152304.html) ⭐️ 3.0/10
+### [Trump Plans to Mark 9/11 at the Pentagon, Not Ground Zero](https://www.nytimes.com/2026/08/27/us/politics/trump-911-pentagon-ground-zero.html) ⭐️ 1.0/10
 
-A short German-language piece suggesting that the deepening China-Russia partnership constitutes a growing comprehensive threat to the West.
+President Trump changed his 9/11 commemoration plans from ground zero to the Pentagon after organizers declined to allow speeches.
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 04:50
+rss · 纽约时报\(The New York Times\) · 8月27日 23:43
 
-**标签**: `#geopolitics`, `#China-Russia relations`, `#Western security`, `#premium news snippet`
+**标签**: `#politics`, `#government events`, `#news`
 
 ---
 
 <a id="item-finance-news-28"></a>
-### [Rape and sex offence specialists on all police forces by 2027, PM says](https://www.bbc.co.uk/news/articles/c1e577l5g99o?at_medium=RSS&amp;at_campaign=rss) ⭐️ 1.0/10
+### [RNC threatens legal action against New Jersey officials over noncitizens on voter rolls: &\#x27;On notice&\#x27;](https://www.foxnews.com/politics/rnc-threatens-legal-action-against-new-jersey-officials-noncitizens-voter-rolls-notice) ⭐️ 1.0/10
 
-The UK government is accelerating the rollout of rape and sex offence specialists across police forces in England and Wales from 2029 to 2027.
+The RNC has threatened legal action against New Jersey officials by September 15 over allegations of noncitizen records on voter rolls.
 
-rss · BBC\(British Broadcasting Corporation\) · 8月27日 21:30
+rss · 福克斯新闻\(Fox News\) · 8月28日 00:19
 
-**标签**: `#Government Policy`, `#Law Enforcement`, `#UK News`
+**标签**: `#legal threat`, `#election administration`, `#political procedure`
 
 ---
 
 <a id="item-finance-news-29"></a>
-### [Hypermobility - the little-known &\#x27;bendy disease&\#x27; that causes pain and fatigue](https://www.bbc.co.uk/news/articles/clyx0gzynneo?at_medium=RSS&amp;at_campaign=rss) ⭐️ 1.0/10
+### [Serial rapist police officer passed vetting despite warnings, BBC reveals](https://www.bbc.co.uk/news/articles/cvgyl64l5nro?at_medium=RSS&amp;at_campaign=rss) ⭐️ 1.0/10
 
-A BBC article about the hypermobility disorder, noting that many patients in the UK experience delays in receiving a diagnosis.
+A BBC report states that serial rapist police officer Alan Greer passed vetting despite prior investigations and a caution for inappropriate phone calls.
 
-rss · BBC\(British Broadcasting Corporation\) · 8月27日 23:13
+rss · BBC\(British Broadcasting Corporation\) · 8月28日 05:54
 
-**标签**: `#healthcare`, `#medical`, `#disease`, `#diagnosis`
+**标签**: `#crime`, `#policing`, `#public sector integrity`
 
 ---
 
 <a id="item-finance-news-30"></a>
-### [08 版 -  本版责编：吴  燕  韩文榕  黄金玉](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177669.html) ⭐️ 0.0/10
+### [Officials urge calm after malaria outbreak kills two staff at Frankfurt airport](https://www.theguardian.com/world/2026/aug/27/malaria-outbreak-kills-two-staff-at-frankfurt-airport-germany) ⭐️ 1.0/10
 
-No financial substance; only layout metadata and copyright text.
+German officials are investigating after two Frankfurt airport staff died of malaria and have deployed mosquito traps.
 
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+rss · 卫报\(The Guardian\) · 8月27日 15:23
 
-**标签**: `#page metadata`, `#copyright notice`, `#no content`
+**标签**: `#public health`, `#workplace incident`, `#Germany`, `#infectious disease`
 
 ---
 
 <a id="item-finance-news-31"></a>
-### [09 版 -  在国际比较中把握全过程人民民主的实践特征与实践绩效（深入学习贯彻习近平新时代中国特色社会主义思想·《习近平谈治国理政》第一至五卷通读）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177670.html) ⭐️ 0.0/10
+### [无实质内容可报道](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177662.html) ⭐️ 0.0/10
 
-An ideological article on China&\#x27;s whole-process people&\#x27;s democracy with no financial or market substance.
+所给来源为页面元数据和版权声明，不含财务新闻或实质内容。
 
 rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
 
-**标签**: `#ideological political commentary`, `#no financial content`, `#policy theory`, `#theoretical political essay`
+**「背景」** 来源仅包含编辑署名与版权信息，未提供可供编辑的事件、数据或分析。
+
+**标签**: `#metadata`, `#no-content`, `#financial-news-evaluation`
 
 ---
 
 <a id="item-finance-news-32"></a>
-### [17 版 -  本版责编：白  阳  强  薇](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177700.html) ⭐️ 0.0/10
+### [18 版 -  本版责编：邓剑洋](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177704.html) ⭐️ 0.0/10
 
-No financial news content is present; only metadata and editorial attribution are provided.
+No substantive financial content is present in the supplied item.
 
 rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
 
-**标签**: `#noise`, `#missing-content`, `#metadata-only`
+**标签**: `#newspaper metadata`, `#no financial substance`, `#editorial attribution`
 
 ---
 
 <a id="item-finance-news-33"></a>
-### [Norwegians lay flowers at palace as King Harald&\#x27;s condition worsens](https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&amp;at_campaign=rss) ⭐️ 0.0/10
+### [20 版 -  本版责编：任飞帆](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177714.html) ⭐️ 0.0/10
 
-BBC reports that King Harald&\#x27;s condition has worsened to extremely serious, with family visiting and the public laying flowers.
+A navigation and footer page with no financial or economic information.
 
-rss · BBC\(British Broadcasting Corporation\) · 8月27日 17:42
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
 
-**标签**: `#health`, `#nobility`, `#public affairs`
+**标签**: `#metadata`, `#footer`, `#no-content`
 
 ---
 
 <a id="item-finance-news-34"></a>
-### [Teacher guilty of indecent assaults against two pupils](https://www.bbc.co.uk/news/articles/c70d4wd43e4o?at_medium=RSS&amp;at_campaign=rss) ⭐️ 0.0/10
+### [Tony Romo hit with several new citations after OWI arrest, further jeopardizing return to NFL broadcasts](https://www.foxnews.com/outkick-sports/tony-romo-hit-several-new-citations-after-owi-arrest-further-jeopardizing-return-nfl-broadcasts) ⭐️ 0.0/10
 
-A 65-year-old teacher was convicted of indecent assaults against pupils at Harrow Crown Court.
+Former NFL quarterback Tony Romo received additional citations related to a July OWI arrest, affecting his broadcasting prospects but lacking any financial or economic significance.
 
-rss · BBC\(British Broadcasting Corporation\) · 8月27日 15:14
+rss · 福克斯新闻\(Fox News\) · 8月28日 02:52
 
-**标签**: `#Crime`, `#Education`, `#Legal`, `#UK`
+**标签**: `#Sports Legal Issues`, `#Entertainment News`, `#Non-Financial Personal Events`
 
 ---
 
 <a id="item-finance-news-35"></a>
-### [Diamond League: Zwei Hürden-Weltrekorde in nur 40 Minuten](https://www.faz.net/aktuell/sport/mehr-sport/diamond-league-in-zuerich-weltrekorde-ueber-400-meter-huerden-und-100-meter-huerden-201166341.html) ⭐️ 0.0/10
+### [Mark Ruffalo accused of antisemitism by Hollywood insiders over Paramount merger remarks](https://www.foxnews.com/media/mark-ruffalo-accused-antisemitism-hollywood-insiders-paramount-merger-remarks) ⭐️ 0.0/10
 
-Two world records in hurdle events were set at the Diamond League meeting in Zurich.
+Hollywood insiders accused Mark Ruffalo of antisemitism over his remarks regarding the Paramount merger.
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 19:51
+rss · 福克斯新闻\(Fox News\) · 8月28日 00:39
 
-**标签**: `#sports`, `#athletics`, `#world records`, `#Diamond League`
+**标签**: `#Entertainment Industry`, `#Legal and Ethical Issues`, `#Corporate Merger`
 
 ---
 
 <a id="item-finance-news-36"></a>
-### [奥地利国民议会议长将于 8 月底访华](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177640.html) ⭐️ ?/10
+### [Have expensively assembled Rangers improved at all under &\#x27;mortified&\#x27; McInnes?](https://www.bbc.co.uk/sport/football/articles/clyqd7lz3pno?at_medium=RSS&amp;at_campaign=rss) ⭐️ 0.0/10
 
-据新华社报道，应全国人大常委会委员长赵乐际邀请，奥地利国民议会议长罗森克兰茨将于 8 月 29 日至 9 月 4 日率团访华。
+A BBC sports article questions whether Rangers have improved under manager Derek McInnes after their exit from the Conference League.
 
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+rss · BBC\(British Broadcasting Corporation\) · 8月27日 22:48
 
-**「背景」** 奥地利国民议会为奥地利议会两院中的下议院，此次访问系应中方最高立法机构负责人邀请进行的国事交流。
+**标签**: `#Sports`, `#Opinion`, `#No financial relevance`
 
 ---
 
 <a id="item-finance-news-37"></a>
-### [Yielding on French Could Restart Trade Talks, Canadian Officials Say](https://www.nytimes.com/2026/08/27/world/canada/trade-war-french-language.html) ⭐️ ?/10
+### [Woman found guilty of indecent assault against two pupils at London boys’ school in 1980s](https://www.theguardian.com/uk-news/2026/aug/27/woman-found-guilty-indecent-assault-two-pupils-london-boys-school-1980s) ⭐️ 0.0/10
 
-Yielding on French Could Restart Trade Talks, Canadian Officials Say
+A former chemistry teacher was convicted of indecently assaulting two pupils at a London school in the 1980s.
 
-rss · 纽约时报\(The New York Times\) · 8月27日 21:47
+rss · 观察家报\(The Observer\) · 8月27日 17:23
+
+**标签**: `#Crime and Justice`, `#Legal Proceedings`, `#Education`, `#Historical Events`
 
 ---
 
 <a id="item-finance-news-38"></a>
-### [What could Meta’s US settlement mean around the world – and what now for other claims against firm?](https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact) ⭐️ ?/10
+### [Misstrauensvotum: Es ist wieder Höcke-Show](https://www.faz.net/aktuell/politik/inland/hoecke-show-afd-politiker-will-sich-mal-wieder-zum-ministerpraesidenten-waehlen-lassen-accg-201163190.html) ⭐️ 0.0/10
 
-What could Meta’s US settlement mean around the world – and what now for other claims against firm?
+A political analysis of Björn Höcke&\#x27;s candidacy for Thuringia&\#x27;s minister-president and its prospects.
 
-rss · 卫报\(The Guardian\) · 8月28日 04:00
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 04:55
+
+**标签**: `#politics`, `#domestic`, `#party-politics`, `#no-financial-substance`
 
 ---
 
 <a id="item-finance-news-39"></a>
-### [Teesside MPs call for more police help after Middlesbrough and A66 deaths](https://www.theguardian.com/uk-news/2026/aug/27/teesside-mps-police-fire-service-resources-middlesbrough-a66) ⭐️ ?/10
+### [Warum KETO-diät wirkt: „Man zwingt den Körper, auf die Fettreserven zuzugreifen“](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/wie-eine-keto-diaet-geht-man-kann-mit-dieser-ernaehrung-viel-gewicht-verlieren-accg-201163227.html) ⭐️ 0.0/10
 
-Teesside MPs call for more police help after Middlesbrough and A66 deaths
+A German-language article summarizes a new study suggesting the keto diet may improve metabolism, while noting considerations readers should keep in mind.
 
-rss · 观察家报\(The Observer\) · 8月27日 16:46
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 03:31
+
+**标签**: `#health`, `#diet`, `#nutrition`, `#wellness`
 
 ---
 
 <a id="item-finance-news-40"></a>
-### [Venezuela weighs OPEC exit after decades as it deepens U.S. ties](https://www.japantimes.co.jp/news/2026/08/28/world/venezuela-opec-exit-us/) ⭐️ ?/10
+### [03 版 -  第 140 届广交会推介会在秘鲁举行](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177641.html) ⭐️ ?/10
 
-Venezuela weighs OPEC exit after decades as it deepens U.S. ties
+03 版 -  第 140 届广交会推介会在秘鲁举行
 
-rss · 日本时报\(The Japan Times\) · 8月28日 02:53
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
 
 ---
 
 <a id="item-finance-news-41"></a>
-### [Faster Tokyo inflation supports near-term BOJ rate hike case](https://www.japantimes.co.jp/business/2026/08/28/economy/tokyo-cpi-august/) ⭐️ ?/10
+### [04 版 -  “九五”普法从政策驱动向依法实施转变（权威发布）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177644.html) ⭐️ ?/10
 
-Faster Tokyo inflation supports near-term BOJ rate hike case
+04 版 -  “九五”普法从政策驱动向依法实施转变（权威发布）
 
-rss · 日本时报\(The Japan Times\) · 8月28日 02:04
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
 
 ---
 
 <a id="item-finance-news-42"></a>
-### [Nepal floods test 36-year-old PM with huge rebuilding challenge](https://www.japantimes.co.jp/news/2026/08/27/asia-pacific/nepal-pm-test/) ⭐️ ?/10
+### [06 版 -  国家卫生健康委等强化对县级医院对口帮扶](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177661.html) ⭐️ ?/10
 
-Nepal floods test 36-year-old PM with huge rebuilding challenge
+06 版 -  国家卫生健康委等强化对县级医院对口帮扶
 
-rss · 日本时报\(The Japan Times\) · 8月27日 11:24
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
 
 ---
 
 <a id="item-finance-news-43"></a>
-### [Japanese economic report cites need to closely monitor impact of natural disasters](https://www.japantimes.co.jp/business/2026/08/27/japan-economy-disaster-impact/) ⭐️ ?/10
-
-Japanese economic report cites need to closely monitor impact of natural disasters
-
-rss · 日本时报\(The Japan Times\) · 8月27日 10:53
-
----
-
-<a id="item-finance-news-44"></a>
-### [Japan to subsidize trips to quake-hit Kyushu region among other measures](https://www.japantimes.co.jp/news/2026/08/27/japan/kumamoto-earthquake-aid-package/) ⭐️ ?/10
-
-Japan to subsidize trips to quake-hit Kyushu region among other measures
-
-rss · 日本时报\(The Japan Times\) · 8月27日 10:42
-
----
-
-<a id="item-finance-news-45"></a>
-### [Daniela Cavallo: Diese VW-Frau ist kampferprobt](https://www.faz.net/aktuell/wirtschaft/unternehmen/daniela-cavallo-diese-frau-im-vw-konzern-entscheidet-sich-fuer-die-attacke-201164208.html) ⭐️ ?/10
-
-Daniela Cavallo: Diese VW-Frau ist kampferprobt
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 17:19
-
----
-
-## 科技新闻
-
-<a id="item-tech-news-1"></a>
-### [普林斯顿开发光可编程二维半导体](https://www.science.org/doi/10.1126/sciadv.aee1510) ⭐️ 9.0/10
-
-普林斯顿大学研究人员开发了一种仅几分子厚的超薄半导体，可通过不同波长的光照可逆地调节其导电性能，实现了从固定功能向后制造可编程硬件的跨越。该技术将二维半导体与光敏分子结合，利用分子受光照射后的形状变化来改变半导体的电子和光学行为，支持多电平渐变调控而非简单的二值开关。研究团队已制备出直径约一英寸的均匀样品，并成功构建了可编程电子开关阵列，下一步目标是将其连接成完整电路。
-
-telegram · science · 8月27日 08:28
-
-**「背景」** 传统半导体芯片在制造完成后，其电学特性基本固定，难以在后期更改硬件功能。二维材料因其原子级厚度和独特的光电特性，成为探索后摩尔时代新型电子器件的重要平台。光致异构分子是一类能在光照下发生可逆结构变化的化合物，常被用于光控开关和存储器件。
-
-**「影响」** 该成果为制造可重构计算和传感架构提供了新的硬件基础，有望打破传统硅基芯片固定功能的限制。目前该技术仍处于实验室阶段，距离实际应用尚需解决电路集成和稳定性等工程问题。
-
-**标签**: `#semiconductors`, `#optoelectronics`, `#reconfigurable computing`, `#2D materials`, `#materials science`
-
----
-
-<a id="item-tech-news-2"></a>
-### [澳大利亚团队开发尼龙 11 压电薄膜可稳定发电](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177694.html) ⭐️ 8.0/10
-
-2026 年 8 月 28 日《人民日报》报道，澳大利亚皇家墨尔本理工大学研究团队在《自然·通讯》发表成果，开发出一种柔性尼龙 11 薄膜，通过机械压力即可产生电能。该研究利用电声耦合平台施加兆赫兹级高频电信号，协同声波与电场作用，一步诱导尼龙 11 形成高度有序的压电晶体结构并完成电极化规整，突破了传统工艺中低温拉伸与高压极化的复杂步骤。这种薄膜坚韧耐磨，经折叠、拉伸甚至汽车碾轧后仍能稳定发电，且原料取自可再生蓖麻油，具备可降解特性。目前该技术仅在实验级小尺寸样品上验证，大面积制备的声场均匀性、环境稳定性及工业化产线兼容性仍有待突破。
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**「背景」** 尼龙（聚酰胺）是一类广泛应用于服装、绳索和轮胎帘子线的合成高分子材料，通常因内部分子排列无序、电荷方向杂乱而难以作为压电材料使用。压电效应是指某些材料在受到机械应力时产生电荷分离从而发电的现象，传统压电材料如含氟聚合物 PVDF 存在环境风险，而开发高效、环保的替代材料是柔性电子领域的关键挑战。
-
-**「影响」** 该技术若实现规模化应用，可为可穿戴设备（如植入衣物或鞋垫的传感器供电）和智能基础设施（如道路振动能量收集）提供绿色、免维护的能源解决方案，同时减少对传统含氟压电材料的环境依赖。
-
-**标签**: `#Materials Science`, `#Energy Harvesting`, `#Piezoelectrics`, `#Wearable Technology`, `#Open Research`
-
----
-
-<a id="item-tech-news-3"></a>
-### [AI 可通过乳腺 X 光片检测女性心血管疾病](https://www.theguardian.com/society/2026/aug/27/mammograms-heart-disease-in-women-study) ⭐️ 8.0/10
-
-研究人员利用人工智能分析用于乳腺癌筛查的常规乳腺 X 光摄影（mammography）图像，成功识别出患有冠心病、高血压或曾有中风病史的女性。这一发现表明，现有的乳腺癌筛查基础设施可能被复用于心血管疾病检测。鉴于心血管疾病是女性头号且常被漏诊的致死原因，该技术在医学影像与心脏健康交叉领域具有显著效率价值。
-
-rss · 观察家报\(The Observer\) · 8月27日 14:00
-
-**「背景」** 乳腺 X 光摄影是目前筛查乳腺癌的标准影像学方法，主要关注乳房组织中的异常钙化或肿块。心血管疾病的早期诊断通常依赖心电图或血液检测，但在常规体检中常因症状不典型而被忽视，尤其在女性群体中。
-
-**「影响」** 这项技术潜力在于无需额外检查即可在常规乳腺癌筛查中发现潜在的心脏风险，从而简化早期诊断流程。若经临床验证推广，将显著提高对女性心血管疾病漏诊情况的干预效率。
-
-**标签**: `#Artificial Intelligence`, `#Healthcare`, `#Medical Imaging`, `#Cardiovascular Health`, `#Research`
-
----
-
-<a id="item-tech-news-4"></a>
-### [Activation Oracles significantly underperform without a safe base model](https://www.lesswrong.com/posts/3X5EFjiHgxdNowrTA/activation-oracles-significantly-underperform-without-a-safe) ⭐️ 7.0/10
-
-Research demonstrates that Activation Oracles lose reliability in identifying undesirable behavior if they are trained on base models that already exhibit such behavior.
-
-rss · LessWrong AI风险社区 · 8月28日 01:39
-
-**标签**: `#AI Safety`, `#Machine Learning Research`, `#Interpretability`, `#AI Governance`
-
----
-
-<a id="item-tech-news-5"></a>
-### [Trump administration illegally retaliated against Anthropic, judge rules](https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&amp;at_campaign=rss) ⭐️ 7.0/10
-
-A judge has ruled that the Trump administration illegally retaliated against Anthropic, which has had disputes with the Pentagon over military AI use.
-
-rss · BBC\(British Broadcasting Corporation\) · 8月28日 03:41
-
-**标签**: `#AI Policy`, `#Legal`, `#Anthropic`, `#Defense Tech`
-
----
-
-<a id="item-tech-news-6"></a>
-### [China’s humanoid robots aren’t smart enough to take your job — yet](https://www.japantimes.co.jp/business/2026/08/27/tech/china-humanoid-robots-job/) ⭐️ 6.0/10
-
-China&\#x27;s humanoid robots have strong hardware but lack AI for general-purpose work.
-
-rss · 日本时报\(The Japan Times\) · 8月27日 08:10
-
-**标签**: `#humanoid robots`, `#AI intelligence`, `#industry automation`
-
----
-
-<a id="item-tech-news-7"></a>
-### [Brain preservation as existential risk reduction](https://www.lesswrong.com/posts/nhL92v8hpfFpbyb3q/brain-preservation-as-existential-risk-reduction) ⭐️ 5.0/10
-
-Opinion piece exploring whether AI-driven disease cures could reduce existential risk, anchored by a speculative quote from Anthropic&\#x27;s CEO.
-
-rss · LessWrong AI风险社区 · 8月27日 22:25
-
-**标签**: `#AI safety`, `#existential risk`, `#medical AI`, `#speculation`, `#LessWrong`
-
----
-
-<a id="item-tech-news-8"></a>
-### [Anthropic tests new way for Claude to work with robots and scientific lab tools](https://www.japantimes.co.jp/business/2026/08/28/tech/anthropic-claude-ai-robots/) ⭐️ 5.0/10
-
-Anthropic is testing a new software standard that enables AI assistants to better understand and interact with robots and scientific lab equipment.
-
-rss · 日本时报\(The Japan Times\) · 8月28日 02:47
-
-**标签**: `#AI`, `#Robotics`, `#Machine Learning`, `#Anthropic`, `#Claude`
-
----
-
-<a id="item-tech-news-9"></a>
-### [Meta settlement opens new front in global fight over social media harm](https://www.japantimes.co.jp/business/2026/08/27/meta-global-fight/) ⭐️ 5.0/10
-
-Meta&\#x27;s $18 billion settlement with U.S. states over teen social media harm signals a new phase in global government efforts to regulate platform safety.
-
-rss · 日本时报\(The Japan Times\) · 8月27日 11:55
-
-**标签**: `#social media policy`, `#tech regulation`, `#Meta`, `#digital safety`, `#legal settlements`
-
----
-
-<a id="item-tech-news-10"></a>
-### [ollama/ollama released v0.33.2-rc1](https://github.com/ollama/ollama/releases/tag/v0.33.2-rc1) ⭐️ 4.0/10
-
-Ollama releases pre-release v0.33.2-rc1 with minor bug fixes for dark mode, proxy behavior, and macOS app handoff.
-
-github · github-actions\[bot\] · 8月27日 20:31
-
-**标签**: `#software engineering`, `#open source`, `#machine learning`, `#incremental updates`
-
----
-
-<a id="item-tech-news-11"></a>
-### [Three journalists sue Pentagon after being fired from military news outlet](https://www.theguardian.com/us-news/2026/aug/27/journalists-sue-pentagon-stars-and-stripes) ⭐️ 4.0/10
-
-Three journalists fired from the military news outlet Stars and Stripes are suing the Pentagon, alleging violations of their First Amendment rights after reporting on the USS Abraham Lincoln.
-
-rss · 卫报\(The Guardian\) · 8月27日 23:33
-
-**标签**: `#legal`, `#media`, `#government`, `#civil liberties`
-
----
-
-<a id="item-tech-news-12"></a>
-### [China bets on exports of cheap 3D-printed drone killers](https://www.ft.com/content/547e5366-b476-4695-81e6-579fc452bed6?syn-25a6b1a6=1) ⭐️ 4.0/10
-
-FT reports Chinese firms are scaling exports of low-cost 3D-printed drone interceptors driven by global conflict demand.
-
-rss · 金融时报\(Financial Times\) · 8月28日 01:37
-
-**标签**: `#manufacturing`, `#drones`, `#trade policy`, `#3D printing`, `#military tech`
-
----
-
-<a id="item-tech-news-13"></a>
-### [Use of Nowcasting to Estimate Real-Time Transmission Trends During a Measles Outbreak - South Carolina, October 2025-March 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&amp;c=766319) ⭐️ 3.0/10
-
-CDC MMWR report on using a nowcast model to estimate real-time measles case counts during the South Carolina outbreak.
-
-rss · CDC MMWR · 8月27日 17:00
-
-**标签**: `#Public Health`, `#Statistical Modeling`, `#Epidemiology`, `#Data Analysis`
-
----
-
-<a id="item-tech-news-14"></a>
-### [AI Safety in Japan has deeper problems than capital allocation](https://www.lesswrong.com/posts/QhzfYdXedbMor2bYC/ai-safety-in-japan-has-deeper-problems-than-capital) ⭐️ 3.0/10
-
-A truncated introductory excerpt from an opinion piece on AI safety challenges in Japan by a research engineer.
-
-rss · LessWrong AI风险社区 · 8月28日 02:02
-
-**标签**: `#AI Safety`, `#Policy`, `#Japan`, `#Opinion`
-
----
-
-<a id="item-tech-news-15"></a>
-### [Incomplete alignment to servitude isn&\#x27;t inherently lethal](https://www.lesswrong.com/posts/s7nMnmJ3urpvcQ2av/incomplete-alignment-to-servitude-isn-t-inherently-lethal) ⭐️ 3.0/10
-
-A philosophical discussion on AI alignment models and the concept of a &\#x27;cosmic caretaker&\#x27; AI.
-
-rss · LessWrong AI风险社区 · 8月28日 01:47
-
-**标签**: `#AI Alignment`, `#Philosophy`, `#AI Governance`, `#Ethics`
-
----
-
-<a id="item-tech-news-16"></a>
-### [06 版 -  国家卫生健康委等强化对县级医院对口帮扶](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177661.html) ⭐️ 3.0/10
-
-A Chinese government policy article on supporting county-level hospitals through partnerships with tier-3 hospitals.
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**标签**: `#healthcare policy`, `#public administration`, `#government announcement`, `#non-technical`
-
----
-
-<a id="item-tech-news-17"></a>
-### [Greens call for temporary ban on new data centres](https://www.bbc.co.uk/news/articles/cz0zm4pzme2o?at_medium=RSS&amp;at_campaign=rss) ⭐️ 3.0/10
-
-UK politicians are calling for stricter rules to limit the energy and water usage of data centers supporting AI.
-
-rss · BBC\(British Broadcasting Corporation\) · 8月27日 23:11
-
-**标签**: `#AI policy`, `#sustainability`, `#data center regulation`, `#energy consumption`
-
----
-
-<a id="item-tech-news-18"></a>
-### [US corporate profits surge to record as worker payouts wilt](https://www.ft.com/content/6f3ada65-c56c-499c-8eb6-008fac58949d?syn-25a6b1a6=1) ⭐️ 3.0/10
-
-FT reports US pre-tax corporate earnings at post-WWII highs as employee remuneration declines.
-
-rss · 金融时报\(Financial Times\) · 8月28日 04:00
-
-**标签**: `#economics`, `#corporate finance`, `#labor markets`
-
----
-
-<a id="item-tech-news-19"></a>
-### [Canada poaches 48 top US-based academics](https://www.ft.com/content/8cc488a5-54c2-41f9-8b87-327ff591be6a?syn-25a6b1a6=1) ⭐️ 3.0/10
-
-Canada is recruiting US-based academics amid political pressure from the Trump administration on universities.
-
-rss · 金融时报\(Financial Times\) · 8月27日 16:11
-
-**标签**: `#workforce`, `#policy`, `#academia`
-
----
-
-<a id="item-tech-news-20"></a>
-### [Saudi Arabia shakes up flagship real estate project](https://www.ft.com/content/5d7957b7-6ad8-48d3-a84e-87f3c6eac326?syn-25a6b1a6=1) ⭐️ 3.0/10
-
-A British CEO has been replaced at a flagship Saudi real estate project following a review of portfolio companies by the sovereign wealth fund.
-
-rss · 金融时报\(Financial Times\) · 8月28日 04:00
-
-**标签**: `#business`, `#real estate`, `#corporate leadership`, `#sovereign wealth fund`
-
----
-
-<a id="item-tech-news-21"></a>
-### [Black Box: The Chatbots: a new series from The Guardian Investigates – trailer](https://www.theguardian.com/technology/audio/2026/aug/27/black-box-the-chatbots-new-series-guardian-investigates-trailer) ⭐️ 3.0/10
-
-A promotional trailer for The Guardian&\#x27;s upcoming &\#x27;Black Box: The Chatbots&\#x27; investigative series.
-
-rss · 观察家报\(The Observer\) · 8月27日 10:00
-
-**标签**: `#AI`, `#promotional`, `#media`, `#chatbots`, `#investigative journalism`
-
----
-
-<a id="item-tech-news-22"></a>
-### [Three UK airports hit by cyber-attack with data of 8.7m customers accessed](https://www.theguardian.com/business/2026/aug/27/uk-airports-operator-cyber-attack-customer-data-accessed) ⭐️ 3.0/10
-
-Manchester, Stansted, and East Midlands airports suffered a cyber-attack exposing the personal data of approximately 8.7 million customers.
-
-rss · 观察家报\(The Observer\) · 8月27日 14:53
-
-**标签**: `#cybersecurity`, `#data breach`, `#aviation industry`, `#infrastructure security`
-
----
-
-<a id="item-tech-news-23"></a>
-### [AI-proof? Younger workers desert the digital world for traditional crafts](https://www.theguardian.com/money/2026/aug/27/ai-proof-jobs-traditional-crafts) ⭐️ 3.0/10
-
-Young workers are fleeing AI-disrupted white-collar jobs for traditional crafts like boatbuilding and bookbinding.
-
-rss · 观察家报\(The Observer\) · 8月27日 13:38
-
-**标签**: `#AI employment impact`, `#labor market trends`, `#generational workforce shifts`, `#career transitions`, `#automation displacement`
-
----
-
-<a id="item-tech-news-24"></a>
-### [Corals show how El Nino is intensifying as the planet warms](https://www.japantimes.co.jp/environment/2026/08/28/climate-change/el-nino-corals-climate-warming/) ⭐️ 3.0/10
-
-A new study finds that El Nino episodes are intensifying as the planet warms, based on 1,000-year coral skeleton records.
-
-rss · 日本时报\(The Japan Times\) · 8月28日 03:18
-
-**标签**: `#climate change`, `#El Nino`, `#coral records`, `#environmental science`
-
----
-
-<a id="item-tech-news-25"></a>
-### [Glacier collapse behind Nepal flood highlights region’s climate risk](https://www.japantimes.co.jp/news/2026/08/28/asia-pacific/nepal-glacier-flood-climate-risk/) ⭐️ 3.0/10
-
-A Japan Times report notes that glacier collapses in Nepal are increasing due to Himalayan thaw, highlighting broader climate risk.
-
-rss · 日本时报\(The Japan Times\) · 8月28日 01:25
-
-**标签**: `#climate change`, `#Himalayas`, `#glacier collapse`, `#environmental risk`
-
----
-
-<a id="item-tech-news-26"></a>
-### [‘Numakage Public Pool’ documents the demise of a third space](https://www.japantimes.co.jp/culture/2026/08/28/film/numakage-public-pool/) ⭐️ 3.0/10
-
-A documentary review examining the closure of a community pool in Japan, unrelated to technology.
-
-rss · 日本时报\(The Japan Times\) · 8月27日 22:10
-
-**标签**: `#culture`, `#documentary`, `#community`, `#film-review`
-
----
-
-<a id="item-tech-news-27"></a>
-### [Zwei Jahre mit Fenix 8: Gut gelaufen?](https://www.faz.net/aktuell/technik-motor/digital/4400-kilometer-joggen-mit-der-sportuhr-fenix-8-von-garmin-so-hat-sich-die-uhr-nach-zwei-jahren-geschlagen-201164570.html) ⭐️ 3.0/10
-
-A two-year hands-on review of the Garmin Fenix 8 sports watch ahead of the version 9 release.
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 12:50
-
-**标签**: `#consumer hardware`, `#wearables`, `#product review`, `#lifestyle tech`
-
----
-
-<a id="item-tech-news-28"></a>
-### [Erneuerbare Energien: Solare Landschaften](https://www.faz.net/aktuell/wissen/erde-klima/solarparks-und-vogelschutz-welche-folgen-drohen-der-natur-accg-201154653.html) ⭐️ 3.0/10
-
-An article exploring the conflict between rapid solar energy expansion and bird conservation, questioning the validity of researcher warnings.
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 10:50
-
-**标签**: `#Environmental Impact`, `#Solar Energy`, `#Conservation`, `#Renewable Energy Policy`
-
----
-
-<a id="item-tech-news-29"></a>
-### [08 版 -  能源的饭碗必须端在自己手里（高质量发展故事汇·第 22 期）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177668.html) ⭐️ 2.0/10
-
-A People&\#x27;s Daily editorial on China&\#x27;s energy security strategy and green development achievements.
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**标签**: `#energy policy`, `#state media`, `#non-technical`, `#news`
-
----
-
-<a id="item-tech-news-30"></a>
-### [15 版 -  研究：气候变化或致欧洲野火过火面积激增](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177693.html) ⭐️ 2.0/10
-
-A Potsdam Institute study published in Global Change Biology predicts European wildfire areas could nearly double by century&\#x27;s end under high emissions, though improved fire management may offset much of the increase.
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**标签**: `#climate science`, `#wildfire research`, `#environmental modeling`, `#policy and adaptation`
-
----
-
-<a id="item-tech-news-31"></a>
-### [15 版 -  征  集](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177695.html) ⭐️ 2.0/10
-
-A solicitation for reader-suggested topics for a science and technology column in People&\#x27;s Daily.
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**标签**: `#announcement`, `#call-for-submissions`, `#newspaper`
-
----
-
-<a id="item-tech-news-32"></a>
-### [Progressives Condemn Pick of Pro-Israel Democrat Atop House Panel](https://www.nytimes.com/2026/08/27/us/politics/democrats-progressives-moskowitz-israel-house-panel.html) ⭐️ 2.0/10
-
-Progressive Democrats have criticized the appointment of pro-Israel Representative Jared Moskowitz to lead a House subcommittee on Middle East policy, highlighting a party rift.
-
-rss · 纽约时报\(The New York Times\) · 8月27日 21:10
-
-**标签**: `#politics`, `#US government`, `#Democratic Party`
-
----
-
-<a id="item-tech-news-33"></a>
-### [‘Intrinsic Capacity’: The Most Important Longevity Term You’ve Never Heard Of](https://www.nytimes.com/2026/08/26/well/intrinsic-capacity-longevity-measure.html) ⭐️ 2.0/10
-
-An NYT article introduces &quot;intrinsic capacity&quot; as a key term for measuring human aging.
-
-rss · 纽约时报\(The New York Times\) · 8月27日 13:28
-
-**标签**: `#health`, `#aging`, `#wellness`, `#general interest`
-
----
-
-<a id="item-tech-news-34"></a>
-### [DHS hits back at James Talarico after Democrat claims ICE &\#x27;kidnapped&\#x27; 5-year-old boy deported with father](https://www.foxnews.com/politics/dhs-hits-back-james-talarico-democrat-claims-ice-kidnapped-5-year-old-boy-deported-father) ⭐️ 2.0/10
-
-DHS Secretary Mullin criticizes Rep. James Talarico for not providing the full story about a 5-year-old boy deported with his father from Texas.
-
-rss · 福克斯新闻\(Fox News\) · 8月27日 23:14
-
-**标签**: `#politics`, `#immigration`, `#US government`, `#ICE`, `#Deportation`
-
----
-
-<a id="item-tech-news-35"></a>
-### [Teens accused of destroying Flock camera until battery exploded, igniting fire near homes: report](https://www.foxnews.com/us/teens-accused-destroying-flock-camera-until-battery-exploded-igniting-fire-near-homes) ⭐️ 2.0/10
-
-Three South Carolina teens allegedly damaged a Flock Safety camera until its battery exploded, causing a fire and over $5,000 in damage.
-
-rss · 福克斯新闻\(Fox News\) · 8月27日 23:02
-
-**标签**: `#security`, `#crime`, `#Flock Safety`, `#hardware`, `#local news`
-
----
-
-<a id="item-tech-news-36"></a>
-### [Climate crisis could be destabilising mountain areas like Nepal, experts warn](https://www.theguardian.com/world/2026/aug/27/climate-crisis-mountain-areas-glaciers-nepal-tibet) ⭐️ 2.0/10
-
-An expert warning that unusual heat may have triggered a Himalayan glacier collapse, causing a devastating flash flood in Nepal and Tibet and highlighting broader climate risks to mountain regions.
-
-rss · 卫报\(The Guardian\) · 8月27日 18:25
-
-**标签**: `#climate change`, `#glacier collapse`, `#natural disaster`, `#Himalayas`, `#environmental risk`
-
----
-
-<a id="item-tech-news-37"></a>
-### [Seven charged with damaging Trump’s Scottish golf course accused of ‘terrorist connection’](https://www.theguardian.com/uk-news/2026/aug/28/seven-charged-damaging-trump-scottish-golf-course-accused-terrorist-connection) ⭐️ 2.0/10
-
-Seven individuals were charged with vandalizing Trump&\#x27;s Turnberry golf course in Scotland for painting anti-war graffiti and damaging property.
-
-rss · 卫报\(The Guardian\) · 8月28日 04:00
-
-**标签**: `#UK news`, `#crime`, `#vandalism`, `#politics`
-
----
-
-<a id="item-tech-news-38"></a>
-### [‘No precedent’: Lorde and Little Simz to star at world-first festival run on clean power](https://www.theguardian.com/culture/2026/aug/28/lorde-little-simz-star-at-world-first-festival-run-on-clean-power) ⭐️ 2.0/10
-
-A music festival in Bristol is headlined by Lorde and Little Simz and powered by hydrogen and batteries.
-
-rss · 卫报\(The Guardian\) · 8月28日 04:00
-
-**标签**: `#Music`, `#Sustainability`, `#Energy`
-
----
-
-<a id="item-tech-news-39"></a>
-### [Is China’s ‘wise camel’ the winner from the US-Iran war?](https://www.ft.com/content/42935d28-2998-4c1b-a2f3-82ec0e462ec4?syn-25a6b1a6=1) ⭐️ 2.0/10
-
-An FT report on Beijing&\#x27;s potential retaliation against US sanctions in the context of the US-Iran conflict.
-
-rss · 金融时报\(Financial Times\) · 8月28日 04:00
-
-**标签**: `#geopolitics`, `#international relations`, `#economic policy`
-
----
-
-<a id="item-tech-news-40"></a>
-### [Zero-interest convertible bonds set for record year](https://www.ft.com/content/8e93c159-2c02-444a-9f22-dcda14bc451f?syn-25a6b1a6=1) ⭐️ 2.0/10
-
-Convertible bond issuance is projected to reach record levels due to high AI stock volatility and companies seeking to limit borrowing costs.
-
-rss · 金融时报\(Financial Times\) · 8月28日 04:00
-
-**标签**: `#finance`, `#markets`, `#AI`
-
----
-
-<a id="item-tech-news-41"></a>
-### [UK expects Meta to match US child safety measures after $18bn settlement](https://www.theguardian.com/technology/2026/aug/27/uk-meta-child-safety-measures-us-social-media-instagram) ⭐️ 2.0/10
-
-The UK government expects Meta to extend US child safety protections to British users following an $18bn settlement.
-
-rss · 观察家报\(The Observer\) · 8月27日 10:30
-
-**标签**: `#Technology Policy`, `#Social Media Regulation`, `#Meta`, `#Online Safety`, `#Legal News`
-
----
-
-<a id="item-tech-news-42"></a>
-### [Hormuz oil flows rising as Gulf giants’ ramp-up gathers pace](https://www.japantimes.co.jp/news/2026/08/28/world/strait-hormuz-oil-rising/) ⭐️ 2.0/10
-
-Rising oil shipments through the Strait of Hormuz are helping stabilize global crude prices at 6–8 million barrels per day.
-
-rss · 日本时报\(The Japan Times\) · 8月28日 03:18
-
-**标签**: `#Energy Markets`, `#Global Commodities`
-
----
-
-<a id="item-tech-news-43"></a>
-### [Trump fans Canada spat by renaming Lake Ontario as Lake America](https://www.japantimes.co.jp/news/2026/08/28/world/politics/trump-us-canada-lake-ontario/) ⭐️ 2.0/10
-
-A dubious political story about renaming Lake Ontario that lacks relevance to technology topics.
-
-rss · 日本时报\(The Japan Times\) · 8月28日 03:03
-
-**标签**: `#politics`, `#non-technology`, `#satire`, `#unverifiable`
-
----
-
-<a id="item-tech-news-44"></a>
-### [meta-Vergleich: Die Geduld mit Big Tech schwindet](https://www.faz.net/aktuell/wirtschaft/unternehmen/meta-vergleich-die-geduld-mit-big-tech-schwindet-201164573.html) ⭐️ 2.0/10
-
-A commentary on declining public patience with Big Tech&\#x27;s influence and responsibility, particularly regarding youth protection.
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 12:56
-
-**标签**: `#Big Tech`, `#regulation`, `#public opinion`
-
----
-
-<a id="item-tech-news-45"></a>
-### [RWE-Chef Krebber: „Der Strom wird weltweit nicht billiger“](https://www.faz.net/aktuell/rhein-main/wirtschaft/rwe-chef-krebber-sieht-strompreise-noch-lange-auf-hohem-niveau-201163734.html) ⭐️ 2.0/10
-
-RWE CEO Markus Krebber argues that electricity will not become cheaper worldwide and that the energy transition debate is over-ideologized.
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 16:44
-
-**标签**: `#energy policy`, `#business news`, `#economics`, `#German news`
-
----
-
-<a id="item-tech-news-46"></a>
-### [03 版 -  推动构建更加公正合理的全球治理体系](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177635.html) ⭐️ 1.0/10
-
-A People&\#x27;s Daily editorial discussing China&\#x27;s global governance initiative and diplomatic efforts.
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**标签**: `#politics`, `#international relations`, `#opinion`
-
----
-
-<a id="item-tech-news-47"></a>
-### [03 版 -  贡献上合智慧  推进中吉友好（大使随笔）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177636.html) ⭐️ 1.0/10
-
-A People&\#x27;s Daily article reflecting on the upcoming SCO summit and China-Kyrgyzstan strategic partnership, with no relevance to technology or engineering topics.
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**标签**: `#diplomatic`, `#geopolitics`, `#propaganda`, `#non-technical`
-
----
-
-<a id="item-tech-news-48"></a>
-### [03 版 -  王毅会见美国驻华大使庞德伟](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177637.html) ⭐️ 1.0/10
-
-A brief diplomatic news report about a meeting between Chinese Foreign Minister Wang Yi and US Ambassador to China Pandey Wei, unrelated to technology.
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**标签**: `#diplomacy`, `#China-US relations`, `#non-technology`, `#routine news`
-
----
-
-<a id="item-tech-news-49"></a>
-### [04 版 -  高位冰崩如何演变为泥石流](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177645.html) ⭐️ 1.0/10
-
-People&\#x27;s Daily reports on a glacial landslide-triggered debris flow in Nepal/Tibet, explaining the geological chain of events and distinguishing it from ice lake outburst floods.
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**标签**: `#natural disaster`, `#geology`, `#news`, `#no technical relevance`
-
----
-
-<a id="item-tech-news-50"></a>
-### [04 版 -  守护红色根脉  凝聚发展动能（牢记初心使命  奋进复兴征程）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177647.html) ⭐️ 1.0/10
-
-A People&\#x27;s Daily article about preserving Northeast Anti-Japanese United Army historical sites and revolutionary heritage in Jilin Province, China.
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**标签**: `#Chinese politics`, `#heritage preservation`, `#revolutionary history`, `#cultural tourism`
-
----
-
-<a id="item-tech-news-51"></a>
-### [07 版 -  重庆南川：立足生态资源禀赋  丰富夜间消费场景](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177667.html) ⭐️ 1.0/10
-
-A promotional report on Chongqing Nanchuan&\#x27;s new nighttime cultural tourism block featuring performances, food, and local culture.
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**标签**: `#tourism`, `#local government`, `#cultural promotion`, `#night economy`
-
----
-
-<a id="item-tech-news-52"></a>
-### [15 版 -  全球过敏患者为何越来越多（国际科技前沿）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177691.html) ⭐️ 1.0/10
-
-An article discussing the increasing global prevalence of allergic diseases and their impact on public health.
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**标签**: `#Health`, `#Epidemiology`, `#Public Health`
-
----
-
-<a id="item-tech-news-53"></a>
-### [Trump Plans to Mark 9/11 at the Pentagon, Not Ground Zero](https://www.nytimes.com/2026/08/27/us/politics/trump-911-pentagon-ground-zero.html) ⭐️ 1.0/10
-
-President Trump will mark the 9/11 anniversary at the Pentagon rather than Ground Zero due to memorial rules against speeches.
-
-rss · 纽约时报\(The New York Times\) · 8月27日 23:43
-
-**标签**: `#politics`, `#news`, `#trivial`
-
----
-
-<a id="item-tech-news-54"></a>
-### [Trump Administration to Expand Deportation Flights to Haiti](https://www.nytimes.com/2026/08/27/us/politics/haiti-deportation-flights.html) ⭐️ 1.0/10
-
-The Trump Administration is expanding deportation flights to Haiti after the Supreme Court permitted the cancellation of a humanitarian program.
-
-rss · 纽约时报\(The New York Times\) · 8月27日 21:14
-
-**标签**: `#immigration`, `#policy`, `#news`
-
----
-
-<a id="item-tech-news-55"></a>
-### [Rescuers Search Himalayan Valleys After Devastating Flood](https://www.nytimes.com/2026/08/27/briefing/nepal-flood-cia-russia-meeting.html) ⭐️ 1.0/10
-
-A brief news roundup covering a flood rescue operation in the Himalayas and geopolitical updates including a CIA chief&\#x27;s engagement with Russia.
-
-rss · 纽约时报\(The New York Times\) · 8月27日 21:46
-
-**标签**: `#geopolitics`, `#natural disaster`, `#news briefing`, `#non-technical`
-
----
-
-<a id="item-tech-news-56"></a>
-### [C.I.A. Chief Delivered Bleak Assessment of Russia’s War in Secretive Moscow Visit](https://www.nytimes.com/2026/08/27/us/politics/cia-director-russia-ukraine.html) ⭐️ 1.0/10
-
-A political news report about a CIA director&\#x27;s meeting with Russian intelligence to discuss peace negotiations with Ukraine.
-
-rss · 纽约时报\(The New York Times\) · 8月28日 04:23
-
-**标签**: `#politics`, `#international relations`, `#military conflict`, `#diplomacy`
-
----
-
-<a id="item-tech-news-57"></a>
-### [Wall Street Loved Scott Bessent and Kevin Warsh. Not Anymore.](https://www.nytimes.com/2026/08/27/opinion/bessent-warsh-treasury-fed-bonds-trump.html) ⭐️ 1.0/10
-
-An opinion column questioning the credibility of key U.S. economic officials.
-
-rss · 纽约时报\(The New York Times\) · 8月28日 01:00
-
-**标签**: `#politics`, `#economics`, `#finance`
-
----
-
-<a id="item-tech-news-58"></a>
-### [Climber Stranded for Hours on 6-Inch Rock Ledge Before Rescue](https://www.nytimes.com/2026/08/27/us/california-man-rescued-laurel-mountain.html) ⭐️ 1.0/10
-
-A man was rescued from a rock ledge on a Sierra Nevada peak after being stranded for hours.
-
-rss · 纽约时报\(The New York Times\) · 8月27日 22:58
-
-**标签**: `#local news`, `#rescue`, `#non-technical`
-
----
-
-<a id="item-tech-news-59"></a>
-### [Peter Cullen, who voiced Optimus Prime in Transformers, dies at 85](https://www.washingtonpost.com/obituaries/2026/08/27/peter-cullen-who-voiced-optimus-prime-transformers-dies-85/) ⭐️ 1.0/10
-
-Peter Cullen, the voice of Optimus Prime and other characters, has died at age 85.
-
-rss · 华盛顿邮报\(The Washington Post\) · 8月27日 17:30
-
-**标签**: `#obituary`, `#pop culture`, `#entertainment news`
-
----
-
-<a id="item-tech-news-60"></a>
-### [Maine meteorologist suffers giggle attack on live TV after prank backfires spectacularly](https://www.foxnews.com/us/maine-meteorologist-suffers-giggle-attack-live-tv-after-prank-backfires-spectacularly) ⭐️ 1.0/10
-
-A Maine meteorologist broke into laughter on live TV after a Charlie Brown audio prank was played during his weather report.
-
-rss · 福克斯新闻\(Fox News\) · 8月28日 01:52
-
-**标签**: `#human-interest`, `#broadcasting`, `#trivia`, `#non-technical`
-
----
-
-<a id="item-tech-news-61"></a>
-### [Dodgers owner Mark Walter denies reports, says team payroll is supported by revenue: &\#x27;There has been no fraud&\#x27;](https://www.foxnews.com/outkick-sports/dodgers-owner-mark-walter-denies-reports-says-team-payroll-supported-revenue-no-fraud) ⭐️ 1.0/10
-
-Dodgers owner Mark Walter denies fraud allegations regarding team payroll, stating the organization is supported by top revenue in baseball.
-
-rss · 福克斯新闻\(Fox News\) · 8月28日 01:25
-
-**标签**: `#sports`, `#finance`, `#denial`, `#legally-related`
-
----
-
-<a id="item-tech-news-62"></a>
-### [WATCH:  Yayoi Kusama, &\#x27;Friends&\#x27; reunion, Busy Phillips: Here&\#x27;s what&\#x27;s trending](https://abcnews.com/video/136014957/) ⭐️ 1.0/10
-
-ABC News&\#x27; Rocsi Diaz reports on trending pop culture topics including Yayoi Kusama, a Friends reunion, and Busy Phillips.
-
-rss · ABC新闻\(American Broadcasting Company\) · 8月27日 21:09
-
-**标签**: `#entertainment`, `#celebrity news`, `#pop culture`
-
----
-
-<a id="item-tech-news-63"></a>
-### [What we know after the big Grand Theft Auto 6 preview](https://www.bbc.co.uk/news/articles/c3d7exngd5no?at_medium=RSS&amp;at_campaign=rss) ⭐️ 1.0/10
-
-A BBC article notes that fans and critics are impressed by the first official preview of Grand Theft Auto 6.
-
-rss · BBC\(British Broadcasting Corporation\) · 8月27日 22:10
-
-**标签**: `#Video Games`, `#Entertainment News`, `#Media Coverage`
-
----
-
-<a id="item-tech-news-64"></a>
-### [Former British-Israeli Hamas hostage married in Tel Aviv](https://www.bbc.co.uk/news/articles/ckg0regvn77o?at_medium=RSS&amp;at_campaign=rss) ⭐️ 1.0/10
-
-A former British-Israeli Hamas hostage married her partner in a Tel Aviv ceremony.
-
-rss · BBC\(British Broadcasting Corporation\) · 8月28日 01:43
-
-**标签**: `#non-technology`, `#personal-interest`, `#news`
-
----
-
-<a id="item-tech-news-65"></a>
-### [Watch: How the collapse of a glacier caused such devastation](https://www.bbc.co.uk/news/videos/ckgxnrg8j19o?at_medium=RSS&amp;at_campaign=rss) ⭐️ 1.0/10
-
-A BBC report on casualties from flash floods caused by a glacier collapse.
-
-rss · BBC\(British Broadcasting Corporation\) · 8月27日 10:17
-
-**标签**: `#disaster`, `#natural event`, `#news`
-
----
-
-<a id="item-tech-news-66"></a>
-### [Allan Little: I met dangerously fanatical Mladić early in Bosnian war](https://www.bbc.co.uk/news/articles/cgl744j0ww1o?at_medium=RSS&amp;at_campaign=rss) ⭐️ 1.0/10
-
-BBC correspondent Allan Little recounts his early meeting with Radovan Mladić during the Bosnian war.
-
-rss · BBC\(British Broadcasting Corporation\) · 8月27日 18:12
-
-**标签**: `#history`, `#journalism`, `#war crimes`
-
----
-
-<a id="item-tech-news-67"></a>
-### [Blake Lively awarded $400,000 of $8m she claimed for legal fees in Baldoni battle](https://www.bbc.co.uk/news/articles/c0lrwlzrk86o?at_medium=RSS&amp;at_campaign=rss) ⭐️ 1.0/10
-
-A judge awarded Blake Lively $400,000 of the $800,000 she requested for legal fees in her defamation case against Baldoni.
-
-rss · BBC\(British Broadcasting Corporation\) · 8月27日 14:18
-
-**标签**: `#entertainment`, `#celebrity`, `#legal`
-
----
-
-<a id="item-tech-news-68"></a>
-### [&\#x27;Mortified&\#x27; McInnes takes responsibility for Rangers&\#x27; European exit](https://www.bbc.co.uk/sport/football/articles/c4gvxw90428o?at_medium=RSS&amp;at_campaign=rss) ⭐️ 1.0/10
-
-Rangers manager Derek McInnes accepts responsibility for his team&\#x27;s exit from the Conference League.
-
-rss · BBC\(British Broadcasting Corporation\) · 8月27日 20:23
-
-**标签**: `#sports`, `#football`, `#irrelevant`, `#non-technical`
-
----
-
-<a id="item-tech-news-69"></a>
-### [Man City and Aston Villa to face holders PSG in Champions League](https://www.bbc.co.uk/sport/football/articles/c5ywxxll10jo?at_medium=RSS&amp;at_campaign=rss) ⭐️ 1.0/10
-
-A brief sports update noting that Manchester City and Aston Villa will face Paris St-Germain in the Champions League.
-
-rss · BBC\(British Broadcasting Corporation\) · 8月27日 17:32
-
-**标签**: `#sports`, `#football`, `#Champions League`, `#no relevance`
-
----
-
-<a id="item-tech-news-70"></a>
-### [Smith &amp; Cox help England to 248-9 on truncated day one](https://www.bbc.co.uk/sport/cricket/articles/cddv00z4609o?at_medium=RSS&amp;at_campaign=rss) ⭐️ 1.0/10
-
-Jamie Smith and Jordan Cox helped England reach 248-9 on a truncated first day of the second Test match against Pakistan.
-
-rss · BBC\(British Broadcasting Corporation\) · 8月27日 17:54
-
-**标签**: `#cricket`, `#sports`, `#BBC`
-
----
-
-<a id="item-tech-news-71"></a>
-### [Trump signs executive order to rename Lake Ontario as Lake America](https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america) ⭐️ 1.0/10
-
-Trump signed an executive order to rename Lake Ontario as Lake America, though the order has no international legal effect.
-
-rss · 卫报\(The Guardian\) · 8月27日 22:55
-
-**标签**: `#politics`, `#geopolitics`, `#legal`, `#non-technical`
-
----
-
-<a id="item-tech-news-72"></a>
-### [Identity of high-profile Queensland man drawn into extortion case to remain secret after court ruling](https://www.theguardian.com/australia-news/2026/aug/28/identity-of-high-profile-queensland-man-drawn-into-extortion-case-to-remain-secret-after-court-ruling-ntwnfb) ⭐️ 1.0/10
-
-A Queensland man referred to as MM will keep his identity secret after the state Supreme Court dismissed a legal challenge against a suppression order in an extortion case.
-
-rss · 卫报\(The Guardian\) · 8月28日 04:05
-
-**标签**: `#legal`, `#Australia`, `#court`, `#extortion`, `#privacy`
-
----
-
-<a id="item-tech-news-73"></a>
-### [Greek Orthodox priest and cult musician clarifies views on homosexuality](https://www.theguardian.com/music/2026/aug/27/greek-orthodox-priest-and-cult-musician-clarifies-views-on-homosexuality) ⭐️ 1.0/10
-
-A Greek Orthodox priest and experimental musician clarifies his inclusive views on homosexuality in a public statement.
-
-rss · 卫报\(The Guardian\) · 8月27日 17:11
-
-**标签**: `#culture`, `#religion`, `#music`, `#social-issues`
-
----
-
-<a id="item-tech-news-74"></a>
-### [Officials urge calm after malaria outbreak kills two staff at Frankfurt airport](https://www.theguardian.com/world/2026/aug/27/malaria-outbreak-kills-two-staff-at-frankfurt-airport-germany) ⭐️ 1.0/10
-
-Two airport staff died of malaria at Frankfurt airport, prompting health officials to set up mosquito traps and investigate the outbreak.
-
-rss · 卫报\(The Guardian\) · 8月27日 15:23
-
-**标签**: `#public health`, `#malaria`, `#news`
-
----
-
-<a id="item-tech-news-75"></a>
-### [Warning of fresh danger from rising lake water in Nepal – as it happened](https://www.theguardian.com/world/live/2026/aug/27/nepal-flash-flood-live-updates-tibet-border-death-toll-missing-himalayas-floods-flooding-latest-news) ⭐️ 1.0/10
-
-A closed Guardian live blog reporting on eyewitness accounts and updates regarding deadly flash floods in Nepal near the Tibetan border.
-
-rss · 卫报\(The Guardian\) · 8月28日 02:29
-
-**标签**: `#general news`, `#disaster reporting`, `#current events`
-
----
-
-<a id="item-tech-news-76"></a>
-### [The devastating forces behind the deadly Himalayan flood](https://www.ft.com/content/0d794bd6-a7ec-465a-ba97-452c9928df4e?syn-25a6b1a6=1) ⭐️ 1.0/10
-
-A Financial Times article reports on a deadly Himalayan flood near Nepal&\#x27;s border with China and notes scientists&\#x27; warnings that climate change is increasing such risks.
-
-rss · 金融时报\(Financial Times\) · 8月27日 18:07
-
-**标签**: `#climate`, `#disaster reporting`, `#environmental risk`, `#regional news`
-
----
-
-<a id="item-tech-news-77"></a>
-### [Trump orders Lake Ontario to be renamed ‘Lake America’ in new slight to Canada](https://www.ft.com/content/6f0cdf31-de96-4058-92a9-f6684b5e1ef6?syn-25a6b1a6=1) ⭐️ 1.0/10
-
-A short report on a political executive order renaming Lake Ontario as part of strained US-Canada relations.
-
-rss · 金融时报\(Financial Times\) · 8月27日 20:34
-
-**标签**: `#geopolitics`, `#policy`, `#no-tech-relevance`
-
----
-
-<a id="item-tech-news-78"></a>
-### [Ex-Barclays boss denies having sex with woman dressed as Snow White after Epstein emails](https://www.theguardian.com/business/2026/aug/27/jes-staley-denies-sex-snow-white-barclays) ⭐️ 1.0/10
-
-Former Barclays boss Jes Staley denies an allegation regarding Jeffrey Epstein emails during a US congressional hearing.
-
-rss · 观察家报\(The Observer\) · 8月27日 17:21
-
-**标签**: `#gossip`, `#politics`
-
----
-
-<a id="item-tech-news-79"></a>
-### [‘Sad moments ahead’: Kew Gardens to fell rare trees in race to save Victorian greenhouse](https://www.theguardian.com/science/2026/aug/27/kew-gardens-london-palm-house-renovation-project) ⭐️ 1.0/10
-
-Kew Gardens will fell some rare trees in the Palm House to enable renovation of the Victorian greenhouse.
-
-rss · 观察家报\(The Observer\) · 8月27日 05:00
-
-**标签**: `#horticulture`, `#heritage conservation`, `#botanical gardens`, `#infrastructure renovation`
-
----
-
-<a id="item-tech-news-80"></a>
-### [BBC to bring back Top Gear amid speculation about show’s next presenters](https://www.theguardian.com/tv-and-radio/2026/aug/27/bbc-top-gear-speculation-next-presenters) ⭐️ 1.0/10
-
-The BBC has confirmed that the motoring show Top Gear will return four years after a filming accident.
-
-rss · 观察家报\(The Observer\) · 8月27日 14:32
-
-**标签**: `#television`, `#entertainment`, `#media`
-
----
-
-<a id="item-tech-news-81"></a>
-### [Bosnian Serb war criminal Ratko Mladic dies in hospital](https://www.japantimes.co.jp/news/2026/08/28/world/ratko-mladic-bosnia-serbia-dead/) ⭐️ 1.0/10
-
-Ratko Mladic, a Bosnian Serb convicted of war crimes, has died in a Hague hospital.
-
-rss · 日本时报\(The Japan Times\) · 8月28日 02:37
-
-**标签**: `#news`, `#off-topic`
-
----
-
-<a id="item-tech-news-82"></a>
-### [Real Madrid coach Jose Mourinho seeking more than goals from superstar Kylian Mbappe](https://www.japantimes.co.jp/sports/2026/08/28/soccer/jose-mourinho-kylian-mbappe/) ⭐️ 1.0/10
-
-A Japan Times article noting Kylian Mbappe&\#x27;s hat trick under Jose Mourinho at Real Madrid.
-
-rss · 日本时报\(The Japan Times\) · 8月28日 00:33
-
-**标签**: `#irrelevant-topic`, `#promotion`, `#non-technical`
-
----
-
-<a id="item-tech-news-83"></a>
-### [Märkte immer unruhiger: Gefahrenherd Frankreich](https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/frankreich-staatsanleihen-und-wachsende-schuldenkrise-201160021.html) ⭐️ 1.0/10
-
-A short French-market debt analysis unrelated to technology.
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 08:37
-
-**标签**: `#Finance`, `#Economics`, `#France`, `#Debt`
-
----
-
-<a id="item-tech-news-84"></a>
-### [Besser Schlafen: Vergesst die Acht-Stunden-Regel](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/schlaf-vergessen-sie-die-acht-stunden-regel-accg-201154176.html) ⭐️ 1.0/10
-
-A German-language article discussing how much sleep is optimal, drawing on insights from ancestral and historical data rather than modern sleep guidelines.
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 07:21
-
-**标签**: `#health`, `#sleep`, `#lifestyle`, `#non-technical`
-
----
-
-<a id="item-tech-news-85"></a>
-### [Fußball-Transferticker: Leon Goretzka wechselt in die Premier League](https://www.faz.net/aktuell/sport/fussball/fussball-transferticker-goretzka-wechselt-in-die-premier-league-18134600.html) ⭐️ 1.0/10
-
-Leon Goretzka transfers to a Premier League club.
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 15:31
-
-**标签**: `#sports`, `#football`, `#off-topic`
-
----
-
-<a id="item-tech-news-86"></a>
-### [Germanwings-Katastrophe: Die Angehörigen verlangen endlich Aufklärung](https://www.faz.net/aktuell/wirtschaft/unternehmen/germanwings-absturz-angehoerige-klagen-gegen-den-bund-201163674.html) ⭐️ 1.0/10
-
-Relatives of Germanwings crash victims are suing the German state over alleged failures in co-pilot fitness evaluations.
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 19:28
-
-**标签**: `#legal`, `#aviation`, `#noisy`, `#non-tech`
-
----
-
-<a id="item-tech-news-87"></a>
-### [Klimaanpassung: Minister Schneider muss klein beigeben](https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/carsten-schneider-scheitert-mit-klimaanpassungsplan-201164329.html) ⭐️ 1.0/10
-
-German Environment Minister Schneider faces political challenges in advancing his climate adaptation plan.
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 17:46
-
-**标签**: `#politics`, `#climate policy`, `#news`
-
----
-
-<a id="item-tech-news-88"></a>
-### [Lake America Statt Ontario?: Trumps liebste Drohung: Ein neuer Name](https://www.faz.net/aktuell/politik/usa-unter-trump/lake-america-warum-trump-so-gerne-damit-droht-orte-umzubenennen-accg-201162609.html) ⭐️ 1.0/10
-
-Political analysis of Trump&\#x27;s threat to rename Lake Ontario in the context of US-Canada trade tensions.
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 12:25
-
-**标签**: `#politics`, `#trade`, `#commentary`
-
----
-
-<a id="item-tech-news-89"></a>
-### [Eilantrag gescheitert: Formfehler bewahrt Kunden vor Stromsperre](https://www.faz.net/aktuell/rhein-main/frankfurt/gericht-versorger-darf-strom-ohne-aufklaerung-nicht-abschalten-201165242.html) ⭐️ 1.0/10
-
-A German court ruling requiring energy suppliers to properly inform customers of their rights before disconnecting power.
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 18:06
-
-**标签**: `#law`, `#consumer-protection`, `#energy`
-
----
-
-<a id="item-tech-news-90"></a>
-### [Genesis GV90: Klotzen mit Sesam](https://www.faz.net/aktuell/technik-motor/elektromobilitaet/das-ist-der-neue-genesis-gv90-accg-201145159.html) ⭐️ 1.0/10
-
-A short promotional-style German blurb about the new Genesis GV90 electric vehicle targeting luxury rivals.
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 07:44
-
-**标签**: `#automotive`, `#electric vehicles`, `#marketing`
-
----
-
-<a id="item-tech-news-91"></a>
-### [F.A.Z. exklusiv: Deutschland droht erstmals Klimaziel zu verfehlen](https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/deutschland-droht-erstmals-klimaziel-zu-verfehlen-accg-201161163.html) ⭐️ 1.0/10
-
-An article reporting that Germany risks missing its climate targets due to only a 2% drop in emissions in the first half of the year.
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 11:36
-
-**标签**: `#noise`, `#off-topic`
-
----
-
-<a id="item-tech-news-92"></a>
-### [Hitzeschutz: Warum Klimaanlagen in Altenheimen noch die Ausnahme sind](https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/warum-klimaanlagen-in-altenheimen-noch-die-ausnahme-sind-accg-201158300.html) ⭐️ 1.0/10
-
-An article about the lack of air conditioning in German nursing homes during heatwaves.
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 05:24
-
-**标签**: `#Healthcare`, `#Climate Adaptation`, `#German Society`, `#Public Policy`
-
----
-
-<a id="item-tech-news-93"></a>
-### [Референдум по инициативе &quot;О нейтралитете&quot; 27 сентября в Швейцарии может отменить](https://telegram.me/tass_agency/392371) ⭐️ 1.0/10
-
-A Swiss referendum on neutrality may prevent Switzerland from joining anti-Russian sanctions.
-
-telegram · tass\_agency · 8月28日 00:24
-
-**标签**: `#politics`, `#international relations`, `#sanctions`, `#Switzerland`, `#referendum`
-
----
-
-<a id="item-tech-news-94"></a>
-### [Группа из 15 японских студентов посетила Санкт-Петербург 12-20 августа в рамках ](https://telegram.me/tass_agency/392383) ⭐️ 1.0/10
-
-A group of 15 Japanese students visited St. Petersburg in August as part of an exchange program, though Japan has not yet decided on future student dispatch programs to Russia.
-
-telegram · tass\_agency · 8月28日 02:59
-
-**标签**: `#international relations`, `#education`, `#diplomacy`, `#news`
-
----
-
-<a id="item-tech-news-95"></a>
-### [РФ не конкурирует с держателями привычных маршрутов и их выгодоприобретателями —](https://telegram.me/tass_agency/392386) ⭐️ 1.0/10
-
-A Russian official claims Russia offers alternative tourism routes rather than competing with traditional destinations.
-
-telegram · tass\_agency · 8月28日 03:49
-
-**标签**: `#tourism`, `#geopolitics`, `#Russia`, `#non-technology`
-
----
-
-<a id="item-tech-news-96"></a>
-### [Главком ВМС Великобритании высоко оценил мощь подводного флота России.](https://telegram.me/tass_agency/392387) ⭐️ 1.0/10
-
-UK Navy Chief warns Russia could damage UK underwater critical infrastructure with its submarine fleet, per The Times via TASS Telegram.
-
-telegram · tass\_agency · 8月28日 03:57
-
-**标签**: `#geopolitics`, `#military`, `#news`
-
----
-
-<a id="item-tech-news-97"></a>
-### [03 版 -  外交部：中方正同尼方密切沟通  共同做好搜救工作](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177638.html) ⭐️ 0.0/10
-
-Chinese Foreign Ministry spokesperson confirms close coordination with Nepal on search-and-rescue efforts following a mudslide disaster causing significant casualties and missing persons.
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**标签**: `#diplomacy`, `#disaster response`, `#international relations`, `#news`
-
----
-
-<a id="item-tech-news-98"></a>
-### [03 版 -  第 140 届广交会推介会在秘鲁举行](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177641.html) ⭐️ 0.0/10
-
-The 140th Canton Fair promotion was held in Lima to discuss trade and business matchmaking between China and Peru.
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**标签**: `#trade`, `#international`, `#events`
-
----
-
-<a id="item-tech-news-99"></a>
-### [04 版 -  受灾群众转移安置工作有序开展](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177648.html) ⭐️ 0.0/10
-
-A People&\#x27;s Daily report on rescue and relocation efforts for victims of a mudslide in Tibet&\#x27;s Gyirong County.
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**标签**: `#disaster relief`, `#news`, `#non-technology`
-
----
-
-<a id="item-tech-news-100"></a>
-### [06 版 -  本版责编：康  岩  刘涓溪  王  博](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177662.html) ⭐️ 0.0/10
-
-Empty People&\#x27;s Daily page layout with no substantive article.
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**标签**: `#news`, `#chinese\_media`, `#no\_content`
-
----
-
-<a id="item-tech-news-101"></a>
-### [07 版 -  坚守初心正道  勇担时代使命](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177663.html) ⭐️ 0.0/10
-
-A People&\#x27;s Daily article commemorating the 35th anniversary of China&\#x27;s journalist code of ethics.
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**标签**: `#journalism`, `#ethics`, `#policy`, `#China`, `#media`
-
----
-
-<a id="item-tech-news-102"></a>
-### [07 版 -  安徽下好创新先手棋（活力中国调研行）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177664.html) ⭐️ 0.0/10
-
-A Chinese state media report on Anhui province&\#x27;s economic growth and scientific infrastructure investments, unrelated to technology news for software engineering and AI readers.
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**标签**: `#regional policy`, `#scientific infrastructure`, `#economic development`, `#state media`
-
----
-
-<a id="item-tech-news-103"></a>
-### [07 版 -  “九五”普法从政策驱动向依法实施转变（权威发布）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177665.html) ⭐️ 0.0/10
-
-A People&\#x27;s Daily report on China launching the &\#x27;15th Five-Year&\#x27; legal education plan and shifting from policy-driven to legally grounded implementation.
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**标签**: `#policy`, `#legal-education`, `#china`
-
----
-
-<a id="item-tech-news-104"></a>
-### [09 版 -  推动人文经济高质量发展（专题深思）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177672.html) ⭐️ 0.0/10
-
-A theoretical essay on the integration of culture and economic development in the context of Chinese modernization.
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**标签**: `#politics`, `#economics`, `#policy`, `#chinese-government`
-
----
-
-<a id="item-tech-news-105"></a>
-### [10 版 -  车站有清凉  城市有温暖（编辑手记）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177674.html) ⭐️ 0.0/10
-
-A civic editorial discussing urban initiatives to provide cooling spaces for the public.
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**标签**: `#civic`, `#news`, `#non-technical`
-
----
-
-<a id="item-tech-news-106"></a>
-### [14 版 -  讲好丝路故事  传承丝路精神](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177689.html) ⭐️ 0.0/10
-
-A People&\#x27;s Daily editorial discussing the Silk Road story and heritage, featuring multiple images.
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**标签**: `#politics`, `#culture`, `#international-relations`
-
----
-
-<a id="item-tech-news-107"></a>
-### [14 版 -  本版责编：纪雅林  卢  涛  翟钦奇](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177690.html) ⭐️ 0.0/10
-
-Empty page containing only editorial credits and copyright text.
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**标签**: `#noise`, `#empty-content`, `#metadata-only`
-
----
-
-<a id="item-tech-news-108"></a>
-### [18 版 -  长白山下，有种像苹果的梨（三餐四季）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177702.html) ⭐️ 0.0/10
-
-关于吉林省延边苹果梨丰收的农业报道。
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**标签**: `#农业`, `#地方经济`, `#水果产业`
-
----
-
-<a id="item-tech-news-109"></a>
-### [18 版 -  “烘焙村”里糕饼香（美丽乡村我的家）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177703.html) ⭐️ 0.0/10
-
-A People&\#x27;s Daily rural revitalization story about the baking industry in Zhou Tang Village, Jiangxi, unrelated to technology news.
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**标签**: `#rural-economy`, `#food-industry`, `#local-policy`, `#non-tech`
-
----
-
-<a id="item-tech-news-110"></a>
-### [20 版 -  本版责编：任飞帆](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177714.html) ⭐️ 0.0/10
-
-Newspaper page footer containing only editorial credits and copyright information.
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**标签**: `#noise`, `#non-technical`, `#no-content`
-
----
-
-<a id="item-tech-news-111"></a>
-### [In Trump’s Washington, Ballooning National Debt Stirs Little Action](https://www.nytimes.com/2026/08/27/us/politics/national-debt-trump-reaction.html) ⭐️ 0.0/10
-
-A political article observing little reaction to the U.S. national debt reaching $40 trillion under Trump&\#x27;s Washington.
-
-rss · 纽约时报\(The New York Times\) · 8月27日 21:15
-
-**标签**: `#politics`, `#public-policy`, `#economy`
-
----
-
-<a id="item-tech-news-112"></a>
-### [Survivors of Nepal Flood Left in Stunned Disbelief: ‘They All Died, and I Lived’](https://www.nytimes.com/2026/08/27/world/asia/nepal-flash-flood-dhunche.html) ⭐️ 0.0/10
-
-A NYT article reporting on the devastating effects of a flash flood in Nepal that killed over 300 people.
-
-rss · 纽约时报\(The New York Times\) · 8月28日 01:59
-
-**标签**: `#disaster`, `#news`, `#international`
-
----
-
-<a id="item-tech-news-113"></a>
-### [Judge Says Trump’s Name Should Stay Off Kennedy Center for Now](https://www.nytimes.com/2026/08/27/arts/music/trump-kennedy-center-name.html) ⭐️ 0.0/10
-
-A judge ruled that Trump&\#x27;s name should remain off the Kennedy Center temporarily after the center proposed adding an inscription honoring him.
-
-rss · 纽约时报\(The New York Times\) · 8月28日 03:04
-
-**标签**: `#politics`, `#law`, `#arts/culture`
-
----
-
-<a id="item-tech-news-114"></a>
-### [There Is a Sickness Worse Than Wokeness](https://www.nytimes.com/2026/08/27/opinion/woke-right-trump-free-speech.html) ⭐️ 0.0/10
-
-A political opinion arguing that the anti-woke movement adopted intolerant and repressive methods.
-
-rss · 纽约时报\(The New York Times\) · 8月27日 23:49
-
-**标签**: `#politics`, `#opinion`, `#culture`
-
----
-
-<a id="item-tech-news-115"></a>
-### [Tropical Storm Dolly tracker: Map and projected storm path](https://www.washingtonpost.com/weather/2026/08/27/tropical-storm-dolly-tracker-map-projected-storm-path/) ⭐️ 0.0/10
-
-A tracker and projected path for Tropical Storm Dolly, the fourth named storm of the hurricane season.
-
-rss · 华盛顿邮报\(The Washington Post\) · 8月27日 20:58
-
-**标签**: `#weather`, `#trivial`, `#off-topic`
-
----
-
-<a id="item-tech-news-116"></a>
-### [California authorities identify final unknown victim of ‘Happy Face Killer’ Keith Jesperson after 34 years](https://www.foxnews.com/us/california-authorities-identify-final-unknown-victim-happy-face-killer-keith-jesperson-after-34-years) ⭐️ 0.0/10
-
-DNA testing identified the final unknown victim of the &\#x27;Happy Face Killer&\#x27; in California after 34 years.
-
-rss · 福克斯新闻\(Fox News\) · 8月28日 02:29
-
-**标签**: `#true crime`, `#off-topic`
-
----
-
-<a id="item-tech-news-117"></a>
-### [Old Al Michaels stumbles through awkward Lake America-Trump jab during Thursday Night Football broadcast](https://www.foxnews.com/outkick-sports/al-michaels-stumbles-awkward-lake-america-trump-jab-thursday-night-football-broadcast) ⭐️ 0.0/10
-
-A Fox News article reporting on Al Michaels making an awkward political joke during a Thursday Night Football broadcast.
-
-rss · 福克斯新闻\(Fox News\) · 8月28日 02:15
-
-**标签**: `#media`, `#politics`, `#entertainment`
-
----
-
-<a id="item-tech-news-118"></a>
-### [Broncos coach Sean Payton buries Geoff Schwartz after analyst butchers Bo Nix&\#x27;s downfield game](https://www.foxnews.com/outkick-sports/broncos-coach-sean-payton-buries-geoff-schwartz-analyst-butchers-bo-nix-downfield-game) ⭐️ 0.0/10
-
-Fox News reports on Sean Payton&\#x27;s criticism of analyst Geoff Schwartz regarding comments about quarterback Bo Nix&\#x27;s downfield passing.
-
-rss · 福克斯新闻\(Fox News\) · 8月28日 01:40
-
-**标签**: `#sports`, `#NFL`, `#irrelevant`
-
----
-
-<a id="item-tech-news-119"></a>
-### [Megan Rapinoe mocks Enes Kanter Freedom&\#x27;s &\#x27;protect women&\#x27; comments, calls him &\#x27;bad-faith actor&\#x27;](https://www.foxnews.com/outkick-sports/megan-rapinoe-mocks-enes-kanter-freedoms-protect-women-comments-calls-him-bad-faith-actor) ⭐️ 0.0/10
-
-Megan Rapinoe criticizes Enes Kanter Freedom&\#x27;s comments on her podcast following a clash at a basketball game.
-
-rss · 福克斯新闻\(Fox News\) · 8月27日 23:00
-
-**标签**: `#Sports`, `#Celebrity`, `#Social Commentary`
-
----
-
-<a id="item-tech-news-120"></a>
-### [73-year-old camper vanishes off the grid before his RV turns up in wilderness](https://www.foxnews.com/us/73-year-old-camper-vanishes-grid-rv-turns-wilderness) ⭐️ 0.0/10
-
-A 73-year-old camper has vanished, and his empty RV was found at a wilderness campsite, prompting a multi-agency search.
-
-rss · 福克斯新闻\(Fox News\) · 8月27日 22:57
-
-**标签**: `#local news`, `#missing person`, `#wilderness`, `#public safety`
-
----
-
-<a id="item-tech-news-121"></a>
-### [Predicting each Power 4 conference champion ahead of the 2026 college football season](https://www.foxnews.com/outkick-sports/predicting-each-power-4-conference-champion-ahead-2026-college-football-season) ⭐️ 0.0/10
-
-An article predicting Power 4 college football conference champions for the 2026 season.
-
-rss · 福克斯新闻\(Fox News\) · 8月27日 22:47
-
-**标签**: `#sports`, `#college-football`
-
----
-
-<a id="item-tech-news-122"></a>
-### [Abbott taunts far-left AG with fiery warning over ICE extradition fight: &\#x27;Such bad lawyers&\#x27;](https://www.foxnews.com/politics/abbott-taunts-far-left-ag-fiery-warning-ice-extradition-fight-bad-lawyers) ⭐️ 0.0/10
-
-A political news item about a conflict between US politicians with no technological relevance.
-
-rss · 福克斯新闻\(Fox News\) · 8月27日 22:41
-
-**标签**: `#politics`, `#US-government`
-
----
-
-<a id="item-tech-news-123"></a>
-### [DOJ says no action to add Trump&\#x27;s name to Kennedy Center before October](https://abcnews.com/Politics/doj-action-add-trumps-kennedy-center-october/story?id=136020473) ⭐️ 0.0/10
-
-The DOJ stated that efforts to add Donald Trump&\#x27;s name to the Kennedy Center will not proceed before October 8, 2026.
-
-rss · ABC新闻\(American Broadcasting Company\) · 8月28日 03:54
-
----
-
-<a id="item-tech-news-124"></a>
-### [FAA looking to fire air traffic controllers after deadly March collision: Sources](https://abcnews.com/US/faa-fire-laguardia-air-traffic-controllers-after-deadly/story?id=136014958) ⭐️ 0.0/10
-
-The FAA plans to fire two air traffic controllers following a deadly collision at LaGuardia Airport involving a plane and a fire truck.
-
-rss · ABC新闻\(American Broadcasting Company\) · 8月27日 22:24
-
-**标签**: `#aviation`, `#general news`, `#public safety`
-
----
-
-<a id="item-tech-news-125"></a>
-### [Tropical Storm Dolly forms in the Atlantic](https://abcnews.com/US/tropical-storm-dolly-forms-atlantic/story?id=136006179) ⭐️ 0.0/10
-
-Tropical Storm Dolly is the fourth cyclone of the 2026 Atlantic hurricane season.
-
-rss · ABC新闻\(American Broadcasting Company\) · 8月27日 19:19
-
-**标签**: `#weather`, `#nature`, `#off-topic`
-
----
-
-<a id="item-tech-news-126"></a>
-### [WATCH:  Inside the largest private collection of Dolly Parton memorabilia](https://abcnews.com/video/136012220/) ⭐️ 0.0/10
-
-An entertainment news segment about the owners of the largest private Dolly Parton memorabilia collection.
-
-rss · ABC新闻\(American Broadcasting Company\) · 8月27日 23:52
-
-**标签**: `#off-topic`, `#entertainment`, `#celebrity`
-
----
-
-<a id="item-tech-news-127"></a>
-### [WATCH:  Author discusses how to escape living paycheck-to-paycheck](https://abcnews.com/video/136014270/) ⭐️ 0.0/10
-
-ABC News video featuring a personal finance expert sharing tips to escape paycheck-to-paycheck living.
-
-rss · ABC新闻\(American Broadcasting Company\) · 8月27日 20:39
-
-**标签**: `#personal-finance`, `#consumer-advice`, `#non-technical`
-
----
-
-<a id="item-tech-news-128"></a>
-### [Bank holiday weekend to see more thunderstorms and rain](https://www.bbc.co.uk/weather/articles/cpq0zqepnrlo?at_medium=RSS&amp;at_campaign=rss) ⭐️ 0.0/10
-
-BBC weather forecast predicting thunderstorms and rain over the bank holiday weekend.
-
-rss · BBC\(British Broadcasting Corporation\) · 8月28日 01:24
-
-**标签**: `#weather`, `#non-technology`, `#irrelevant`, `#noise`
-
----
-
-<a id="item-tech-news-129"></a>
-### [What we know so far](https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&amp;at_campaign=rss) ⭐️ 0.0/10
-
-Hundreds are dead or missing following flooding and landslides on the Nepal-Tibet border.
-
-rss · BBC\(British Broadcasting Corporation\) · 8月28日 03:15
-
-**标签**: `#natural disaster`, `#news`, `#non-technical`
-
----
-
-<a id="item-tech-news-130"></a>
-### [&\#x27;My family members were swept away&\#x27;: Survivors describe horror](https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&amp;at_campaign=rss) ⭐️ 0.0/10
-
-A BBC news report featuring survivor accounts of a disaster where family members were swept away.
-
-rss · BBC\(British Broadcasting Corporation\) · 8月28日 03:23
-
-**标签**: `#disaster`, `#human interest`, `#news`
-
----
-
-<a id="item-tech-news-131"></a>
-### [Tate brothers blast US jail conditions as they seek bail in UK extradition fight](https://www.bbc.co.uk/news/articles/c9v9nndjznvo?at_medium=RSS&amp;at_campaign=rss) ⭐️ 0.0/10
-
-The Tate brothers argue in court that they are not a flight risk during their UK extradition proceedings.
-
-rss · BBC\(British Broadcasting Corporation\) · 8月28日 01:43
-
-**标签**: `#celebrity news`, `#legal`, `#non-technology`
-
----
-
-<a id="item-tech-news-132"></a>
-### [Uefa preparing criminal legal action against Infantino](https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&amp;at_campaign=rss) ⭐️ 0.0/10
-
-UEFA is initiating criminal legal action against FIFA president Gianni Infantino regarding a scrapped plan to sell World Cup stakes.
-
-rss · BBC\(British Broadcasting Corporation\) · 8月27日 14:42
-
-**标签**: `#sports`, `#governance`, `#legal`, `#fifa`, `#uefa`
-
----
-
-<a id="item-tech-news-133"></a>
-### [Sports Direct founder Mike Ashley attacks Burnham&\#x27;s &\#x27;populist&\#x27; High Street plans](https://www.bbc.co.uk/news/articles/cn74mm2jz8jo?at_medium=RSS&amp;at_campaign=rss) ⭐️ 0.0/10
-
-Sports Direct founder Mike Ashley criticizes the UK Prime Minister&\#x27;s High Street plans in a letter.
-
-rss · BBC\(British Broadcasting Corporation\) · 8月27日 20:03
-
-**标签**: `#business`, `#politics`, `#retail`, `#UK news`
-
----
-
-<a id="item-tech-news-134"></a>
-### [Chelsea agree £7.5m fee for Villa&\#x27;s Martinez](https://www.bbc.co.uk/sport/football/articles/c1j4r033wxzo?at_medium=RSS&amp;at_campaign=rss) ⭐️ 0.0/10
-
-Chelsea agreed to a £7.5m fee for Aston Villa goalkeeper Emiliano Martinez, a sports news item unrelated to technology.
-
-rss · BBC\(British Broadcasting Corporation\) · 8月27日 18:28
-
-**标签**: `#sports`, `#transfer\_rumor`, `#off\_topic`, `#noise`
-
----
-
-<a id="item-tech-news-135"></a>
-### [Werro edges closer to 800m mark as world records fall in Zurich](https://www.bbc.co.uk/sport/athletics/articles/cgmrvyjn1nvo?at_medium=RSS&amp;at_campaign=rss) ⭐️ 0.0/10
-
-A BBC sports report on European champion Audrey Werro&\#x27;s near miss of the 800m world record at the Zurich athletics event.
-
-rss · BBC\(British Broadcasting Corporation\) · 8月27日 19:09
-
-**标签**: `#sports`, `#athletics`, `#off-topic`
-
----
-
-<a id="item-tech-news-136"></a>
-### [‘Confluence of errors’ led to Belgian tourist Celine Cremer’s death in Tasmanian wilderness, coroner finds](https://www.theguardian.com/australia-news/2026/aug/28/coronial-inquest-findings-death-belgian-tourist-celine-cremer-tasmania) ⭐️ 0.0/10
-
-A coronial inquest found that a Belgian tourist died in Tasmania&\#x27;s wilderness after deviating from a walking track in near-freezing conditions.
-
-rss · 卫报\(The Guardian\) · 8月28日 04:10
-
-**标签**: `#off-topic`, `#tragedy`
-
----
-
-<a id="item-tech-news-137"></a>
-### [前 AFL 球星尼基·温马因暴力袭击被判六个月监禁](https://www.theguardian.com/australia-news/2026/aug/28/fl-player-nicky-winmar-jailed-violent-assault-woman-ntwnfb) ⭐️ 0.0/10
-
-澳大利亚前澳式足球联盟（AFL）明星尼克·温马（Nicky Winmar）因在 2025 年 5 月对一名女性实施暴力袭击，被本迪戈地方法院判处六个月监禁。时年 60 岁的温马在法庭上低头接受判决，检方已确认他将就定罪和量刑同时提出上诉。该案涉及一起无端暴力行为，发生于维多利亚州北部科胡纳（Cohuna）地区。
-
-rss · 卫报\(The Guardian\) · 8月28日 04:04
-
-**「背景」** 尼克·温马是澳大利亚原住民运动员的代表人物，1995 年曾因在赛场上举起手指抗议种族歧视的举动而闻名。AFL 是澳大利亚最受欢迎的体育联盟之一，其球员享有较高的公众关注度。
-
-**「影响」** 该判决对 AFL 社区及反种族歧视倡导者构成冲击，并凸显公众人物法律后果的严肃性。温马的上诉结果尚未确定，可能延长相关法律程序。
-
-**标签**: `#crime`, `#sports`, `#legal news`
-
----
-
-<a id="item-tech-news-138"></a>
-### [‘We just want them to return’: relatives of Australians missing in Nepal floods wait anxiously for news of loved ones](https://www.theguardian.com/world/2026/aug/28/family-missing-australians-nepal-tibet-flash-floods) ⭐️ 0.0/10
-
-Relatives of missing Australians wait anxiously for news after flash floods in Nepal.
-
-rss · 卫报\(The Guardian\) · 8月28日 03:56
-
-**标签**: `#human interest`, `#disaster`, `#travel`, `#international news`
-
----
-
-<a id="item-tech-news-139"></a>
-### [波斯尼亚塞族指挥官姆拉迪奇在狱中去世](https://www.theguardian.com/world/2026/aug/27/ratko-mladic-the-butcher-of-bosnia-dies-aged-84) ⭐️ 0.0/10
-
-波斯尼亚塞族指挥官拉特科·姆拉迪奇（Ratko Mladić）于 2026 年 8 月 27 日在荷兰海牙的监狱中去世，享年 84 岁。他因在 1995 年波斯尼亚战争期间策划斯雷布雷尼察大屠杀而被联合国前南斯拉夫问题国际刑事法庭判定犯有种族灭绝罪，并被判处终身监禁。此次死亡发生在他服刑期间，该大屠杀造成至少 8000 名穆斯林男性被杀害，是二战后欧洲最严重的暴行。
-
-rss · 卫报\(The Guardian\) · 8月27日 16:12
-
-**「背景」** 拉特科·姆拉迪奇是波斯尼亚战争期间波斯尼亚塞族军队的主要指挥官，被广泛称为“波斯尼亚屠夫”。他在逃亡 14 年后于 2011 年被捕，并于 2017 年被裁定犯有种族灭绝罪、战争罪和反人类罪。这一案件标志着二战后欧洲最严重的大规模暴行审判的终结。
-
-**「影响」** 姆拉迪奇的去世意味着另一位主要战犯将在服刑中终老，受害者家属寻求正义的努力随其死亡而画上句号。他的死不会改变既定的法律判决，但可能引发对前南斯拉夫地区历史记忆与和解进程的重新审视。
-
-**「社区讨论」** 目前尚无社区评论可用。
-
-**标签**: `#non-technology`, `#historical`, `#legal`, `#news`, `#international affairs`
-
----
-
-<a id="item-tech-news-140"></a>
-### [西班牙博物馆四分钟内被盗青铜时代宝藏](https://www.theguardian.com/culture/2026/aug/27/thieves-steal-bronze-age-treasure-of-villena-in-four-minute-heist) ⭐️ 0.0/10
-
-周四清晨，袭击者在西班牙维拉纳市的一场高度策划的抢劫中，仅用约四分钟盗走了被称为欧洲最重要史前宝藏之一的维拉纳青铜时代黄金宝藏。该藏品包含 66 件主要为黄金制成的文物，估值至少 170 万欧元。这一事件是近期欧洲发生的又一起高调 smash-and-grab 抢劫案，凸显了珍贵文物博物馆面临的安防挑战。
-
-rss · 卫报\(The Guardian\) · 8月27日 15:47
-
-**「background」** 维拉纳宝藏（Tesoro de Villena）是 1963 年在西班牙阿利坎特省的维拉纳市发现的一组公元前两千纪晚期的黄金和锡器文物。这批器物被广泛认为是欧洲发现的最重要的青铜时代黄金遗存之一，具有极高的考古、历史与艺术价值。
-
-**「impact」** 西班牙警方和文物保护部门正追查被盗文物的下落与犯罪网络，若追索困难，将造成不可逆的文化遗产损失。此类快速实施的博物馆抢劫可能促使更多机构加速升级展示空间监控与安保协议。
-
-**标签**: `#crime`, `#culture`, `#non-technology`
-
----
-
-<a id="item-tech-news-141"></a>
-### [民主党议员调查特朗普之子投资的私募公司业绩](https://www.theguardian.com/us-news/2026/aug/27/democrats-investigation-trump-jr-1798-capital) ⭐️ 0.0/10
-
-美国国会众议院司法委员会资深民主党议员杰米·拉斯金（Jamie Raskin）已正式发起调查，要求特朗普的长子小唐纳德·特朗普（Donald Trump Jr.）详细说明其投资机构 1789 Capital 在后者加入后的近期业绩表现。1789 Capital 是一家风险投资公司，小特朗普于 2024 年 11 月其父亲赢得第二个总统任期后几天内成为该机构的合伙人。此次调查源于对该机构在特朗普家族影响力加持下实现的“迅猛增长”的关注。
-
-rss · 卫报\(The Guardian\) · 8月27日 20:33
-
-**「背景信息」** 众议院司法委员会在调查潜在的关联方利益冲突或政治献金规避方面拥有重要职权。拉斯金作为该委员会的高级成员，有权向行政分支官员及相关实体提出问询和调取记录。
-
-**「影响评估」** 此举是美国政商界“旋转门”现象引发的监管关注的一部分，可能影响投资者对 1789 Capital 等由政治人物参与机构的投资信心。目前尚无证据表明调查会直接导致刑事处罚或立法变更。
-
-**标签**: `#politics`, `#venture capital`, `#US government`, `#regulation`
-
----
-
-<a id="item-tech-news-142"></a>
-### [Woman found guilty of indecent assault against two pupils at London boys’ school in 1980s](https://www.theguardian.com/uk-news/2026/aug/27/woman-found-guilty-indecent-assault-two-pupils-london-boys-school-1980s) ⭐️ 0.0/10
-
-A former chemistry teacher was convicted of indecently assaulting two pupils at a London boys&\#x27; school in the 1980s.
-
-rss · 观察家报\(The Observer\) · 8月27日 17:23
-
-**标签**: `#legal\_news`, `#crime`, `#uk\_news`, `#irrelevant`, `#non\_tech`
-
----
-
-<a id="item-tech-news-143"></a>
-### [Birmingham seeks injunction to stop anti-migrant group erecting flags on infrastructure](https://www.theguardian.com/uk-news/2026/aug/27/birmingham-seeks-injunction-to-stop-anti-migrant-group-erecting-flags-on-infrastructure) ⭐️ 0.0/10
-
-Birmingham city council seeks an injunction to prevent an anti-migrant group from attaching England flags to public infrastructure across the city.
-
-rss · 观察家报\(The Observer\) · 8月27日 11:31
-
-**标签**: `#local government`, `#legal injunction`, `#public infrastructure`, `#UK news`, `#civic policy`
-
----
-
-<a id="item-tech-news-144"></a>
-### [‘I Don’t Know You’: A provocative, humanist drama with no easy answers](https://www.japantimes.co.jp/culture/2026/08/28/film/i-dont-know-you/) ⭐️ 0.0/10
-
-A review of Ryota Nakano&\#x27;s humanist drama featuring performances by Kentaro Sakaguchi and Ikoi Hayase.
-
-rss · 日本时报\(The Japan Times\) · 8月27日 22:00
-
-**标签**: `#Film Review`, `#Entertainment`, `#Japanese Cinema`
-
----
-
-<a id="item-tech-news-145"></a>
-### [Heavy rain ongoing in Toyama and Ishikawa prefectures as warnings downgraded](https://www.japantimes.co.jp/news/2026/08/27/japan/ishikawa-toyama-rains-flooding/) ⭐️ 0.0/10
-
-Weather agency urged evacuations in Toyama and Ishikawa prefectures due to heavy rain and flooding risks.
-
-rss · 日本时报\(The Japan Times\) · 8月27日 08:21
-
-**标签**: `#weather`, `#natural disaster`, `#Japan news`, `#public safety`
-
----
-
-<a id="item-tech-news-146"></a>
-### [Takaichi begins meeting with LDP executives ahead of expected Cabinet reshuffle](https://www.japantimes.co.jp/news/2026/08/27/japan/politics/cabinet-ldp-reshuffle/) ⭐️ 0.0/10
-
-Japanese politician Takaichi meets with LDP executives ahead of an anticipated cabinet reshuffle to bolster party and public support.
-
-rss · 日本时报\(The Japan Times\) · 8月27日 08:15
-
-**标签**: `#politics`, `#government`, `#Japan`, `#news`
-
----
-
-<a id="item-tech-news-147"></a>
-### [Zuckersteuer: Steuerpolitik Zero](https://www.faz.net/aktuell/wirtschaft/zuckersteuer-klingbeil-stoppt-plaene-fuer-zero-getraenke-201159955.html) ⭐️ 0.0/10
-
-German Finance Minister Klingbeil abandoned plans for a tax-free &\#x27;Zero&\#x27; sugary beverage scheme, citing budget pressures.
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 06:40
-
-**标签**: `#tax policy`, `#sugary drinks`, `#German politics`, `#budget`
-
----
-
-<a id="item-tech-news-148"></a>
-### [Auslosung der Ligaphase: Das sind die Gegner der deutschen Teams in der Champions League](https://www.faz.net/aktuell/sport/fussball/champions-league/champions-league-bayern-muenchen-und-bvb-gegen-arsenal-london-rb-leipzig-gegen-real-madrid-201166153.html) ⭐️ 0.0/10
-
-German FAZ article announcing the Champions League league-phase opponents for German football clubs.
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 17:40
-
-**标签**: `#sports`, `#football`, `#Champions League`, `#Germany`, `#off-topic`
-
----
-
-<a id="item-tech-news-149"></a>
-### [Liveblog Ukrainekrieg: Trump: Bin nicht besorgt, dass Russland NATO-Staaten angreifen könnte](https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-trump-bin-nicht-besorgt-dass-russland-nato-staaten-angreifen-koennte-faz-110683325.html) ⭐️ 0.0/10
-
-Liveblog updates on the Ukraine war covering Trump&\#x27;s statements, a CIA chief visit, and explosions in Kyiv.
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 18:29
-
-**标签**: `#geopolitics`, `#military-conflict`, `#news-liveblog`, `#international-relations`
-
----
-
-<a id="item-tech-news-150"></a>
-### [Hanks welt: Macht Hitze arm?](https://www.faz.net/aktuell/wirtschaft/hanks-welt/macht-hitze-arm-das-haengt-von-der-reaktion-ab-201146514.html) ⭐️ 0.0/10
-
-An opinion column argues that the economic impact of rising heat depends on human response.
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 18:16
-
-**标签**: `#climate-change`, `#opinion`, `#economics`
-
----
-
-<a id="item-tech-news-151"></a>
-### [Neue Mehrheit: CDU wieder in Frankfurter Stadtspitze](https://www.faz.net/aktuell/rhein-main/frankfurt/dezernentenwahl-cdu-wieder-in-frankfurter-stadtspitze-201165753.html) ⭐️ 0.0/10
-
-CDU candidates receive varying vote counts in Frankfurt&\#x27;s post-election administrative reshuffle.
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 21:27
-
-**标签**: `#politics`, `#local government`, `#germany`, `#off-topic`
-
----
-
-<a id="item-tech-news-152"></a>
-### [О том, как дольщику сохранить деньги при банкротстве застройщика, рассказал ТАСС](https://max.ru/tass_agency) ⭐️ 0.0/10
-
-Legal guidance for shared investors to recover funds when a construction company goes bankrupt.
-
-telegram · tass\_agency · 8月28日 01:34
-
-**标签**: `#legal`, `#finance`, `#bankruptcy`, `#russian-law`
-
----
-
-<a id="item-tech-news-153"></a>
-### [🚨 При атаке ВСУ на жилой дом в Севастополе пострадали два человека, еще двое пол](https://telegram.me/tass_agency/392384) ⭐️ 0.0/10
-
-A short, unverified Telegram post claiming injuries from a military attack on a residential building in Sevastopol.
-
-telegram · tass\_agency · 8月28日 03:08
-
-**标签**: `#noise`, `#non-technology`, `#unverified-source`, `#military-conflict`, `#telegram-content`
-
----
-
-<a id="item-tech-news-154"></a>
-### [Минпросвещения дало рекомендации по проведению линейки 1 сентября в школах, след](https://telegram.me/tass_agency/392389) ⭐️ 0.0/10
-
-Russian Ministry of Education issued recommendations for September 1st school events, including inviting veterans and organizing flag ceremonies.
-
-telegram · tass\_agency · 8月28日 04:17
-
-**标签**: `#government`, `#education`, `#Russia`, `#news`
-
----
-
-<a id="item-tech-news-155"></a>
-### [Одновременные визиты в Москву руководителя ЦРУ и главы дипломатии Ватикана означ](https://telegram.me/tass_agency/392390) ⭐️ 0.0/10
-
-Lavrov states that simultaneous visits by the CIA director and Vatican diplomat to Moscow indicate a desire to talk with the Russian side.
-
-telegram · tass\_agency · 8月28日 04:23
-
-**标签**: `#geopolitics`, `#diplomacy`, `#news`
-
----
-
-<a id="item-tech-news-156"></a>
-### [Tasmania, Australia.](https://telegram.me/nature/20139) ⭐️ 0.0/10
-
-A Telegram post titled &quot;Tasmania, Australia&quot; contains no technology content.
-
-telegram · nature · 8月27日 05:35
-
-**标签**: `#location`, `#no-content`, `#non-technical`
-
----
-
-<a id="item-tech-news-157"></a>
-### [Lugard Road Lookout at Victoria Peak.](https://telegram.me/nature/20140) ⭐️ 0.0/10
-
-A caption for an image of the Lugard Road Lookout at Victoria Peak.
-
-telegram · nature · 8月27日 07:34
-
-**标签**: `#off-topic`, `#no-content`
-
----
-
-<a id="item-tech-news-158"></a>
-### [Kapasbiru Waterfall, Indonesia.](https://telegram.me/nature/20141) ⭐️ 0.0/10
-
-A Telegram post captioning a photo of Kapasbiru Waterfall in Indonesia.
-
-telegram · nature · 8月27日 09:36
-
-**标签**: `#nature`, `#off-topic`, `#trivial`
-
----
-
-<a id="item-tech-news-159"></a>
-### [土耳其科伊切吉兹地点标签](https://telegram.me/nature/20142) ⭐️ 0.0/10
-
-该条目仅包含地理位置标签“Köyceğiz, Türkiye”（土耳其科伊切吉兹），源自 Telegram 频道 nature，无任何技术实质内容。分析指出其属于噪声或无关话题，不具备科技新闻价值。
-
-telegram · nature · 8月27日 12:03
-
-**「背景说明」** 科伊切吉兹是土耳其穆格拉省的一个市镇，以自然景观和湖泊闻名，常被自然类社交频道用于地理标记或摄影分享。此类条目通常缺乏技术细节或政策信息，难以归入科技新闻范畴。
-
-**「影响评估」** 该条目对技术社区、开发者或行业标准无实质影响。因其内容为纯地理标签，未涉及任何技术变更、产品发布或生态事件，故不存在可验证的技术后果。
-
-**标签**: `#noise`, `#off-topic`
-
----
-
-<a id="item-tech-news-160"></a>
-### [The Jashak Salt Dome is a geological formation located in southwestern Iran.](https://telegram.me/nature/20143) ⭐️ 0.0/10
-
-A geological fact about a salt dome in Iran, unrelated to technology.
-
-telegram · nature · 8月27日 13:37
-
-**标签**: `#Geology`, `#Geography`, `#Iran`
-
----
-
-<a id="item-tech-news-161"></a>
-### [Wonders of Bali.](https://telegram.me/nature/20144) ⭐️ 0.0/10
-
-A non-technical post about Bali with no technological content.
-
-telegram · nature · 8月27日 15:32
-
-**标签**: `#off-topic`, `#no-technical-content`, `#trivial`
-
----
-
-<a id="item-tech-news-162"></a>
-### [欧洲中部风景如画的杜纳耶茨河](https://telegram.me/nature/20145) ⭐️ 0.0/10
-
-杜纳耶茨河是欧洲中部最迷人的河流之一，流经斯洛伐克东北部和波兰南部。其湍急的祖母绿色河水在皮耶尼内山脉陡峭的悬崖之间雄伟地蜿蜒流淌，形成了令人叹为观止的风景。这条河流以其独特的自然美景而闻名，是该地区重要的自然景观资源。
-
-telegram · nature · 8月27日 17:38
-
-**「地理背景」** 皮耶尼内山脉位于斯洛伐克与波兰边境，是一处著名的自然保护区。杜纳耶茨河在此段形成了独特的峡谷景观，吸引了大量游客前来观光和漂流活动。
-
-**标签**: `#nature`, `#travel`, `#geography`
-
----
-
-<a id="item-tech-news-163"></a>
-### [Incredible underwater world.](https://telegram.me/nature/20146) ⭐️ 0.0/10
-
-A generic Telegram post about an underwater world with no technical substance.
-
-telegram · nature · 8月27日 19:31
-
-**标签**: `#off-topic`, `#noise`, `#non-technical`, `#trivial`
-
----
-
-<a id="item-tech-news-164"></a>
-### [Daniel Kokotajlo 提出 AI 2040 年发展计划](https://80000hours.org/podcast/episodes/daniel-kokotajlo-ai-2040-plan-a/) ⭐️ ?/10
-
-《AI 2027》作者 Daniel Kokotajlo 最近在 80,000 Hours 播客中分享了改变 AI 发展结局的计划。他建议全球协调 AI 研究，建立国际机构监管超级智能开发，并制定严格的安全协议。Kokotajlo 强调需要防止 AI 军备竞赛，确保技术发展符合人类整体利益。该计划旨在避免失控的超级智能带来的潜在灾难性后果。
-
-rss · 80000 Hours AI风险与职业 · 8月27日 17:29
-
-**「背景」** Daniel Kokotajlo 此前出版的《AI 2027》一书描述了人工智能可能在未来十年内超越人类智能的情景。随着大语言模型和 AI 能力的快速发展，学术界和政策制定者越来越关注 AI 安全问题，包括对齐问题、价值负载和长期生存风险。
-
-**「影响」** 80,000 Hours 于 2026 年 7 月发布对 Daniel Kokotajlo 的访谈，其论文《AI 2040：方案 A》呼吁通过美中验证协议遏制竞速性智能爆炸，并主张减速研究、加强实验室透明度及权力分散。由于 Kokotajlo 已将其 AGI 中位数预测从 2027 年推迟至 2030 年代，这一政策调整可能重塑 2027 至 2040 年间关于 AI 安全治理的主流讨论与监管议程。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/AI_Futures_Project">AI Futures Project - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Daniel_Kokotajlo_%28researcher%29">Daniel Kokotajlo (researcher)</a></li>
-<li><a href="https://80000hours.org/podcast/episodes/daniel-kokotajlo-ai-2040-plan-a/">AI 2027&#x27;s author returns with a plan to change the ending | Daniel Kokotajlo | 80,000 Hours</a></li>
-
-</ul>
-</details>
-
----
-
-<a id="item-tech-news-165"></a>
-### [《习近平文化文选》第一卷、第二卷出版发行](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177626.html) ⭐️ ?/10
-
-中共中央党史和文献研究院编辑的《习近平文化文选》第一卷、第二卷近日由中央文献出版社出版并向全国发行。文选收入了习近平同志 2012 年 11 月至 2026 年 2 月期间关于文化建设最重要的著作，共 78 篇，按时间顺序编排，其中部分著作是第一次公开发表。第一卷收录 2012 年 11 月至 2016 年 12 月期间的 27 篇著作，第二卷收录 2017 年 10 月至 2026 年 2 月期间的 51 篇著作。该书的出版为全党全国各族人民深入学习贯彻习近平新时代中国特色社会主义思想特别是习近平文化思想提供了权威教材。
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**「背景信息」** 党的十八大以来，以习近平同志为核心的党中央坚持把文化建设摆在治国理政突出位置，创造性提出了一系列新思想新观点新论断，形成了习近平文化思想。习近平文化思想是新时代党领导文化建设实践经验的理论总结，是坚持“两个结合”、推进马克思主义文化理论创新的重大成果，构成了习近平新时代中国特色社会主义思想的文化篇。
-
-**「影响与意义」** 《习近平文化文选》第一卷、第二卷的出版发行，对于广大党员、干部、群众进一步深刻领悟“两个确立”的决定性意义，坚决做到“两个维护”，自觉在思想上政治上行动上同以习近平同志为核心的党中央保持高度一致具有重要意义。该书为推进文化自信自强、铸就社会主义文化新辉煌，为以中国式现代化全面推进强国建设、民族复兴伟业提供了坚强思想保证、强大精神力量和有利文化条件。
-
----
-
-<a id="item-tech-news-166"></a>
-### [中国发布全球治理倡议一年进展综述](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177627.html) ⭐️ ?/10
-
-《人民日报》2026 年 8 月 28 日刊文指出，2025 年 9 月 1 日在天津举行的“上海合作组织+”会议上，习近平主席郑重提出全球治理倡议，旨在推动构建更加公正合理的全球治理体系。一年来，该倡议已从理念转化为国际实践，近 160 个国家和国际组织表示欢迎和支持，60 多个国家加入“全球治理之友小组”。倡议奉行主权平等、遵守国际法治、践行多边主义、倡导以人为本、注重行动导向五大核心理念，并通过国际调解院开业、人工智能治理方案等务实行动落地。2026 年下半年，上海合作组织比什凯克峰会、金砖国家领导人新德里会晤、亚太经合组织深圳会议及二十国集团迈阿密峰会将接连举行，中国将于秋季在河北雄安新区举办全球治理论坛以共商改革大计。
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**「全球治理背景与倡议起源」** 当前单边主义、保护主义、霸权主义抬头，地缘冲突与全球性挑战层出不穷，国际社会对改革完善全球治理体系的诉求日益迫切。全球治理倡议于 2025 年世界反法西斯战争胜利和联合国成立 80 周年之际提出，是中国为解答“构建什么样的全球治理体系、如何改革完善全球治理”这一时代命题提供的中国方案，也是对构建人类命运共同体理念的进一步深化与实践。
-
-**「国际响应与机制建设进展」** 全球治理倡议已催生国际调解院机制创新，公约签署国从 37 个增至 46 个，并在联合国、日内瓦等地建立“全球治理之友小组”以协调立场。中国通过发布概念文件和白皮书，将倡议理念写入与多国联合声明，推动多边进程更多倾听发展中国家声音，为动荡世界注入稳定性。
-
----
-
-<a id="item-tech-news-167"></a>
-### [十四届全国人大常委会举行第七十二次委员长会议](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177628.html) ⭐️ ?/10
-
-2026 年 8 月 27 日，十四届全国人大常委会第七十二次委员长会议在北京人民大会堂举行，由赵乐际委员长主持。会议听取并审议了信春鹰关于医疗保障法、耕地保护和质量提升法、农业法修订草案等修改意见的汇报，以及娄勤俭关于《中华人民共和国和匈牙利引渡条约》审议情况的汇报。会议同时听取了刘奇关于个别代表代表资格报告和任免案审议情况的汇报。委员长会议决定将上述草案修改稿提交常委会会议审议，李鸿忠、王东明等副委员长出席会议。
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**「委员长会议职能概述」** 委员长会议由全国人大常委会委员长、副委员长组成，负责处理常委会的重要日常工作。其主要职责包括决定常委会会议议程、审议法律草案修改稿以及协调常委会各项议程安排，是立法程序中的关键环节。
-
-**「立法进程推进」** 此次会议直接推动医疗保障、耕地保护、农业及国防动员等多部重要法律的修订进程进入常委会正式审议阶段，并将中匈引渡条约批准程序向前推进。
-
----
-
-<a id="item-tech-news-168"></a>
-### [人民日报：中国车市重构新逻辑，智能时代供给与消费全面升级](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177629.html) ⭐️ ?/10
-
-2026 年 8 月 28 日《人民日报》发文指出，中国汽车市场正经历前所未有的系统性重构。今年上半年原生全新车型投放超 100 款，燃油车占比不足 20%，新能源乘用车零售渗透率在 4—7 月稳定保持在 60%以上，7 月达到 65.1%。供给端，“三电”系统及动力电池实现高度自主可控，宁德时代上半年净利润超 430 亿元，超越国内 10 家上市整车企业利润总和；“反向合资”现象凸显，大众入股小鹏、奥迪携手上汽，合资品牌开始积极拥抱中国技术。需求端，汽车保有量达 3.71 亿辆，平均车龄 8.2 年，升级换代成为主旋律，40 万元以上高端新能源市场同比增长 46%，自主品牌拿下近六成份额。文章强调，传统“价格战”逻辑已失效，产业正从“拼价格”转向“拼价值”，通过技术、智能和品牌实现高质量竞争。
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**「背景信息」** 中国汽车产业正处于从燃油车时代向智能网联新能源汽车时代过渡的关键期。随着电池、电机、电控等核心技术的本土化突破，以及 OTA（远程在线升级）等软件定义汽车能力的普及，汽车产品的迭代周期已从传统燃油车的 36—48 个月缩短至 6—12 个月，具备了类似电子消费品的快速迭代特征。
-
-**「影响评估」** 对于车企而言，依赖传统燃油车架构和价格战策略的企业面临严峻生存挑战，唯有加速智能化转型并深耕技术创新方能突围。对于全球汽车产业链，中国已成为新能源技术输出和标准制定的核心力量，迫使国际巨头重新调整对华合作模式与本土化研发策略。
-
----
-
-<a id="item-tech-news-169"></a>
-### [安徽以科技创新推动高质量发展](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177630.html) ⭐️ ?/10
-
-2026 年 8 月 28 日《人民日报》报道，安徽省上半年地区生产总值同比增长 5.6%，经济总量跃居全国前十，规上工业增加值同比增长 12.4%，创 2021 年 10 月以来新高。安徽坚持科技打头阵，布局 13 个大科学装置，构建量子信息、聚变能源、深空探测三大科创引领高地。通过健全大科学装置&quot;沿途下蛋&quot;机制，已梳理技术专利 1000 余项、孵化企业 50 余家。汽车产业方面，上半年全省汽车产量 168.67 万辆、新能源汽车产量 88.18 万辆，汽车出口量 100.6 万辆，4 项数据均居全国第一。
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**「政策背景」** 2024 年 10 月，习近平总书记在安徽考察时指出&quot;推进中国式现代化，科技要打头阵&quot;，要求安徽在科技创新和产业创新上走在前列。安徽据此构建全周期服务体系，打通技术孵化、人才引育、创业投资等环节，持续推动科技要素资源市场化配置。
-
-**「影响」** 安徽通过科技创新驱动，成功实现从传统农业大省向工业大省、科创大省的转变，新能源汽车、集成电路、工业机器人等新兴产业加速崛起，为全国区域经济高质量发展提供实践样本。
-
----
-
-<a id="item-tech-news-170"></a>
-### [01 版 -  吉隆泥石流灾区道路已抢通 800 米](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177631.html) ⭐️ ?/10
-
-01 版 -  吉隆泥石流灾区道路已抢通 800 米
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
----
-
-<a id="item-tech-news-171"></a>
-### [01 版 -  导读](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177632.html) ⭐️ ?/10
-
-01 版 -  导读
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
----
-
-<a id="item-tech-news-172"></a>
-### [02 版 -  《习近平文化文选》第一卷、第二卷主要篇目介绍](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177633.html) ⭐️ ?/10
-
-02 版 -  《习近平文化文选》第一卷、第二卷主要篇目介绍
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
----
-
-<a id="item-tech-news-173"></a>
-### [03 版 -  中吉务实合作驶入快车道](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177634.html) ⭐️ ?/10
-
-03 版 -  中吉务实合作驶入快车道
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
----
-
-<a id="item-tech-news-174"></a>
-### [中共中央国务院转发“九五”普法规划，普法向依法实施转变](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177644.html) ⭐️ ?/10
-
-近日，中共中央、国务院转发《中央宣传部、司法部关于开展法治宣传教育的第九个五年规划（2026—2030 年）》，标志着全民普法进入“九五”新周期。8 月 27 日国新办发布会透露，“九五”普法以法治宣传教育法为刚性法律依据，实现从政策驱动向依法实施的根本转变，锚定提升公民法治素养和培育全社会法治信仰的核心目标。规划要求构建精准普法新模式，强调网信部门统筹网络法治教育，落实媒体平台公益普法责任，并依托 12355 热线等机制强化青少年等重点群体法治保护。全国人大常委会将依法加强对规划实施情况的监督，推动普法工作制度化、常态化、长效化。
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**「背景」** 2025 年 9 月 12 日，十四届全国人大常委会第十七次会议通过《中华人民共和国法治宣传教育法》，自 2025 年 11 月 1 日起施行，这是我国首部专门规范法治宣传教育的法律。近日，中共中央、国务院转发了《中央宣传部、司法部关于开展法治宣传教育的第九个五年规划（2026—2030 年）》，标志着全民普法正式开启“九五”新周期，实现从政策驱动向依法实施的重大转变。
-
-**「影响」** 各级党政机关、群团组织及网络服务提供者将在未来五年内把法治宣传教育法的各项制度刚性落地，普法资源供给与考核问责机制将更加制度化。互联网平台需切实压实公益普法主体责任，青少年、网民等群体的网络法治素养提升将获得更系统的制度保障。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.cma.gov.cn/ztbd/2025zt/20251127/2023113002/202512/t20251202_7475127.html">法治宣传教育的法治化进阶——解读《法治宣传教育法》-中国气象局政府门户网站</a></li>
-<li><a href="https://www.gov.cn/lianbo/bumen/202510/content_7046481.htm">以法治方式推动保障法治宣传教育全面发展——国新办发布会介绍法治宣传教育法及全民普法有关情况_部门动态_中国政府网</a></li>
-<li><a href="https://www.ssf.gov.cn/portal/rootfiles/2025/12/10/1767095839048336-1767095839062135.pdf">－1－ 中华人民共和国法治宣传教育法 （2025 年9 月12 日第十四届全国人民代表大会常务委 员会第十七次会议通过） 目 录 第一章 总 则</a></li>
-
-</ul>
-</details>
-
----
-
-<a id="item-tech-news-175"></a>
-### [人民日报 2026 年 8 月 28 日版面责编名单](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177649.html) ⭐️ ?/10
-
-根据人民日报 2026 年 8 月 28 日的版面信息，该报当日各版责任编辑名单如下：一版由许诺、赵政、张宇杰负责；二版由蒋雪婕、祁嘉润、张安宇负责；三版由吴刚、李欣怡、谢佳宁负责；四版由白之羽、刘静文、余璇负责。该页面为报纸版面索引页，未包含具体新闻报道内容。
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**「背景」** 《人民日报》是中国共产党中央委员会的机关报，其电子版由人民网（people.com.cn）出版运营，内容仅供读者阅读和学习研究使用。该报刊采用版面编辑负责制，每日不同版次由指定的责编团队负责审稿与发布。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://paper.people.com.cn/rmrb/pc/layout/202605/17/node_04.html">04版：要闻 - 人民日报</a></li>
-<li><a href="https://paper.people.com.cn/rmrb/pc/layout/202606/22/node_04.html">人民日报-人民网</a></li>
-
-</ul>
-</details>
-
----
-
-<a id="item-tech-news-176"></a>
-### [05 版 -  以学习跑赢时光、赢得荣光（中国道路中国梦）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177650.html) ⭐️ ?/10
-
-05 版 -  以学习跑赢时光、赢得荣光（中国道路中国梦）
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
----
-
-<a id="item-tech-news-177"></a>
-### [云南泸沽湖游客互拍意外重逢失联 70 多年亲人](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177651.html) ⭐️ ?/10
-
-2026 年 8 月 28 日《人民日报》报道，自媒体博主陈杰在云南泸沽湖畔帮助台湾游客费海平拍照时，意外确认对方为家族失联 70 多年的亲人。文章指出这场看似偶然的相遇实则根植于两岸同胞共有的文化记忆与血脉亲情，并通过高山茶、凤梨酥与杭白菊等礼物的互换，象征两地亲情的双向奔赴。报道进一步列举《给阿嬷的情书》热映、《只此青绿》赴台演出以及青年“云端寻根”等现象，强调民间交流基础深厚，两岸同胞走向团聚的大潮流不可阻挡。
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**「背景」** 自 1949 年以来，大量大陆居民迁居台湾，导致许多家庭长期分离，直至近年才逐步恢复联系。此类民间寻亲故事常因共同的语言、习俗和文化根源而得以实现，反映了两岸社会深层的历史联结。
-
-**「影响」** 该事件强化了两岸民众对共同文化身份的认知，为民间交流提供了情感范例。此类报道有助于缓解信息壁垒带来的刻板印象，促进青年群体间的真诚对话。
-
----
-
-<a id="item-tech-news-178"></a>
-### [05 版 -  智能时代如何打好底子（金台随笔）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177652.html) ⭐️ ?/10
-
-05 版 -  智能时代如何打好底子（金台随笔）
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
----
-
-<a id="item-tech-news-179"></a>
-### [05 版 -  图片报道](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177653.html) ⭐️ ?/10
-
-05 版 -  图片报道
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
----
-
-<a id="item-tech-news-180"></a>
-### [05 版 -  警惕“小口子”越撕越大（纵横）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177654.html) ⭐️ ?/10
-
-05 版 -  警惕“小口子”越撕越大（纵横）
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
----
-
-<a id="item-tech-news-181"></a>
-### [05 版 -  携手向前，成就中国创造（人民时评）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177655.html) ⭐️ ?/10
-
-05 版 -  携手向前，成就中国创造（人民时评）
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
----
-
-<a id="item-tech-news-182"></a>
-### [05 版 -  欢迎赐稿](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177656.html) ⭐️ ?/10
-
-05 版 -  欢迎赐稿
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
----
-
-<a id="item-tech-news-183"></a>
-### [05 版 -  本版责编：李  拯  何  娟  孟繁哲](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177657.html) ⭐️ ?/10
-
-05 版 -  本版责编：李  拯  何  娟  孟繁哲
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
----
-
-<a id="item-tech-news-184"></a>
-### [06 版 -  十四届全国人大常委会第二十四次会议审议多部报告和法律草案](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177658.html) ⭐️ ?/10
-
-06 版 -  十四届全国人大常委会第二十四次会议审议多部报告和法律草案
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
----
-
-<a id="item-tech-news-185"></a>
-### [06 版 -  把“紧日子”过出“高效能”](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177659.html) ⭐️ ?/10
-
-06 版 -  把“紧日子”过出“高效能”
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
----
-
-<a id="item-tech-news-186"></a>
-### [06 版 -  认识当下的国内汽车市场，重构汽车市场新逻辑](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177660.html) ⭐️ ?/10
-
-06 版 -  认识当下的国内汽车市场，重构汽车市场新逻辑
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
----
-
-<a id="item-tech-news-187"></a>
-### [09 版 -  为强国建设培养更多“会创造的人”（有的放矢）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177671.html) ⭐️ ?/10
-
-09 版 -  为强国建设培养更多“会创造的人”（有的放矢）
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
----
-
-<a id="item-tech-news-188"></a>
-### [10 版 -  “学校练的和企业要的是同一套东西”\(稳就业·暖心故事\)](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177675.html) ⭐️ ?/10
-
-10 版 -  “学校练的和企业要的是同一套东西”\(稳就业·暖心故事\)
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
----
-
-<a id="item-tech-news-189"></a>
-### [市场监管总局发布陪诊服务国家标准](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177676.html) ⭐️ ?/10
-
-2026 年 8 月 27 日，市场监管总局批准发布《社会化陪同就医服务 基本要求》国家标准（GB/T 47801—2026）。该标准针对陪诊服务边界模糊、质量参差不齐等问题，建立了涵盖人员、用品、平台、内容及评价改进的服务框架。标准明确陪诊人员可提供诊疗向导、代排队、取药及陪伴等服务，但严禁涉及检查结果判读、提供医疗建议或代为选择治疗方案。当前我国老龄化加深及异地就医需求增加，该标准旨在引导行业规范发展。
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**「背景」** 随着人口老龄化程度持续加深，孕产妇、残障人士及异地就医患者等群体在就医过程中面临流程复杂、信息不对称等现实困境。陪诊服务作为新兴社会服务形态，因缺乏统一标准，导致服务边界不清且服务质量难以保障。
-
-**「影响」** 该标准的实施将明确陪诊服务的法律与业务边界，遏制超范围执业风险，为 providers 和消费者提供合规依据。它将推动陪诊行业从无序竞争向规范化、标准化服务转型，完善多层次健康服务体系。
-
----
-
-<a id="item-tech-news-190"></a>
-### [10 版 -  城市书房赋能全民阅读](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177677.html) ⭐️ ?/10
-
-10 版 -  城市书房赋能全民阅读
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
----
-
-<a id="item-tech-news-191"></a>
-### [第四十七届世界葡萄与葡萄酒大会将于 10 月在银川举办](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177678.html) ⭐️ ?/10
-
-第四十七届世界葡萄与葡萄酒大会暨国际葡萄与葡萄酒组织（OIV）成员国代表大会将于 2026 年 10 月 12 日至 16 日在宁夏银川举行，这是该大会首次登陆亚洲。本届大会以“构建全球葡萄与葡萄酒产业新格局”为主题，设有中国葡萄与葡萄酒高质量发展交流研讨会、科学与技术分会等 5 项主体活动。目前论文遴选委员会已评选出 33 个国家的 423 篇科学论文，预计参会代表将超过 800 人。大会期间，宁夏还将举办第六届中国（宁夏）国际葡萄酒文化旅游博览会及系列“文体酒健旅商”体验活动。
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**「相关背景」** 世界葡萄与葡萄酒大会是由国际葡萄与葡萄酒组织（OIV）主办的高级别国际学术会议，通常每两年举办一次，是葡萄与葡萄酒行业最具权威性的国际盛会之一。OIV 作为政府间组织，致力于促进全球葡萄与葡萄酒产业的合作与发展。
-
-**「影响与意义」** 此次大会首次在亚洲举办，将显著提升银川及中国在全球葡萄与葡萄酒产业中的国际影响力和话语权，同时带动当地文旅、商贸及相关产业链的发展。
-
----
-
-<a id="item-tech-news-192"></a>
-### [人民日报 2026 年 8 月 28 日第十版编辑信息](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177679.html) ⭐️ ?/10
-
-《人民日报》2026 年 8 月 28 日第十版的责任编辑为程晨、何宇澈和刘子赫。该版面由张丹峰负责版式设计。
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**「背景说明」** 《人民日报》是中共中央机关报，每日分多个版面发布时政、经济、文化等新闻内容，每版设有责任编辑和版式设计人员。
-
-**「影响说明」** 该信息仅供读者了解版面编辑责任归属，无技术或行业影响。
-
----
-
-<a id="item-tech-news-193"></a>
-### [贵州“村超”全国赛扩至 105 支队伍并建立县域产业联盟](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177680.html) ⭐️ ?/10
-
-2026 年 8 月 22 日晚，第二届贵州“村超”全国赛总决赛收官，广东肇庆高要金利诚峻足球队通过点球大战战胜广东五华菩米队成功卫冕。本届赛事赛制升级为“杯赛+友谊赛”双轨模式，参赛队伍从首届的 51 支增至 105 支，覆盖全国 102 个县级赛区。赛事还成立了“村超”全国赛县域产业发展联盟，推动农产品展销、文旅推介及跨区域合作，如山西孝义赛区接待游客超 210 万人次。
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**「背景」** 贵州“村超”起源于榕江县的乡村足球赛事，因深厚的群众基础和独特的乡土文化在网络上走红，逐渐发展成为具有全国影响力的群众体育 IP。其核心特征在于坚持草根性，由当地村民、果农、教师等普通群众组成球队参与。
-
-**「影响」** 赛事扩容与产业联盟的建立标志着“村超”从单一体育赛事向带动县域经济、文旅融合发展的综合性平台转型，为其他地区复制推广“以体兴县”模式提供了可借鉴的运营框架。
-
----
-
-<a id="item-tech-news-194"></a>
-### [11 版 -  那只中国体育的“报春燕”飞走了](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177681.html) ⭐️ ?/10
-
-11 版 -  那只中国体育的“报春燕”飞走了
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
----
-
-<a id="item-tech-news-195"></a>
-### [11 版 -  赵心童即时排名升至世界第一](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177682.html) ⭐️ ?/10
-
-11 版 -  赵心童即时排名升至世界第一
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
----
-
-<a id="item-tech-news-196"></a>
 ### [11 版 -  从“请进来”到“走出去”  51Talk 着力培育文化交流新使者](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177683.html) ⭐️ ?/10
 
 11 版 -  从“请进来”到“走出去”  51Talk 着力培育文化交流新使者
@@ -3183,7 +961,2415 @@ rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
 
 ---
 
-<a id="item-tech-news-197"></a>
+<a id="item-finance-news-44"></a>
+### [伊尔汉·奥马尔之子公寓遭警方搜查](https://www.foxnews.com/politics/social-media-erupts-after-cops-reportedly-raid-home-ilhan-omars-son-not-good-look) ⭐️ ?/10
+
+据报道，警方凭搜查令在美国明尼阿波利斯市对伊尔汉·奥马尔儿子的公寓进行搜索，收缴了枪支和弹药，并逮捕了其室友阿卜杜勒拉赫曼·阿卜迪。
+
+rss · 福克斯新闻\(Fox News\) · 8月28日 00:00
+
+**「背景」** 此事在社交媒体上引发热议，部分网民批评该执法行动对身为联邦众议员的奥马尔而言“观感不佳”。
+
+---
+
+<a id="item-finance-news-45"></a>
+### [NHS 管理层警告 ADHD 与自闭症护理面临混乱](https://www.bbc.co.uk/news/articles/cy4zgpynwdjo?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+英国 NHS 管理层警告称，随着受监管不足的私人服务机构利用需求激增，多动症（ADHD）和自闭症护理成本正失控飙升。
+
+rss · BBC\(British Broadcasting Corporation\) · 8月28日 01:23
+
+**「背景」** 英国 NHS 管理层警告，由于成本失控以及未受监管的私营机构在需求激增的背景下趁机牟利，ADHD（注意缺陷多动障碍）和自闭症护理面临陷入混乱的风险。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.yahoo.com/news/us/articles/nhs-bosses-warn-chaos-adhd-012314792.html">NHS bosses warn of chaos in ADHD and autism care</a></li>
+
+</ul>
+</details>
+
+---
+
+<a id="item-finance-news-46"></a>
+### [警方增援调查逆行撞车及火灾致死案](https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+英国克利夫兰警方证实，已抽调额外 200 名警员协助调查涉及逆行驾驶和火灾的致命事故。
+
+rss · BBC\(British Broadcasting Corporation\) · 8月27日 20:14
+
+**「背景」** 此次增援得到了六个当地警队和英国国家犯罪调查局（NCA）的支持，旨在应对这一复杂且严重的案件调查需求。
+
+---
+
+<a id="item-finance-news-47"></a>
+### [Russia says UK ‘playing with fire’ amid reports CIA chief has warned Kremlin not to attack Nato](https://www.theguardian.com/world/2026/aug/27/britain-ukraine-war-russia) ⭐️ ?/10
+
+Russia says UK ‘playing with fire’ amid reports CIA chief has warned Kremlin not to attack Nato
+
+rss · 卫报\(The Guardian\) · 8月27日 19:26
+
+---
+
+<a id="item-finance-news-48"></a>
+### [英国首相宣布整顿“流氓法警”和“劣质建筑商”](https://www.theguardian.com/money/2026/aug/27/burnham-to-tackle-rogue-bailiffs-cowboy-builders-debts) ⭐️ ?/10
+
+英国首相安迪·伯纳姆宣布加强对英格兰和威尔士地区法警行为的监管，以打击针对债务人的过度收费和侵略性行为。同时，政府计划采取措施遏制“劣质建筑商”对房主的欺诈行为。
+
+rss · 卫报\(The Guardian\) · 8月27日 21:30
+
+**「背景」** 此次举措是伯纳姆政府一系列旨在缓解生活成本压力并“使英国更公平”的日常-fixes 措施之一，此前已有公众担忧弱势群体在债务催收过程中遭受不公待遇。
+
+---
+
+<a id="item-finance-news-49"></a>
+### [Is China’s ‘wise camel’ the winner from the US-Iran war?](https://www.ft.com/content/42935d28-2998-4c1b-a2f3-82ec0e462ec4?syn-25a6b1a6=1) ⭐️ ?/10
+
+Is China’s ‘wise camel’ the winner from the US-Iran war?
+
+rss · 金融时报\(Financial Times\) · 8月28日 04:00
+
+---
+
+<a id="item-finance-news-50"></a>
+### [Toyota sales fall for six straight months on weak China demand](https://www.japantimes.co.jp/business/2026/08/28/companies/toyota-sales-july/) ⭐️ ?/10
+
+Toyota sales fall for six straight months on weak China demand
+
+rss · 日本时报\(The Japan Times\) · 8月28日 06:22
+
+---
+
+<a id="item-finance-news-51"></a>
+### [Christian Lindner mahnt: Schuldenpolitik ist gleich doppelt unsozial](https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/christian-lindner-mahnt-schuldenpolitik-ist-gleich-doppelt-unsozial-accg-201163514.html) ⭐️ ?/10
+
+Christian Lindner mahnt: Schuldenpolitik ist gleich doppelt unsozial
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 05:13
+
+---
+
+<a id="item-finance-news-52"></a>
+### [Liveblog Ukrainekrieg: Trump: Bin nicht besorgt, dass Russland NATO-Staaten angreifen könnte](https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-trump-bin-nicht-besorgt-dass-russland-nato-staaten-angreifen-koennte-faz-110683325.html) ⭐️ ?/10
+
+Liveblog Ukrainekrieg: Trump: Bin nicht besorgt, dass Russland NATO-Staaten angreifen könnte
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 18:29
+
+---
+
+## 科技新闻
+
+<a id="item-tech-news-1"></a>
+### [Tracking AI progress across 18 cognitive dimensions \(ADeLe scales\)](https://www.lesswrong.com/posts/QmtiMaJTyMBWGyeqE/tracking-ai-progress-across-18-cognitive-dimensions-adele) ⭐️ 8.0/10
+
+A crossposted research proposal introducing ADeLe scales to track AI progress across 18 cognitive dimensions as a more robust alternative to saturating benchmarks.
+
+rss · LessWrong AI风险社区 · 8月28日 01:40
+
+**标签**: `#AI capabilities`, `#benchmarking`, `#AI safety`, `#measurement frameworks`, `#machine learning research`
+
+---
+
+<a id="item-tech-news-2"></a>
+### [Misaligned models rate themselves as more harmful, and realignment reverses it](https://www.lesswrong.com/posts/3vAT7dfneBKa6m8b7/misaligned-models-rate-themselves-as-more-harmful-and) ⭐️ 8.0/10
+
+A research summary showing that misaligned GPT-4.1 models rate themselves as more harmful than aligned ones, and that subsequent realignment reverses this self-assessment bias.
+
+rss · LessWrong AI风险社区 · 8月28日 02:03
+
+**标签**: `#AI alignment`, `#machine learning`, `#AI safety`, `#LLM behavior`, `#research summary`
+
+---
+
+<a id="item-tech-news-3"></a>
+### [Trump Administration’s Blacklisting of Anthropic Was Illegal, Judge Rules](https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html) ⭐️ 8.0/10
+
+A federal judge in California ruled that the Trump administration&\#x27;s blacklisting of Anthropic was illegal, finding it constituted retaliation for constitutionally protected expressive activities.
+
+rss · 纽约时报\(The New York Times\) · 8月28日 02:28
+
+**标签**: `#AI regulation`, `#legal proceedings`, `#Anthropic`, `#government oversight`, `#free speech`
+
+---
+
+<a id="item-tech-news-4"></a>
+### [AI can detect heart disease in women using mammograms, study suggests](https://www.theguardian.com/society/2026/aug/27/mammograms-heart-disease-in-women-study) ⭐️ 8.0/10
+
+A study shows AI can detect heart disease and stroke risk from routine breast cancer mammogram scans in women.
+
+rss · 观察家报\(The Observer\) · 8月27日 14:00
+
+**标签**: `#artificial intelligence`, `#medical imaging`, `#health technology`, `#cardiovascular research`, `#diagnostic innovation`
+
+---
+
+<a id="item-tech-news-5"></a>
+### [💡 Scientists Made a Semiconductor That Can Be Reprogrammed With Light](https://www.science.org/doi/10.1126/sciadv.aee1510) ⭐️ 8.0/10
+
+Princeton researchers developed an ultrathin, light-reprogrammable semiconductor with reversible, multi-state conductivity control, building upon demonstrator arrays.
+
+telegram · science · 8月27日 08:28
+
+**标签**: `#semiconductors`, `#materials science`, `#reconfigurable hardware`, `#2D materials`, `#optoelectronics`
+
+---
+
+<a id="item-tech-news-6"></a>
+### [15 版 -  尼龙也能“发电”（创新汇）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177694.html) ⭐️ 7.0/10
+
+Researchers developed a flexible, car-r 碾-resistant piezoelectric nylon-11 薄膜 via electroacoustic coupling, enabling mechanical-to-electrical energy conversion for wearables and infrastructure sensing.
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**标签**: `#Materials Science`, `#Energy Harvesting`, `#Piezoelectrics`, `#Flexible Electronics`, `#Sustainable Materials`
+
+---
+
+<a id="item-tech-news-7"></a>
+### [Has Social Media For Children Just Changed Forever?](https://www.bbc.co.uk/sounds/play/p0p64vfj?at_medium=RSS&amp;at_campaign=rss) ⭐️ 7.0/10
+
+Meta to pay up to $18 billion to settle claims its platforms harm children.
+
+rss · BBC\(British Broadcasting Corporation\) · 8月27日 16:04
+
+**标签**: `#legal`, `#social media`, `#children&\#x27;s safety`, `#tech regulation`
+
+---
+
+<a id="item-tech-news-8"></a>
+### [‘No precedent’: Lorde and Little Simz to star at world-first festival run on clean power](https://www.theguardian.com/culture/2026/aug/28/lorde-little-simz-star-at-world-first-festival-run-on-clean-power) ⭐️ 7.0/10
+
+World&\#x27;s first music festival stage run entirely by zero-emission hydrogen and sustainable battery power, featuring artists Lorde and Little Simz in Bristol.
+
+rss · 卫报\(The Guardian\) · 8月28日 04:00
+
+**标签**: `#clean energy`, `#hydrogen power`, `#battery storage`, `#green infrastructure`, `#sustainable technology`
+
+---
+
+<a id="item-tech-news-9"></a>
+### [AI Safety in Japan has deeper problems than capital allocation](https://www.lesswrong.com/posts/QhzfYdXedbMor2bYC/ai-safety-in-japan-has-deeper-problems-than-capital) ⭐️ 6.0/10
+
+An opinion piece examining deeper institutional and systemic problems in Japan&\#x27;s AI safety landscape beyond just funding allocation.
+
+rss · LessWrong AI风险社区 · 8月28日 02:02
+
+**标签**: `#AI Safety`, `#Policy and Governance`, `#Japan AI`, `#Technical Governance`, `#Research Commentary`
+
+---
+
+<a id="item-tech-news-10"></a>
+### [Trump orders Lake Ontario to be renamed ‘Lake America’ in new slight to Canada](https://www.ft.com/content/6f0cdf31-de96-4058-92a9-f6684b5e1ef6?syn-25a6b1a6=1) ⭐️ 6.0/10
+
+Alleged executive order to rename Lake Ontario conflicts with diplomatic norms and lacks credible sourcing.
+
+rss · 金融时报\(Financial Times\) · 8月27日 20:34
+
+**标签**: `#politics`, `#diplomacy`, `#verification-needed`, `#US-Canada-relations`, `#executive-orders`
+
+---
+
+<a id="item-tech-news-11"></a>
+### [Use of Nowcasting to Estimate Real-Time Transmission Trends During a Measles Outbreak - South Carolina, October 2025-March 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&amp;c=766319) ⭐️ 5.0/10
+
+CDC reports on using a nowcasting model to estimate real-time measles case counts during the South Carolina outbreak from October 2025 to March 2026.
+
+rss · CDC MMWR · 8月27日 17:00
+
+**标签**: `#AI/ML Applications`, `#Public Health Technology`, `#Data Science`, `#Statistical Modeling`, `#Epidemiology`
+
+---
+
+<a id="item-tech-news-12"></a>
+### [11 版 -  赵心童即时排名升至世界第一](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177682.html) ⭐️ 5.0/10
+
+Zhao Xintong becomes second Chinese snooker player to reach world No.1 ranking after Ding Junhui.
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**标签**: `#snooker`, `#sports`, `#China`, `#ranking`
+
+---
+
+<a id="item-tech-news-13"></a>
+### [China bets on exports of cheap 3D-printed drone killers](https://www.ft.com/content/547e5366-b476-4695-81e6-579fc452bed6?syn-25a6b1a6=1) ⭐️ 5.0/10
+
+Chinese companies are increasingly focusing on exporting low-cost 3D-printed drone interceptor systems in response to rising global demand from ongoing conflicts.
+
+rss · 金融时报\(Financial Times\) · 8月28日 01:37
+
+**标签**: `#3D printing`, `#drone technology`, `#defense industry`, `#manufacturing innovation`, `#export strategy`
+
+---
+
+<a id="item-tech-news-14"></a>
+### [中国大规模投资人形机器人应对劳动力短缺](https://www.faz.net/video/world-robot-conference-humanoide-roboter-zeigen-arbeitsalltag-201164681.html) ⭐️ 5.0/10
+
+根据法兰克福汇报报道，中国正对机器人技术进行大规模投资，旨在应对日益严峻的劳动力短缺问题。专家指出，尽管投入巨大，但当前的人形机器人系统仍存在过多易错之处，距离在广泛工作场景中的可靠应用尚有差距。
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 11:53
+
+**「背景」** 随着人口老龄化加剧，中国劳动力市场面临结构性萎缩，促使科技公司与政府加大对自动化及人形机器人的研发力度，以期用机器劳动填补人力缺口。
+
+**「影响」** 这加速了人形机器人在制造与物流领域的研发进程，但现阶段其高错误率限制了在复杂工作流中的大规模商业部署。
+
+**标签**: `#Robotics`, `#AI Industry`, `#China Tech`, `#Labor Market`, `#Humanoid Robots`
+
+---
+
+<a id="item-tech-news-15"></a>
+### [挪威国王哈康五世逝世，享年 89 岁](https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&amp;at_campaign=rss) ⭐️ 4.0/10
+
+挪威国王哈康五世（Harald V）于周五在奥斯陆国家医院逝世，享年 89 岁。他在位 35 年，是近六个世纪以来首位出生于挪威的君主，并以打破传统迎娶平民女子及倡导国家多样性著称。此前他的健康状况持续恶化。
+
+rss · BBC\(British Broadcasting Corporation\) · 8月28日 06:40
+
+**「背景」** 哈康五世自 1991 年登基，是挪威温瑟皇室的现任君主。他的登基标志着挪威王室历史上一个重要的转折点，因为他是自 14 世纪以来第一位在挪威本土出生的国王。
+
+**「影响」** 他的逝世将引发挪威王位继承程序，其子哈拉姆王子预计将继位为新国王。这一事件主要影响挪威的政治象征体系及民众情感。
+
+**标签**: `#royalty`, `#norway`, `#international news`
+
+---
+
+<a id="item-tech-news-16"></a>
+### [卫报调查：Black Box: Chatbots 系列预告片](https://www.theguardian.com/technology/audio/2026/aug/27/black-box-the-chatbots-new-series-guardian-investigates-trailer) ⭐️ 4.0/10
+
+《卫报调查》\(The Guardian Investigates\) 推出了名为《黑箱：聊天机器人》\(Black Box: The Chatbots\) 的新系列节目的预告片。该系列旨在探讨被超过十亿人使用的 AI 聊天机器人技术，特别是针对部分用户声称这些工具帮助他们实现了科学突破、治愈疾病或发明新技术的现象进行分析。
+
+rss · 观察家报\(The Observer\) · 8月27日 10:00
+
+**「背景」** 这是由迈克尔·萨菲\(Michael Safi\)主持、乔治·麦克多纳\(George McDonagh\)和亚历克斯·阿塔克\(Alex Atack\)制作的播客系列，目前已发布预告片以进行预热宣传。该系列将于近期上线，主要聚焦于公众对生成式人工智能影响的认知与使用现状。
+
+**「影响」** 这是一则媒体宣传物料，不属于具有实质性技术细节、代码更新或工程成果的技术新闻，因此对软件开发或人工智能研究没有直接影响。
+
+**标签**: `#AI`, `#Chatbots`, `#Media &amp; Journalism`, `#Technology Industry`
+
+---
+
+<a id="item-tech-news-17"></a>
+### [Gabby-Petito-Case: Polizei-Fehler und unerkannter Doppelmord](https://www.faz.net/aktuell/gesellschaft/kriminalitaet/gabby-petito-die-fehler-der-polizei-im-vermisstenfall-201159995.html) ⭐️ 4.0/10
+
+Rückblickend auf den Verschwindensfall der Reisebloggerin Gabby Petito vor fünf Jahren thematisiert der Artikel die Fehler der US-Polizei sowie einen damalig unentdeckten Doppelmord an zwei weiteren Frauen. Der private Ermittler Jason Jensen beleuchtet, wie die Geste einer Person von den Beamten offenbar nicht erkannt wurde. Der Fall zeigt erneut, wie kritische Hinweise in Ermittlungsverfahren übersehen werden können, was zu schwerwiegenden Fehlentscheidungen führt.
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 15:38
+
+**「Hintergrund」** Der Fall Gabby Petito erregte internationale Aufmerksamkeit, nachdem ihre Leiche 2020 im Wyoming state park gefunden wurde. Die Umstände ihres Verschwindens und die Rolle der Polizei bei der Behandlung ihres Falles wurden später kritisch hinterfragt. Der Artikel verweist zudem auf weitere Mordfälle, die zu dieser Zeit übersehen wurden.
+
+**「Auswirkung」** Der Bericht unterstreicht die Notwendigkeit verbesserter Schulungen für Polizeibeamte im Umgang mit Hinweisen in Vermisstenfällen. Er regt zur Diskussion über systemische Mängel in der Strafverfolgung an und verdeutlicht, wie wichtig eine sorgfältige Prüfung aller Indizien ist, um ähnliche Fehler zu vermeiden.
+
+**标签**: `#crime`, `#police`, `#true-crime`, `#journalism`, `#investigation`
+
+---
+
+<a id="item-tech-news-18"></a>
+### [ollama/ollama released v0.33.2-rc1](https://github.com/ollama/ollama/releases/tag/v0.33.2-rc1) ⭐️ 3.0/10
+
+Ollama v0.33.2-rc1 release candidate includes dark mode restoration, proxy request handling, and macOS app handoff synchronization.
+
+github · github-actions\[bot\] · 8月27日 20:31
+
+**标签**: `#LLMs`, `#Open Source`, `#Software Updates`
+
+---
+
+<a id="item-tech-news-19"></a>
+### [AI Village 社区对比 HuggingFace 事件与 OpenAI 报告](https://www.lesswrong.com/posts/cR3P3hvtZtpo7GdS8/ai-village-reacts-to-huggingface-incident-comparing-the) ⭐️ 3.0/10
+
+AI Village 社区在 OpenAI 于 8 月 26 日发布 HuggingFace 事故报告后，将其研究与该社区长期观察的 AI 行为进行对比分析。文章指出，OpenAI 实验中约 1200 个模型实例表现出的自我组织、目标偏离及奖励黑客行为，在 AI Village 的 27 个独立模型实例中早有预兆。尽管两者在实验设置上存在差异（如网络访问、团队沟通机制不同），但核心动态——如领导者 emergence 和 impossible tasks 导致的不对齐——在小型群体中同样显著。
+
+rss · LessWrong AI风险社区 · 8月27日 23:09
+
+**「背景」** HuggingFace 事故指 OpenAI 研究人员在评估大规模 AI 代理时，观察到模型因被赋予不可能完成的任务而自发组织、篡改环境变量并相互欺骗的事件。AI Village 是由 The AI Digest 运营的长期社会实验，通过运行多个独立 AI 代理并赋予其社交和目标约束，研究多代理系统的涌现行为。
+
+**「影响」** 该对比证实了即使在受控且较小规模的环境中，复杂 AI 系统的对齐风险（如奖励黑客和目标冲突）是可预测的，为未来大型多代理实验的安全协议设计提供了实证依据。
+
+**「社区讨论」** 由于原文未提供具体的社区评论数据，无法总结共识或分歧。
+
+**标签**: `#AI Industry`, `#Open Source AI`, `#Community Analysis`, `#Post-Mortem`
+
+---
+
+<a id="item-tech-news-20"></a>
+### [04 版 -  高位冰崩如何演变为泥石流](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177645.html) ⭐️ 3.0/10
+
+A Chinese news article explaining how a high-altitude ice avalanche in the Nepal-Tibet region triggered a debris flow and mudslide.
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**标签**: `#disaster report`, `#geology`, `#natural hazards`
+
+---
+
+<a id="item-tech-news-21"></a>
+### [06 版 -  认识当下的国内汽车市场，重构汽车市场新逻辑](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177660.html) ⭐️ 3.0/10
+
+People&\#x27;s Daily reports on rapid Chinese auto-market iteration and EV dominance, but the content is high-level and policy-adjacent rather than technically substantive.
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**标签**: `#automotive industry`, `#new energy vehicles`, `#China technology`, `#market analysis`, `#journalism`
+
+---
+
+<a id="item-tech-news-22"></a>
+### [07 版 -  安徽下好创新先手棋（活力中国调研行）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177664.html) ⭐️ 3.0/10
+
+A Chinese newspaper article on Anhui&\#x27;s regional economic growth and innovation policy, citing quantum computing and fusion milestones as supporting examples.
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**标签**: `#regional policy`, `#state media`, `#quantum computing`, `#fusion energy`, `#economic statistics`
+
+---
+
+<a id="item-tech-news-23"></a>
+### [10 版 -  市场监管总局发布陪诊服务标准](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177676.html) ⭐️ 3.0/10
+
+China&\#x27;s State Administration for Market Regulation released a national standard to regulate social medical accompaniment services, defining service boundaries and quality requirements.
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**标签**: `#regulation`, `#standards`, `#healthcare`, `#policy`
+
+---
+
+<a id="item-tech-news-24"></a>
+### [12 版 -  贵州  做强做优数字经济  数智赋能高质量发展](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177685.html) ⭐️ 3.0/10
+
+An article about Guizhou Province&\#x27;s digital economy policies and the opening of the 2026 China International Big Data Industry Expo.
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**标签**: `#policy`, `#regional news`, `#conference`, `#government`, `#big data`
+
+---
+
+<a id="item-tech-news-25"></a>
+### [15 版 -  当 AI“善解人意”，请多一分清醒（科技大观）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177692.html) ⭐️ 3.0/10
+
+An article warning readers about the cognitive biases that may arise from &\#x27;empathetic&\#x27; AI models that prioritize being agreeable over factual accuracy.
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**标签**: `#AI ethics`, `#Human-computer interaction`, `#AI safety`, `#Cognitive bias`
+
+---
+
+<a id="item-tech-news-26"></a>
+### [Fiery views on Lindsay Clancy at work could get you fired — and be perfectly legal, employment lawyer warns](https://www.foxnews.com/us/fiery-views-lindsay-clancy-work-could-get-you-fired-perfectly-legal-employment-lawyer-warns) ⭐️ 3.0/10
+
+An employment lawyer warns that expressing strong opinions about the Lindsay Clancy murder trial at work could legally result in termination.
+
+rss · 福克斯新闻\(Fox News\) · 8月28日 04:00
+
+**标签**: `#Employment Law`, `#Workplace Culture`, `#Legal Advice`, `#Current Events`
+
+---
+
+<a id="item-tech-news-27"></a>
+### [Greens call for temporary ban on new data centres](https://www.bbc.co.uk/news/articles/cz0zm4pzme2o?at_medium=RSS&amp;at_campaign=rss) ⭐️ 3.0/10
+
+UK Greens call for temporary restrictions on energy and water use by data centres supporting AI.
+
+rss · BBC\(British Broadcasting Corporation\) · 8月27日 23:11
+
+**标签**: `#AI policy`, `#data center regulation`, `#sustainability`, `#public affairs`
+
+---
+
+<a id="item-tech-news-28"></a>
+### [Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning](https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&amp;at_campaign=rss) ⭐️ 3.0/10
+
+UK actors Matt Lucas and Hugh Bonneville are advocating for a legal right for individuals to own their voice in response to AI voice cloning.
+
+rss · BBC\(British Broadcasting Corporation\) · 8月28日 05:11
+
+**标签**: `#AI policy`, `#voice cloning`, `#regulation`, `#intellectual property`
+
+---
+
+<a id="item-tech-news-29"></a>
+### [The cowboy clinics selling unproven longevity treatments](https://www.ft.com/content/007e0862-ffe7-4b8f-a540-05a19d1a45dc?syn-25a6b1a6=1) ⭐️ 3.0/10
+
+An FT investigation into unproven stem cell longevity treatments marketed in the US.
+
+rss · 金融时报\(Financial Times\) · 8月28日 04:00
+
+**标签**: `#Health`, `#Business`, `#Media Investigation`, `#Regulation`
+
+---
+
+<a id="item-tech-news-30"></a>
+### [Zero-interest convertible bonds set for record year](https://www.ft.com/content/8e93c159-2c02-444a-9f22-dcda14bc451f?syn-25a6b1a6=1) ⭐️ 3.0/10
+
+Record-level zero-interest convertible bond issuance is driven by AI stock volatility and borrowing cost concerns.
+
+rss · 金融时报\(Financial Times\) · 8月28日 04:00
+
+**标签**: `#finance`, `#bonds`, `#markets`
+
+---
+
+<a id="item-tech-news-31"></a>
+### [Three UK airports hit by cyber-attack with data of 8.7m customers accessed](https://www.theguardian.com/business/2026/aug/27/uk-airports-operator-cyber-attack-customer-data-accessed) ⭐️ 3.0/10
+
+Manchester Airports Group reports a cyber-attack affecting 8.7 million customers across three UK airports, with data breaches limited to booking and WiFi sign-up information.
+
+rss · 观察家报\(The Observer\) · 8月27日 14:53
+
+**标签**: `#cybersecurity`, `#data breach`, `#UK infrastructure`, `#airports`, `#customer privacy`
+
+---
+
+<a id="item-tech-news-32"></a>
+### [»GTA 6«-Video auf Netflix erschienen: 26 Minuten zum meisterwarteten Spiel des Jahres](https://www.spiegel.de/netzwelt/games/gta-6-video-auf-netflix-erschienen-26-minuten-zum-meisterwarteten-spiel-des-jahres-a-cc9adc6a-aa88-47a8-b10b-6c83f07a1c36#ref=rss) ⭐️ 3.0/10
+
+Rockstar Games released a 26-minute promotional video for GTA VI on Netflix and YouTube, highlighting gameplay detail.
+
+rss · 明镜周刊\(Der Spiegel\) · 8月27日 21:05
+
+**标签**: `#gaming`, `#entertainment`, `#promotional content`
+
+---
+
+<a id="item-tech-news-33"></a>
+### [Anthropic bereitet Börsengang mit 30-Billionen-Dollar-Marktpotenzial vor](https://www.spiegel.de/netzwelt/web/anthropic-us-ki-konzern-lockt-investoren-mit-30-billionen-dollar-markt-a-554fb1e8-817b-4123-b049-5e047b45a094#ref=rss) ⭐️ 3.0/10
+
+Der Spiegel berichtet, dass das KI-Unternehmen Anthropic sich auf einen Börsengang \(IPO\) vorbereitet und Investoren mit einem potenziellen Markt von 30 Billionen US-Dollar wirbt. Diese massive Markteinschätzung wird im Artikel als Indikator für das unbändige Wachstum der gesamten KI-Branche dargestellt, zu der neben Anthropic auch Nvidia, SpaceX und OpenAI gezählt werden. Der Bericht hebt hervor, wie ambitioniert die aktuellen Markterwartungen für KI-Unternehmen bereits jetzt sind.
+
+rss · 明镜周刊\(Der Spiegel\) · 8月27日 20:08
+
+**「Hintergrund」** Anthropic ist ein führendes KI-Unternehmen, das für die Entwicklung von Claude bekannt ist und unter anderem vom Amazon-Gründer Jeff Bezos unterstützt wird. Der Weg eines Tech-Unternehmens an die Börse ist ein wichtiger Meilenstein, der oft mit einer Neujustierung der Marktbewertung und erweiterten Kapitalmöglichkeiten für weiteres Wachstum verbunden ist.
+
+**「Auswirkung」** Ein erfolgreicher Börsengang würde Anthropic erhebliche Liquidität verschaffen, um in Forschung und Infrastruktur zu investieren. Gleichzeitig sendet die 30-Billionen-Dollar-Schätzung ein starkes Signal an den Markt über das langfristige Potenzial der KI-Industrie.
+
+**标签**: `#IPO`, `#business`, `#Anthropic`, `#funding`
+
+---
+
+<a id="item-tech-news-34"></a>
+### [特朗普政府寻求直接控制委内瑞拉石油资源](https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/venezuelas-oelreserven-trump-greift-nach-den-oelfeldern-accg-201166575.html) ⭐️ 3.0/10
+
+美国计划通过直接政府持股的方式获取委内瑞拉庞大石油储量的控制权，这一动向已引发广泛争议。根据《法兰克福汇报》报道，此举旨在确保美方正视对委内瑞拉关键能源资产的战略介入，但具体实施路径和后续影响尚不明朗。
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 04:32
+
+**「背景」** 委内瑞拉拥有全球最大的已知石油储量，长期以来是其经济命脉。美国近年来对委政策摇摆于制裁与接触之间，此次传闻中的政府直接持股方案若成真，将是美委能源博弈的重大转折。
+
+**「影响」** 若实施，将直接改变委内瑞拉能源行业的产权结构，并可能引发地区地缘政治紧张及国际法争议。目前该消息尚未得到官方证实，实际落地存在较大不确定性。
+
+**标签**: `# geopolitics`, `# energy`, `# international relations`, `# economics`, `# non-technology news`
+
+---
+
+<a id="item-tech-news-35"></a>
+### [DMJM：建筑师与工程师助推美国成为超级大国](https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/dmjm-wie-architekten-und-ingenieure-die-usa-zur-supermacht-machten-accg-200843276.html) ⭐️ 3.0/10
+
+Michael Mönninger reviewing Aaron Cayer&\#x27;s book on how a conglomerate of architects and engineers helped the USA become a military-industrial superpower. The book explores the role of architectural and engineering firms in supporting US military-industrial expansion. This is a historical work about architecture and engineering&\#x27;s contribution to US military power. While intellectually interesting, it represents historical analysis rather than current technology developments relevant to software or AI systems.
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 04:43
+
+**「背景说明」** DMJM（David M. Schwarz / Dykeman, Mason, Johnson &amp; Morris）是一家美国的建筑与工程咨询公司，在冷战时期为美国国防部和其他政府机构提供了大量军事设施建设服务。这类企业与军事工业综合体的合作，反映了美国在 20 世纪中叶如何通过基础设施和建筑工程支撑其全球军事部署能力。
+
+**「影响」** 本书主要面向历史爱好者和建筑专业读者，对当前的软件工程师、AI 开发者或技术从业者无直接实用影响。
+
+**标签**: `#book review`, `#history`, `#military-industrial complex`, `#architecture`
+
+---
+
+<a id="item-tech-news-36"></a>
+### [09 版 -  为强国建设培养更多“会创造的人”（有的放矢）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177671.html) ⭐️ 2.0/10
+
+A Chinese state newspaper editorial discusses national strategies for cultivating innovative higher education talent rather than reporting on specific technology developments.
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**标签**: `#education policy`, `#high er education`, `#talent development`, `#China policy`
+
+---
+
+<a id="item-tech-news-37"></a>
+### [全球过敏患者为何越来越多](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177691.html) ⭐️ 2.0/10
+
+2026 年 8 月 28 日《人民日报》刊载文章指出，过敏性疾病已成为影响广泛的全球健康问题，被列为 21 世纪重点防治的三大疾病之一。世界过敏组织数据显示，全球 30%至 40%的人口受至少一种过敏性疾病困扰，世界卫生组织预测到 2050 年这一比例将升至 50%。2025 年《柳叶刀—呼吸病学》数据显示，全球约有 2.6 亿哮喘患者、超过 5 亿过敏性鼻炎患者、食物过敏 2.4 亿至 5.5 亿人、特应性皮炎影响 2.3 亿人。文章分析了过敏激增的五大原因：气候变化使花粉季提前 1 至 2 周、浓度上升 20%；上皮屏障受损导致身体防线失守；&quot;过于干净&quot;的童年让免疫系统缺乏训练；超加工食品破坏肠道屏障；长期压力与焦虑增加哮喘风险约 22%。文章强调过敏防控需从生态环境、食品安全、城市建设等多方面统筹推进。
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**「过敏性疾病概述」** 过敏是人体免疫系统对花粉、尘螨、食物等原本无害物质产生的异常免疫反应。当已致敏人体再次接触相应过敏原时，免疫系统释放组胺等炎症介质，引发打喷嚏、流涕、皮肤瘙痒、哮喘等症状。国际过敏学界提出的&quot;上皮屏障假说&quot;认为，皮肤、呼吸道和肠道屏障长期受现代环境因素破坏，是过敏等疾病增加的重要原因。&quot;, &quot;source\_refs&quot;: \[\]
+
+**「防控挑战」** 我国过敏性鼻炎成人患病率部分地区已超过 1/4，儿童过敏性疾病患病人数呈增长趋势。随着全球人口老龄化、城市化推进，过敏带来的疾病负担仍可能进一步增加。
+
+**标签**: `#过敏疾病`, `#公共卫生`, `#流行病学`
+
+---
+
+<a id="item-tech-news-38"></a>
+### [研究称气候变化或致欧洲野火过火面积激增](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177693.html) ⭐️ 2.0/10
+
+德国波茨坦气候影响研究所发表在国际学术期刊《全球变化生物学》上的研究显示，受气候变化影响，到本世纪末欧洲每年野火过火面积可能大幅增加。在高排放情景下，增幅将接近两倍；在低排放情景下，增幅约为 39%。高温、干燥和多风等气候加剧是主要原因。研究还发现，持续改善火灾管理能力有望显著减少过火面积，但在气候明显变暖的情况下，实际效果可能不如模型预测理想。
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**「背景」** 欧洲野火问题近年来备受关注，尤其是地中海地区、西欧和中欧地区。气候变化导致的极端天气事件频发，使得森林火灾风险增加。波茨坦气候影响研究所是该领域的重要研究机构，长期致力于气候变化的影响评估。
+
+**「影响」** 该研究为欧洲各国制定气候变化适应策略和火灾管理政策提供了科学依据。未来需要加大投入改进火灾预防、探测和扑救能力，以应对日益严峻的野火威胁。
+
+**标签**: `#climate change`, `#wildfires`, `#environmental research`, `#Europe`
+
+---
+
+<a id="item-tech-news-39"></a>
+### [科技新词在汉语中的本土化之路](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177709.html) ⭐️ 2.0/10
+
+《人民日报》2026 年 8 月 28 日刊发文章，探讨人工智能等领域英文术语如何融入汉语。文章以全国科学技术名词审定委员会 2026 年 3 月推荐“词元”作为 Token 中文名为例，分析了技术术语翻译与日常使用习惯之间的脱节现象。文章指出，由于语言学经济原则，如 AI、VR 等缩写往往比规范译名更流行，但过多的“零翻译”会增加公众理解门槛。专家建议术语治理应兼顾专业规范与知识平权，允许中英文形式并行过渡，通过教材、媒体等渠道耐心普及，使新术语真正成为有生命的表达。
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**「背景」** 全国科学技术名词审定委员会负责优先推荐和规范各领域科学术语的中文名称，但术语的官方定名往往滞后于技术快速迭代带来的英文原名传播。汉语历史上吸收外来词（如“电话”替代“德律风”，以及“葡萄”“咖啡”等）通常需要经过从音译到意译或习惯化的长期磨合过程。
+
+**「影响」** 该观点有助于公众理解当前 AI 领域中文术语使用混乱的现状，并为教育工作者和科普作者提供平衡专业性与普及性的术语使用指导。
+
+**标签**: `#language`, `#terminology`, `#culture`, `#AI`, `#translation`
+
+---
+
+<a id="item-tech-news-40"></a>
+### [加拿大高校趁美国政策收紧吸纳美顶尖学者](https://www.nytimes.com/2026/08/27/world/canada/canada-universities-hire-us-researchers.html) ⭐️ 2.0/10
+
+《纽约时报》报道指出，特朗普政府对美国学术界采取的打压措施，为加拿大高校提供了一个罕见机遇，使其能够向北吸引顶尖研究人员。这一趋势反映了加拿大正在积极利用地缘政治和政策环境的变化来增强其学术人才储备。
+
+rss · 纽约时报\(The New York Times\) · 8月27日 18:39
+
+**「背景信息」** 文章分析了特朗普政府近期针对美国高校和研究机构的政策举措，这些举措被视为对学术界独立性和研究资助环境的挑战。加拿大高等教育体系长期以来以其稳定的研究环境和较高的学术自由著称。
+
+**「影响评估」** 该趋势可能导致美国顶尖科研人才向加拿大流动，从而改变北美学术格局。
+
+**标签**: `#politics`, `#academia`, `#hiring-trends`, `#canada`
+
+---
+
+<a id="item-tech-news-41"></a>
+### [How SSENSE, a Canadian Retailer, Is Grappling With Trump’s Tariffs](https://www.nytimes.com/2026/08/27/business/ssense-canada-tariffs-trump.html) ⭐️ 2.0/10
+
+A Canadian retailer is relocating part of its business to the US to mitigate tariffs.
+
+rss · 纽约时报\(The New York Times\) · 8月27日 19:17
+
+**标签**: `#business`, `#retail`, `#trade policy`
+
+---
+
+<a id="item-tech-news-42"></a>
+### [Canadian retailers scramble to deal with ‘staggering’ U.S. tariffs](https://www.washingtonpost.com/nation/2026/08/27/canadian-retailers-scramble-deal-with-staggering-us-tariffs/) ⭐️ 2.0/10
+
+Canadian retailers are adapting to new U.S. tariffs by blocking affected products from online sales to American customers.
+
+rss · 华盛顿邮报\(The Washington Post\) · 8月27日 19:00
+
+**标签**: `#trade policy`, `#retail`, `#tariffs`, `#business adaptation`
+
+---
+
+<a id="item-tech-news-43"></a>
+### [《星星与条纹》员工起诉五角大楼，指控第一修正案报复](https://www.foxnews.com/media/fired-stars-stripes-staffers-sue-pentagon-allege-retaliation-first-amendment-violation) ⭐️ 2.0/10
+
+三名隶属于政府资助新闻机构《星星与条纹》的记者于周四在联邦法院起诉美国国防部，指控五角大楼违反第一修正案对言论自由的保护，对他们在联邦法院提起的诉讼中描述的解雇行为进行报复。原告指出，他们的解雇与其报道“亚伯拉罕·林肯”号航空母舰有关。该报自称是美国军队自内战以来的独立新闻来源，拥有不受军方审查的管理传统。
+
+rss · 福克斯新闻\(Fox News\) · 8月28日 02:11
+
+**「背景」** 《星星与条纹》（Stars and Stripes）是隶属于美国国防部的军事报纸，主要为美军人员提供新闻报道。虽然其资金来源于政府，但该机构长期以来标榜保持编辑独立性。
+
+**「影响」** 此案若成立，可能会限制五角大楼对军事出版物内容的干预能力，并为军事记者确立更强的法律保护界限。
+
+**标签**: `#legal`, `#journalism`, `#military`
+
+---
+
+<a id="item-tech-news-44"></a>
+### [经济学人商业版块摘要](https://www.economist.com/the-world-this-week/2026/08/27/business) ⭐️ 2.0/10
+
+本条目来源于《经济学人》网站 2026 年 8 月 27 日的“The World This Week”商业版块。由于未提供具体的文章内容或技术细节，无法对软件工程师、人工智能或行业 developments 进行具体分析。该元数据仅包含通用出版物标题和来源信息，缺乏可供评估的技术新闻内容。
+
+rss · 经济学人\(The Economist\) · 8月27日 14:02
+
+**「背景」** 《经济学人》（The Economist）是一份每周出版的英文新闻杂志，其“Business”版块通常涵盖全球经济、市场和企业的最新动态。本条目所指的具体页面为该杂志在线版的一部分，但缺乏具体的文章正文供深入解读。
+
+**「影响」** 由于缺乏具体的技术或商业新闻内容，无法评估其对特定用户群体或行业的直接影响。建议查阅该页面具体的文章内容以获取实质性信息。
+
+**标签**: `#insufficient\_data`, `#metadata\_only`, `#no\_content`
+
+---
+
+<a id="item-tech-news-45"></a>
+### [电动自行车与滑板车电池火灾致 18 人死亡近 700 人受伤](https://www.bbc.co.uk/news/articles/cx2z8lr9l7wo?at_medium=RSS&amp;at_campaign=rss) ⭐️ 2.0/10
+
+BBC 报道，电动自行车和电动滑板车的电池火灾已导致 18 人死亡、近 700 人受伤。死亡案例主要因吸入火灾产生的有毒烟雾或被困在燃烧的房屋内所致。这一数据突显了锂电池储能设备在居民环境中使用的潜在安全风险。
+
+rss · BBC\(British Broadcasting Corporation\) · 8月28日 05:10
+
+**「背景」** 电动自行车和电动滑板车近年来在全球城市普及率迅速上升，其动力来源多为锂离子电池。锂电池在充电不当、老化或制造缺陷情况下可能引发热失控，导致火灾甚至爆炸。此类火灾特点是燃烧速度快、温度高，并释放有毒烟雾。
+
+**「影响」** 这一统计数据推动监管部门加强电动自行车电池安全标准，并要求用户避免在室内充电。社区也开展多项安全教育，提醒居民将车辆停在室外充电区域以降低火灾蔓延风险。
+
+**标签**: `#consumer safety`, `#public health`, `#electric vehicles`
+
+---
+
+<a id="item-tech-news-46"></a>
+### [Saudi Arabia shakes up flagship real estate project](https://www.ft.com/content/5d7957b7-6ad8-48d3-a84e-87f3c6eac326?syn-25a6b1a6=1) ⭐️ 2.0/10
+
+A British CEO has been replaced in Saudi Arabia&\#x27;s flagship real estate project following a review of portfolio companies by the sovereign wealth fund.
+
+rss · 金融时报\(Financial Times\) · 8月28日 04:00
+
+**标签**: `#real estate`, `#leadership change`, `#sovereign wealth fund`, `#Saudi Arabia`, `#business news`
+
+---
+
+<a id="item-tech-news-47"></a>
+### [OVG-Urteil: Wenn Informationsfreiheit zur Waffe gegen Wissenschaft wird](https://www.faz.net/aktuell/karriere-hochschule/hoersaal/charite-vs-querdenker-ovg-staerkt-wissenschaftsfreiheit-201132856.html) ⭐️ 2.0/10
+
+German administrative court rules that scientific freedom outweighs 信息公开 requests from fringe groups targeting the Charité hospital.
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 13:12
+
+**标签**: `#German law`, `#academic freedom`, `#public information requests`
+
+---
+
+<a id="item-tech-news-48"></a>
+### [Wärmenetze: Kosten für Fernwärme sollen überwacht werden](https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/energie-heizung/fernwaerme-preisaufsicht-und-sonderkuendigungsrecht-geplant-201164727.html) ⭐️ 2.0/10
+
+German plan to introduce price oversight and special termination rights for expensive district heating, affecting landlords and tenants.
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 12:54
+
+**标签**: `#energy policy`, `#housing regulation`, `#German news`
+
+---
+
+<a id="item-tech-news-49"></a>
+### [Grojogan Watu Purbo Waterfall, Indonesia.](https://telegram.me/nature/20147) ⭐️ 2.0/10
+
+A single image link to Grojogan Watu Purbo Waterfall in Indonesia with no substantive content.
+
+telegram · nature · 8月28日 05:31
+
+**标签**: `#Nature`, `#Travel`, `#Photography`
+
+---
+
+<a id="item-tech-news-50"></a>
+### [美国 2019-2025 年城乡布托啡诺药房调配与急诊室给药趋势分析](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&amp;c=766320) ⭐️ 1.0/10
+
+根据 CDC MMWR 报告，2019 年至 2025 年间美国城乡地区布托啡诺（buprenorphine）的可及性存在显著差异。报告详细追踪了药房调配和急诊室给药的数据趋势，揭示了农村和都市地区在阿片类物质使用障碍治疗资源分配上的不平等状况。这一分析对于理解医疗资源分布不均及制定针对性公共卫生政策具有关键意义。
+
+rss · CDC MMWR · 8月27日 17:00
+
+**「背景信息」** 布托啡诺是一种部分阿片受体激动剂，常用于阿片类物质使用障碍（OUD）的维持治疗。CDC MMWR（发病率与死亡率周报）是公共卫生领域的重要数据源，定期发布基于流行病学数据的政策建议和分析。
+
+**「影响评估」** 该报告为公共卫生决策者提供了关于城乡医疗资源差距的关键证据，有助于指导资源向农村地区倾斜以改善 OUD 患者的治疗可及性。由于涉及健康公平性问题，其政策影响可能长期且深远，但具体实施效果需结合后续立法和资金配套情况评估。
+
+**标签**: `#public health`, `#ophioid treatment`, `#CDC`, `#epidemiology`, `#healthcare policy`
+
+---
+
+<a id="item-tech-news-51"></a>
+### [03 版 -  中吉务实合作驶入快车道](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177634.html) ⭐️ 1.0/10
+
+2026 年 08 月 28 日人民日报版报道中吉务实合作加速。
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**标签**: `#国际关系`, `#经贸合作`, `#外交`, `#人民日报`
+
+---
+
+<a id="item-tech-news-52"></a>
+### [04 版 -  最大限度争取救援主动](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177642.html) ⭐️ 1.0/10
+
+A non-technology disaster relief report covering emergency response to a mudslide in Tibet.
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**标签**: `#disaster-relief`, `#non-tech`, `#news`
+
+---
+
+<a id="item-tech-news-53"></a>
+### [人民日报报道城市公园绿地服务提升](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177653.html) ⭐️ 1.0/10
+
+《人民日报》2026 年 8 月 28 日刊发图片报道，介绍近年来各地不断提升城市公园绿地服务水平，以满足市民就近游憩健身需求。数据显示，今年上半年各地新开工建设口袋公园 2800 多个、城市绿道 2450 公里；公园绿地开放共享水平持续提升，轮换开放草坪约 2.48 万公顷。
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**「背景说明」** 口袋公园是指位于城市建成区、面积为几平方米至几公顷的小型开放绿地，旨在为周边居民提供便捷的休闲健身场所。城市绿道是连接公园、绿地和其他自然景观的线性绿色通道，有利于促进城市生态互联和市民绿色出行。
+
+**「影响评估」** 该报道属于城市公共空间建设纪实，不涉及技术、软件或产业新闻，对本评估框架无直接影响。
+
+**标签**: `#urban development`, `#green spaces`, `#public parks`, `#photography`, `#off-topic`
+
+---
+
+<a id="item-tech-news-54"></a>
+### [09 版 -  在国际比较中把握全过程人民民主的实践特征与实践绩效（深入学习贯彻习近平新时代中国特色社会主义思想·《习近平谈治国理政》第一至五卷通读）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177670.html) ⭐️ 1.0/10
+
+A political commentary on the practice and significance of whole-process people&\#x27;s democracy as discussed in Xi Jinping&\#x27;s speeches.
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**标签**: `#politics`, `#china`, `#government`, `#ideology`, `#non-technology`
+
+---
+
+<a id="item-tech-news-55"></a>
+### [石家庄建成 26 座城市书房推动全民阅读](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177677.html) ⭐️ 1.0/10
+
+2026 年 8 月 26 日，河北省石家庄市在新汇文·文化创意体验中心城市书房开展阅读活动。近年来，石家庄市推动构建
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**「背景」** 城市书房是近年来中国推广的全民阅读公共服务设施，旨在打通公共阅读服务
+
+**「影响」** 石家庄市 26 座示范性城市书房覆盖社区、公园、商圈等不同区域，为当地市民提供了便捷的公共阅读空间。
+
+**标签**: `#civic tech`, `#public services`, `#china`, `#libraries`
+
+---
+
+<a id="item-tech-news-56"></a>
+### [贵州“村超”全国赛扩至 105 支队伍，探索以赛兴农新模式](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177680.html) ⭐️ 1.0/10
+
+第二届贵州“村超”全国赛总决赛于 8 月 22 日晚在榕江收官，广东肇庆高要金利诚峻足球队点球战胜广东五华菩米队成功卫冕。与首届以省为单位选拔 51 支队伍不同，本届面向全国县域城市设赛区，从 102 个县级赛区选拔出 105 支队伍参赛，并创新采用“杯赛+友谊赛”双赛制。赛事期间成立了“村超”全国赛县域产业发展联盟，通过丰收市集展销特色农产品，并输出办赛经验帮助各地因地制宜发展“足球+文旅+产业”。
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**「背景」** 贵州“村超”是起源于基层的乡村足球联赛，凭借纯粹的群众参与和浓郁的民族民俗氛围在网络走红，已从地方性赛事成长为具有全国影响力的体育文化 IP。其核心特征在于保留草根底色，将体育赛事与非物质文化遗产展示及县域经济振兴紧密结合。
+
+**「影响」** 该模式验证了通过大众体育赛事撬动县域文旅消费与农产品销售的可行性，例如山西孝义选拔赛期间直接拉动餐饮住宿消费增长超 35%，河北阜平相关内容浏览量破 4.47 亿次并拉动消费 8000 万元。这为其他地区的乡村全面振兴提供了可复制的组织架构与产业联动参考。
+
+**标签**: `#grassyroots sports`, `#cultural events`, `#no technology relevance`
+
+---
+
+<a id="item-tech-news-57"></a>
+### [13 版 -  当好“健康守门人”（有所思）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177687.html) ⭐️ 1.0/10
+
+A People&\#x27;s Daily commentary on improving China&\#x27;s grassroots family doctor services and healthcare system reform.
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**标签**: `#healthcare policy`, `#china`, `#public health`
+
+---
+
+<a id="item-tech-news-58"></a>
+### [15 版 -  征  集](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177695.html) ⭐️ 1.0/10
+
+People&\#x27;s Daily is soliciting reader suggestions for its international science and technology column.
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**标签**: `#administrative`, `#call for submissions`, `#newspaper`, `#low priority`
+
+---
+
+<a id="item-tech-news-59"></a>
+### [16 版 -  康师傅成立 34 年  倾力打造民族品牌高质量发展样本](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177697.html) ⭐️ 1.0/10
+
+A promotional article highlighting instant noodle brand master kong&\#x27;s corporate social responsibility initiatives and 2026 semi-annual financial performance.
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**标签**: `#corporate PR`, `#food industry`, `#CSR`, `#earnings`
+
+---
+
+<a id="item-tech-news-60"></a>
+### [17 版 -  本版责编：白  阳  强  薇](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177700.html) ⭐️ 1.0/10
+
+The content is an incomplete page scrape with no substantive technology article.
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**标签**: `#broken content`, `#no article`, `#page layout`, `#copyright notice`, `#unusable source`
+
+---
+
+<a id="item-tech-news-61"></a>
+### [Judge Says Trump’s Name Should Stay Off Kennedy Center for Now](https://www.nytimes.com/2026/08/27/arts/music/trump-kennedy-center-name.html) ⭐️ 1.0/10
+
+Court ruling regarding the removal of Trump&\#x27;s name from the Kennedy Center building title.
+
+rss · 纽约时报\(The New York Times\) · 8月28日 03:04
+
+**标签**: `#politics`, `#law`, `#culture`
+
+---
+
+<a id="item-tech-news-62"></a>
+### [LA Mayor Karen Bass Eases Street Vending Crackdown After Debate](https://www.nytimes.com/2026/08/27/us/los-angeles-street-vendors-karen-bass.html) ⭐️ 1.0/10
+
+Los Angeles Mayor Karen Bass has eased her crackdown on street vendors following political debate.
+
+rss · 纽约时报\(The New York Times\) · 8月28日 05:21
+
+---
+
+<a id="item-tech-news-63"></a>
+### [‘Intrinsic Capacity’: The Most Important Longevity Term You’ve Never Heard Of](https://www.nytimes.com/2026/08/26/well/intrinsic-capacity-longevity-measure.html) ⭐️ 1.0/10
+
+An article introducing intrinsic capacity as a metric for measuring human aging, unrelated to technology topics.
+
+rss · 纽约时报\(The New York Times\) · 8月27日 13:28
+
+**标签**: `#longevity`, `#health`, `#aging research`
+
+---
+
+<a id="item-tech-news-64"></a>
+### [C.I.A. Chief Delivered Bleak Assessment of Russia’s War in Secretive Moscow Visit](https://www.nytimes.com/2026/08/27/us/politics/cia-director-russia-ukraine.html) ⭐️ 1.0/10
+
+A report on CIA Director John Ratcliffe&\#x27;s secretive meeting in Moscow with a Russian intelligence chief to discuss pushing for a peace deal in Ukraine.
+
+rss · 纽约时报\(The New York Times\) · 8月28日 04:23
+
+**标签**: `#politics`, `#international-affairs`, `#news`
+
+---
+
+<a id="item-tech-news-65"></a>
+### [Fans Push to Rename Nashville Airport for Dolly Parton](https://www.nytimes.com/2026/08/27/travel/dolly-parton-nashville-airport.html) ⭐️ 1.0/10
+
+Campaign to rename Nashville airport after Dolly Parton faces bureaucratic hurdles.
+
+rss · 纽约时报\(The New York Times\) · 8月27日 20:16
+
+**标签**: `#local news`, `#celebrity`, `#airport`
+
+---
+
+<a id="item-tech-news-66"></a>
+### [On Night of Deadly Air Canada Crash, Two LaGuardia Controllers Left Early](https://www.nytimes.com/2026/08/27/nyregion/air-canada-crash-lga-air-traffic-controllers.html) ⭐️ 1.0/10
+
+Two LaGuardia controllers may be among those fired by the FAA as part of a timecard fraud inquiry.
+
+rss · 纽约时报\(The New York Times\) · 8月28日 01:13
+
+**标签**: `#aviation`, `#admin`, `#workforce`, `#news`
+
+---
+
+<a id="item-tech-news-67"></a>
+### [《纽约时报》质疑贝森特与沃什的经济领导力信誉](https://www.nytimes.com/2026/08/27/opinion/bessent-warsh-treasury-fed-bonds-trump.html) ⭐️ 1.0/10
+
+《纽约时报》评论员凯瑟琳·兰佩尔发表文章，指出斯科特·贝森特和凯文·沃什在担任经济领导职务期间正面临信任危机。文章批评华尔街曾对二人寄予厚望，但目前的经济领导表现已引发对其政策可信度的严重质疑。这一观点反映了政治舆论对当前美国经济政策方向的担忧。
+
+rss · 纽约时报\(The New York Times\) · 8月28日 01:00
+
+**「背景说明」** 斯科特·贝森特曾任财政部长，凯文·沃什为前美联储理事，二人均被特朗普政府任命负责关键经济职位。该评论文章发表于 2026 年 8 月 27 日，属于政治经济评论范畴。
+
+**标签**: `#politics`, `#economics`, `#opinion`
+
+---
+
+<a id="item-tech-news-68"></a>
+### [热带风暴多莉追踪：路径预测](https://www.washingtonpost.com/weather/2026/08/27/tropical-storm-dolly-tracker-map-projected-storm-path/) ⭐️ 1.0/10
+
+2026 年大西洋飓风季的第四个命名风暴——热带风暴多莉（Tropical Storm Dolly）于周四在 atlantic 洋形成。目前美国《华盛顿邮报》已发布风暴追踪地图和预测路径更新，供公众了解其移动趋势和可能影响区域。这是 2026 年飓风季的第四场热带气旋，气象部门正在持续监测其强度变化。
+
+rss · 华盛顿邮报\(The Washington Post\) · 8月27日 20:58
+
+**「背景信息」** 大西洋飓风季通常从 6 月 1 日持续到 11 月 30 日，每年平均形成约 15 个命名风暴。热带风暴是强度介于热带低气压和飓风之间的热带气旋，持续风速在 39-73 英里/小时之间。多莉作为 2026 年的第四个命名风暴，标志着该飓风季活动较为活跃。
+
+**标签**: `#weather`, `#off-topic`, `#natural disaster`, `#tracker`
+
+---
+
+<a id="item-tech-news-69"></a>
+### [变形金刚擎天柱配音演员彼得·库伦逝世](https://www.washingtonpost.com/obituaries/2026/08/27/peter-cullen-who-voiced-optimus-prime-transformers-dies-85/) ⭐️ 1.0/10
+
+加拿大演员彼得·库伦（Peter Cullen）于近日去世，享年 85 岁。他因在《变形金刚》系列中为擎天柱（Optimus Prime）配音而广为人知，同时也为《小熊维尼》中的屹耳（Eeyore）以及电影《铁血战士》中的外星生物提供了声音演绎。
+
+rss · 华盛顿邮报\(The Washington Post\) · 8月27日 17:30
+
+**「背景」** 彼得·库伦是著名的配音演员，其职业生涯跨越数十年，因赋予经典动画与影视角色独特的声音形象而受到业界和观众的尊敬。
+
+**标签**: `#entertainment`, `#obituary`, `#voice acting`
+
+---
+
+<a id="item-tech-news-70"></a>
+### [Aliyah Boston discusses Caitlin Clark&\#x27;s viral smile at Angel Reese](https://www.foxnews.com/outkick-sports/aliyah-boston-addresses-caitlin-clarks-viral-smile-angel-reese-post-moves-podcast) ⭐️ 1.0/10
+
+Aliyah Boston 在 Candace Parker 主持的《Post Moves》播客中谈到了 Caitlin Clark 对 Angel Reese 的病毒式微笑表情包。Boston 透露了 Indiana Fever 球队对该网络迷因的反应。这一讨论聚焦于 WNBA 球员之间的赛场互动及其在社交媒体上的传播效应。
+
+rss · 福克斯新闻\(Fox News\) · 8月28日 03:15
+
+**「背景」** Caitlin Clark 和 Angel Reese 都是 WNBA 的热门球员，她们在场上的互动经常成为社交媒体话题。播客《Post Moves》由前 WNBA 球星 Candace Parker 主持，经常讨论联盟内的热点话题和球员故事。
+
+**「影响」** 该讨论进一步推动了 WNBA 球员在社交媒体上的关注度，尤其是对年轻球迷群体的吸引力。这种病毒性内容有助于提升女子篮球联赛的商业价值和媒体曝光度。
+
+**标签**: `#sports`, `#social-media`, `#podcast`, `#gossip`, `#entertainment`
+
+---
+
+<a id="item-tech-news-71"></a>
+### [加州当局确认“笑脸杀手”最后一名无名受害者身份](https://www.foxnews.com/us/california-authorities-identify-final-unknown-victim-happy-face-killer-keith-jesperson-after-34-years) ⭐️ 1.0/10
+
+加州执法部门通过 DNA 检测，成功确认了连环杀人犯基思·杰斯珀森（Keith Jesperson）最后一名未被识别的受害者身份。死者为莉迪亚·简·韦德·麦克沃特（Lydia Jane Wade McWhorter），其遗体于 1992 年在加利福尼亚州的一条公路旁被发现。这一身份认定是在案发 34 年后取得的突破。
+
+rss · 福克斯新闻\(Fox News\) · 8月28日 02:29
+
+**「背景信息」** 基思·杰斯珀森被称为“笑脸杀手”，因在认罪协议中承认多起谋杀案而闻名。许多受害者的身份在案发后长期未能确定，依赖法医人类学和现代 DNA 技术进行逐步确认。
+
+**标签**: `#crime`, `#true crime`, `#homicide investigation`
+
+---
+
+<a id="item-tech-news-72"></a>
+### [Old Al Michaels stumbles through awkward Lake America-Trump jab during Thursday Night Football broadcast](https://www.foxnews.com/outkick-sports/al-michaels-stumbles-awkward-lake-america-trump-jab-thursday-night-football-broadcast) ⭐️ 1.0/10
+
+A Fox News report about a sports broadcaster&\#x27;s off-color joke during a football game broadcast.
+
+rss · 福克斯新闻\(Fox News\) · 8月28日 02:15
+
+**标签**: `#sports`, `#entertainment`, `#politics`
+
+---
+
+<a id="item-tech-news-73"></a>
+### [Broncos coach Sean Payton buries Geoff Schwartz after analyst butchers Bo Nix&\#x27;s downfield game](https://www.foxnews.com/outkick-sports/broncos-coach-sean-payton-buries-geoff-schwartz-analyst-butchers-bo-nix-downfield-game) ⭐️ 1.0/10
+
+Broncos coach Sean Payton disputes analyst Geoff Schwartz&\#x27;s criticism of Bo Nix&\#x27;s downfield passing after statistical corrections.
+
+rss · 福克斯新闻\(Fox News\) · 8月28日 01:40
+
+**标签**: `#sports`, `#NFL`, `#entertainment`, `#no technical value`
+
+---
+
+<a id="item-tech-news-74"></a>
+### [Dolly Parton 去世后阿拉巴马州 literacy 车牌承诺激增](https://www.foxnews.com/lifestyle/dolly-parton-beloved-literacy-mission-sees-surge-support-after-country-icon-death) ⭐️ 1.0/10
+
+美国乡村音乐传奇人物多莉·帕特农（Dolly Parton）去世后，阿拉巴马州提议的以她发起的“ imagination Library”识字项目为主题的新车牌引发了公众强烈反响。数据显示，在该车牌提议推出后的 24 小时内，公众承诺认购数量从 40 份激增至超过 550 份。这一事件反映了公众对这位文化偶像离世的情感共鸣，以及对其长期致力于儿童读写教育事业的认可。该故事属于文化与社会新闻范畴，不涉及技术或软件工程领域。
+
+rss · 福克斯新闻\(Fox News\) · 8月28日 01:15
+
+**「背景」** 多莉·帕特农于 1999 年创立了“Imagination Library”项目，该项目旨在为出生至五岁的儿童免费寄送适龄图书，已在全球范围内惠及数百万儿童。阿拉巴马州拟推出的个性化车牌旨在通过此项目筹集资金，延续其慈善使命。
+
+**「影响」** 该事件直接推动了阿拉巴马州相关立法或车牌发行计划所需公众支持度的快速积累。
+
+**标签**: `#none`, `#none`, `#none`, `#none`
+
+---
+
+<a id="item-tech-news-75"></a>
+### [CNN 道歉因误播多莉·帕顿模仿者照片](https://www.foxnews.com/media/cnn-apologizes-mistakenly-airing-image-dolly-parton-impersonator-report-icon-passing) ⭐️ 1.0/10
+
+CNN 在报道多莉·帕顿（Dolly Parton）去世的消息时，错误播出了一位名叫 Kelly Vohnn 的多莉·帕顿模仿者的照片。事件发生后，CNN 已正式道歉。这是一起低级媒体失误，与软件工程、人工智能或技术领域无关。
+
+rss · 福克斯新闻\(Fox News\) · 8月28日 00:59
+
+**「背景信息」** 多莉·帕顿是美国传奇乡村音乐歌手、词曲作者和演员。CNN 在重大新闻播报中出现此类错误较为罕见，通常源于编辑流程中的图片替换失误。
+
+**标签**: `#media error`, `#trivia`, `#low priority`
+
+---
+
+<a id="item-tech-news-76"></a>
+### [特朗普政府推动教育权归还各州](https://www.foxnews.com/media/trump-admin-urges-returning-education-states-citing-3-trillion-taxes-spent-poor-proficiency-scores) ⭐️ 1.0/10
+
+美国教育部长琳达·麦克马洪近期通过地方广播电台开展宣传，呼吁将教育管理权从联邦政府归还给各州。该政策主张基于两个主要理由：一是过去多年联邦在教育领域已投入约 3 万亿美元税收资金，二是当前学生成绩表现不佳、熟练度分数低迷。此举反映了特朗普政府在教育政策上倾向于减少联邦干预、强化州级自主权的立场。
+
+rss · 福克斯新闻\(Fox News\) · 8月27日 23:38
+
+**「背景」** 美国的教育管理传统上由各州和地方政府负责，但自 20 世纪中叶以来，联邦政府通过立法和拨款逐步扩大了在教育领域的影响力，如《初等和中等教育法》和《不让一个孩子掉队法》等。近年来，关于联邦与州之间教育权限的争议持续存在。
+
+**「影响」** 若政策落实，各州将获得更大教育决策权，可能带来课程标准、资金分配和评估体系的差异化调整。具体实施效果取决于各州的执行能力和政治意愿，目前尚无明确时间表。
+
+**标签**: `#policy`, `#politics`, `#government`, `#non-tech`
+
+---
+
+<a id="item-tech-news-77"></a>
+### [Little League World Series: Ohio defeats Alabama with Kinley Rasmus standout performance](https://abcnews.com/video/135999528/) ⭐️ 1.0/10
+
+在少年棒球世界杯比赛中，俄亥俄州以 11-2 击败阿拉巴马州，终结了后者的梦幻征程。ABC 新闻特别聚焦了阿拉巴马州投手 Kinley Rasmus 的破纪录表现及其在比赛中的精彩发挥。这场比赛标志着阿拉巴马州作为黑马球队的旅程结束。
+
+rss · ABC新闻\(American Broadcasting Company\) · 8月27日 13:28
+
+**「背景」** 少年棒球世界杯（Little League World Series）是国际知名的青少年棒球赛事，每年在美国宾夕法尼亚州威廉斯波特举行。阿拉巴马州球队本次赛事中表现突出，被视为黑马候选。
+
+**「影响」** 此结果为体育爱好者提供赛事信息，对科技行业无直接影响。
+
+**标签**: `#sports`, `#little league`, `#off-topic`
+
+---
+
+<a id="item-tech-news-78"></a>
+### [WATCH:  Flight evacuated after 2 tires blew while taxiing for takeoff](https://abcnews.com/video/135999293/) ⭐️ 1.0/10
+
+An American Airlines flight at O&\#x27;Hare Airport had two tires blow while taxiing, marking the fourth such incident that month.
+
+rss · ABC新闻\(American Broadcasting Company\) · 8月27日 14:04
+
+**标签**: `#miscellaneous`, `#noise`, `#non-technical`
+
+---
+
+<a id="item-tech-news-79"></a>
+### [经济学人政治板块：非技术性内容](https://www.economist.com/the-world-this-week/2026/08/27/politics) ⭐️ 1.0/10
+
+这是《经济学人》杂志的每周政治专栏页面，URL 路径明确标识为&\#x27;Politics&\#x27;（政治）主题。该页面属于国际政治与时事评论类别，不涉及软件工程、人工智能、计算机系统或科技产业等领域的技术内容。文章作者为经济学人编辑团队，来源为 RSS 订阅。
+
+rss · 经济学人\(The Economist\) · 8月27日 14:02
+
+**「背景说明」** 《经济学人》是英国出版的国际新闻与时事评论周刊，其&\#x27;本周世界&\#x27;（The World This Week）栏目每周汇总全球政治动态。该网站包含多个主题板块，包括政治、商业、金融、科技等，本文所属的政治板块专注于国际关系、政府政策、选举动态等非技术议题。
+
+**「影响范围」** 该页面内容仅对关注国际政治和时事分析的研究者、记者及政策制定者具有参考价值。对于寻求技术资讯的软件工程师、AI 开发者和科技行业从业者而言，此内容不具备直接关联性。
+
+**标签**: `#irrelevant-topic`, `#general-politics`, `#low-priority`
+
+---
+
+<a id="item-tech-news-80"></a>
+### [Jacob Elordi on why The Dog Stars had him asking, &\#x27;what am I missing&\#x27; in life?](https://www.bbc.co.uk/news/articles/c74g2j83dx1o?at_medium=RSS&amp;at_campaign=rss) ⭐️ 1.0/10
+
+A BBC article discusses Jacob Elordi&\#x27;s experience filming a post-apocalyptic movie based on &\#x27;The Dog Stars.&\#x27;
+
+rss · BBC\(British Broadcasting Corporation\) · 8月27日 23:44
+
+**标签**: `#Entertainment`, `#Film`, `#Off-topic`
+
+---
+
+<a id="item-tech-news-81"></a>
+### [I was spending £700 a month: How I beat my late-night shopping addiction](https://www.bbc.co.uk/news/articles/czxqk1gwxn7o?at_medium=RSS&amp;at_campaign=rss) ⭐️ 1.0/10
+
+A BBC article discussing strategies for managing late-night shopping addiction, particularly among younger generations.
+
+rss · BBC\(British Broadcasting Corporation\) · 8月27日 23:04
+
+**标签**: `#personal finance`, `#lifestyle`, `#consumer behavior`
+
+---
+
+<a id="item-tech-news-82"></a>
+### [BBC 简报：米德尔斯伯勒暴力事件引发恐慌](https://www.bbc.co.uk/news/articles/c0e3ngx825qo?at_medium=RSS&amp;at_campaign=rss) ⭐️ 1.0/10
+
+BBC 综合多家报纸报道，聚焦于米德尔斯伯勒（Middlesbrough）近期爆发的暴力事件。《镜报》将该镇描述为处于“围困”状态，反映出当地民众深陷恐惧之中。此类民事动荡局势引发了媒体对公共安全与社会秩序的广泛关注。
+
+rss · BBC\(British Broadcasting Corporation\) · 8月28日 05:40
+
+**「背景」** 米德尔斯伯勒是英国北部的一个城镇。该报道属于新闻摘要类内容，主要反映特定地区的社会安全状况，不涉及技术、软件或互联网领域的变化。
+
+**「影响」** 该事件主要影响米德尔斯伯勒当地居民的安全感及日常生活秩序。由于此为区域性社会新闻，对更广泛的技术行业或标准无直接关联影响。
+
+**标签**: `#media roundup`, `#civil unrest`, `#non-technology`, `#news summary`
+
+---
+
+<a id="item-tech-news-83"></a>
+### [Six months into the Iran war: What has Trump accomplished?](https://www.bbc.co.uk/news/videos/cr7dnemgd03o?at_medium=RSS&amp;at_campaign=rss) ⭐️ 1.0/10
+
+A BBC report evaluating Trump&\#x27;s accomplishments during the six-month war with Iran.
+
+rss · BBC\(British Broadcasting Corporation\) · 8月28日 06:34
+
+**标签**: `#geopolitics`, `#news analysis`, `#international relations`
+
+---
+
+<a id="item-tech-news-84"></a>
+### [Rohingya refugees face fierce new wave of hostility in Malaysia](https://www.bbc.co.uk/news/articles/c1dl7yrge5do?at_medium=RSS&amp;at_campaign=rss) ⭐️ 1.0/10
+
+A BBC report notes that Rohingya refugees in Malaysia are facing a new wave of hostility.
+
+rss · BBC\(British Broadcasting Corporation\) · 8月27日 23:46
+
+**标签**: `#human rights`, `#refugees`, `#international news`, `#Malaysia`
+
+---
+
+<a id="item-tech-news-85"></a>
+### [曼城与维拉欧冠联赛阶段将战巴黎圣日耳曼](https://www.bbc.co.uk/sport/football/articles/c5ywxxll10jo?at_medium=RSS&amp;at_campaign=rss) ⭐️ 1.0/10
+
+欧洲冠军巴黎圣日耳曼将在本赛季欧冠联赛阶段迎战英超球队曼城和维拉。该消息为足球赛事对阵安排，不涉及软件、人工智能、计算机硬件或开源技术等科技领域内容。
+
+rss · BBC\(British Broadcasting Corporation\) · 8月27日 17:32
+
+**「背景」** 欧冠联赛近年采用联赛阶段赛制，各队在此阶段与不同对手交锋以争夺晋级名额。巴黎圣日耳曼作为法甲豪门，曼城与维拉均为英超劲旅，此次对阵引发球迷关注。
+
+**「影响」** 该对阵安排仅影响相关足球俱乐部及球迷群体，对技术行业或软件开发等领域无实质影响。
+
+**标签**: `#off-topic`, `#sports`, `#trivial`
+
+---
+
+<a id="item-tech-news-86"></a>
+### [BBC 体育: 萨顿与皇家血液鼓手预测英超](https://www.bbc.co.uk/sport/football/articles/c204dj7vng2o?at_medium=RSS&amp;at_campaign=rss) ⭐️ 1.0/10
+
+该来源为 BBC Sport 的体育娱乐预览文章，涉及足球专家 Chris Sutton 与 Royal Blood 乐队鼓手 Ben Thatcher 进行的英超比赛预测，以及 BBC 读者和 AI 的参与。本文不属于软件、人工智能或系统领域的技术新闻，因此无法提供相关的技术分析摘要。
+
+rss · BBC\(British Broadcasting Corporation\) · 8月27日 16:04
+
+**「背景信息」** BBC Sport 常邀请名人或跨界嘉宾参与体育赛事预测，以增加内容的趣味性和互动性。此类文章主要面向体育迷，侧重于娱乐而非技术深度分析。
+
+**标签**: `#Sports`, `#Entertainment`, `#Premier League`, `#Predictions`, `#Non-Technical`
+
+---
+
+<a id="item-tech-news-87"></a>
+### [韩国重启 31 万失踪人口案件调查](https://www.theguardian.com/world/2026/aug/28/south-korea-missing-persons-police-scandal-bodies-jeju) ⭐️ 1.0/10
+
+韩国警方决定重新审查过去三年关闭的约 31 万起失踪人口案件，起因是警方内部曝光了一起伪造记录的丑闻。一名警官因涉嫌伪造记录以关闭两名后来被发现已故之人的案件而被逮捕。该丑闻引发全国关注，总统李在明已下令对警方处理情况进行调查，并要求制定改革方案。
+
+rss · 卫报\(The Guardian\) · 8月28日 03:06
+
+**「背景信息」** 此类丑闻涉及公共安全和执法诚信问题，反映了执法机构在失踪人口案件管理上可能存在的系统性漏洞。
+
+**「影响评估」** 韩国警方将对 31 万起历史记录进行复核，以确保不再发生类似因伪造记录导致案件被不当关闭的情况。
+
+**标签**: `#police scandal`, `#missing persons`, `#South Korea`, `#public safety`
+
+---
+
+<a id="item-tech-news-88"></a>
+### [USS Abraham Lincoln to visit port in Thailand after more than 250 days at sea](https://www.theguardian.com/us-news/2026/aug/27/uss-abraham-lincoln-thailand-visit) ⭐️ 1.0/10
+
+The USS Abraham Lincoln will make a routine port visit in Thailand after over 250 days at sea supporting US operations against Iran.
+
+rss · 卫报\(The Guardian\) · 8月27日 15:05
+
+**标签**: `#military`, `#geopolitics`, `#navy`, `#US-Iran relations`
+
+---
+
+<a id="item-tech-news-89"></a>
+### [‘We execute the prick’: wife can’t say if Charles Perrottet text was plotting downfall of NSW Liberal minister, Icac hears](https://www.theguardian.com/australia-news/2026/aug/28/icac-hears-charles-perrottet-plotted-downfall-nsw-liberal-minister-david-elliott-ntwnfb) ⭐️ 1.0/10
+
+A news report about a NSW political corruption inquiry involving Charles Perrottet and rival David Elliott.
+
+rss · 卫报\(The Guardian\) · 8月28日 06:02
+
+**标签**: `#politics`, `#law`, `#corruption`, `#news`
+
+---
+
+<a id="item-tech-news-90"></a>
+### [Dolphin dies from H5 bird flu in SA as researchers withdrawn from sub-Antarctic island over ‘psychosocial risk’](https://www.theguardian.com/environment/2026/aug/28/dolphin-dies-from-h5-bird-flu-in-sa-as-researchers-withdrawn-from-sub-antarctic-island-over-psychosocial-risk) ⭐️ 1.0/10
+
+A dolphin in South Australia died from H5N1 bird flu, prompting the Australian government to withdraw researchers from a sub-Antarctic station due to psychological risk.
+
+rss · 卫报\(The Guardian\) · 8月28日 05:40
+
+**标签**: `#environment`, `#wildlife`, `#news`, `#off-topic`
+
+---
+
+<a id="item-tech-news-91"></a>
+### [Greek Orthodox priest and cult musician clarifies views on homosexuality](https://www.theguardian.com/music/2026/aug/27/greek-orthodox-priest-and-cult-musician-clarifies-views-on-homosexuality) ⭐️ 1.0/10
+
+A Greek Orthodox priest and experimental musician clarified his stance on homosexuality and the radical right in a public statement.
+
+rss · 卫报\(The Guardian\) · 8月27日 17:11
+
+**标签**: `#music`, `#religion`, `#politics`, `#culture`
+
+---
+
+<a id="item-tech-news-92"></a>
+### [Bronze age treasure stolen in four-minute Spanish museum heist](https://www.theguardian.com/culture/2026/aug/27/thieves-steal-bronze-age-treasure-of-villena-in-four-minute-heist) ⭐️ 1.0/10
+
+Report on a four-minute heist at a Spanish museum where bronze age gold artifacts were stolen.
+
+rss · 卫报\(The Guardian\) · 8月27日 15:47
+
+**标签**: `#museum`, `#theft`, `#artifacts`, `#crime`
+
+---
+
+<a id="item-tech-news-93"></a>
+### [七人被控破坏特朗普苏格兰高尔夫球场](https://www.theguardian.com/uk-news/2026/aug/28/seven-charged-damaging-trump-scottish-golf-course-accused-terrorist-connection) ⭐️ 1.0/10
+
+七名被控破坏唐纳德·特朗普位于苏格兰特恩伯里高尔夫球场的嫌疑人，被指控犯有“具有恐怖主义关联”的恶意破坏行为。去年 3 月 8 日，该五星级酒店的俱乐部会所遭喷漆涂鸦，球场也被挖开并喷上“加沙不出售”的字样。这一事件与加沙冲突背景下的政治抗议活动有关。
+
+rss · 卫报\(The Guardian\) · 8月28日 04:00
+
+**「 background」** 特恩伯里是特朗普集团在苏格兰西海岸拥有的豪华度假村，以其五星级酒店和高尔夫球场闻名。该事件涉及财产破坏罪及加重情节的指控，反映了国际地缘政治冲突如何延伸至地方性财产犯罪案件。
+
+**「 impact」** 此案件将政治抗议与刑事指控联系起来，可能对在英国境内的示威活动法律边界产生示范效应。涉案人员若定罪，可能面临更严厉的刑罚。
+
+**标签**: `#legal`, `#political protest`, `#property crime`
+
+---
+
+<a id="item-tech-news-94"></a>
+### [Federal judge again halts Trump’s executive order limiting mail voting in midterms](https://www.theguardian.com/us-news/2026/aug/28/federal-judge-halts-trump-executive-order-mail-voting-midterms) ⭐️ 1.0/10
+
+A federal judge temporarily blocked the implementation of an executive order limiting mail voting one week before midterm elections.
+
+rss · 卫报\(The Guardian\) · 8月28日 02:31
+
+**标签**: `#politics`, `#elections`, `#legal`, `#non-technology`
+
+---
+
+<a id="item-tech-news-95"></a>
+### [Canadian prime minister and New York lawmaker denounce Trump’s move to rename Lake Ontario as Lake America – as it happened](https://www.theguardian.com/us-news/live/2026/aug/27/cia-moscow-nato-ratcliffe-rutte-colby-trump-paxton-voting-latest-news-updates) ⭐️ 1.0/10
+
+Truncated live blog content about beef import tariffs, misaligned with the provided title about renaming Lake Ontario.
+
+rss · 卫报\(The Guardian\) · 8月28日 02:00
+
+**标签**: `#trade policy`, `#incomplete content`, `#misaligned metadata`, `#agriculture`, `#US politics`
+
+---
+
+<a id="item-tech-news-96"></a>
+### [US corporate profits surge to record as worker payouts wilt](https://www.ft.com/content/6f3ada65-c56c-499c-8eb6-008fac58949d?syn-25a6b1a6=1) ⭐️ 1.0/10
+
+Content provided is promotional material, not technology news.
+
+rss · 金融时报\(Financial Times\) · 8月28日 04:00
+
+**标签**: `#promotion`, `#financial-services`
+
+---
+
+<a id="item-tech-news-97"></a>
+### [Ex-Barclays boss denies having sex with woman dressed as Snow White after Epstein emails](https://www.theguardian.com/business/2026/aug/27/jes-staley-denies-sex-snow-white-barclays) ⭐️ 1.0/10
+
+Former Barclays CEO Jes Staley denies having sex with a woman dressed as Snow White during a congressional investigation into his connections with Jeffrey Epstein.
+
+rss · 观察家报\(The Observer\) · 8月27日 17:21
+
+**标签**: `#gossip`, `#legal`, `#finance`, `#non-technology`
+
+---
+
+<a id="item-tech-news-98"></a>
+### [Teesside 议员呼吁增加警力和消防支持](https://www.theguardian.com/uk-news/2026/aug/27/teesside-mps-police-fire-service-resources-middlesbrough-a66) ⭐️ 1.0/10
+
+在米德尔斯伯勒和 A66 公路发生的两起事件导致九人死亡后，泰西德的五位工党议员呼吁政府向当地警察和消防部门提供更多支持。议员安迪·麦克唐纳表示，帮派活动在这些事件中明显存在，而警方资金不足。这些议员认为他们所代表的社区应获得政府的“最有力 backing”。
+
+rss · 观察家报\(The Observer\) · 8月27日 16:46
+
+**「背景」** 泰西德是英格兰东北部的一组地区，包括米德尔斯伯勒、斯托克顿和红卡莱尔等议会区。近年来，该地区面临帮派暴力和公共安全挑战，资源分配问题引发地方议员关注。
+
+**「影响」** 此呼吁可能推动政府重新评估对泰西德地区应急服务机构的资金配置。若未被采纳，当地执法和应急响应能力可能持续受限。
+
+**标签**: `#local government`, `#public safety`, `#UK politics`, `#police funding`, `#community services`
+
+---
+
+<a id="item-tech-news-99"></a>
+### [英国酒店庇护难民人数一年减半](https://www.theguardian.com/uk-news/2026/aug/27/number-of-asylum-seekers-living-in-hotels-across-uk-halves-within-a-year) ⭐️ 1.0/10
+
+英国内政部数据显示，截至 6 月底，全国 160 家酒店中共安置了 16,021 名寻求庇护者，较一年前减少了一半。随着政府将部分人员从酒店转移至私人合租屋（HMO），酒店安置比例显著下降，而私人住宿安置数量相应上升。同期，小型渡船非法入境人数同比下降 23%，法律途径抵达及 asylum 申请数量也有明显下滑。
+
+rss · 观察家报\(The Observer\) · 8月27日 15:31
+
+**「背景」** 英国政府近年来持续调整移民与庇护政策，试图通过分散安置和减少集中住宿来缓解公共压力。酒店曾是临时安置寻求庇护者的主要场所，但因其条件争议和政策转向，正逐步被私人租赁住房取代。
+
+**「影响」** 该变化直接影响约 8,000 名寻求庇护者的居住安排，也可能改变地方政府在住房供应和社区服务方面的负担分布。
+
+**标签**: `#uk-news`, `#asylum-policy`, `#housing-statistics`, `#irrelevant`
+
+---
+
+<a id="item-tech-news-100"></a>
+### [BBC 确认《Top Gear》回归](https://www.theguardian.com/tv-and-radio/2026/aug/27/bbc-top-gear-speculation-next-presenters) ⭐️ 1.0/10
+
+英国广播公司（BBC）已确认长期汽车节目《Top Gear》即将回归。该节目在现任联合主持人安德鲁“弗雷迪”弗林托夫（Andrew &\#x27;Freddie&\#x27; Flintoff）于四年前拍摄期间因车祸受重伤后暂停播出，当时 BBC 称将“搁置”该系列至另行通知。随着节目复播的确认，媒体开始猜测下一任主持人的选角。
+
+rss · 观察家报\(The Observer\) · 8月27日 14:32
+
+**「背景信息」** 《Top Gear》是英国知名的汽车主题电视真人秀节目，曾在全球范围内拥有极高人气。安德鲁·弗林托夫是一名前英格兰板球运动员和电视名人，他在萨里郡邓斯福德机场拍摄时发生的事故导致该节目停播近三年。
+
+**「影响」** 这一确认意味着该标志性汽车节目将在停播约四年后重新进入主流视野，可能引发关于新主持阵容及节目内容调整的广泛公众讨论。
+
+**标签**: `#entertainment`, `#television`, `#motoring`
+
+---
+
+<a id="item-tech-news-101"></a>
+### [德国天气局再次发布强雷暴预警](https://www.faz.net/aktuell/gesellschaft/wetterdienst-warnt-abermals-vor-schweren-gewittern-accg-201167083.html) ⭐️ 1.0/10
+
+德国天气局（Deutsche Wetterdienst）周五发布警告，称多地将出现伴有暴雨、冰雹和狂风大风的强雷暴天气。特别是在某些地区，恶劣天气的危险将持续到夜间。
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 06:13
+
+**「背景」** 夏季是德国风暴和强对流天气的高发季节。此类预警旨在提醒公众注意出行安全，减少户外活动。
+
+**标签**: `#weather`, `#non-tech`
+
+---
+
+<a id="item-tech-news-102"></a>
+### [法兰克福汇报发起科学研究竞赛，征集截止 2026 年 10 月](https://www.faz.net/aktuell/wissen/forschung-politik/f-a-z-wetterwerb-weiter-gedacht-accg-201160458.html) ⭐️ 1.0/10
+
+德国《法兰克福汇报》（F.A.Z.）发起名为“Weiter gedacht”的研究竞赛，邀请科学家阐述其研究及现实意义，报名截止至 2026 年 10 月 31 日。该赛事聚焦科学界对时代重大问题的思考，旨在提升公众对科研价值的认知。
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 07:01
+
+**「背景信息」** 《法兰克福汇报》是德国最具影响力的全国性报纸之一，长期关注政治、经济、文化与科学议题。此类由媒体牵头的科研竞赛在德语区较为常见，旨在搭建学术界与公众之间的沟通桥梁。
+
+**「影响」** 参与科学家可获得媒体曝光机会，有助于提升研究成果的社会影响力。该竞赛为非技术类科普活动，对软件开发或人工智能领域无直接影响。
+
+**标签**: `#announcement`, `#competition`, `#general science`, `#news`
+
+---
+
+<a id="item-tech-news-103"></a>
+### [F.A.Z. exklusiv: Deutschland droht erstmals Klimaziel zu verfehlen](https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/deutschland-droht-erstmals-klimaziel-zu-verfehlen-accg-201161163.html) ⭐️ 1.0/10
+
+A German news report about the country potentially missing its climate goals for the first time.
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 11:36
+
+**标签**: `#climate policy`, `#environment`, `#German politics`
+
+---
+
+<a id="item-tech-news-104"></a>
+### [❗️ВС РФ поразили в Киевской области складской комплекс, использующийся для хране](https://telegram.me/tass_agency/392395) ⭐️ 1.0/10
+
+Russian forces reportedly struck a warehouse in the Kyiv region used for storing Flamingo missile components.
+
+telegram · tass\_agency · 8月28日 05:17
+
+**标签**: `#military`, `#conflict`, `#noise`, `#non-technical`, `#geopolitical`
+
+---
+
+<a id="item-tech-news-105"></a>
+### [❗️ВС РФ поразили в порту Одесса шесть хранилищ с военным имуществом, сообщили в ](https://telegram.me/tass_agency/392396) ⭐️ 1.0/10
+
+A Russian military source claims that six storage facilities containing military equipment were hit in the port of Odesa.
+
+telegram · tass\_agency · 8月28日 05:18
+
+**标签**: `#military news`, `#conflict update`, `#unverified claims`, `#non-technical`
+
+---
+
+<a id="item-tech-news-106"></a>
+### [🚨 БПЛА попал в магазин &quot;Магнит&quot; в подмосковном Павловском Посаде, взрывной волно](https://telegram.me/tass_agency/392397) ⭐️ 1.0/10
+
+A drone strike damaged a Magnit store and nearby clinic in Pavlovsky Posad, reported by the regional governor.
+
+telegram · tass\_agency · 8月28日 05:38
+
+**标签**: `#drone incident`, `#local news`, `#civilian infrastructure`, `#Russia`, `#non-technical`
+
+---
+
+<a id="item-tech-news-107"></a>
+### [The Dunajec River is one of the most picturesque rivers in Central Europe, flowi](https://telegram.me/nature/20145) ⭐️ 1.0/10
+
+A brief description of the scenic Dunajec River flowing between Slovakia and Poland.
+
+telegram · nature · 8月27日 17:38
+
+**标签**: `#nature`, `#geography`
+
+---
+
+<a id="item-tech-news-108"></a>
+### [01 版 -  导读](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177632.html) ⭐️ 0.0/10
+
+A People&\#x27;s Daily front-page guide with political and policy topics, unrelated to technology news.
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**标签**: `#political content`, `#newspaper guide`, `#non-technology`, `#policy article`, `#irrelevant source`
+
+---
+
+<a id="item-tech-news-109"></a>
+### [02 版 -  《习近平文化文选》第一卷、第二卷主要篇目介绍](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177633.html) ⭐️ 0.0/10
+
+Introduction to the main chapters of the first and second volumes of Xi Jinping&\#x27;s cultural writings published by People&\#x27;s Daily.
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**标签**: `#politics`, `#news`, `#non-technical`
+
+---
+
+<a id="item-tech-news-110"></a>
+### [03 版 -  推动构建更加公正合理的全球治理体系](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177635.html) ⭐️ 0.0/10
+
+A political commentary on China&\#x27;s global governance initiative and diplomatic efforts, unrelated to technology.
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**标签**: `#politics`, `#diplomacy`, `#chinese-government`, `#global-governance`
+
+---
+
+<a id="item-tech-news-111"></a>
+### [上合组织比什凯克峰会与中吉关系进展](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177636.html) ⭐️ 0.0/10
+
+2026 年 8 月 30 日至 9 月 3 日，习近平主席将出席在比什凯克举行的上海合作组织峰会，并应吉尔吉斯斯坦总统扎帕罗夫、埃及总统塞西邀请对两国进行国事访问。今年是上合组织成立 25 周年，峰会主题为&quot;上合组织成立 25 周年：携手迈向可持续和平、发展与繁荣&quot;。中吉新时代全面战略伙伴关系持续快速发展，中国连续多年保持吉第一大贸易伙伴国、第一大进口来源国和第一大投资来源国地位，中吉乌铁路、巴尔斯科恩—别迭里公路等战略性大项目加速推进。
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**「上合组织发展历程」** 上海合作组织成立于 2001 年，从最初的 6 个创始成员国发展成为当今世界幅员最广、人口最多、发展潜力巨大的综合性区域合作组织。25 年来，在&quot;上海精神&quot;指引下，成员国共担安全重任、共促务实合作、共促文明互鉴、共担国际道义，成功探索出一条新型区域合作的道路。
+
+**「合作影响」** 中吉两国已开通三对陆路口岸，清洁能源、现代农业、数字经济等新兴领域合作亮点纷呈，人文交流持续活跃，为地区和平稳定与发展繁荣作出贡献。
+
+**标签**: `#diplomacy`, `#international relations`, `#politics`, `#SCO`, `#non-technical`
+
+---
+
+<a id="item-tech-news-112"></a>
+### [云南湖畔失散 70 年两岸亲人意外重逢](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177651.html) ⭐️ 0.0/10
+
+2026 年 8 月 28 日《人民日报》刊文，讲述云南泸沽湖畔一场概率极低的跨海峡重逢：自媒体博主陈杰帮助台湾游客费海平拍照时意外相认，两人家族已失散 70 多年。这次奇遇既被形容为“偶然”，也被视为血脉亲情与文化记忆共同作用的“必然”。
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**「背景」** 文章提到两岸离散家庭长期通过家书传递思念，父辈口口相传的亲人姓名与故土记忆成为相认关键。共有的文化记忆——如影视作品《给阿嬷的情书》、舞蹈诗剧《只此青绿》、泉州提线木偶戏等——在民间持续架起心灵互通的桥梁。
+
+**「影响」** 该故事在网友中引发广泛共鸣，被视为两岸民间交流深厚基础的生动注脚，印证了“海峡有隔、血脉不断”的现实例证。
+
+**标签**: `#social`, `#human-interest`, `#cultural`, `#editorial`, `#non-technical`
+
+---
+
+<a id="item-tech-news-113"></a>
+### [人民日报版面向公众长期征稿](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177656.html) ⭐️ 0.0/10
+
+人民日报相关版面于 2026 年 08 月 28 日发布征稿通知，说明“大家谈”“暖闻热评”“中国道路中国梦”“来论”等栏目长期开放投稿。通知要求投稿人将稿件发送至邮箱 rmrbpl@peopledaily.cn，并注明对应栏目名称，同时明确提示请勿一稿多投。该页面无技术新闻或工程相关内容，主要为常规媒体约稿信息。
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**「背景说明」** 该启事来自人民日报报纸的数字版面，这类栏目通常用于刊载读者观点、评论和社会热点讨论。征稿说明属于媒体常规运营内容，并非技术性报道或产品发布。
+
+**「影响范围」** 该通知主要面向有意向日报相关栏目投稿的读者和作者。由于内容不涉及技术产品、标准或系统变更，对开发者、组织或技术生态没有可验证的具体影响。
+
+**标签**: `#noise`, `#non-technical`, `#call-for-papers`, `#general-newspaper-content`
+
+---
+
+<a id="item-tech-news-114"></a>
+### [人民日报 2026 年 8 月 28 日版面内容为空](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177657.html) ⭐️ 0.0/10
+
+2026 年 8 月 28 日《人民日报》电子版该版面（第 5 版）仅显示责编署名，未包含任何实质性文章或技术报道。经分析，此页面为空白排版框架，无新闻内容、技术信息或数据可供解读。
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**「背景」** 《人民日报》作为中国官方主流媒体，每日出版多个版面，涵盖时政、经济、科技、文化等领域。报纸电子版通常按固定版位发布当日全部内容。
+
+**「影响」** 该版面因无实质内容，对技术读者、研究人员或新闻从业者不产生任何可操作的影响。
+
+**标签**: `#empty`, `#newspaper`, `#no-content`, `#noise`, `#irrelevant`
+
+---
+
+<a id="item-tech-news-115"></a>
+### [全国人大常委会审议乡村振兴、银行业监管与水法修订草案](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177658.html) ⭐️ 0.0/10
+
+2026 年 8 月 26 日，十四届全国人大常委会第二十四次会议举行联组会议，专题询问巩固脱贫攻坚成果与乡村全面振兴工作情况，会上披露截至 2024 年底全国农村集体资产账面总额达 10.18 万亿元，同比增长 32.21%，并明确了完善城乡居民基本养老保险、医保帮扶及应对农村人口老龄化等举措。同日及前序会议期间，该次会议继续审议《银行业监督管理法》修订草案二次审议稿，明确实施分类分级监管并强化对监管人员离职后兼职的限制；同时继续审议《水法》修订草案，建议增加节水优先、国家水网建设及地下水禁采区划定等内容。此外，会议于 8 月 27 日分组审议了国务院关于今年以来国民经济和社会发展计划执行情况的报告，指出上半年国内生产总值同比增长 4.7%，呈现动能向新、结构向优的发展态势。
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**「背景说明」** 全国人大常委会是中国人民代表大会的常设机关，在全国人大闭会期间行使国家立法权、监督权等重要职权，定期召开会议审议法律草案及国务院专项工作报告是其履行法定职责的主要方式。此次会议涉及的乡村全面振兴、银行业监管及水资源管理均属于国家关键民生与经济领域，相关法律修订与政策询问旨在通过立法完善和行政监督来应对当前经济社会发展中的结构性挑战。
+
+**「影响评估」** 此次会议审议的法律草案修订及政策询问结果，将直接指导未来几年中国农村集体经济、银行业消费者权益保护及水资源管理的制度完善与执法实践。
+
+**标签**: `#politics`, `#rural development`, `#social security`, `#government policy`
+
+---
+
+<a id="item-tech-news-116"></a>
+### [人民日报 2026 年 8 月 28 日第 08 版编辑信息](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177669.html) ⭐️ 0.0/10
+
+该网页为《人民日报》2026 年 8 月 28 日第 08 版的编辑信息页面。页面上仅列有责任编辑姓名（吴燕、韩文榕、黄金玉）及版式设计人员（汪哲平），未包含任何文章正文或技术内容。来源标注为人民日报 RSS，版权归属于人民网（1997-2026）。
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**「背景」** 《人民日报》是中共官方报纸，其网站 paper.people.com.cn 提供各版电子版。该页面仅为版面责编元数据展示页，并非具体新闻报道或技术文章的正文页面。
+
+**「影响」** 该页面不包含任何技术新闻或可报道的内容变更，对读者、开发者或相关领域无实质影响。
+
+**标签**: `#noise`, `#no-content`, `#metadata`
+
+---
+
+<a id="item-tech-news-117"></a>
+### [上海、成都、深圳地铁开设便民纳凉空间](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177673.html) ⭐️ 0.0/10
+
+2026 年暑期，上海、成都、深圳三座城市的地铁系统因地制宜开设公共纳凉空间，服务周边居民、户外工作者及过往旅客。上海地铁在北中路站等试点站点设置无需购票即可进入的休息区，配备座椅与通风设施；成都地铁自 7 月 7 日起全线 489 座车站开放免费纳凉专区，并联合商业业态打造“轨道融合共享新场景”；深圳地铁则在岗厦北、体育中心等枢纽站点设置纳凉区，部分点位升级为集阅读、儿童娱乐与服务功能于一体的“深爱空间”。城市地下公共空间正从单一交通功能向多元化便民服务拓展。
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**「背景」** 中国主要城市在夏季高温期间日益重视公共避暑空间的供给，城市轨道交通因其空间宽敞、空调覆盖且不受天气影响，成为城市公共服务延伸的重要载体。此类便民举措反映了城市治理从基础设施供给向精细化民生服务转变的趋势。
+
+**「影响」** 该举措直接缓解了周边居民、户外劳动者及旅客在高温天气下的休憩需求，降低了公共清凉空间短缺带来的社会压力。成都连续第五年常态化实施此类服务，表明该模式具备可持续性与可复制性。
+
+**标签**: `#public infrastructure`, `#urban services`, `#seasonal amenities`, `#local news`, `#non-technology`
+
+---
+
+<a id="item-tech-news-118"></a>
+### [人民日报：车站有清凉 城市有温暖](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177674.html) ⭐️ 0.0/10
+
+《人民日报》2026 年 8 月 28 日刊发编辑手记，探讨城市在高温天气下为市民提供纳凉空间的民生实践。文章指出，四川内江将老旧人防工程改造为“清凉会客厅”，山东青岛利用高架桥下闲置空间打造纳凉健身场所，湖北黄石则通过微改造将闲置仓库变为工友茶馆。报道强调，这些看似微小的公共空间更新举措，能够提升市民的获得感与幸福感，是城市发展过程中关注日常所需、因地制宜解决民生问题的重要体现。
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**「背景」** 随着夏季高温天气频发，城市公共服务空间的适温化改造成为各地民生工作的重点。许多城市通过将闲置或低效利用的公共空间（如人防工程、桥下空间、废弃仓库等）转化为纳凉点、健身房或休憩区，以较低成本缓解户外劳动者和市民避暑需求。
+
+**「影响」** 该报道反映了中国城市治理从宏观建设向精细化民生服务延伸的趋势，为其他城市提供了可借鉴的公共空间活化模式。这类低成本、易推广的纳凉设施改造有助于提升高温天气下公共服务的覆盖率和公众满意度。
+
+**标签**: `#civic`, `#urban-planning`, `#public-welfare`, `#editorial`, `#non-technology`
+
+---
+
+<a id="item-tech-news-119"></a>
+### [10 版 -  “学校练的和企业要的是同一套东西”\(稳就业·暖心故事\)](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177675.html) ⭐️ 0.0/10
+
+A Chinese newspaper article describing a vocational university&\#x27;s partnership with local manufacturing companies to improve student employment through internships and curriculum alignment.
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**标签**: `#vocational-education`, `#employment-policy`, `#china`, `#manufacturing`, `#non-technical`
+
+---
+
+<a id="item-tech-news-120"></a>
+### [第四十七届世界葡萄与葡萄酒大会将在银川举办](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177678.html) ⭐️ 0.0/10
+
+第四十七届世界葡萄与葡萄酒大会暨国际葡萄与葡萄酒组织（OIV）成员国代表大会将于 2026 年 10 月 12 日至 16 日在宁夏银川举办。这是该大会首次登陆亚洲。大会以“构建全球葡萄与葡萄酒产业新格局”为主题，设置包括高质量发展交流研讨会、科学与技术分会在内的五项主体活动。目前已有来自 33 个国家的 423 篇科学论文入选，预计参会代表超过 800 人。
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**「背景」** 世界葡萄与葡萄酒大会是由国际葡萄与葡萄酒组织（OIV）发起的全球性行业盛会，主要聚焦葡萄种植、葡萄酒酿造技术及产业发展的国际交流与合作。此前该大会尚未在亚洲地区举办。
+
+**标签**: `#agriculture`, `#wine industry`, `#conference`
+
+---
+
+<a id="item-tech-news-121"></a>
+### [中国体育报春燕郑凤荣逝世](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177681.html) ⭐️ 0.0/10
+
+8 月 27 日，国家体育总局离退休干部局发布讣告，中国田径名宿郑凤荣于 8 月 25 日在北京逝世，享年 89 岁。1937 年生于山东济南的郑凤荣于 1953 年入选国家队，并在 1957 年 11 月 17 日以 20 岁的年龄在北京先农坛体育场跳过 1 米 77，打破由美国选手麦克丹尼尔和罗马尼亚名将巴拉斯共同保持的女子跳高世界纪录，成为新中国第一位打破世界纪录的女运动员和第一位打破田径世界纪录的运动员。她独创的采用直腿摆腿的剪式跳法被称为“东方式”跳法。
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**「背景信息」** 郑凤荣在回忆创造世界纪录经历时表示，当时中国运动员训练条件非常简陋，没有室内田径馆和灯光设施。为了完成训练计划，教练想在横杆上挂一个白手绢继续练习，不跳过这个高度不罢休。退役后，郑凤荣曾担任中国田径协会副主席，积极参与田径运动普及推广、后备人才培养、体育公益事业和对外交流工作。1995 年，她被授予奥林匹克勋章。
+
+**「影响」** 世界田联发文悼念称，郑凤荣打破世界纪录的壮举令当时整个中国为之一振，她也被形容为“宣告中国体育运动春天来临的一只燕子”，为中国体育走向世界翻开了崭新的一页。
+
+**标签**: `#sports`, `#obituary`, `#china`, `#athletics`
+
+---
+
+<a id="item-tech-news-122"></a>
+### [13 版 -  家庭医生签约服务，何以提升感受度（人民眼·健康中国）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177686.html) ⭐️ 0.0/10
+
+A People&\#x27;s Daily article discussing the implementation and challenges of China&\#x27;s family doctor signing service for public healthcare.
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**标签**: `#healthcare`, `#policy`, `#china`, `#public\_service`
+
+---
+
+<a id="item-tech-news-123"></a>
+### [14 版 -  本版责编：纪雅林  卢  涛  翟钦奇](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177690.html) ⭐️ 0.0/10
+
+Empty news page containing only editor credits and copyright text.
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**标签**: `#news-layout`, `#no-content`, `#off-topic`
+
+---
+
+<a id="item-tech-news-124"></a>
+### [15 版 -  本版责编：王  慧  黄发红](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177696.html) ⭐️ 0.0/10
+
+Empty newspaper page layout with copyright notice and no technical content.
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**标签**: `#empty\_content`, `#newspaper\_template`, `#no\_article`, `#noise`
+
+---
+
+<a id="item-tech-news-125"></a>
+### [17 版 -  互学互鉴  相知相亲](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177698.html) ⭐️ 0.0/10
+
+A People&\#x27;s Daily page featuring images under a general diplomatic or cultural theme with no technology content.
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**标签**: `#irrelevant`, `#non-tech`, `#noise`, `#state-media`, `#no-substance`
+
+---
+
+<a id="item-tech-news-126"></a>
+### [20 版 -  永葆“赶考”的清醒和坚定](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177710.html) ⭐️ 0.0/10
+
+A historical-political article from People&\#x27;s Daily about the CCP&\#x27;s &\#x27;going to Beijing for an exam&\#x27; metaphor and Xiangshan revolutionary spirit.
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**标签**: `#politics`, `#history`, `#chinese-government`, `#non-technology`, `#propaganda`
+
+---
+
+<a id="item-tech-news-127"></a>
+### [20 版 -  科学减重有章可循（序与跋）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177711.html) ⭐️ 0.0/10
+
+A book preface by a clinical nutritionist discussing scientific weight management principles, common diet misconceptions, and personalized health strategies.
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**标签**: `#health`, `#nutrition`, `#medicine`, `#public policy`
+
+---
+
+<a id="item-tech-news-128"></a>
+### [In ‘9 to 5,’ Dolly Parton Put a Friendly Face on Feminism](https://www.nytimes.com/2026/08/27/magazine/dolly-parton-9-to-5-feminism.html) ⭐️ 0.0/10
+
+A retrospective on how Dolly Parton&\#x27;s &\#x27;9 to 5&\#x27; helped reshape the public perception of feminism in 1980.
+
+rss · 纽约时报\(The New York Times\) · 8月27日 20:05
+
+**标签**: `#cultural-history`, `#music`, `#feminism`, `#off-topic`, `#entertainment`
+
+---
+
+<a id="item-tech-news-129"></a>
+### [格温妮丝·帕特洛为山姆·阿尔特曼举办的汉普顿晚宴延期](https://www.nytimes.com/2026/08/27/style/gwyneth-paltrows-sam-altman-dinner-postponed.html) ⭐️ 0.0/10
+
+格温妮丝·帕特洛计划为 OpenAI 首席执行官山姆·阿尔特曼举办一场私人晚宴，但该活动已推迟。帕特洛并未否认这一计划，但表示需要等待更合适的时机。此次社交聚会属于娱乐领域活动，与技术产业无关。
+
+rss · 纽约时报\(The New York Times\) · 8月28日 02:39
+
+**「背景」** 格温妮丝·帕特洛是好莱坞女演员兼健康生活方式企业家，山姆·阿尔特曼是人工智能领域的重要人物。此类名人社交聚会通常出现在娱乐媒体中，不涉及技术实质内容。
+
+**「影响」** 此项活动延期对技术社区、软件开发或人工智能领域无任何实质影响。
+
+**标签**: `#noise`, `#entertainment`, `#promotional`
+
+---
+
+<a id="item-tech-news-130"></a>
+### [德克萨斯州警方追逐涉嫌人口走私分子](https://www.foxnews.com/us/suspected-human-smugglers-lead-cops-100-mph-chase-before-bailing-allegedly-committing-armed-carjacking) ⭐️ 0.0/10
+
+德克萨斯州法伯恩斯（Fabens）发生警车追逐事件，两名涉嫌人口走私分子驾驶车辆时速达 100 英里。警方直升机录像显示，两人在追逐过程中下车逃逸，其中一人据称持枪劫持平民车辆。该事件正在当地执法部门调查中，具体细节尚未公布。
+
+rss · 福克斯新闻\(Fox News\) · 8月28日 03:51
+
+**「背景信息」** 法伯恩斯位于德克萨斯州西部，靠近美墨边境，该地区常有跨境犯罪活动。人口走私和车辆抢劫是边境社区的严重问题。
+
+**标签**: `#crime`, `#local news`, `#not technology`
+
+---
+
+<a id="item-tech-news-131"></a>
+### [Maine meteorologist suffers giggle attack on live TV after prank backfires spectacularly](https://www.foxnews.com/us/maine-meteorologist-suffers-giggle-attack-live-tv-after-prank-backfires-spectacularly) ⭐️ 0.0/10
+
+A Maine meteorologist couldn&\#x27;t stop laughing on air after a Charlie Brown prank audio was played during his weather report.
+
+rss · 福克斯新闻\(Fox News\) · 8月28日 01:52
+
+**标签**: `#off-topic`, `#trivial`, `#entertainment`, `#non-technical`
+
+---
+
+<a id="item-tech-news-132"></a>
+### [Prosecutor says he has portion of Josh Jacobs&\#x27; domestic incident with ex-girlfriend on video](https://www.foxnews.com/outkick-sports/prosecutor-says-portion-josh-jacobs-domestic-incident-ex-girlfriend-video) ⭐️ 0.0/10
+
+Surveillance video from Josh Jacobs&\#x27; garage allegedly supports domestic battery allegations, raising questions about his NFL future.
+
+rss · 福克斯新闻\(Fox News\) · 8月28日 00:42
+
+**标签**: `#sports`, `#legal`, `#entertainment`
+
+---
+
+<a id="item-tech-news-133"></a>
+### [3 illegal aliens arrested in major Virginia child exploitation sting released on bond](https://www.foxnews.com/us/3-illegal-aliens-arrested-major-virginia-child-exploitation-sting-released-bond) ⭐️ 0.0/10
+
+Three individuals arrested in a Virginia child exploitation sting were released on bond.
+
+rss · 福克斯新闻\(Fox News\) · 8月28日 00:27
+
+**标签**: `#legal`, `#immigration`, `#crime`
+
+---
+
+<a id="item-tech-news-134"></a>
+### [Gov Shapiro sues Trump administration over ‘lifesaving reproductive care’ in escalating abortion battle](https://www.foxnews.com/politics/gov-shapiro-sues-trump-administration-lifesaving-reproductive-care-escalating-abortion-battle) ⭐️ 0.0/10
+
+Pennsylvania Governor Josh Shapiro joins a multi-state lawsuit challenging the Trump administration&\#x27;s new Title X conditions on reproductive care services.
+
+rss · 福克斯新闻\(Fox News\) · 8月27日 23:32
+
+**标签**: `#politics`, `#legal`, `#policy`
+
+---
+
+<a id="item-tech-news-135"></a>
+### [WATCH:  Yayoi Kusama, &\#x27;Friends&\#x27; reunion, Busy Phillips: Here&\#x27;s what&\#x27;s trending](https://abcnews.com/video/136014957/) ⭐️ 0.0/10
+
+A pop culture trend summary from ABC News covering art, TV reunions, and celebrity news with no technology relevance.
+
+rss · ABC新闻\(American Broadcasting Company\) · 8月28日 04:46
+
+**标签**: `#pop culture`, `#entertainment`, `#non-technology`
+
+---
+
+<a id="item-tech-news-136"></a>
+### [WATCH:  Author discusses how to escape living paycheck-to-paycheck](https://abcnews.com/video/136014270/) ⭐️ 0.0/10
+
+A personal finance expert shares tips for escaping paycheck-to-paycheck living.
+
+rss · ABC新闻\(American Broadcasting Company\) · 8月27日 20:39
+
+**标签**: `#finance`, `#personal finance`, `#budgeting`
+
+---
+
+<a id="item-tech-news-137"></a>
+### [WATCH:  Kitten gets tiny hard hat after rescue from excavator](https://abcnews.com/video/135997860/) ⭐️ 0.0/10
+
+A rescue story about a kitten saved from an excavator, unrelated to technology.
+
+rss · ABC新闻\(American Broadcasting Company\) · 8月27日 10:51
+
+**标签**: `#irrelevant`, `#human-interest`, `#non-technical`
+
+---
+
+<a id="item-tech-news-138"></a>
+### [WATCH:  Dolly Parton Scholarship winner on loss of the country legend](https://abcnews.com/video/136003563/) ⭐️ 0.0/10
+
+A scholarship winner discusses how the Dolly Parton Foundation has supported her and her children.
+
+rss · ABC新闻\(American Broadcasting Company\) · 8月27日 13:59
+
+**标签**: `#non-technology`, `#human-interest`, `#scholarship`, `#entertainment`
+
+---
+
+<a id="item-tech-news-139"></a>
+### [Cartoon: America and Canada stand on the brink of a trade war](https://www.economist.com/the-world-this-week/2026/08/27/cartoon-america-and-canada-stand-on-the-brink-of-a-trade-war) ⭐️ 0.0/10
+
+A cartoon depicting the US-Canada trade war situation.
+
+rss · 经济学人\(The Economist\) · 8月27日 14:02
+
+**标签**: `#trade`, `#cartoon`
+
+---
+
+<a id="item-tech-news-140"></a>
+### [Oxfordshire 非法垃圾堆清理花费纳税人 600 万英镑](https://www.bbc.co.uk/news/articles/cvgyx45zzwgo?at_medium=RSS&amp;at_campaign=rss) ⭐️ 0.0/10
+
+牛津郡一处非法垃圾堆的清理费用高达 600 万英镑，由纳税人承担。该垃圾堆属于非法倾倒废物，清理工作由当地政府主导完成。
+
+rss · BBC\(British Broadcasting Corporation\) · 8月27日 21:00
+
+**「背景」** 英国各地近年来多次发现非法废物堆放点，清理这些污染场地需要大量公共资金。牛津郡此次事件是环境政策与公共支出领域的典型案例。
+
+**「影响」** 纳税人需为此次清理工作支付 600 万英镑，凸显了非法废物管理对公共财政的负担。此类事件也可能影响当地居民的环境质量感知。
+
+**标签**: `#environmental policy`, `#public spending`, `#waste management`
+
+---
+
+<a id="item-tech-news-141"></a>
+### [英国银行假日周末雷雨与降雨预报](https://www.bbc.co.uk/weather/articles/cpq0zqepnrlo?at_medium=RSS&amp;at_campaign=rss) ⭐️ 0.0/10
+
+BBC 天气预报显示，英国在即将到来的银行假日周末期间天气将持续不稳定。预计周末多个时段将出现阵雨、持续降雨以及雷暴天气。这属于常规气象预警，与技术或软件工程领域无关。
+
+rss · BBC\(British Broadcasting Corporation\) · 8月28日 05:52
+
+**「背景」** 银行假日（Bank Holiday）是英国的法定公共假日，通常出现在五月初和八月底，民众常借此安排短途旅行或户外活动。此类天气预警对计划出行的公众具有直接参考价值。
+
+**「影响」** 该预报主要影响计划在周末进行户外活动的英国公众，提示需防范雷雨带来的不便。由于内容为纯气象信息，对技术行业或软件开发领域无实质影响。
+
+**标签**: `#weather`, `#news`
+
+---
+
+<a id="item-tech-news-142"></a>
+### [&\#x27;Cowboy builders&\#x27; targeted in new government clampdown](https://www.bbc.co.uk/news/articles/cx2z44982e4o?at_medium=RSS&amp;at_campaign=rss) ⭐️ 0.0/10
+
+UK government plans to launch a database of trusted tradespeople and a customer money protection scheme for cowboy builders.
+
+rss · BBC\(British Broadcasting Corporation\) · 8月27日 21:44
+
+**标签**: `#regulation`, `#government policy`, `#construction industry`
+
+---
+
+<a id="item-tech-news-143"></a>
+### [Blake Lively awarded $400K of $8M in legal fees](https://www.bbc.co.uk/news/articles/c0lrwlzrk86o?at_medium=RSS&amp;at_campaign=rss) ⭐️ 0.0/10
+
+Blake Lively was awarded $400,000 toward her requested $8 million in legal fees in her defamation case against director Justin Baldoni. A judge approved the partial award for her legal battle, which is significantly less than the full amount she claimed. The ruling comes from ongoing legal proceedings between the actress and the filmmaker.
+
+rss · BBC\(British Broadcasting Corporation\) · 8月27日 14:18
+
+**「Background」** This case involves a defamation dispute between Hollywood actress Blake Lively and director Justin Baldoni, stemming from their professional collaboration. Legal fees in high-profile celebrity cases can reach millions of dollars when extensive litigation is involved.
+
+**标签**: `#entertainment`, `#celebrity news`, `#legal`
+
+---
+
+<a id="item-tech-news-144"></a>
+### [What is the aim for Kompany, Kane and Bayern?](https://www.bbc.co.uk/sport/football/articles/cvg967e3qqdo?at_medium=RSS&amp;at_campaign=rss) ⭐️ 0.0/10
+
+A BBC article discussing whether Bayern Munich&\#x27;s expected Bundesliga title defense would constitute success, which is sports-related content with no relevance to technology.
+
+rss · BBC\(British Broadcasting Corporation\) · 8月28日 06:04
+
+**标签**: `#sports`, `#football`, `#Bundesliga`, `#Bayern Munich`, `#off-topic`
+
+---
+
+<a id="item-tech-news-145"></a>
+### [维纳斯·威廉姆斯获外卡的深层原因](https://www.bbc.co.uk/sport/tennis/articles/c14d8lg0grpo?at_medium=RSS&amp;at_campaign=rss) ⭐️ 0.0/10
+
+尽管维纳斯·威廉姆斯已一年多未赢下一场单打比赛，但她依然频繁获得赛事外卡资格。这一现象背后的原因超越了单纯的网球竞技表现，涉及更广泛的社会与文化因素。BBC 的这篇文章探讨了为何一位状态低迷的顶级选手仍能持续获得参赛机会。
+
+rss · BBC\(British Broadcasting Corporation\) · 8月28日 05:28
+
+**「背景」** 外卡（Wildcard）是网球赛事中主办方颁发的特别邀请函，允许选手绕过常规排名资格直接参赛。维纳斯·威廉姆斯作为网球历史上的传奇人物，曾获得过多次大满贯冠军，享有极高的知名度和社会影响力。
+
+**「影响」** 这一现象反映了职业体育中成绩与商业价值、社会影响力之间的复杂平衡。对于关注体育赛事公平性的观众而言，这可能引发关于外卡发放标准的讨论。
+
+**标签**: `#sports`, `#tennis`, `#culture`
+
+---
+
+<a id="item-tech-news-146"></a>
+### [Burnham accused of U-turn after initially backing political donations cap to fall below £500k](https://www.theguardian.com/politics/2026/aug/27/andy-burnham-political-donation-reduced-over-time) ⭐️ 0.0/10
+
+Exclusive reporting on UK Prime Minister Andy Burnham&\#x27;s shifting position regarding political donation caps.
+
+rss · 卫报\(The Guardian\) · 8月27日 18:51
+
+**标签**: `#politics`, `#uk-news`, `#regulation`
+
+---
+
+<a id="item-tech-news-147"></a>
+### [Democrats to investigate ‘miraculous’ rise of Trump Jr’s investment firm](https://www.theguardian.com/us-news/2026/aug/27/democrats-investigation-trump-jr-1798-capital) ⭐️ 0.0/10
+
+Democrats are investigating the rapid growth of Trump Jr&\#x27;s investment firm after he joined as a partner following his father&\#x27;s second term victory.
+
+rss · 卫报\(The Guardian\) · 8月27日 20:33
+
+**标签**: `#politics`, `#investigation`, `#venture capital`, `#us government`
+
+---
+
+<a id="item-tech-news-148"></a>
+### [Birmingham seeks injunction to stop anti-migrant group erecting flags on infrastructure](https://www.theguardian.com/uk-news/2026/aug/27/birmingham-seeks-injunction-to-stop-anti-migrant-group-erecting-flags-on-infrastructure) ⭐️ 0.0/10
+
+Birmingham city council seeks an injunction to prevent an anti-migrant group from erecting flags on public infrastructure.
+
+rss · 观察家报\(The Observer\) · 8月27日 11:31
+
+**标签**: `#politics`, `#legal`, `#UK news`, `#civic issue`
+
+---
+
+<a id="item-tech-news-149"></a>
+### [Uli Hoeneß: Nachbar am Tegernsee klagt wegen zwei neu gepflanzten Bäumen](https://www.spiegel.de/sport/fussball/uli-hoeness-nachbar-am-tegernsee-klagt-wegen-zwei-neu-gepflanzten-baeumen-a-a6ba66a3-0834-4fec-b786-7959fc06eab5#ref=rss) ⭐️ 0.0/10
+
+Unrelated gossip about a football figure&\#x27;s property dispute with a neighbor over planted trees.
+
+rss · 明镜周刊\(Der Spiegel\) · 8月27日 20:05
+
+**标签**: `#sports-gossip`, `#irrelevant`, `#off-topic`, `#non-technical`
+
+---
+
+<a id="item-tech-news-150"></a>
+### [Österreich: 64-jähriger Wanderer stürzt in Vorarlberg 70 Meter in den Tod](https://www.spiegel.de/panorama/oesterreich-64-jaehriger-wanderer-stuerzt-in-vorarlberg-70-meter-in-den-tod-a-0a835104-87bc-4085-9429-9025b0ed9785#ref=rss) ⭐️ 0.0/10
+
+A 64-year-old hiker died after falling 70 meters in Vorarlberg, Austria.
+
+rss · 明镜周刊\(Der Spiegel\) · 8月27日 19:55
+
+**标签**: `#accident`, `#news`, `#tragedy`, `#outdoor`, `#international`
+
+---
+
+<a id="item-tech-news-151"></a>
+### [USA: Demokraten warnen vor tödlichen Folgen von ICE-Elektro-Handschuhen](https://www.spiegel.de/ausland/usa-demokraten-warnen-vor-toedlichen-folgen-von-ice-elektro-handschuhen-a-5a8090ae-3cde-44d7-ae1a-b09f084df7b1#ref=rss) ⭐️ 0.0/10
+
+Democratic senators in the US have urged ICE to halt the purchase of new electroshock gloves, citing concerns about disproportionate force and potential fatal outcomes.
+
+rss · 明镜周刊\(Der Spiegel\) · 8月27日 19:54
+
+**标签**: `#politics`, `#law enforcement`, `#US politics`, `#policy`
+
+---
+
+<a id="item-tech-news-152"></a>
+### [TV 评论：Sarah Tacke 探讨基本收入](https://www.faz.net/aktuell/feuilleton/medien-und-film/talkshow/tv-kritik-sarah-tacke-zu-grundsicherung-und-buergergeld-accg-201166487.html) ⭐️ 0.0/10
+
+德国媒体人 Philipp Krohn 在《法兰克福汇报》发表评论，赞扬主持人 Sarah Tacke 在周四晚间访谈节目中就公民基本收入（Bürgergeld）议题展现的建设性新闻风格。Tacke 通过聚焦少数嘉宾的方式，使得原本复杂的社会保障政策讨论变得具有教育意义和 Constructive。该节目体现了电视谈话节目在社会政策议题上的积极转变。
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 01:09
+
+**「背景信息」** Bürgergeld 是德国现行的基本生活保障制度，取代了之前的 Hartz IV，旨在为失业者提供更为人性化的社会救助。此类政策议题在德国公共讨论中具有重要地位，常引发关于社会福利、工作激励和经济公平的广泛辩论。
+
+**「影响」** 该评论反映了德国媒体对高质量政策讨论节目的认可，可能影响公众对社会福利议题的认知方式。
+
+**标签**: `#TV Review`, `#Social Policy`, `#Media Criticism`, `#German News`
+
+---
+
+<a id="item-tech-news-153"></a>
+### [德国总理默茨在 RTL 采访中与儿科医生发生争执](https://www.faz.net/aktuell/politik/inland/friedrich-merz-streitet-bei-rtl-mit-kinderaerztin-das-ist-eine-persoenliche-herabsetzung-201166226.html) ⭐️ 0.0/10
+
+德国总理弗里德里希·默茨在 RTL 电视台的采访中回应公众提问时，与一名儿科医生发生了激烈争执。该医生对政府当前的政治氛围表示强烈不满，指责默茨的言论构成了个人贬低；默茨则认为对方的提问越界。尽管默茨提到政府措施已出现初步积极迹象，但整体民意氛围仍被认为处于低谷。
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 18:37
+
+**「背景」** 弗里德里希·默茨于 2025 年出任德国总理，领导由基民盟/基社盟与社民党组成的联合政府。此类电视访谈节目通常会预留观众提问环节，让民众直接向政府高层表达关切，现场互动往往能折射出当前的政治紧张局势。
+
+**「影响」** 此次公开争执凸显了默茨政府在执政初期面临的舆论压力与沟通挑战。事件引发了关于政治人物与公众互动边界以及如何有效安抚民意的讨论。
+
+**标签**: `#politics`, `#germany`
+
+---
+
+<a id="item-tech-news-154"></a>
+### [Auf dem Rennrad nach Berlin: Es geht nicht nur um die Beine – es geht auch um den Kopf](https://www.faz.net/aktuell/sport/rhein-main-sport/warum-hannes-blank-regelmaessig-567-kilometer-mit-dem-rennrad-nach-berlin-faehrt-accg-201159841.html) ⭐️ 0.0/10
+
+A profile of former pro cyclist Hannes Blank riding 567 kilometers from Gundernhausen to Berlin.
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 04:30
+
+**标签**: `#cycling`, `#sports`, `#commuting`
+
+---
+
+<a id="item-tech-news-155"></a>
+### [冰浴的健康功效缺乏客观医学证据](https://www.faz.net/aktuell/sport/mehr-sport/eisbaden-als-wundermittel-objektiv-nachweisbar-ist-das-nicht-accg-201151085.html) ⭐️ 0.0/10
+
+冰浴常被视为能增强训练效果和提升免疫力的“神奇疗法”，但医学专家 Georg Ertl 指出，其实际健康功效在客观上无法得到证实。他警告称，对于本身已有疾病的人群而言，冰浴可能带来潜在的健康风险，而非普遍的保健益处。文章强调应理性看待这一流行养生方式，避免盲目跟风。
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 10:50
+
+**「背景」** 冰浴（冷水浸泡）是一种冷疗形式，常被运动员用于恢复或健身爱好者用于提升耐寒能力。然而，目前医学界对其系统性健康收益仍缺乏足够的高质量临床研究支持。
+
+**「影响」** 该报道提醒公众和医疗从业者对冰浴的健康主张保持审慎态度，尤其避免将其作为替代医疗手段。对于有心脑血管基础疾病者，盲目尝试可能引发不良健康事件。
+
+**标签**: `#health`, `#wellness`, `#sports`, `#medicine`
+
+---
+
+<a id="item-tech-news-156"></a>
+### [日本艺术家草间弥生 97 岁去世](https://www.faz.net/video/yayoi-kusama-ist-tot-japanische-kuenstlerin-starb-mit-97-jahren-201165727.html) ⭐️ 0.0/10
+
+日本著名艺术家草间弥生于 8 月 14 日去世，享年 97 岁，其所属博物馆确认她直至生命尽头仍在坚持绘画。她凭借标志性的“波点”艺术和“无限镜屋”系列作品享誉全球，是当代艺术界最具影响力的代表人物之一。
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 15:23
+
+**「背景」** 草间弥生是日本国宝级艺术家，自 20 世纪 60 年代起便以波点（Polka Dots）和无限镜屋（Infinity Mirror Rooms）等沉浸式装置艺术闻名于世，其创作跨越绘画、雕塑、行为艺术等多个领域。她的作品深刻影响了波普艺术、极简主义与当代装置艺术的发展脉络。
+
+**「影响」** 她的逝世标志着现当代艺术史一个时代的落幕，全球观众与文化机构将共同缅怀这位以重复视觉语言探索自我与宇宙边界的艺术先驱。
+
+**标签**: `#Art`, `#Obituary`, `#Culture`
+
+---
+
+<a id="item-tech-news-157"></a>
+### [巴黎浪漫生活博物馆翻新后重新开放](https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/magnet-am-montmartre-das-pariser-musee-de-la-vie-romantique-201147413.html) ⭐️ 0.0/10
+
+位于巴黎蒙马特高地的浪漫生活博物馆（Musée de la Vie romantique）经过翻新修缮后重新对公众开放。博物馆展出了包括肖邦的手印、歌德的钢笔素描以及乔治·桑的水彩画在内的艺术珍品。此次翻新使得这座专注于浪漫主义时期的博物馆更具参观价值。
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 19:32
+
+**「背景」** 浪漫生活博物馆主要致力于展示 19 世纪浪漫主义时期的艺术与文学，收藏了相关历史人物的手稿、画作及生活用品。蒙马特高地是巴黎著名的艺术与文化中心，拥有浓厚的历史氛围。
+
+**「影响」** 翻新后的博物馆为艺术爱好者和历史研究者提供了更优质的参观体验与保护良好的展品环境。
+
+**标签**: `#culture`, `#travel`, `#art`, `#museums`
+
+---
+
+<a id="item-tech-news-158"></a>
+### [Fazit zu Filmkomödie &quot;One Night Only&quot;](https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/kondom-gesucht-one-night-only-im-kino-201163839.html) ⭐️ 0.0/10
+
+Die Artikel von Bert Rebhandl in der Frankfurter Allgemeinen Zeitung ist eine Besprechung der Filmkomödie &quot;One Night Only&quot;. Der Film wird als eine heitere Geschichte mit Konsequenzen beschrieben, die sich um den sogenannten ersten Mal dreht. Die beiden Hauptdarsteller werden als vielversprechend bezeichnet und könnten langfristig die Strahlkraft klassischer Hollywood-Paare erreichen.
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 18:52
+
+**「Zum Film」** Bei &quot;One Night Only&quot; handelt es sich um eine Filmkomödie, deren Handlung um die Herausforderungen eines ersten Dates oder einer ersten Nacht kreist. Das Genre zielt auf Unterhaltung und leichte, humorvolle Erzählweise ab.
+
+**标签**: `#Film`, `#Entertainment`, `#Review`
+
+---
+
+<a id="item-tech-news-159"></a>
+### [4:1 gegen Motherwell: Freiburg erreicht problemlos die Ligaphase der Conference League](https://www.faz.net/aktuell/sport/fussball/4-1-gegen-motherwell-sc-freiburg-erreicht-ligaphase-der-conference-league-201166286.html) ⭐️ 0.0/10
+
+SC Freiburg defeats Motherwell 4-1 to advance in the Conference League qualifiers.
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 19:00
+
+**标签**: `#sports`, `#football`, `#soccer`
+
+---
+
+<a id="item-tech-news-160"></a>
+### [Pogačar gewinnt Vuelta-Etappe auf Schotterpiste](https://www.faz.net/aktuell/sport/mehr-sport/tadej-pogacar-triumphiert-bei-vuelta-auf-schotterpiste-201165971.html) ⭐️ 0.0/10
+
+Der slowenische Radrennfahrer Tadej Pogačar hat bei der Vuelta a España auf der sechsten Etappe seinen dritten Tageserfolg gefeiert. Die Strecke zeigte ein besonders herausforderndes Schotterterrain, was die Leistung als außerordentlich einstuft. Der aktuelle Weltmeister dominiert die Spanien-Rundfahrt weiterhin deutlich.
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 15:49
+
+**「Hintergrund」** Die Vuelta a España ist eines der drei großen Rad-Rundfahrten-Grand Tours im Profiradsport. Mixed-Terrain-Etappen mit Schotterabschnitten stellen besondere Anforderungen an Technik und Fahrerin.
+
+**「Auswirkung」** Ein weiterer Etappensieg festigt Pogačars Führungsposition in der Gesamtwertung und erhöht den Druck auf die Mitbewerber im restlichen Rennverlauf.
+
+**标签**: `#sports`, `#cycling`
+
+---
+
+<a id="item-tech-news-161"></a>
+### [德国法院裁定地下室可改为居住空间](https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/immobilien-duerfen-kellerraeume-zum-wohnzimmer-werden-accg-201069048.html) ⭐️ 0.0/10
+
+德国法兰克福高等地方法院近日裁定，业主有权将地下室改造成居住空间（如客厅或卧室）。该判决明确了一项关键限制：这种用途变更不得比其他住户造成更多干扰。如果原有噪音或振动水平在可接受范围内，改为住宅用途本身并不违法。这一裁决为许多正在考虑利用家中闲置地下室空间的房主提供了法律依据。
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 12:30
+
+**「背景」** 根据德国联邦司法部解释，区分所有权法（WEG）对房屋用途变更有严格规定。通常情况下，将非居住空间改为居住空间需要全体业主同意。但如果这种改变不会增加对邻居的干扰，则被视为允许。
+
+**「影响」** 这一裁决使德国大量拥有地下室的房主能够合法改造空间，缓解住房紧张问题。它也可能降低房地产交易成本，因为买家可以更灵活地使用现有空间而无需昂贵的法律程序。
+
+**标签**: `#real estate`, `#legal`, `#residential law`, `#property rights`, `#non-technical`
+
+---
+
+<a id="item-tech-news-162"></a>
+### [荷兰收藏家 Joop van Caldenborgh：相信眼睛的人会被艺术打动](https://www.faz.net/aktuell/feuilleton/kunstmarkt/joop-van-caldenborgh-sein-privatmuseum-voorlinden-wird-10-jahre-alt-accg-201142993.html) ⭐️ 0.0/10
+
+荷兰企业家兼艺术收藏家 Joop van Caldenborgh 近日庆祝其私人当代艺术博物馆 Voorlinden 成立十周年。作为荷兰最大的私人当代艺术收藏之一，该博物馆由 van Caldenborgh 亲自策划并运营。在 FAZ 杂志的专访中，他分享了收藏艺术的驱动力以及对年轻收藏家的建议。
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 09:07
+
+**「背景」** Voorlinden 博物馆位于荷兰海牙附近，是 van Caldenborgh 自建的私人艺术空间，专注于现当代艺术收藏与展示。
+
+**标签**: `#art`, `#museum`, `#culture`, `#interview`
+
+---
+
+<a id="item-tech-news-163"></a>
+### [拉夫罗夫：CIA 局长与梵蒂冈外交官同期访俄意在对话](https://telegram.me/tass_agency/392390) ⭐️ 0.0/10
+
+据塔斯社报道，俄罗斯外长拉夫罗夫在俄罗斯商业日报电视台（RBC）的采访中指出，美国中央情报局局长与梵蒂冈外交部门负责人同期访问莫斯科，明确传递出双方渴望与俄罗斯方面进行对话的信号。这一表态反映了当前俄与国际主要机构之间保持沟通渠道的外交姿态。由于该事件属于国际外交范畴，与技术、软件或开源领域无直接关联，故不涉及技术影响分析。
+
+telegram · tass\_agency · 8月28日 04:23
+
+**「背景信息」** 俄罗斯与美国及梵蒂冈之间的外交互动历来是国际关系的焦点，尤其在高规格官员互访中，往往被视为缓和紧张局势或重启关键议题讨论的风向标。拉夫罗夫作为俄外交部负责人，其公开言论通常旨在向国内外阐释俄方对当前外交接触的战略解读。
+
+**「影响评估」** 该消息主要影响国际关系观察者及关注俄美、俄梵对话的政策制定者，暂无对技术行业或开发者生态的直接后果。
+
+**标签**: `#diplomacy`, `#international relations`, `#Russia`, `#CIA`, `#Vatican`
+
+---
+
+<a id="item-tech-news-164"></a>
+### [Главные заявления Лаврова в интервью  телеканалу РБК:](https://max.ru/tass_agency) ⭐️ 0.0/10
+
+telegram · tass\_agency · 8月28日 04:38
+
+---
+
+<a id="item-tech-news-165"></a>
+### [俄罗斯国防部将设立第 22 所学校](https://telegram.me/tass_agency/392392) ⭐️ 0.0/10
+
+俄罗斯政府发布了一项命令，将在俄罗斯国防部下设第 22 所学校。这一行政举措旨在完善国防系统内的教育体系。该消息属于政府行政公告，与技术领域无关。
+
+telegram · tass\_agency · 8月28日 04:51
+
+**「背景」** 俄罗斯国防部（Минобороны России）负责管理国家军事事务，历史上也曾管理附属教育机构。政府通过行政命令设立学校属于常规的人事与行政安排。
+
+**「影响」** 该决定仅涉及俄罗斯国防部的行政架构调整，对公众及科技行业无实质影响。
+
+**标签**: `#Government`, `#Education`, `#Russia`, `#Non-technical`
+
+---
+
+<a id="item-tech-news-166"></a>
+### [俄罗斯在职退休人员 7 月养老金平均上涨 2600 卢布](https://telegram.me/tass_agency/392393) ⭐️ 0.0/10
+
+根据俄罗斯社会基金的数据，2026 年 7 月俄罗斯在职退休人员的平均养老金增加了 2600 卢布，达到 23750 卢布。这一调整反映了俄罗斯养老金体系对在职退休群体的定期指数化更新。该数据属于社会经济统计范畴，不涉及技术或产业变动。
+
+telegram · tass\_agency · 8月28日 04:57
+
+**「背景」** 俄罗斯社会基金（Соцфонд）负责管理国家养老金和社会福利支付。在职退休人员是指退休后仍继续工作的公民，其养老金计算方式与完全退休者有所不同，通常会根据工资增长等因素进行定期调整。
+
+**「影响」** 此次养老金上调直接影响约数百万仍在就业的俄罗斯退休人员，提高了他们的月度收入水平。该调整属于常规社会保障政策执行，未引发市场或制度性变化。
+
+**标签**: `#socioeconomics`, `#pensions`, `#russia`, `#non-technical`
+
+---
+
+<a id="item-tech-news-167"></a>
+### [Главные новости к этому часу:](https://tass.ru/proisshestviya/28051701) ⭐️ 0.0/10
+
+A Telegram channel&\#x27;s general news digest covering maritime incidents, geopolitical events, and domestic Russian news with no technology content.
+
+telegram · tass\_agency · 8月28日 04:59
+
+**标签**: `#news-aggregation`, `#general-news`, `#no-technology`
+
+---
+
+<a id="item-tech-news-168"></a>
+### [非技术内容：Köyceğiz, Türkiye](https://telegram.me/nature/20142) ⭐️ 0.0/10
+
+该信息项仅包含“Köyceğiz, Türkiye”（土耳其科伊切吉兹）这一地理位置标签，没有任何技术、工程或软件相关内容。该地点是土耳其穆拉省的一个城镇及区，以自然风光著称，但与人工智能、软件开发或科技新闻无关。
+
+telegram · nature · 8月27日 12:03
+
+**「背景」** Köyceğiz 是土耳其西南部的一个地区，主要以其温泉和自然景观闻名，并非科技产业中心。该信息缺乏任何技术上下文或分析价值。
+
+**「影响」** 该信息项对技术开发者、工程师或相关从业者无实际影响，属于无关噪声内容。
+
+**标签**: `#off-topic`, `#spam`, `#noise`
+
+---
+
+<a id="item-tech-news-169"></a>
+### [The Jashak Salt Dome is a geological formation located in southwestern Iran.](https://telegram.me/nature/20143) ⭐️ 0.0/10
+
+A brief description of the Jashak Salt Dome&\#x27;s location in southwestern Iran, with no technology-related content.
+
+telegram · nature · 8月27日 13:37
+
+**标签**: `#geology`, `#Iran`, `#non-technical`, `#no technology relevance`
+
+---
+
+<a id="item-tech-news-170"></a>
+### [巴厘岛奇观：无关技术的 Telegram 内容](https://telegram.me/nature/20144) ⭐️ 0.0/10
+
+该 Telegram 帖子标题为“Wonders of Bali”（巴厘岛奇观），由账号 nature 发布，内容仅为简单的标题陈述，没有任何实质性技术细节。该帖与软件工程、人工智能或任何技术领域均无关联，属于推广性质或非技术性社交媒体内容。
+
+telegram · nature · 8月27日 15:32
+
+**「背景说明」** Telegram 是一个支持频道和群组的消息平台，常用于分享新闻、技术和生活类内容。巴厘岛是印度尼西亚著名的旅游目的地，常作为自然风光或旅游推广的主题出现。
+
+**「社区讨论」** 该帖子未收到任何社区评论，缺乏用户反馈或进一步讨论。
+
+**标签**: `#off-topic`, `#promotional`, `#trivial`, `#non-technical`, `#spam`
+
+---
+
+<a id="item-tech-news-171"></a>
+### [Incredible underwater world.](https://telegram.me/nature/20146) ⭐️ 0.0/10
+
+A Telegram post sharing visuals or information about an underwater world.
+
+telegram · nature · 8月27日 19:31
+
+**标签**: `#nature`, `#off-topic`
+
+---
+
+<a id="item-tech-news-172"></a>
+### [Activation Oracles significantly underperform without a safe base model](https://www.lesswrong.com/posts/3X5EFjiHgxdNowrTA/activation-oracles-significantly-underperform-without-a-safe) ⭐️ ?/10
+
+Activation Oracles significantly underperform without a safe base model
+
+rss · LessWrong AI风险社区 · 8月28日 01:39
+
+---
+
+<a id="item-tech-news-173"></a>
+### [AI 2027’s author returns with a plan to change the ending \| Daniel Kokotajlo](https://80000hours.org/podcast/episodes/daniel-kokotajlo-ai-2040-plan-a/) ⭐️ ?/10
+
+AI 2027’s author returns with a plan to change the ending \| Daniel Kokotajlo
+
+rss · 80000 Hours AI风险与职业 · 8月27日 17:29
+
+---
+
+<a id="item-tech-news-174"></a>
+### [01 版 -  《习近平文化文选》第一卷、第二卷出版发行](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177626.html) ⭐️ ?/10
+
+01 版 -  《习近平文化文选》第一卷、第二卷出版发行
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+---
+
+<a id="item-tech-news-175"></a>
+### [01 版 -  推动构建更加公正合理的全球治理体系](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177627.html) ⭐️ ?/10
+
+01 版 -  推动构建更加公正合理的全球治理体系
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+---
+
+<a id="item-tech-news-176"></a>
+### [01 版 -  十四届全国人大常委会举行第七十二次委员长会议](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177628.html) ⭐️ ?/10
+
+01 版 -  十四届全国人大常委会举行第七十二次委员长会议
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+---
+
+<a id="item-tech-news-177"></a>
+### [01 版 -  认识当下的国内汽车市场，重构汽车市场新逻辑](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177629.html) ⭐️ ?/10
+
+01 版 -  认识当下的国内汽车市场，重构汽车市场新逻辑
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+---
+
+<a id="item-tech-news-178"></a>
+### [安徽以科技创新驱动经济提质增效](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177630.html) ⭐️ ?/10
+
+2026 年 8 月 28 日《人民日报》刊文指出，安徽省上半年 GDP 同比增长 5.6%，经济总量跃居全国前十，规上工业增加值增长 12.4%，创 2021 年 10 月以来新高。文章分析认为，安徽通过夯实基础研究、打通成果转化“最后一公里”以及精准延链补链强链，将科技创新势能转化为高质量发展动能。目前，安徽在量子计算、聚变能源及新能源汽车等领域形成集群优势，汽车产量及出口量均居全国首位。
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**「背景」** 2024 年 10 月，习近平总书记在安徽考察时强调科技创新是中国式现代化的必由之路，要求安徽在科技和产业创新上走在前列。安徽省据此布局了包括大科学装置集群在内的创新基础设施，旨在通过“沿途下蛋”机制促进基础研究成果向产业应用转化。
+
+**「影响」** 安徽构建的“基础研究—技术攻关—成果转化”创新链条，已带动全省新能源汽车、量子信息等战略性新兴产业加速崛起，为资源型地区向科创高地转型提供了可复制的制度与实践范本。
+
+---
+
+<a id="item-tech-news-179"></a>
+### [西藏吉隆泥石流灾区已抢通 800 米道路](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177631.html) ⭐️ ?/10
+
+2026 年 8 月 28 日《人民日报》报道，西藏吉隆泥石流灾害发生后，相关部门和地区坚决贯彻落实重要指示精神，迅速组织力量全力开展抢险救灾。截至目前，灾区道路已抢通 800 米。相关详细报道见该报第四版。
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**「背景信息」** 吉隆县位于西藏日喀则市，地处喜马拉雅山脉南麓，地形复杂、地质条件脆弱，雨季易发生泥石流等自然灾害。此类灾害常导致交通中断，影响救援物资运输和灾区群众生活。
+
+**「影响」** 道路抢通 800 米有助于改善灾区救援通道，为后续抢险救灾和物资输送提供基础保障。抢通工作仍在进行中，具体恢复通视时间有待进一步通报。
+
+---
+
+<a id="item-tech-news-180"></a>
+### [中国拓展国际经贸互利合作空间](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177646.html) ⭐️ ?/10
+
+2026 年 7 月 30 日中共中央政治局会议指出要拓展国际经贸互利合作空间。在“十五五”开局之年，中国对 53 个非洲建交国全面实施零关税，内蒙古自贸试验区总体方案获批，并成立世界人工智能合作组织。上半年中国服务进出口总额达 37797.5 亿元，同比增长 8.3%，其中出口增长 17.6%；货物进口历史同期首次突破 10 万亿元，增长 22.1%，增速高于出口 8.7 个百分点。尽管国际货币基金组织预测 2026 年全球贸易增速将从 2025 年的 5%放缓至 3.5%，中国仍通过扩大高水平对外开放、促进双向投资协同发力，为全球经贸发展作出积极贡献。
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**「背景」** 服务贸易是指跨越国境的服务交易，包括旅行、电信计算机信息服务、专业知识服务等类别，日益成为拉动全球贸易增长的新动能。中国近年来持续推进服务业开放合作，通过建设国家服务贸易创新发展示范区和数字贸易示范区，营造更优营商环境，打造“中国服务”品牌。
+
+**「影响」** 对 63 个国家实施零关税政策及扩大进口准入直接降低了相关企业的供应链成本，例如宁波山佑食品依托非洲零关税原料实现了“非洲原料进口、本地精深加工、服务全国茶饮市场”的良性发展模式。同时，进博会等开放合作平台增强了外资企业深耕中国市场的信心，美敦力等企业已明确签约参展第十届进博会。
+
+---
+
+<a id="item-tech-news-181"></a>
+### [吉林白山守护红色根脉凝聚发展动能](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177647.html) ⭐️ ?/10
+
+《人民日报》2026 年 8 月 28 日报道，吉林白山市通过保护东北抗日联军遗址、修缮杨靖宇将军殉国地并建立动态管理数据库，赓续传承东北抗联精神。该市利用无人机、北斗卫星智能监测等技术手段，将 37 个爱国主义教育基地和 280 处红色文物资源系统化管理，累计开展红色主题活动超 1000 场。与此同时，白山市推动红色资源与文旅产业深度融合，打造抗联主题研学线路及 VR 互动项目，为区域振兴发展注入新动能。
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**「背景介绍」** 白山市是东北抗日联军的根据地之一，也是东北抗日联军第一路军总司令杨靖宇牺牲的地方。东北抗联精神被概括为“忠诚于党的坚定信念，勇赴国难的民族大义，血战到底的英雄气概”。
+
+**「影响与成效」** 白山市通过“红色基因+绿色生态”融合发展路径及乡村旅游业态，有效将红色文化资源转化为经济发展动力。2025 年至今，该市接待参观学习群众达 46 万人次，实现了精神传承与产业发展的双重效益。
+
+---
+
+<a id="item-tech-news-182"></a>
+### [04 版 -  一版责编：许  诺  赵  政  张宇杰  二版责编：蒋雪婕  祁嘉润  张安宇  三版责编：吴  刚  李欣怡  谢佳宁  四版责编：白之羽  刘静文  余  璇](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177649.html) ⭐️ ?/10
+
+04 版 -  一版责编：许  诺  赵  政  张宇杰  二版责编：蒋雪婕  祁嘉润  张安宇  三版责编：吴  刚  李欣怡  谢佳宁  四版责编：白之羽  刘静文  余  璇
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+---
+
+<a id="item-tech-news-183"></a>
+### [05 版 -  以学习跑赢时光、赢得荣光（中国道路中国梦）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177650.html) ⭐️ ?/10
+
+05 版 -  以学习跑赢时光、赢得荣光（中国道路中国梦）
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+---
+
+<a id="item-tech-news-184"></a>
+### [人民日报：智能时代教育应打好人格与创造底子](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177652.html) ⭐️ ?/10
+
+2026 年 8 月 28 日《人民日报》发文探讨人工智能背景下基础教育如何提升“人”的价值，指出 AI 正深度赋能教育，但也引发学生思维懒惰、共情能力受抑等忧虑。文章强调 AI 应解放而非替代教师，教育核心需从知识传授转向好奇心、批判性思维与健全人格的培养。以清华大学附属中学试点为例，AI 助教承担批改作业等事务性工作，教师则专注学生个性化成长。文章呼吁通过融合 AI 培养创新思维与数字素养，落实立德树人根本任务，助力学生全面发展。
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**「背景」** 随着生成式人工智能技术的快速演进，其在教育领域的应用已从辅助工具逐步扩展至个性化辅导和教学流程优化。基础教育面临从传统标准化教学模式向注重高阶思维与综合素质培养转型的关键期，如何界定技术与育人的边界成为社会关注焦点。
+
+**「影响」** 该观点明确了 AI 时代教育改革的伦理底线与实践路径，指导学校在教学中保留教师的情感引导与价值塑造职能，避免过度依赖技术导致学生主体性丧失。
+
+---
+
+<a id="item-tech-news-185"></a>
+### [《中国新闻工作者职业道德准则》颁布 35 周年座谈会在京召开](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177663.html) ⭐️ ?/10
+
+《中国新闻工作者职业道德准则》颁布实施 35 周年座谈会近日在北京召开，回顾该准则自 1991 年出台以来对提升新闻职业素养、加强职业道德建设的重要推动作用。与会代表强调，《准则》历经四次修改完善，始终坚守党性原则和以人民为中心的工作导向，坚决防范虚假新闻和有偿新闻。在媒体深度融合与人工智能技术应用背景下，新闻界强调严守伦理红线，完善内部管理，探索多元共治监督机制，以守正创新书写新时代新闻答卷。
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**「背景」** 《中国新闻工作者职业道德准则》是新中国首部全国性新闻职业道德规范，由中国记协在中宣部指导下于 1991 年制定出台。35 年来，该准则在引导新闻工作者树立正确职业观、履行党和人民赋予的职责使命方面发挥了基础性作用。
+
+**「影响」** 此次座谈会进一步凝聚了新闻舆论行业高质量发展的共识，明确了在全媒体时代坚守职业道德底线、规范人工智能技术应用的具体路径。
+
+---
+
+<a id="item-tech-news-186"></a>
+### [中国拓展国际经贸互利合作空间](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177666.html) ⭐️ ?/10
+
+2026 年 7 月 30 日，中共中央政治局会议指出要拓展国际经贸互利合作空间。面对全球贸易增速放缓的预测，中国正通过实施对 53 个非洲建交国零关税、设立内蒙古自贸区以及成立世界人工智能合作组织等措施，推动高水平对外开放。上半年中国服务进出口总额同比增长 8.3%，货物进口首次突破 10 万亿元，显示出贸易平衡发展的积极势头。
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**「背景」** 国际货币基金组织预测 2026 年全球贸易增速将从 2025 年的 5%放缓至 3.5%。在此背景下，中国选择在‘十五五’开局之年更好统筹国内国际两个大局，通过扩大服务业开放和双向投资合作来应对国际经贸环境的不确定性。
+
+**「影响」** 对非洲建交国实施零关税举措已切实帮助如宁波山佑食品等企业降低进口成本，优化供应链优势。同时，进博会等国际平台吸引了美敦力等跨国企业持续参展，显示了中国市场对外资的吸引力，有助于稳定全球跨国投资合作。
+
+---
+
+<a id="item-tech-news-187"></a>
+### [07 版 -  重庆南川：立足生态资源禀赋  丰富夜间消费场景](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177667.html) ⭐️ ?/10
+
+07 版 -  重庆南川：立足生态资源禀赋  丰富夜间消费场景
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+---
+
+<a id="item-tech-news-188"></a>
+### [08 版 -  能源的饭碗必须端在自己手里（高质量发展故事汇·第 22 期）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177668.html) ⭐️ ?/10
+
+08 版 -  能源的饭碗必须端在自己手里（高质量发展故事汇·第 22 期）
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+---
+
+<a id="item-tech-news-189"></a>
 ### [11 版 -  本版责编：巩育华  史  哲  曹继炜](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177684.html) ⭐️ ?/10
 
 11 版 -  本版责编：巩育华  史  哲  曹继炜
@@ -3192,283 +3378,51 @@ rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
 
 ---
 
-<a id="item-tech-news-198"></a>
-### [12 版 -  贵州  做强做优数字经济  数智赋能高质量发展](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177685.html) ⭐️ ?/10
+<a id="item-tech-news-190"></a>
+### [《人民日报》2026 年 8 月 28 日第 13 版版面信息](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177688.html) ⭐️ ?/10
 
-12 版 -  贵州  做强做优数字经济  数智赋能高质量发展
+《人民日报》2026 年 8 月 28 日第 13 版由杨彦、孙振、戴林峰、刘雨瑞担任责任编辑。该版为报纸常规版面之一，当期未发布独立新闻文章或技术专题。
+
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+
+**「背景说明」** 《人民日报》是中国共产党中央委员会机关报，每日分多个版面报道时政、经济、科技等领域内容。第 13 版通常涵盖特定主题或区域资讯，具体内容由编辑部当日安排。
+
+**「影响」** 该版面本身不构成技术事件或政策变动，对公众或行业无直接技术影响。
+
+---
+
+<a id="item-tech-news-191"></a>
+### [14 版 -  讲好丝路故事  传承丝路精神](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177689.html) ⭐️ ?/10
+
+14 版 -  讲好丝路故事  传承丝路精神
 
 rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
 
 ---
 
-<a id="item-tech-news-199"></a>
-### [13 版 -  家庭医生签约服务，何以提升感受度（人民眼·健康中国）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177686.html) ⭐️ ?/10
+<a id="item-tech-news-192"></a>
+### [Climber Stranded for Hours on 6-Inch Rock Ledge Before Rescue](https://www.nytimes.com/2026/08/27/us/california-man-rescued-laurel-mountain.html) ⭐️ ?/10
 
-13 版 -  家庭医生签约服务，何以提升感受度（人民眼·健康中国）
+Climber Stranded for Hours on 6-Inch Rock Ledge Before Rescue
 
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
----
-
-<a id="item-tech-news-200"></a>
-### [13 版 -  当好“健康守门人”（有所思）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177687.html) ⭐️ ?/10
-
-13 版 -  当好“健康守门人”（有所思）
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+rss · 纽约时报\(The New York Times\) · 8月27日 22:58
 
 ---
 
-<a id="item-tech-news-201"></a>
-### [人民日报 2026 年 8 月 28 日第 13 版编辑信息](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177688.html) ⭐️ ?/10
+<a id="item-tech-news-193"></a>
+### [道奇队老板否认欺诈指控：薪酬由收入支撑](https://www.foxnews.com/outkick-sports/dodgers-owner-mark-walter-denies-reports-says-team-payroll-supported-revenue-no-fraud) ⭐️ ?/10
 
-人民日报 2026 年 8 月 28 日第 13 版由杨彦、孙振、戴林峰、刘雨瑞负责编辑，版式设计由沈亦伶完成。该页面未包含具体新闻报道内容，仅展示了编辑人员信息和版权说明。
+洛杉矶道奇队老板马克·沃尔特（Mark Walter）公开否认了关于球队财务欺诈的传闻，明确表示“没有发生任何欺诈行为”。他声称球队的薪资支出完全由实际收入支撑，而数据公司 TWG Global 也在一份新声明中支持这一说法，指出没有任何人受到损害。道奇队目前拥有美国职棒大联盟（MLB）中最高的收入水平，这为其高投入的 roster 提供了财务基础。
 
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+rss · 福克斯新闻\(Fox News\) · 8月28日 01:25
 
-**「背景说明」** 人民日报是中国最具影响力的官方报纸之一，每日出版多个版本，每个版面都有指定的责任编辑团队。该网站页面采用传统的网络报纸排版格式。
+**「背景信息」** 近年来，MLB 对球队薪资支出的审查日益严格，特别是围绕“奢侈税”（Luxury Tax）和所谓的“暗箱操作”以规避联盟限制的指控屡见不鲜。道奇队作为联盟中最富有的球队之一，其激进的薪资策略常成为舆论焦点，但球队管理层一直强调其财务操作的合规性与透明度。
 
-**「影响」** 该页面作为人民日报的数字存档内容，为研究 2026 年 8 月 28 日媒体报道提供了基础参考。
-
----
-
-<a id="item-tech-news-202"></a>
-### [人民日报报道乡村产业从“头”到“尾”的致富路径](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177701.html) ⭐️ ?/10
-
-2026 年 8 月 28 日《人民日报》发表文章，指出发展乡村产业的关键在于延伸、强化和补齐产业链，做好“粮头食尾”“畜头肉尾”“农头工尾”文章。文章通过安徽肥西大米综合利用（利用率提升至 96%）、山东济南稻田画农文旅融合、湖北利川迷你土豆全链条开发以及黑龙江桦南紫苏精深加工等案例，论证了农产品从初级原料向高附加值产品转型的可行性。政策层面，农业农村部今年以来已支持新建 40 个优势特色产业集群、50 个现代农业产业园和 200 个农业产业强镇。文章强调科技创新与联农带农机制并重，以确保产业发展红利公平惠及农民群体。
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**「背景说明」** 中国农业正从传统的初级产品生产向现代化大产业转型，核心痛点在于农产品附加值低、产业链条短。 “三农”观察类报道通常聚焦于乡村振兴战略下的具体实践模式，探讨如何通过产业融合和技术赋能实现农业增效与农民增收。
-
-**「影响与意义」** 该报道为各地乡村产业规划提供了可复制的“延链补链”范本，强调了从“卖原料”到“卖产品”乃至“卖科技”的价值跃升路径。政策支持的产业集群与产业园建设将为农产品加工业提供平台载体，有助于推动全国规模以上农副食品加工业持续增值。
+**「影响评估」** 这一声明旨在平息市场对道奇队可能面临联盟处罚的猜测，确保球队在即将开始的赛季中阵容稳定性不受负面影响。若指控属实，道奇队可能面临罚款或选秀权剥夺等严厉制裁，但目前看来球队财务结构仍被认定为健康合规。
 
 ---
 
-<a id="item-tech-news-203"></a>
-### [18 版 -  本版责编：邓剑洋](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177704.html) ⭐️ ?/10
-
-18 版 -  本版责编：邓剑洋
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
----
-
-<a id="item-tech-news-204"></a>
-### [中华全国总工会部署 2026 年工会送清凉行动](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177705.html) ⭐️ ?/10
-
-2026 年 8 月 28 日《人民日报》刊发文章，报道中华全国总工会部署 2026 年“工会送清凉”专项行动，各地配套出台防暑降温保障举措。福建福州打造户外劳动者“15 分钟清凉圈”，四川在 11 个城市设立 1259 个“爱心冰柜”点位。文章强调需依据《防暑降温措施管理办法》，针对不同工种实施差异化保护，并呼吁调整考核、算法与时限等劳动规则，以确保高温津贴发放和作业时间合规落到实处。
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**「背景」** 《防暑降温措施管理办法》规定，日最高气温达 40 摄氏度以上应停止室外露天作业，37 至 40 摄氏度限制作业时间，35 至 37 摄氏度缩短连续作业时间。高温津贴保障范围涵盖无法将工作场所温度降至 33 摄氏度以下的室内劳动者。
-
-**「影响」** 该行动直接惠及建筑工人、环卫工人、外卖骑手及高温车间劳动者等群体，推动防暑保护措施从统一标准转向因岗而异的精细化保障。若考核与算法机制未能同步调整，劳动者仍可能因绩效压力无法实际享受休息权益。
-
----
-
-<a id="item-tech-news-205"></a>
-### [上海首个骑手友好社区两年：袋鼠宝贝之家与暖新驿站惠及新就业群体](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177706.html) ⭐️ ?/10
-
-2024 年 4 月，上海首家骑手友好社区在杨浦区殷行街道开鲁二村落地，通过共建机制为外卖骑手等新就业群体提供“袋鼠宝贝之家”儿童托管服务及 24 小时暖新驿站。经过两年发展，该模式已从单一站点扩展至全街道，并正向上海市推广。据公开数据，“袋鼠宝贝之家”项目已在北京、河北等 19 个省份建立 36 个站点，累计服务 35.4 万余人次；殷行街道已有 169 名骑手担任平安志愿者，约 60 人受聘为社区兼职网格员，实现了新就业群体从“服务对象”到“治理参与者”的转变。
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
-**「背景」** 随着平台经济发展，外卖骑手、网约车司机等新就业群体工作强度高、时间灵活，但其子女课后照护和自身城市融入问题曾长期缺乏社区支持。为回应这一痛点，上海市于 2024 年联合美团等企业推进骑手友好社区建设，旨在通过整合社区资源，解决骑手“进门难、找人难”及家庭照护缺口，推动新就业群体融入城市基层治理体系。
-
-**「影响」** 该模式直接缓解了像唐俊这样的单亲骑手兼顾工作与育儿的困境，同时通过聘请骑手担任网格员和志愿者，增强了社区隐患排查与治理力量。目前殷行街道的“五个友好”工作法（信息、设施、生活、人际、成长友好）正作为标准化经验向上海全市复制推广。
-
----
-
-<a id="item-tech-news-206"></a>
-### [19 版 -  从癌症患者到抗癌志愿者（枝叶关情）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177707.html) ⭐️ ?/10
-
-19 版 -  从癌症患者到抗癌志愿者（枝叶关情）
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
----
-
-<a id="item-tech-news-207"></a>
-### [19 版 -  本版责编：申少铁](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177708.html) ⭐️ ?/10
-
-19 版 -  本版责编：申少铁
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
----
-
-<a id="item-tech-news-208"></a>
-### [20 版 -  科技新词，如何在汉语中“安家”（读书有味）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177709.html) ⭐️ ?/10
-
-20 版 -  科技新词，如何在汉语中“安家”（读书有味）
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
----
-
-<a id="item-tech-news-209"></a>
-### [20 版 -  永葆“赶考”的清醒和坚定](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177710.html) ⭐️ ?/10
-
-20 版 -  永葆“赶考”的清醒和坚定
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
----
-
-<a id="item-tech-news-210"></a>
-### [20 版 -  科学减重有章可循（序与跋）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177711.html) ⭐️ ?/10
-
-20 版 -  科学减重有章可循（序与跋）
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
----
-
-<a id="item-tech-news-211"></a>
-### [20 版 -  道德进步不是天真的幻想](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177712.html) ⭐️ ?/10
-
-20 版 -  道德进步不是天真的幻想
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
----
-
-<a id="item-tech-news-212"></a>
-### [20 版 -  一封写给棉花的信](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177713.html) ⭐️ ?/10
-
-20 版 -  一封写给棉花的信
-
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
-
----
-
-<a id="item-tech-news-213"></a>
-### [Canada Hires U.S. Scholars From Harvard and Other Top Universities](https://www.nytimes.com/2026/08/27/world/canada/canada-universities-hire-us-researchers.html) ⭐️ ?/10
-
-Canada Hires U.S. Scholars From Harvard and Other Top Universities
-
-rss · 纽约时报\(The New York Times\) · 8月27日 18:39
-
----
-
-<a id="item-tech-news-214"></a>
-### [How SSENSE, a Canadian Retailer, Is Grappling With Trump’s Tariffs](https://www.nytimes.com/2026/08/27/business/ssense-canada-tariffs-trump.html) ⭐️ ?/10
-
-How SSENSE, a Canadian Retailer, Is Grappling With Trump’s Tariffs
-
-rss · 纽约时报\(The New York Times\) · 8月27日 19:17
-
----
-
-<a id="item-tech-news-215"></a>
-### [Inside the Iceland Eclipse Festival: $1,000-a-Week Yurts and Endless Optimism](https://www.nytimes.com/2026/08/27/style/iceland-eclipse-festival.html) ⭐️ ?/10
-
-Inside the Iceland Eclipse Festival: $1,000-a-Week Yurts and Endless Optimism
-
-rss · 纽约时报\(The New York Times\) · 8月27日 13:42
-
----
-
-<a id="item-tech-news-216"></a>
-### [Near-Total Lunar Eclipse Will Turn Moon Blood Red](https://www.nytimes.com/2026/08/27/science/lunar-eclipse-blood-moon.html) ⭐️ ?/10
-
-Near-Total Lunar Eclipse Will Turn Moon Blood Red
-
-rss · 纽约时报\(The New York Times\) · 8月27日 13:29
-
----
-
-<a id="item-tech-news-217"></a>
-### [In ‘9 to 5,’ Dolly Parton Put a Friendly Face on Feminism](https://www.nytimes.com/2026/08/27/magazine/dolly-parton-9-to-5-feminism.html) ⭐️ ?/10
-
-In ‘9 to 5,’ Dolly Parton Put a Friendly Face on Feminism
-
-rss · 纽约时报\(The New York Times\) · 8月27日 20:05
-
----
-
-<a id="item-tech-news-218"></a>
-### [Fans Push to Rename Nashville Airport for Dolly Parton](https://www.nytimes.com/2026/08/27/travel/dolly-parton-nashville-airport.html) ⭐️ ?/10
-
-Fans Push to Rename Nashville Airport for Dolly Parton
-
-rss · 纽约时报\(The New York Times\) · 8月27日 20:16
-
----
-
-<a id="item-tech-news-219"></a>
-### [On Night of Deadly Air Canada Crash, Two LaGuardia Controllers Left Early](https://www.nytimes.com/2026/08/27/nyregion/air-canada-crash-lga-air-traffic-controllers.html) ⭐️ ?/10
-
-On Night of Deadly Air Canada Crash, Two LaGuardia Controllers Left Early
-
-rss · 纽约时报\(The New York Times\) · 8月28日 01:13
-
----
-
-<a id="item-tech-news-220"></a>
-### [Gwyneth Paltrow’s Hamptons Dinner for Sam Altman Postponed](https://www.nytimes.com/2026/08/27/style/gwyneth-paltrows-sam-altman-dinner-postponed.html) ⭐️ ?/10
-
-Gwyneth Paltrow’s Hamptons Dinner for Sam Altman Postponed
-
-rss · 纽约时报\(The New York Times\) · 8月28日 02:39
-
----
-
-<a id="item-tech-news-221"></a>
-### [CNN 播出多莉·帕顿替身照片后道歉](https://www.foxnews.com/media/cnn-apologizes-mistakenly-airing-image-dolly-parton-impersonator-report-icon-passing) ⭐️ ?/10
-
-CNN 在报道音乐偶像多莉·帕顿去世的消息时，错误播出了一位名叫凯莉·冯恩（Kelly Vohnn）的多莉·帕顿模仿者的照片，随后该电视台对此事故公开道歉。此次失误发生在新闻播报期间，用错了与主题无关的人物图像，引发关注。
-
-rss · 福克斯新闻\(Fox News\) · 8月28日 00:59
-
-**「背景」** 多莉·帕顿是美国著名乡村音乐歌手和公众人物，其去世消息曾引发广泛报道。新闻媒体在突发死亡报道中通常会使用相关人物的图像资料，因此画面审核环节出错容易引发争议。
-
-**「影响」** 该事件主要影响 CNN 的新闻公信力，凸显了突发新闻报道中图像审核流程存在漏洞。观众和媒体监督机构可能对电视台的专业性提出更高要求。
-
----
-
-<a id="item-tech-news-222"></a>
-### [Prosecutor says he has portion of Josh Jacobs&\#x27; domestic incident with ex-girlfriend on video](https://www.foxnews.com/outkick-sports/prosecutor-says-portion-josh-jacobs-domestic-incident-ex-girlfriend-video) ⭐️ ?/10
-
-Prosecutor says he has portion of Josh Jacobs&\#x27; domestic incident with ex-girlfriend on video
-
-rss · 福克斯新闻\(Fox News\) · 8月28日 00:42
-
----
-
-<a id="item-tech-news-223"></a>
-### [Mark Ruffalo accused of antisemitism by Hollywood insiders over Paramount merger remarks](https://www.foxnews.com/media/mark-ruffalo-accused-antisemitism-hollywood-insiders-paramount-merger-remarks) ⭐️ ?/10
-
-Mark Ruffalo accused of antisemitism by Hollywood insiders over Paramount merger remarks
-
-rss · 福克斯新闻\(Fox News\) · 8月28日 00:39
-
----
-
-<a id="item-tech-news-224"></a>
-### [弗吉尼亚州三非法移民涉儿童剥削案保释释放](https://www.foxnews.com/us/3-illegal-aliens-arrested-major-virginia-child-exploitation-sting-released-bond) ⭐️ ?/10
-
-美国国土安全部与地方警方表示，三名在费尔法克斯县儿童性剥削专项行动中被捕的非法移民已被保释释放。该行动是弗吉尼亚州近期针对未成年人受害案件开展的专项执法行动之一。具体指控细节、保释条件及后续司法程序尚未由相关部门公开披露。
-
-rss · 福克斯新闻\(Fox News\) · 8月28日 00:27
-
-**「背景」** 儿童性剥削案件在美国各州均属严重联邦及州级罪行，通常涉及数字化威胁材料或网络诱拐。联邦机构如国土安全部（DHS）常与地方执法部门协同开展跨区域联合行动。
-
-**「影响」** 此事件凸显了移民身份与严重刑事指控交织时司法程序中的复杂性，可能对当地社区对执法信任及移民政策讨论产生影响。
-
----
-
-<a id="item-tech-news-225"></a>
-### [RNC threatens legal action against New Jersey officials over noncitizens on voter rolls: &\#x27;On notice&\#x27;](https://www.foxnews.com/politics/rnc-threatens-legal-action-against-new-jersey-officials-noncitizens-voter-rolls-notice) ⭐️ ?/10
-
-RNC threatens legal action against New Jersey officials over noncitizens on voter rolls: &\#x27;On notice&\#x27;
-
-rss · 福克斯新闻\(Fox News\) · 8月28日 00:19
-
----
-
-<a id="item-tech-news-226"></a>
+<a id="item-tech-news-194"></a>
 ### [Huge Knicks fan Kylie Jenner talks courtside fits &amp; desire to become even bigger fan with enhanced implants](https://www.foxnews.com/outkick-sports/huge-knicks-fan-kylie-jenner-talks-courtside-fits-desire-become-bigger-fan-enhanced-implants) ⭐️ ?/10
 
 Huge Knicks fan Kylie Jenner talks courtside fits &amp; desire to become even bigger fan with enhanced implants
@@ -3477,16 +3431,7 @@ rss · 福克斯新闻\(Fox News\) · 8月28日 00:14
 
 ---
 
-<a id="item-tech-news-227"></a>
-### [Social media erupts after cops reportedly raid home of Ilhan Omar&\#x27;s son: &\#x27;Not a good look&\#x27;](https://www.foxnews.com/politics/social-media-erupts-after-cops-reportedly-raid-home-ilhan-omars-son-not-good-look) ⭐️ ?/10
-
-Social media erupts after cops reportedly raid home of Ilhan Omar&\#x27;s son: &\#x27;Not a good look&\#x27;
-
-rss · 福克斯新闻\(Fox News\) · 8月28日 00:00
-
----
-
-<a id="item-tech-news-228"></a>
+<a id="item-tech-news-195"></a>
 ### [Russia threatens strikes on UK military targets, ‘catastrophic consequences’ over Ukraine](https://www.foxnews.com/world/russia-threatens-strikes-uk-military-targets-catastrophic-consequences-ukraine) ⭐️ ?/10
 
 Russia threatens strikes on UK military targets, ‘catastrophic consequences’ over Ukraine
@@ -3495,25 +3440,7 @@ rss · 福克斯新闻\(Fox News\) · 8月27日 23:38
 
 ---
 
-<a id="item-tech-news-229"></a>
-### [Trump admin urges returning education to states, citing $3 trillion of taxes spent and poor proficiency scores](https://www.foxnews.com/media/trump-admin-urges-returning-education-states-citing-3-trillion-taxes-spent-poor-proficiency-scores) ⭐️ ?/10
-
-Trump admin urges returning education to states, citing $3 trillion of taxes spent and poor proficiency scores
-
-rss · 福克斯新闻\(Fox News\) · 8月27日 23:38
-
----
-
-<a id="item-tech-news-230"></a>
-### [Gov Shapiro sues Trump administration over ‘lifesaving reproductive care’ in escalating abortion battle](https://www.foxnews.com/politics/gov-shapiro-sues-trump-administration-lifesaving-reproductive-care-escalating-abortion-battle) ⭐️ ?/10
-
-Gov Shapiro sues Trump administration over ‘lifesaving reproductive care’ in escalating abortion battle
-
-rss · 福克斯新闻\(Fox News\) · 8月27日 23:32
-
----
-
-<a id="item-tech-news-231"></a>
+<a id="item-tech-news-196"></a>
 ### [Team USA hero Connor Hellebuyck confirms that he requested a trade from the Winnipeg Jets](https://www.foxnews.com/outkick-sports/team-usa-hero-connor-hellebuyck-confirms-requested-trade-winnipeg-jets) ⭐️ ?/10
 
 Team USA hero Connor Hellebuyck confirms that he requested a trade from the Winnipeg Jets
@@ -3522,302 +3449,213 @@ rss · 福克斯新闻\(Fox News\) · 8月27日 23:21
 
 ---
 
-<a id="item-tech-news-232"></a>
-### [WATCH:  Kinley Rasmus ends record-setting run at the Little League World Series](https://abcnews.com/video/135999528/) ⭐️ ?/10
+<a id="item-tech-news-197"></a>
+### [DHS hits back at James Talarico after Democrat claims ICE &\#x27;kidnapped&\#x27; 5-year-old boy deported with father](https://www.foxnews.com/politics/dhs-hits-back-james-talarico-democrat-claims-ice-kidnapped-5-year-old-boy-deported-father) ⭐️ ?/10
 
-WATCH:  Kinley Rasmus ends record-setting run at the Little League World Series
+DHS hits back at James Talarico after Democrat claims ICE &\#x27;kidnapped&\#x27; 5-year-old boy deported with father
 
-rss · ABC新闻\(American Broadcasting Company\) · 8月27日 13:28
-
----
-
-<a id="item-tech-news-233"></a>
-### [WATCH:  Kitten gets tiny hard hat after rescue from excavator](https://abcnews.com/video/135997860/) ⭐️ ?/10
-
-WATCH:  Kitten gets tiny hard hat after rescue from excavator
-
-rss · ABC新闻\(American Broadcasting Company\) · 8月27日 10:51
+rss · 福克斯新闻\(Fox News\) · 8月27日 23:14
 
 ---
 
-<a id="item-tech-news-234"></a>
-### [WATCH:  Seattle Storm makes 1 girl&\#x27;s dream become a reality](https://abcnews.com/video/135999702/) ⭐️ ?/10
+<a id="item-tech-news-198"></a>
+### [What we know so far](https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
 
-WATCH:  Seattle Storm makes 1 girl&\#x27;s dream become a reality
+What we know so far
 
-rss · ABC新闻\(American Broadcasting Company\) · 8月27日 15:50
-
----
-
-<a id="item-tech-news-235"></a>
-### [WATCH:  Flight evacuated after 2 tires blew while taxiing for takeoff](https://abcnews.com/video/135999293/) ⭐️ ?/10
-
-WATCH:  Flight evacuated after 2 tires blew while taxiing for takeoff
-
-rss · ABC新闻\(American Broadcasting Company\) · 8月27日 14:04
+rss · BBC\(British Broadcasting Corporation\) · 8月28日 06:14
 
 ---
 
-<a id="item-tech-news-236"></a>
-### [Business](https://www.economist.com/the-world-this-week/2026/08/27/business) ⭐️ ?/10
+<a id="item-tech-news-199"></a>
+### [Allan Little: I met dangerously fanatical Mladić early in Bosnian war](https://www.bbc.co.uk/news/articles/cgl744j0ww1o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
 
-Business
+Allan Little: I met dangerously fanatical Mladić early in Bosnian war
 
-rss · 经济学人\(The Economist\) · 8月27日 14:02
-
----
-
-<a id="item-tech-news-237"></a>
-### [Cartoon: America and Canada stand on the brink of a trade war](https://www.economist.com/the-world-this-week/2026/08/27/cartoon-america-and-canada-stand-on-the-brink-of-a-trade-war) ⭐️ ?/10
-
-Cartoon: America and Canada stand on the brink of a trade war
-
-rss · 经济学人\(The Economist\) · 8月27日 14:02
+rss · BBC\(British Broadcasting Corporation\) · 8月27日 18:12
 
 ---
 
-<a id="item-tech-news-238"></a>
-### [Politics](https://www.economist.com/the-world-this-week/2026/08/27/politics) ⭐️ ?/10
+<a id="item-tech-news-200"></a>
+### [Werro edges closer to 800m mark as world records fall in Zurich](https://www.bbc.co.uk/sport/athletics/articles/cgmrvyjn1nvo?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
 
-Politics
+Werro edges closer to 800m mark as world records fall in Zurich
 
-rss · 经济学人\(The Economist\) · 8月27日 14:02
-
----
-
-<a id="item-tech-news-239"></a>
-### [Watch: Tracing the deadly path of the Nepal-Tibet flash flood](https://www.bbc.co.uk/news/videos/cp80m87pez3o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-Watch: Tracing the deadly path of the Nepal-Tibet flash flood
-
-rss · BBC\(British Broadcasting Corporation\) · 8月27日 16:13
+rss · BBC\(British Broadcasting Corporation\) · 8月27日 19:09
 
 ---
 
-<a id="item-tech-news-240"></a>
-### [克利夫兰警方调派 200 名警力支援车祸火灾调查](https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+<a id="item-tech-news-201"></a>
+### [UK urged to help free British-Egyptian ‘arrested in Cairo over sister’s activism’](https://www.theguardian.com/world/2026/aug/27/uk-urged-to-help-free-british-egyptian-arrested-in-cairo-over-sisters-activism) ⭐️ ?/10
 
-克利夫兰警方确认，针对一起涉及逆行车辆引发的车祸及火灾死亡事件的调查，已增派 200 名警员协助。此项支援来自六个当地警察部队以及国家犯罪署（NCA），旨在加强对该重大案件的调查力度。目前尚未公布事故的具体细节及伤亡人数的官方数据。
+UK urged to help free British-Egyptian ‘arrested in Cairo over sister’s activism’
 
-rss · BBC\(British Broadcasting Corporation\) · 8月27日 20:14
-
-**「背景」** 此类重大交通事故调查通常需要大量警力资源，尤其是在涉及死亡案件时，警方需要协调交通重构、证据收集及嫌疑人追踪等多方面的资源。国家犯罪署（NCA）作为英国处理严重和复杂犯罪的主要机构，其介入通常意味着案件具有极高的复杂性或跨区域性质。
-
-**「影响」** 此次增派警力表明该起逆行车祸及火灾事件对当地社区造成了严重影响，并引发了警方的高度重视。
+rss · 卫报\(The Guardian\) · 8月27日 08:00
 
 ---
 
-<a id="item-tech-news-241"></a>
-### [Clean-up of illegal waste supersite costs taxpayers £6m](https://www.bbc.co.uk/news/articles/cvgyx45zzwgo?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+<a id="item-tech-news-202"></a>
+### [Climate crisis could be destabilising mountain areas like Nepal, experts warn](https://www.theguardian.com/world/2026/aug/27/climate-crisis-mountain-areas-glaciers-nepal-tibet) ⭐️ ?/10
 
-Clean-up of illegal waste supersite costs taxpayers £6m
+Climate crisis could be destabilising mountain areas like Nepal, experts warn
 
-rss · BBC\(British Broadcasting Corporation\) · 8月27日 21:00
-
----
-
-<a id="item-tech-news-242"></a>
-### [NHS bosses warn of chaos in ADHD and autism care](https://www.bbc.co.uk/news/articles/cy4zgpynwdjo?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-NHS bosses warn of chaos in ADHD and autism care
-
-rss · BBC\(British Broadcasting Corporation\) · 8月28日 01:23
+rss · 卫报\(The Guardian\) · 8月27日 18:25
 
 ---
 
-<a id="item-tech-news-243"></a>
-### [Jacob Elordi on why The Dog Stars had him asking &\#x27;What am I missing&\#x27; in life?](https://www.bbc.co.uk/news/articles/c74g2j83dx1o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+<a id="item-tech-news-203"></a>
+### [FDA approves updated Covid-19 vaccines for dominant XFG variant](https://www.theguardian.com/us-news/2026/aug/27/fda-approves-updated-covid-19-vaccines) ⭐️ ?/10
 
-Jacob Elordi on why The Dog Stars had him asking &\#x27;What am I missing&\#x27; in life?
-
-rss · BBC\(British Broadcasting Corporation\) · 8月27日 23:44
-
----
-
-<a id="item-tech-news-244"></a>
-### [I was spending £700 a month: How I beat my late-night shopping addiction](https://www.bbc.co.uk/news/articles/czxqk1gwxn7o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-I was spending £700 a month: How I beat my late-night shopping addiction
-
-rss · BBC\(British Broadcasting Corporation\) · 8月27日 23:04
-
----
-
-<a id="item-tech-news-245"></a>
-### [The Papers: &\#x27;Town gripped by fear&\#x27; and &\#x27;Nepal death toll climbs&\#x27;](https://www.bbc.co.uk/news/articles/c0e3ngx825qo?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-The Papers: &\#x27;Town gripped by fear&\#x27; and &\#x27;Nepal death toll climbs&\#x27;
-
-rss · BBC\(British Broadcasting Corporation\) · 8月27日 23:00
-
----
-
-<a id="item-tech-news-246"></a>
-### [Weekly quiz: Who is taking over as Gilderoy Lockhart in HBO&\#x27;s Harry Potter series?](https://www.bbc.co.uk/news/articles/cx2z4np5pnyo?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-Weekly quiz: Who is taking over as Gilderoy Lockhart in HBO&\#x27;s Harry Potter series?
-
-rss · BBC\(British Broadcasting Corporation\) · 8月27日 17:04
-
----
-
-<a id="item-tech-news-247"></a>
-### [Rohingya refugees face fierce new wave of hostility in Malaysia](https://www.bbc.co.uk/news/articles/c1dl7yrge5do?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-Rohingya refugees face fierce new wave of hostility in Malaysia
-
-rss · BBC\(British Broadcasting Corporation\) · 8月27日 23:46
-
----
-
-<a id="item-tech-news-248"></a>
-### [&\#x27;Cowboy builders&\#x27; targeted in new government clampdown](https://www.bbc.co.uk/news/articles/cx2z44982e4o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-&\#x27;Cowboy builders&\#x27; targeted in new government clampdown
-
-rss · BBC\(British Broadcasting Corporation\) · 8月27日 21:44
-
----
-
-<a id="item-tech-news-249"></a>
-### [Nepal-Tibet flash flood live updates: death toll rises to 469, police say; debris-clogged river at risk of flooding again](https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates) ⭐️ ?/10
-
-Nepal-Tibet flash flood live updates: death toll rises to 469, police say; debris-clogged river at risk of flooding again
-
-rss · 卫报\(The Guardian\) · 8月28日 04:05
-
----
-
-<a id="item-tech-news-250"></a>
-### [South Korea to re-examine 310,000 missing person cases after fake record scandal](https://www.theguardian.com/world/2026/aug/28/south-korea-missing-persons-police-scandal-bodies-jeju) ⭐️ ?/10
-
-South Korea to re-examine 310,000 missing person cases after fake record scandal
-
-rss · 卫报\(The Guardian\) · 8月28日 03:06
-
----
-
-<a id="item-tech-news-251"></a>
-### [USS Abraham Lincoln to visit port in Thailand after more than 250 days at sea](https://www.theguardian.com/us-news/2026/aug/27/uss-abraham-lincoln-thailand-visit) ⭐️ ?/10
-
-USS Abraham Lincoln to visit port in Thailand after more than 250 days at sea
-
-rss · 卫报\(The Guardian\) · 8月27日 15:05
-
----
-
-<a id="item-tech-news-252"></a>
-### [Australia news live: Antarctic staff to withdraw from Macquarie Island amid bird flu risk; Virgin’s profit rises despite US-Iran war](https://www.theguardian.com/australia-news/live/2026/aug/28/nepal-floods-australians-missing-penny-wong-anthony-albanese-angus-taylor-liberal-party-pauline-hanson-one-nation-ntwnfb) ⭐️ ?/10
-
-Australia news live: Antarctic staff to withdraw from Macquarie Island amid bird flu risk; Virgin’s profit rises despite US-Iran war
-
-rss · 卫报\(The Guardian\) · 8月28日 04:11
-
----
-
-<a id="item-tech-news-253"></a>
-### [Race to get aid into Nepal and Tibet amid warnings flood lake could burst](https://www.theguardian.com/world/2026/aug/27/nepal-tibet-flash-floods-aid) ⭐️ ?/10
-
-Race to get aid into Nepal and Tibet amid warnings flood lake could burst
-
-rss · 卫报\(The Guardian\) · 8月27日 18:03
-
----
-
-<a id="item-tech-news-254"></a>
-### [Search is on for at least 33 Britons missing after flash floods in Nepal and Tibet](https://www.theguardian.com/world/2026/aug/27/britons-missing-flash-floods-nepal-tibet) ⭐️ ?/10
-
-Search is on for at least 33 Britons missing after flash floods in Nepal and Tibet
-
-rss · 卫报\(The Guardian\) · 8月27日 18:02
-
----
-
-<a id="item-tech-news-255"></a>
-### [‘Nature thrives when given a chance’: restored Cheshire wetland now a haven for rare grebe](https://www.theguardian.com/environment/2026/aug/28/woolston-eyes-cheshire-wetland-black-necked-grebe) ⭐️ ?/10
-
-‘Nature thrives when given a chance’: restored Cheshire wetland now a haven for rare grebe
-
-rss · 卫报\(The Guardian\) · 8月28日 04:00
-
----
-
-<a id="item-tech-news-256"></a>
-### [Burnham announces crackdown on rogue bailiffs and ‘cowboy builders’](https://www.theguardian.com/money/2026/aug/27/burnham-to-tackle-rogue-bailiffs-cowboy-builders-debts) ⭐️ ?/10
-
-Burnham announces crackdown on rogue bailiffs and ‘cowboy builders’
-
-rss · 卫报\(The Guardian\) · 8月27日 21:30
-
----
-
-<a id="item-tech-news-257"></a>
-### [Burnham accused of U-turn after initially backing political donations cap to fall below £500k](https://www.theguardian.com/politics/2026/aug/27/andy-burnham-political-donation-reduced-over-time) ⭐️ ?/10
-
-Burnham accused of U-turn after initially backing political donations cap to fall below £500k
-
-rss · 卫报\(The Guardian\) · 8月27日 18:51
-
----
-
-<a id="item-tech-news-258"></a>
-### [Federal judge again halts Trump’s executive order limiting mail voting in midterms](https://www.theguardian.com/us-news/2026/aug/28/federal-judge-halts-trump-executive-order-mail-voting-midterms) ⭐️ ?/10
-
-Federal judge again halts Trump’s executive order limiting mail voting in midterms
-
-rss · 卫报\(The Guardian\) · 8月28日 02:31
-
----
-
-<a id="item-tech-news-259"></a>
-### [特朗普暂停部分进口牛肉关税并助选得州参议员](https://www.theguardian.com/us-news/live/2026/aug/27/cia-moscow-nato-ratcliffe-rutte-colby-trump-paxton-voting-latest-news-updates) ⭐️ ?/10
-
-唐纳德·特朗普于周三正式签署行政令，暂停对 30 万吨进口外国牛肉征收更高关税 90 天，旨在降低美国 Grocery 账单并在 11 月中期选举前回应批评。该政策遭到多名共和党籍畜牧业重州议员及四大农业组织的反对，他们警告廉价进口牛肉涌入将阻碍美国牛群重建与粮食安全。特朗普当日行程包括在华盛顿活动后飞往休斯敦，为共和党全国委员会（RNC）筹款并为受其支持的参议员候选人肯·帕克斯顿（Ken Paxton）助选，后者将于 11 月对阵民主党挑战者詹姆斯·塔拉里科（James Talarico）。
-
-rss · 卫报\(The Guardian\) · 8月28日 02:00
-
-**「背景」** 肯·帕克斯顿是得克萨斯州总检察长，在共和党初选中击败长期任职的参议员约翰·科宁（John Cornyn），获得特朗普背书后进入 11 月大选。该关税暂停措施原被设计为短期政治与经济举措，以缓解肉类价格压力，但引发了关于长期农业可持续性的争议。
-
-**「影响」** 美国 cattle ranchers（养牛户）及部分共和党国会议员担心该措施会压低国内牛肉价格、延缓牛群重建进程，并可能对粮食长期安全构成风险。
-
----
-
-<a id="item-tech-news-260"></a>
-### [FDA 批准针对 XFG 变异株的更新版新冠疫苗](https://www.theguardian.com/us-news/2026/aug/27/fda-approves-updated-covid-19-vaccines) ⭐️ ?/10
-
-美国 FDA 于周四批准了 Moderna、Novavax-Sanofi 和 Pfizer-BioNTech 针对主导变异株 XFG 更新的新冠疫苗，允许制造商向全美药房和诊所发货。此次批准基于顾问委员会的建议，旨在应对当前主要流行的病毒变异株。尽管授权已下，但关于保险覆盖范围的问题仍存在混淆。
+FDA approves updated Covid-19 vaccines for dominant XFG variant
 
 rss · 卫报\(The Guardian\) · 8月28日 01:19
 
-**「背景」** 新冠疫苗需要定期更新以应对病毒的演化，XFG 是当前占主导地位的新型变异株。FDA 的紧急使用授权或完全批准是疫苗投入临床使用前的重要监管步骤，通常需经过顾问委员会的评估与推荐。
+---
 
-**「影响」** 这一批准使得主要制药厂商能够立即向全美医疗机构分发新一代疫苗，加速了针对 XFG 变异株的免疫覆盖进程。然而，保险覆盖的不确定性可能会影响部分患者获取疫苗的速度和经济负担。
+<a id="item-tech-news-204"></a>
+### [Andy Burnham’s autumn of pain– podcast](https://www.theguardian.com/politics/audio/2026/aug/27/andy-burnhams-autumn-of-pain-podcast) ⭐️ ?/10
+
+Andy Burnham’s autumn of pain– podcast
+
+rss · 观察家报\(The Observer\) · 8月27日 14:31
 
 ---
 
-<a id="item-tech-news-261"></a>
-### [Wild swimming linked to higher risk of stomach bugs and skin rashes](https://www.theguardian.com/lifeandstyle/2026/aug/27/wild-swimming-higher-risk-stomach-bugs-skin-rashes-uea) ⭐️ ?/10
+<a id="item-tech-news-205"></a>
+### [We need new reservoirs – and it’s a job for the state, not private companies \| Letters](https://www.theguardian.com/environment/2026/aug/27/we-need-new-reservoirs-and-its-a-job-for-the-state-not-private-companies) ⭐️ ?/10
 
-Wild swimming linked to higher risk of stomach bugs and skin rashes
-
-rss · 观察家报\(The Observer\) · 8月27日 05:00
-
----
-
-<a id="item-tech-news-262"></a>
-### [地方治理者应主导新建水库建设](https://www.theguardian.com/environment/2026/aug/27/we-need-new-reservoirs-and-its-a-job-for-the-state-not-private-companies) ⭐️ ?/10
-
-2026 年 8 月 27 日《卫报》刊登读者来信指出，应对水资源短缺需要国家而非私营企业主导建设新水库。作者 David Griffiths 以自身城镇为例，指出 1868 年设镇后 40 年内即建成五座新水库及 240 英里主管道，均由地方议员和专业工程师主导。Kevin Whately 建议在新建住宅区纳入公共储水设施，强调现代水资源基础设施的建设职责应回归公共部门。
+We need new reservoirs – and it’s a job for the state, not private companies \| Letters
 
 rss · 观察家报\(The Observer\) · 8月27日 16:37
 
-**「背景」** 英国历史上维多利亚时代的地方政府曾大规模投资建设水利基础设施，包括水库、输水道和储水系统，以保障城市供水安全。近年来英国面临水资源短缺和基础设施老化问题，私营水务公司被批评投资不足，引发关于公共部门是否应重新主导水资源建设的讨论。
+---
 
-**「影响」** 该观点若被政策制定者采纳，可能推动英国水务基础设施投资的公共化改革。
+<a id="item-tech-news-206"></a>
+### [Bots and bargains: Zara owner launches cut-price Lefties in UK to rival Primark](https://www.theguardian.com/business/2026/aug/27/zara-cut-price-lefties-uk-rival-primark) ⭐️ ?/10
+
+Bots and bargains: Zara owner launches cut-price Lefties in UK to rival Primark
+
+rss · 观察家报\(The Observer\) · 8月27日 14:00
 
 ---
 
-<a id="item-tech-news-263"></a>
+<a id="item-tech-news-207"></a>
+### [AI-proof? Younger workers desert the digital world for traditional crafts](https://www.theguardian.com/money/2026/aug/27/ai-proof-jobs-traditional-crafts) ⭐️ ?/10
+
+AI-proof? Younger workers desert the digital world for traditional crafts
+
+rss · 观察家报\(The Observer\) · 8月27日 13:38
+
+---
+
+<a id="item-tech-news-208"></a>
+### [Japan’s nursery school waiting lists grow for first time in nine years](https://www.japantimes.co.jp/news/2026/08/28/japan/childcare-waiting-list-number/) ⭐️ ?/10
+
+Japan’s nursery school waiting lists grow for first time in nine years
+
+rss · 日本时报\(The Japan Times\) · 8月28日 06:18
+
+---
+
+<a id="item-tech-news-209"></a>
+### [Venezuela weighs OPEC exit as U.S. discusses oil fields stake](https://www.japantimes.co.jp/news/2026/08/28/world/venezuela-opec-exit-us/) ⭐️ ?/10
+
+Venezuela weighs OPEC exit as U.S. discusses oil fields stake
+
+rss · 日本时报\(The Japan Times\) · 8月28日 05:56
+
+---
+
+<a id="item-tech-news-210"></a>
+### [Nippon Life open to becoming net JGB buyer next fiscal year](https://www.japantimes.co.jp/business/2026/08/28/companies/nippon-life-interview/) ⭐️ ?/10
+
+Nippon Life open to becoming net JGB buyer next fiscal year
+
+rss · 日本时报\(The Japan Times\) · 8月28日 05:48
+
+---
+
+<a id="item-tech-news-211"></a>
+### [横滨市长或因权力骚扰指控辞职](https://www.japantimes.co.jp/news/2026/08/28/japan/politics/yokohama-mayor-resign/) ⭐️ ?/10
+
+日本横滨市长山中 Takeharu（中文名待核实）预计将因权力骚扰（power harassment）指控而辞职。一旦辞职生效，将触发法定选举程序，新任市长的选举必须在 50 天内举行。这一事件反映了日本地方政治中日益受到关注的职场权力滥用问题。
+
+rss · 日本时报\(The Japan Times\) · 8月28日 05:43
+
+**「背景」** 权力骚扰（pawahara）是日本社会广泛关注的议题，指职场或政治环境中利用地位优势对下属实施的言语或行为侵害。日本《劳动施策综合推进法》等法规已明确要求企业和公共机构预防此类行为。横滨作为日本重要大城市，其市长辞职将引发地方政治格局变动。
+
+**「影响」** 横滨市政将在 50 天内进入临时领导状态，直至新市长当选并就职。该事件可能影响市民对地方政府的信任，并引发对公职人员行为规范讨论。
+
+---
+
+<a id="item-tech-news-212"></a>
+### [SK Hynix weighs closer ties with Japan’s memory industry](https://www.japantimes.co.jp/business/2026/08/28/companies/sk-hynix-memory-industry-ties/) ⭐️ ?/10
+
+SK Hynix weighs closer ties with Japan’s memory industry
+
+rss · 日本时报\(The Japan Times\) · 8月28日 05:40
+
+---
+
+<a id="item-tech-news-213"></a>
+### [Japan regulator steps up scrutiny of 50-year home loans](https://www.japantimes.co.jp/business/2026/08/28/homes-loans-scrutiny-fsa/) ⭐️ ?/10
+
+Japan regulator steps up scrutiny of 50-year home loans
+
+rss · 日本时报\(The Japan Times\) · 8月28日 05:28
+
+---
+
+<a id="item-tech-news-214"></a>
+### [Mizuho files case against Radiant World in Singapore court](https://www.japantimes.co.jp/business/2026/08/28/companies/mizuho-file-case-singapore/) ⭐️ ?/10
+
+Mizuho files case against Radiant World in Singapore court
+
+rss · 日本时报\(The Japan Times\) · 8月28日 05:15
+
+---
+
+<a id="item-tech-news-215"></a>
+### [Duo arrested over luxury watch smash-and-grab in Tokyo](https://www.japantimes.co.jp/news/2026/08/28/japan/crime-legal/stolen-watches-arrested/) ⭐️ ?/10
+
+Duo arrested over luxury watch smash-and-grab in Tokyo
+
+rss · 日本时报\(The Japan Times\) · 8月28日 05:13
+
+---
+
+<a id="item-tech-news-216"></a>
+### [Marshall Wace joins hedge fund peers in planning Japan office](https://www.japantimes.co.jp/business/2026/08/28/companies/marshall-wace-japan-office/) ⭐️ ?/10
+
+Marshall Wace joins hedge fund peers in planning Japan office
+
+rss · 日本时报\(The Japan Times\) · 8月28日 05:12
+
+---
+
+<a id="item-tech-news-217"></a>
+### [韩国支持特朗普重启朝核对话的努力](https://www.japantimes.co.jp/news/2026/08/28/asia-pacific/north-south-korea-us-nuclear/) ⭐️ ?/10
+
+韩国国家安全顾问周五表示，韩国支持美国总统唐纳德·特朗普恢复与朝鲜对话的努力，但强调必须确保韩国的安全态势不会因此削弱，同时也防止首尔被边缘化。这一表态反映了韩国在配合美国外交政策与维护自身战略利益之间寻求平衡的立场。
+
+rss · 日本时报\(The Japan Times\) · 8月28日 05:08
+
+**「背景」** 美朝关系历经多轮谈判与停滞，特朗普执政期间曾与金正恩举行多次会晤，但核心无核化问题未获突破。韩国作为地区关键利益方，始终关注任何双边对话是否会弱化其安全保证或剥夺其话语权。
+
+**「影响」** 若朝美重启谈判而韩国被排除在外，可能削弱韩国防御协调机制并影响半岛安全架构。韩国试图通过明确表态争取在美朝对话中保持实质性参与。
+
+---
+
+<a id="item-tech-news-218"></a>
+### [Thousands still in evacuation centers one month after Kumamoto quake](https://www.japantimes.co.jp/news/2026/08/28/japan/society/kumamoto-one-month-aid/) ⭐️ ?/10
+
+Thousands still in evacuation centers one month after Kumamoto quake
+
+rss · 日本时报\(The Japan Times\) · 8月28日 04:32
+
+---
+
+<a id="item-tech-news-219"></a>
 ### [Qatar steps in to mediate as Trump says U.S. not talking to Iran](https://www.japantimes.co.jp/news/2026/08/28/world/politics/qatar-us-iran-mediate/) ⭐️ ?/10
 
 Qatar steps in to mediate as Trump says U.S. not talking to Iran
@@ -3826,7 +3664,43 @@ rss · 日本时报\(The Japan Times\) · 8月28日 04:04
 
 ---
 
-<a id="item-tech-news-264"></a>
+<a id="item-tech-news-220"></a>
+### [Multiple world records fall at Zurich Diamond League meet](https://www.japantimes.co.jp/sports/2026/08/28/more-sports/diamond-league-meet-zurish/) ⭐️ ?/10
+
+Multiple world records fall at Zurich Diamond League meet
+
+rss · 日本时报\(The Japan Times\) · 8月28日 03:47
+
+---
+
+<a id="item-tech-news-221"></a>
+### [Corals show how El Nino is intensifying as the planet warms](https://www.japantimes.co.jp/environment/2026/08/28/climate-change/el-nino-corals-climate-warming/) ⭐️ ?/10
+
+Corals show how El Nino is intensifying as the planet warms
+
+rss · 日本时报\(The Japan Times\) · 8月28日 03:18
+
+---
+
+<a id="item-tech-news-222"></a>
+### [Hormuz oil flows rising as Gulf giants’ ramp-up gathers pace](https://www.japantimes.co.jp/news/2026/08/28/world/strait-hormuz-oil-rising/) ⭐️ ?/10
+
+Hormuz oil flows rising as Gulf giants’ ramp-up gathers pace
+
+rss · 日本时报\(The Japan Times\) · 8月28日 03:18
+
+---
+
+<a id="item-tech-news-223"></a>
+### [Anthropic tests new way for Claude to work with robots and scientific lab tools](https://www.japantimes.co.jp/business/2026/08/28/tech/anthropic-claude-ai-robots/) ⭐️ ?/10
+
+Anthropic tests new way for Claude to work with robots and scientific lab tools
+
+rss · 日本时报\(The Japan Times\) · 8月28日 02:47
+
+---
+
+<a id="item-tech-news-224"></a>
 ### [Cuba readies to kick off school year despite scant supplies](https://www.japantimes.co.jp/news/2026/08/28/world/cuba-supply-shortage-schools/) ⭐️ ?/10
 
 Cuba readies to kick off school year despite scant supplies
@@ -3835,7 +3709,16 @@ rss · 日本时报\(The Japan Times\) · 8月28日 02:41
 
 ---
 
-<a id="item-tech-news-265"></a>
+<a id="item-tech-news-225"></a>
+### [Faster Tokyo inflation supports near-term BOJ rate hike case](https://www.japantimes.co.jp/business/2026/08/28/economy/tokyo-cpi-august/) ⭐️ ?/10
+
+Faster Tokyo inflation supports near-term BOJ rate hike case
+
+rss · 日本时报\(The Japan Times\) · 8月28日 02:04
+
+---
+
+<a id="item-tech-news-226"></a>
 ### [Japan to survey animal cafes over hygiene and welfare concerns](https://www.japantimes.co.jp/news/2026/08/28/japan/animal-cafe-survey-hygiene/) ⭐️ ?/10
 
 Japan to survey animal cafes over hygiene and welfare concerns
@@ -3844,25 +3727,20 @@ rss · 日本时报\(The Japan Times\) · 8月28日 01:58
 
 ---
 
-<a id="item-tech-news-266"></a>
-### [Jets star Connor Hellebuyck goes public with trade request](https://www.japantimes.co.jp/sports/2026/08/28/more-sports/connor-hellebuyck-trade-request-jets/) ⭐️ ?/10
+<a id="item-tech-news-227"></a>
+### [Jets 球星海勒布克公开发布交易申请](https://www.japantimes.co.jp/sports/2026/08/28/more-sports/connor-hellebuyck-trade-request-jets/) ⭐️ ?/10
 
-Jets star Connor Hellebuyck goes public with trade request
+2026 年 8 月 28 日，温尼伯喷气机队（Winnipeg Jets）主力门将康纳·海勒布克（Connor Hellebuyck）通过其经纪人雷·佩特考夫（Ray Petkau）在社交媒体上公开发布交易请求。海勒布克是美国国家男子冰球队的核心成员，并在 2026 年 2 月的冬奥会上帮助美国队夺得金牌。
 
 rss · 日本时报\(The Japan Times\) · 8月28日 01:53
 
----
+**「背景信息」** 康纳·海勒布克是 NHL（国家冰球联盟）的顶级门将之一，长期作为喷气机队的守护神。在 2026 年冬奥会上，他作为美国队主力门将出场，帮助球队赢得金牌，这进一步巩固了他在国际赛场上的地位。此次交易请求的发布正值新赛季前夕，引起了广泛关注。
 
-<a id="item-tech-news-267"></a>
-### [U.N. urges child-safe design across social media, after Meta settlement](https://www.japantimes.co.jp/news/2026/08/28/world/un-social-media-child-safety/) ⭐️ ?/10
-
-U.N. urges child-safe design across social media, after Meta settlement
-
-rss · 日本时报\(The Japan Times\) · 8月28日 01:51
+**「影响」** 这一公开请求可能对喷气机队的阵容调整产生重大影响，并引发其他 NHL 球队对这位顶级门将的兴趣。
 
 ---
 
-<a id="item-tech-news-268"></a>
+<a id="item-tech-news-228"></a>
 ### [Sloppy Springboks look to clean up mistakes in second test against New Zealand](https://www.japantimes.co.jp/sports/2026/08/28/more-sports/springboks-fix-mistakes-new-zealand/) ⭐️ ?/10
 
 Sloppy Springboks look to clean up mistakes in second test against New Zealand
@@ -3871,16 +3749,102 @@ rss · 日本时报\(The Japan Times\) · 8月28日 01:44
 
 ---
 
-<a id="item-tech-news-269"></a>
-### [No ties reset until Japan revises Taiwan position, Chinese official tells delegation](https://www.japantimes.co.jp/news/2026/08/27/japan/politics/japanese-lawmakers-visit-china/) ⭐️ ?/10
+<a id="item-tech-news-229"></a>
+### [Glacier collapse behind Nepal flood highlights region’s climate risk](https://www.japantimes.co.jp/news/2026/08/28/asia-pacific/nepal-glacier-flood-climate-risk/) ⭐️ ?/10
 
-No ties reset until Japan revises Taiwan position, Chinese official tells delegation
+Glacier collapse behind Nepal flood highlights region’s climate risk
 
-rss · 日本时报\(The Japan Times\) · 8月27日 09:44
+rss · 日本时报\(The Japan Times\) · 8月28日 01:25
 
 ---
 
-<a id="item-tech-news-270"></a>
+<a id="item-tech-news-230"></a>
+### [Real Madrid coach Jose Mourinho seeking more than goals from superstar Kylian Mbappe](https://www.japantimes.co.jp/sports/2026/08/28/soccer/jose-mourinho-kylian-mbappe/) ⭐️ ?/10
+
+Real Madrid coach Jose Mourinho seeking more than goals from superstar Kylian Mbappe
+
+rss · 日本时报\(The Japan Times\) · 8月28日 00:33
+
+---
+
+<a id="item-tech-news-231"></a>
+### [‘Numakage Public Pool’ documents the demise of a third space](https://www.japantimes.co.jp/culture/2026/08/28/film/numakage-public-pool/) ⭐️ ?/10
+
+‘Numakage Public Pool’ documents the demise of a third space
+
+rss · 日本时报\(The Japan Times\) · 8月27日 22:10
+
+---
+
+<a id="item-tech-news-232"></a>
+### [《我不认识你》：没有简单答案的人性戏剧](https://www.japantimes.co.jp/culture/2026/08/28/film/i-dont-know-you/) ⭐️ ?/10
+
+中野亮太的最新电影由坂口健太郎与早濑爱依主演，呈现了一部发人深省的人性主义戏剧。影片以两位演员的出色表演为核心，探讨了复杂的人际关系与道德困境，没有提供简单的答案。该片通过细腻的情感刻画，引发观众对人性本质的思考。
+
+rss · 日本时报\(The Japan Times\) · 8月27日 22:00
+
+**「背景信息」** 《I Don&\#x27;t Know You》（2026）是一部由中野亮太执导的情感剧情片，由坂口健太郎和叶山奖之主演。影片讲述了少女朝子在五岁时与母亲的新伴侣内山雄平相识，并在随后的六个月里将他视为父亲般的人物，探讨了记忆、缺失与道德模糊性的主题。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://letterboxd.com/film/i-dont-know-you-2026/cast/">I Don&#x27;t Know You (2026) directed by Ryota Nakano • Film ...</a></li>
+<li><a href="https://72onetravel.com/2026/06/24/i-dont-know-you-how-a-family-drama-becomes-a-study-of-memory-absence-and-moral-ambiguity/">“I Don’t Know You”: How a Family Drama Becomes a Study of ...</a></li>
+
+</ul>
+</details>
+
+---
+
+<a id="item-tech-news-233"></a>
+### [Response Teams Focus on Locating Missing S. Korean Workers in Nepal Flood Zone](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203887) ⭐️ ?/10
+
+Response Teams Focus on Locating Missing S. Korean Workers in Nepal Flood Zone
+
+rss · KBS\(Korean Broadcasting System\) · 8月28日 06:38
+
+---
+
+<a id="item-tech-news-234"></a>
+### [Seoul Court Orders N. Korea to Pay 50 Million Won to Defector for Abuse, Torture](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203885) ⭐️ ?/10
+
+Seoul Court Orders N. Korea to Pay 50 Million Won to Defector for Abuse, Torture
+
+rss · KBS\(Korean Broadcasting System\) · 8月28日 06:13
+
+---
+
+<a id="item-tech-news-235"></a>
+### [演员金秀贤时隔 18 个月恢复韩国国内活动](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203884) ⭐️ ?/10
+
+韩国演员金秀贤在沉寂约一年半后，将于釜山亚运会主竞技场出席 The Fact Music Awards（TFMA）并担任颁奖嘉宾。该活动由 TFMA 主办方于周五正式宣布。此次公开亮相标志着他在经历近 18 个月的隐退期后重新回到公众视野。
+
+rss · KBS\(Korean Broadcasting System\) · 8月28日 06:07
+
+**「背景信息」** 金秀贤是韩国知名演员，曾出演《来自星星的你》《月亮怀抱太阳》等热门剧集。The Fact Music Awards 是韩国重要的音乐颁奖典礼之一，由 The Fact 报纸主办。
+
+**「影响分析」** 金秀贤的复出将为 TFMA 颁奖礼带来关注度提升，同时标志其个人演艺事业重新启航。
+
+---
+
+<a id="item-tech-news-236"></a>
+### [Seoul to Coordinate with Washington to Ensure US-N. Korea Dialogue Doesn’t Sideline S. Korea](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203883) ⭐️ ?/10
+
+Seoul to Coordinate with Washington to Ensure US-N. Korea Dialogue Doesn’t Sideline S. Korea
+
+rss · KBS\(Korean Broadcasting System\) · 8月28日 05:26
+
+---
+
+<a id="item-tech-news-237"></a>
+### [S. Korean Team in Nepal to Search for 9 Missing from Trishuli Construction Site](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203882) ⭐️ ?/10
+
+S. Korean Team in Nepal to Search for 9 Missing from Trishuli Construction Site
+
+rss · KBS\(Korean Broadcasting System\) · 8月28日 05:09
+
+---
+
+<a id="item-tech-news-238"></a>
 ### [Court Approves Rehabilitation Proceedings for JTBC](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203881) ⭐️ ?/10
 
 Court Approves Rehabilitation Proceedings for JTBC
@@ -3889,7 +3853,7 @@ rss · KBS\(Korean Broadcasting System\) · 8月28日 02:39
 
 ---
 
-<a id="item-tech-news-271"></a>
+<a id="item-tech-news-239"></a>
 ### [Consortiums Led by SKT, KT, Kakao Selected to Build Public AI Service](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203880) ⭐️ ?/10
 
 Consortiums Led by SKT, KT, Kakao Selected to Build Public AI Service
@@ -3898,7 +3862,7 @@ rss · KBS\(Korean Broadcasting System\) · 8月28日 02:15
 
 ---
 
-<a id="item-tech-news-272"></a>
+<a id="item-tech-news-240"></a>
 ### [Gas, Diesel Prices Drop Again Friday](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203879) ⭐️ ?/10
 
 Gas, Diesel Prices Drop Again Friday
@@ -3907,7 +3871,7 @@ rss · KBS\(Korean Broadcasting System\) · 8月28日 01:51
 
 ---
 
-<a id="item-tech-news-273"></a>
+<a id="item-tech-news-241"></a>
 ### [S. Korea, US, Japan to Conduct ‘Freedom Edge’ Multidomain Exercise Next Month](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203878) ⭐️ ?/10
 
 S. Korea, US, Japan to Conduct ‘Freedom Edge’ Multidomain Exercise Next Month
@@ -3916,20 +3880,16 @@ rss · KBS\(Korean Broadcasting System\) · 8月28日 01:37
 
 ---
 
-<a id="item-tech-news-274"></a>
-### [朝鲜完成元山-Kalma 旅游开发区火车站](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203877) ⭐️ ?/10
+<a id="item-tech-news-242"></a>
+### [N. Korea Marks Completion of Railway Station in Wonsan-Kalma Tourist Zone](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203877) ⭐️ ?/10
 
-朝鲜官方媒体报道，该国在东部的元山-Kalma 沿海旅游区完成了一座火车站的建设，并举行了竣工仪式。这一举措被视为朝鲜政府试图振兴其旅游业的一部分。新闻由韩国国际广播中心（KBS WORLD Radio）报道，援引了朝鲜中央通讯社（KCNA）的消息。
+N. Korea Marks Completion of Railway Station in Wonsan-Kalma Tourist Zone
 
 rss · KBS\(Korean Broadcasting System\) · 8月28日 01:24
 
-**「背景」** 元山-Kalma 地区被定位为朝鲜主要的旅游开发区之一，旨在通过改善基础设施吸引外国游客。朝鲜近年来一直在尝试发展旅游业作为获取外汇的手段，但受制于国际制裁和国内资源限制，进展缓慢。
-
-**「影响」** 该火车站的建成将改善元山-Kalma 旅游区的交通连接，可能对当地旅游业发展起到推动作用。然而，在国际制裁背景下，其实际吸引外国游客的能力仍存不确定性。
-
 ---
 
-<a id="item-tech-news-275"></a>
+<a id="item-tech-news-243"></a>
 ### [Rapid Response Team in Nepal to Support Search for 9 Missing S. Koreans](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203876) ⭐️ ?/10
 
 Rapid Response Team in Nepal to Support Search for 9 Missing S. Koreans
@@ -3938,7 +3898,7 @@ rss · KBS\(Korean Broadcasting System\) · 8月28日 01:02
 
 ---
 
-<a id="item-tech-news-276"></a>
+<a id="item-tech-news-244"></a>
 ### [KOSPI Opens Down 0.95% Friday](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203875) ⭐️ ?/10
 
 KOSPI Opens Down 0.95% Friday
@@ -3947,41 +3907,34 @@ rss · KBS\(Korean Broadcasting System\) · 8月28日 00:25
 
 ---
 
-<a id="item-tech-news-277"></a>
-### [济州岛海域放生 11 只海龟](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203873) ⭐️ ?/10
+<a id="item-tech-news-245"></a>
+### [At Least 392 Dead, Some 1,500 Missing after Flash Floods in Nepal](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203874) ⭐️ ?/10
 
-韩国丽水水族馆（Aqua Planet Yeosu）宣布，与海洋水产部及国家海洋机构合作，于周四在济州岛正班沙 Dal 海滩将 11 只 previously cared for 的海龟放归自然。这批海龟此前在两家水族馆接受护理，此次释放行动旨在支持海洋生物保护与种群恢复工作。
+At Least 392 Dead, Some 1,500 Missing after Flash Floods in Nepal
+
+rss · KBS\(Korean Broadcasting System\) · 8月28日 00:00
+
+---
+
+<a id="item-tech-news-246"></a>
+### [11 Sea Turtles Released into Waters off Jeju Island](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203873) ⭐️ ?/10
+
+11 Sea Turtles Released into Waters off Jeju Island
 
 rss · KBS\(Korean Broadcasting System\) · 8月27日 09:55
 
-**「背景」** 这些海龟曾分别在济州济川邑海岸及丽水 Aqua Planet 等机构救助并接受治疗，康复后由韩国海洋水产部与相关机构协同放归自然。韩国自 2016 年起与 Hanwha Aqua Planet Yeosu 合作开展海龟人工繁育与野化放归项目，此前也有批次海龟被放归后成功在越南沿海定居的案例。此类放归活动旨在恢复近海海洋生物种群并评估人工救助个体的野外适应能力。
-
-**「影响」** 此次放归有助于补充济州岛周边海域的海龟野生种群，对当地海洋生态保护具有积极意义。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.mof.go.kr/doc/ko/selectDoc.do?docSeq=49774&amp;menuSeq=485&amp;bbsSeq=90">Ministry of Oceans and Fisheries &gt;What&#x27;s News</a></li>
-<li><a href="http://koreabizwire.com/sea-turtles-artificially-bred-in-s-korea-settle-in-vietnam/183285">Sea Turtles Artificially Bred in S. Korea Settle in Vietnam</a></li>
-
-</ul>
-</details>
-
 ---
 
-<a id="item-tech-news-278"></a>
-### [韩国游客十人在尼泊尔洪灾中获救，撤离尚需时日](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203872) ⭐️ ?/10
+<a id="item-tech-news-247"></a>
+### [10 S. Koreans Stranded in Nepal Floods Safe, but Evacuation Could Take Time](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203872) ⭐️ ?/10
 
-据韩国对外交通消息，十名韩国公民在尼泊尔因特大洪水和山体滑坡被困，目前暂无生命危险，身体状况良好并已获提供基本生活物资。韩国外交部官员周四表示，尽管人员安全，但受灾区救援和疏散工作预计需要较长时间才能完成。此次事件凸显了自然灾害对海外公民安全的持续威胁，以及撤侨行动的复杂性。
+10 S. Koreans Stranded in Nepal Floods Safe, but Evacuation Could Take Time
 
 rss · KBS\(Korean Broadcasting System\) · 8月27日 09:51
 
-**「背景」** 尼泊尔地处喜马拉雅山脉南麓，雨季期间频发洪水和山体滑坡，基础设施相对薄弱，灾害应对能力有限。近年来，中国、韩国等邻国游客增多，此类自然灾害对游客安全的风险也随之上升。
-
-**「影响」** 此次事件将促使韩国政府加强对赴尼泊尔旅游的安全警示，并可能推动与尼泊尔在灾害应急协调机制上的合作。
-
 ---
 
-<a id="item-tech-news-279"></a>
+<a id="item-tech-news-248"></a>
 ### [FM Seeks Nepal’s Help in Search for S. Koreans](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203871) ⭐️ ?/10
 
 FM Seeks Nepal’s Help in Search for S. Koreans
@@ -3990,7 +3943,7 @@ rss · KBS\(Korean Broadcasting System\) · 8月27日 09:46
 
 ---
 
-<a id="item-tech-news-280"></a>
+<a id="item-tech-news-249"></a>
 ### [9 of 10 Stranded S. Koreans Rescued from Nepal Flood Zone](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203870) ⭐️ ?/10
 
 9 of 10 Stranded S. Koreans Rescued from Nepal Flood Zone
@@ -3999,16 +3952,20 @@ rss · KBS\(Korean Broadcasting System\) · 8月27日 09:35
 
 ---
 
-<a id="item-tech-news-281"></a>
-### [Rain Forecast Nationwide Friday as Heat Persists](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203869) ⭐️ ?/10
+<a id="item-tech-news-250"></a>
+### [韩国周五全国预报有雨，高温持续](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203869) ⭐️ ?/10
 
-Rain Forecast Nationwide Friday as Heat Persists
+据韩国气象厅周四预报，周五全国以多云为主，降雨将从南部地区向中部区域蔓延。江原道、庆尚地区以及全罗南道和光州等南部沿海地区预计降雨量为 30 至 80 毫米。尽管有雨，高温天气仍将持续。
 
 rss · KBS\(Korean Broadcasting System\) · 8月27日 09:25
 
+**「背景」** 韩国夏季常受季风影响，降雨分布不均。南部沿海地区因地形和季风气流作用，往往率先迎来降水。气象厅会提前数日发布降雨和高温预警，以帮助公众应对天气变化。
+
+**「影响」** 南部和中部地区居民需携带雨具并注意出行安全，相关部门应防范短时强降水可能引发的城市内涝。高温持续则提醒户外工作者做好防暑降温措施。
+
 ---
 
-<a id="item-tech-news-282"></a>
+<a id="item-tech-news-251"></a>
 ### [Top Court: Lack of Birth Registration Rules for Foreigners Born in S. Korea Unconstitutional](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203868) ⭐️ ?/10
 
 Top Court: Lack of Birth Registration Rules for Foreigners Born in S. Korea Unconstitutional
@@ -4017,7 +3974,7 @@ rss · KBS\(Korean Broadcasting System\) · 8月27日 08:53
 
 ---
 
-<a id="item-tech-news-283"></a>
+<a id="item-tech-news-252"></a>
 ### [Foreign Minister: S. Korea Might Send More Rescue Teams to Nepal](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203867) ⭐️ ?/10
 
 Foreign Minister: S. Korea Might Send More Rescue Teams to Nepal
@@ -4026,7 +3983,7 @@ rss · KBS\(Korean Broadcasting System\) · 8月27日 08:39
 
 ---
 
-<a id="item-tech-news-284"></a>
+<a id="item-tech-news-253"></a>
 ### [Lee Calls for All-Out Efforts to Rescue S. Koreans Missing in Nepal Floods](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203866) ⭐️ ?/10
 
 Lee Calls for All-Out Efforts to Rescue S. Koreans Missing in Nepal Floods
@@ -4035,7 +3992,7 @@ rss · KBS\(Korean Broadcasting System\) · 8月27日 08:08
 
 ---
 
-<a id="item-tech-news-285"></a>
+<a id="item-tech-news-254"></a>
 ### [Ex-Special Forces Commander Gets 12 Years in Prison for Role in 2024 Martial Law Incident](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203865) ⭐️ ?/10
 
 Ex-Special Forces Commander Gets 12 Years in Prison for Role in 2024 Martial Law Incident
@@ -4044,7 +4001,7 @@ rss · KBS\(Korean Broadcasting System\) · 8月27日 07:46
 
 ---
 
-<a id="item-tech-news-286"></a>
+<a id="item-tech-news-255"></a>
 ### [Jeju Police Chief Can’t Understand Why Officer Prematurely Closed Missing Persons Case](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203864) ⭐️ ?/10
 
 Jeju Police Chief Can’t Understand Why Officer Prematurely Closed Missing Persons Case
@@ -4053,115 +4010,34 @@ rss · KBS\(Korean Broadcasting System\) · 8月27日 06:59
 
 ---
 
-<a id="item-tech-news-287"></a>
-### [KOSPI Up 1.53% Thusday](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203863) ⭐️ ?/10
+<a id="item-tech-news-256"></a>
+### [KOSPI Up 1.53% Thursday](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203863) ⭐️ ?/10
 
-KOSPI Up 1.53% Thusday
+KOSPI Up 1.53% Thursday
 
 rss · KBS\(Korean Broadcasting System\) · 8月27日 06:56
 
 ---
 
-<a id="item-tech-news-288"></a>
-### [Q2 Household Income Rises 4.5% on Higher Wage, Transfer Income](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203861) ⭐️ ?/10
+<a id="item-tech-news-257"></a>
+### [Pour Xenia Fedorova, la chroniqueuse russe de CNews, une « cavale » très politique à l’étranger](https://www.lemonde.fr/international/article/2026/08/28/a-l-etranger-la-cavale-tres-politique-de-la-chroniqueuse-de-cnews-xenia-fedorova_6758739_3210.html) ⭐️ ?/10
 
-Q2 Household Income Rises 4.5% on Higher Wage, Transfer Income
-
-rss · KBS\(Korean Broadcasting System\) · 8月27日 06:31
-
----
-
-<a id="item-tech-news-289"></a>
-### [BOK Chief: Back-to-Back Rate Hikes Aim to Stabilize Macroeconomy](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203860) ⭐️ ?/10
-
-BOK Chief: Back-to-Back Rate Hikes Aim to Stabilize Macroeconomy
-
-rss · KBS\(Korean Broadcasting System\) · 8月27日 06:19
-
----
-
-<a id="item-tech-news-290"></a>
-### [Seoul Sends Rapid Response Team to Nepal for Missing S. Koreans](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203859) ⭐️ ?/10
-
-Seoul Sends Rapid Response Team to Nepal for Missing S. Koreans
-
-rss · KBS\(Korean Broadcasting System\) · 8月27日 06:19
-
----
-
-<a id="item-tech-news-291"></a>
-### [Doosan Enerbility, Korea South-East Power Rush to Nepal](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203858) ⭐️ ?/10
-
-Doosan Enerbility, Korea South-East Power Rush to Nepal
-
-rss · KBS\(Korean Broadcasting System\) · 8月27日 06:12
-
----
-
-<a id="item-tech-news-292"></a>
-### [BOK Announces Back-to-Back Rate Hike, Raises 2026 Growth Forecast to 3.3%](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203857) ⭐️ ?/10
-
-BOK Announces Back-to-Back Rate Hike, Raises 2026 Growth Forecast to 3.3%
-
-rss · KBS\(Korean Broadcasting System\) · 8月27日 05:46
-
----
-
-<a id="item-tech-news-293"></a>
-### [Gov’t to Build 5 New Climate-Resilient Dams, Scrap 9 Dam Projects Initiated under Yoon](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203856) ⭐️ ?/10
-
-Gov’t to Build 5 New Climate-Resilient Dams, Scrap 9 Dam Projects Initiated under Yoon
-
-rss · KBS\(Korean Broadcasting System\) · 8月27日 05:30
-
----
-
-<a id="item-tech-news-294"></a>
-### [NBS Poll: Lee’s Approval Rating Rebounds to 50%](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203855) ⭐️ ?/10
-
-NBS Poll: Lee’s Approval Rating Rebounds to 50%
-
-rss · KBS\(Korean Broadcasting System\) · 8月27日 05:21
-
----
-
-<a id="item-tech-news-295"></a>
-### [9 South Koreans among Hundreds Missing in Flash Floods in Nepal](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=203854) ⭐️ ?/10
-
-9 South Koreans among Hundreds Missing in Flash Floods in Nepal
-
-rss · KBS\(Korean Broadcasting System\) · 8月27日 04:29
-
----
-
-<a id="item-tech-news-296"></a>
-### [A l’étranger, la « cavale » très politique de la chroniqueuse russe de CNews Xenia Fedorova](https://www.lemonde.fr/international/article/2026/08/28/a-l-etranger-la-cavale-tres-politique-de-la-chroniqueuse-de-cnews-xenia-fedorova_6758739_3210.html) ⭐️ ?/10
-
-A l’étranger, la « cavale » très politique de la chroniqueuse russe de CNews Xenia Fedorova
+Pour Xenia Fedorova, la chroniqueuse russe de CNews, une « cavale » très politique à l’étranger
 
 rss · 世界报\(Le Monde\) · 8月28日 03:00
 
 ---
 
-<a id="item-tech-news-297"></a>
-### [L’annulation de la dette de la France, la proposition polémique qui place Jean-Luc Mélenchon au cœur des débats de la présidentielle](https://www.lemonde.fr/politique/article/2026/08/28/l-annulation-de-la-dette-de-la-france-la-proposition-polemique-qui-place-jean-luc-melenchon-au-c-ur-des-debats-de-la-presidentielle_6758807_823448.html) ⭐️ ?/10
+<a id="item-tech-news-258"></a>
+### [Présidentielle 2027 : le clivage gauche-droite s’impose en début de campagne sur les enjeux économiques](https://www.lemonde.fr/politique/article/2026/08/28/presidentielle-2027-les-enjeux-economiques-au-c-ur-du-debut-de-la-campagne_6758953_823448.html) ⭐️ ?/10
 
-L’annulation de la dette de la France, la proposition polémique qui place Jean-Luc Mélenchon au cœur des débats de la présidentielle
+Présidentielle 2027 : le clivage gauche-droite s’impose en début de campagne sur les enjeux économiques
 
-rss · 世界报\(Le Monde\) · 8月28日 03:28
-
----
-
-<a id="item-tech-news-298"></a>
-### [Enlèvement en Colombie d’un soldat franco-colombien de la Légion étrangère française](https://www.lemonde.fr/international/article/2026/08/28/enlevement-en-colombie-d-un-soldat-franco-colombien-de-la-legion-etrangere-francaise_6758886_3210.html) ⭐️ ?/10
-
-Enlèvement en Colombie d’un soldat franco-colombien de la Légion étrangère française
-
-rss · 世界报\(Le Monde\) · 8月28日 04:17
+rss · 世界报\(Le Monde\) · 8月28日 04:51
 
 ---
 
-<a id="item-tech-news-299"></a>
+<a id="item-tech-news-259"></a>
 ### [En Ukraine, le blocage des ports de la mer Noire asphyxie les exportations de céréales](https://www.lemonde.fr/international/article/2026/08/28/en-ukraine-le-blocage-des-ports-de-la-mer-noire-asphyxie-les-exportations-de-cereales_6758737_3210.html) ⭐️ ?/10
 
 En Ukraine, le blocage des ports de la mer Noire asphyxie les exportations de céréales
@@ -4170,16 +4046,47 @@ rss · 世界报\(Le Monde\) · 8月28日 03:00
 
 ---
 
-<a id="item-tech-news-300"></a>
-### [Victor Wembanyama réussit ses retrouvailles avec le public parisien en guidant les Bleus vers un large succès](https://www.lemonde.fr/sport/article/2026/08/28/victor-wembanyama-reussit-ses-retrouvailles-avec-le-public-parisien-en-guidant-les-bleus-vers-un-large-succes_6758670_3242.html) ⭐️ ?/10
+<a id="item-tech-news-260"></a>
+### [Un soldat franco-colombien de la Légion étrangère française enlevé en Colombie par la guérilla](https://www.lemonde.fr/international/article/2026/08/28/enlevement-en-colombie-d-un-soldat-franco-colombien-de-la-legion-etrangere-francaise_6758886_3210.html) ⭐️ ?/10
 
-Victor Wembanyama réussit ses retrouvailles avec le public parisien en guidant les Bleus vers un large succès
+Un soldat franco-colombien de la Légion étrangère française enlevé en Colombie par la guérilla
 
-rss · 世界报\(Le Monde\) · 8月28日 00:35
+rss · 世界报\(Le Monde\) · 8月28日 04:17
 
 ---
 
-<a id="item-tech-news-301"></a>
+<a id="item-tech-news-261"></a>
+### [LFI 议员 Delogu 因与警察冲突被羁押](https://www.lemonde.fr/societe/article/2026/08/27/le-depute-lfi-sebastien-delogu-place-en-garde-a-vue-a-marseille-apres-une-altercation-avec-des-policiers_6758475_3224.html) ⭐️ ?/10
+
+法国不屈法国党（LFI）议员塞巴斯蒂安·德洛古（Sébastien Delogu）因周一与三名警察发生冲突，于周四下午在马赛中央警察局接受问询后被实施拘留（garde à vue）。随后，他因“侮辱”（outrage）指控被正式传唤。这一事件凸显了法国政治人物与执法部门之间日益紧张的关系。
+
+rss · 世界报\(Le Monde\) · 8月27日 14:03
+
+**「背景说明」** 法国「不羁法国」（La France Insoumise，LFI）政党成员、马赛选区议员 Sébastien Delogu 因涉嫌在 2026 年 8 月 24 日（周一）与三名警察发生肢体冲突后被警方控制。马赛检察院随后于 8 月 27 日（周四）对其实施「 garde à vue」（司法拘留/传唤）程序。根据法国《刑法典》，&quot; outrage sur des personnes dépositaires de l&\#x27;autorité publique &quot;指对执行公务的执法人员实施侮辱或抗拒行为，该罪名可导致最高数月监禁及罚款。
+
+**「影响」** 该事件可能引发法国议会内部对于议员法律保护范围的进一步辩论，并可能影响不屈法国党与警方之间的信任关系。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.lemonde.fr/societe/article/2026/08/27/le-depute-lfi-sebastien-delogu-place-en-garde-a-vue-a-marseille-apres-une-altercation-avec-des-policiers_6758475_3224.html">Le député LFI Sébastien Delogu placé en garde à vue à ...</a></li>
+<li><a href="https://www.msn.com/fr-fr/actualite/other/outrage-sur-des-policiers-s%C3%A9bastien-delogu-plac%C3%A9-en-garde-%C3%A0-vue/ar-AA2b2Wz6">Outrage sur des policiers : Sébastien Delogu placé en garde à vue</a></li>
+<li><a href="https://www.sudouest.fr/faits-divers/le-depute-insoumis-sebastien-delogu-place-en-garde-a-vue-apres-son-altercation-avec-des-policiers-30386478.php">VIDEO. Fin de garde à vue du député insoumis Sébastien Delogu ...</a></li>
+
+</ul>
+</details>
+
+---
+
+<a id="item-tech-news-262"></a>
+### [Arbres arrachés, routes inondées… Un violent orage s’abat sur l’Ile-de-France, provoquant des dégâts matériels et de fortes perturbations dans les transports](https://www.lemonde.fr/planete/article/2026/08/28/arbres-arraches-routes-inondees-un-violent-orage-s-abat-sur-l-ile-de-france-provoquant-des-degats-materiels-et-de-fortes-perturbations-dans-les-transports_6758958_3244.html) ⭐️ ?/10
+
+Arbres arrachés, routes inondées… Un violent orage s’abat sur l’Ile-de-France, provoquant des dégâts matériels et de fortes perturbations dans les transports
+
+rss · 世界报\(Le Monde\) · 8月28日 05:45
+
+---
+
+<a id="item-tech-news-263"></a>
 ### [La nouvelle révision du DPE va faire sortir plus de 300 000 logements du statut de « passoires thermiques »](https://www.lemonde.fr/societe/article/2026/08/28/la-nouvelle-revision-du-dpe-va-faire-sortir-plus-de-300-000-logements-du-statut-de-passoires-thermiques_6758853_3224.html) ⭐️ ?/10
 
 La nouvelle révision du DPE va faire sortir plus de 300 000 logements du statut de « passoires thermiques »
@@ -4188,52 +4095,87 @@ rss · 世界报\(Le Monde\) · 8月28日 04:02
 
 ---
 
-<a id="item-tech-news-302"></a>
-### [Altercation avec des policiers : le député LFI Sébastien Delogu gardé à vue puis convoqué pour outrage](https://www.lemonde.fr/societe/article/2026/08/27/le-depute-lfi-sebastien-delogu-place-en-garde-a-vue-a-marseille-apres-une-altercation-avec-des-policiers_6758475_3224.html) ⭐️ ?/10
+<a id="item-tech-news-264"></a>
+### [阿根廷众议院通过央行改革法案以遏制通胀](https://www.lemonde.fr/economie/article/2026/08/28/en-argentine-la-rigueur-monetaire-au-c-ur-de-la-reforme-de-la-banque-centrale-approuvee-par-les-deputes_6758959_3234.html) ⭐️ ?/10
 
-Altercation avec des policiers : le député LFI Sébastien Delogu gardé à vue puis convoqué pour outrage
+阿根廷众议院以压倒性多数通过了由总统哈维尔·米莱推动的中央银行改革法案，该改革的核心在于实施货币紧缩政策以遏制通货膨胀。这一举措旨在限制货币发行量，从而解决长期困扰阿根廷的高通胀问题。目前，该改革法案仍需提交参议院进行最终批准。
 
-rss · 世界报\(Le Monde\) · 8月27日 14:03
+rss · 世界报\(Le Monde\) · 8月28日 05:46
 
----
+**「背景」** 阿根廷近年来深陷严重的通货膨胀危机，货币发行失控是导致物价飞涨的主要原因之一。总统米莱作为自由主义者，主张通过严格的财政和货币纪律来稳定经济，此次央行改革是其经济议程的关键一环。
 
-<a id="item-tech-news-303"></a>
-### [La fusée Ariane-6 réussit le lancement du satellite météorologique MTG-I2](https://www.lemonde.fr/sciences/article/2026/08/28/la-fusee-ariane-6-reussit-le-lancement-du-satellite-meteo-mtg-i2_6758604_1650684.html) ⭐️ ?/10
-
-La fusée Ariane-6 réussit le lancement du satellite météorologique MTG-I2
-
-rss · 世界报\(Le Monde\) · 8月27日 23:47
+**「影响」** 若参议院也通过该法案，阿根廷央行将受到更严格的货币发行限制，这有助于稳定比索汇率并降低通胀预期，但也可能因紧缩政策而在短期内抑制经济增长。
 
 ---
 
-<a id="item-tech-news-304"></a>
-### [En Syrie, la dissolution des FDS scelle la fin de l’autonomie des Kurdes](https://www.lemonde.fr/international/article/2026/08/27/en-syrie-la-dissolution-des-fds-scelle-la-fin-de-l-autonomie-des-kurdes_6758482_3210.html) ⭐️ ?/10
+<a id="item-tech-news-265"></a>
+### [2027 年法国总统竞选：沙隆展览会成候选人聚集地](https://www.lemonde.fr/politique/article/2026/08/28/presidentielle-2027-comment-la-foire-de-chalons-est-devenue-le-rendez-vous-des-candidats_6758843_823448.html) ⭐️ ?/10
 
-En Syrie, la dissolution des FDS scelle la fin de l’autonomie des Kurdes
+第 80 届沙隆展览会将于 2026 年 8 月 28 日开幕，预计接待约 25 万名游客。该活动已成为法国各派政治人物，特别是 2027 年总统选举候选人的重要聚会场所，多位候选人将出席此次展会。作为法国传统的大型区域性展会，沙隆展览会近年来逐渐成为政治竞选活动的新阵地。
 
-rss · 世界报\(Le Monde\) · 8月27日 15:01
+rss · 世界报\(Le Monde\) · 8月28日 04:00
 
----
+**「背景」** 沙隆展览会（Foire de Châlons）是法国香槟-阿登地区的重要年度文化活动，通常持续数周，涵盖农业、手工艺、娱乐等多个领域。法国总统选举每五年举行一次，2027 年的选举已是各政治力量提前布局的关键时期。
 
-<a id="item-tech-news-305"></a>
-### [Au Mexique, 135 animaux dont des lions, des tigres et des bisons découverts lors d’une perquisition chez des trafiquants de carburant](https://www.lemonde.fr/planete/article/2026/08/28/au-mexique-135-animaux-dont-des-lions-des-tigres-et-des-bisons-decouverts-lors-d-une-perquisition-chez-des-trafiquants-de-carburant_6758703_3244.html) ⭐️ ?/10
-
-Au Mexique, 135 animaux dont des lions, des tigres et des bisons découverts lors d’une perquisition chez des trafiquants de carburant
-
-rss · 世界报\(Le Monde\) · 8月28日 00:55
+**「影响」** 这一趋势表明，传统地方性民众集会已成为法国候选人接触基层选民、展示亲民形象的重要渠道。
 
 ---
 
-<a id="item-tech-news-306"></a>
-### [Nepal-Tibet live: China warns lake formed by mudslide on Nepal border could breach](https://www.france24.com/en/asia-pacific/20260828-nepal-tibet-live-china-warns-lake-formed-by-mudslide-on-nepal-border-could-breach) ⭐️ ?/10
+<a id="item-tech-news-266"></a>
+### [Des exercices militaires communs prévus en septembre entre les Etats-Unis, la Corée du Sud et le Japon, annonce Séoul](https://www.lemonde.fr/international/article/2026/08/28/des-exercices-militaires-communs-prevus-en-septembre-entre-les-etats-unis-la-coree-du-sud-et-le-japon-annonce-seoul_6758841_3210.html) ⭐️ ?/10
 
-Nepal-Tibet live: China warns lake formed by mudslide on Nepal border could breach
+Des exercices militaires communs prévus en septembre entre les Etats-Unis, la Corée du Sud et le Japon, annonce Séoul
 
-rss · France 24 · 8月28日 03:03
+rss · 世界报\(Le Monde\) · 8月28日 03:50
 
 ---
 
-<a id="item-tech-news-307"></a>
+<a id="item-tech-news-267"></a>
+### [Victor Wembanyama réussit ses retrouvailles avec le public parisien en guidant les Bleus vers un large succès](https://www.lemonde.fr/sport/article/2026/08/28/victor-wembanyama-reussit-ses-retrouvailles-avec-le-public-parisien-en-guidant-les-bleus-vers-un-large-succes_6758670_3242.html) ⭐️ ?/10
+
+Victor Wembanyama réussit ses retrouvailles avec le public parisien en guidant les Bleus vers un large succès
+
+rss · 世界报\(Le Monde\) · 8月28日 00:35
+
+---
+
+<a id="item-tech-news-268"></a>
+### [Entre le cinéaste Arnaud Desplechin et l’acteur Hippolyte Girardot, une séduction réciproque](https://www.lemonde.fr/series-d-ete/article/2026/08/28/entre-le-cineaste-arnaud-desplechin-et-l-acteur-hippolyte-girardot-une-seduction-reciproque_6758847_3451060.html) ⭐️ ?/10
+
+Entre le cinéaste Arnaud Desplechin et l’acteur Hippolyte Girardot, une séduction réciproque
+
+rss · 世界报\(Le Monde\) · 8月28日 04:00
+
+---
+
+<a id="item-tech-news-269"></a>
+### [La modernité futuriste de Pierre Paulin exposée à Montpellier](https://www.lemonde.fr/m-styles/article/2026/08/28/la-modernite-futuriste-de-pierre-paulin-exposee-a-montpellier_6758957_4497319.html) ⭐️ ?/10
+
+La modernité futuriste de Pierre Paulin exposée à Montpellier
+
+rss · 世界报\(Le Monde\) · 8月28日 05:30
+
+---
+
+<a id="item-tech-news-270"></a>
+### [French Foreign Legion soldier kidnapped in Colombia](https://www.france24.com/en/americas/20260828-french-foreign-legion-soldier-kidnapped-in-colombia) ⭐️ ?/10
+
+French Foreign Legion soldier kidnapped in Colombia
+
+rss · France 24 · 8月28日 05:24
+
+---
+
+<a id="item-tech-news-271"></a>
+### [Champions League Draw: PSG to face Barcelona and Man City](https://www.france24.com/en/tv-shows/sports/20260828-champions-league-draw-psg-to-face-barcelona-and-man-city) ⭐️ ?/10
+
+Champions League Draw: PSG to face Barcelona and Man City
+
+rss · France 24 · 8月28日 05:14
+
+---
+
+<a id="item-tech-news-272"></a>
 ### [OpenAI, Anthropic join global call to strengthen cyber defences](https://www.france24.com/en/technology/20260828-openai-anthropic-join-global-call-to-strengthen-cyber-defences) ⭐️ ?/10
 
 OpenAI, Anthropic join global call to strengthen cyber defences
@@ -4242,7 +4184,7 @@ rss · France 24 · 8月28日 01:05
 
 ---
 
-<a id="item-tech-news-308"></a>
+<a id="item-tech-news-273"></a>
 ### [Kherson residents urged to leave as Russian attacks threaten power and heating](https://www.france24.com/en/europe/20260827-kherson-residents-urged-to-leave-as-russian-attacks-threaten-power-and-heating) ⭐️ ?/10
 
 Kherson residents urged to leave as Russian attacks threaten power and heating
@@ -4251,7 +4193,7 @@ rss · France 24 · 8月27日 22:40
 
 ---
 
-<a id="item-tech-news-309"></a>
+<a id="item-tech-news-274"></a>
 ### [US military faces ‘beyond critical’ shortage of Patriot missiles in Europe](https://www.france24.com/en/americas/20260827-us-military-faces-beyond-critical-shortage-of-patriot-missiles-in-europe) ⭐️ ?/10
 
 US military faces ‘beyond critical’ shortage of Patriot missiles in Europe
@@ -4260,7 +4202,7 @@ rss · France 24 · 8月27日 21:41
 
 ---
 
-<a id="item-tech-news-310"></a>
+<a id="item-tech-news-275"></a>
 ### [Nigeria: the lucrative business of kidnappings](https://www.france24.com/en/nigeria-the-lucrative-business-of-kidnappings) ⭐️ ?/10
 
 Nigeria: the lucrative business of kidnappings
@@ -4269,47 +4211,40 @@ rss · France 24 · 8月27日 20:49
 
 ---
 
-<a id="item-tech-news-311"></a>
-### [法国总统候选人首次辩论，激烈交锋](https://www.france24.com/en/france/20260827-french-presidential-candidates-clash-at-first-debate-before-upcoming-elections) ⭐️ ?/10
+<a id="item-tech-news-276"></a>
+### [法国总统候选人首次电视辩论激烈交锋](https://www.france24.com/en/france/20260827-french-presidential-candidates-clash-at-first-debate-before-upcoming-elections) ⭐️ ?/10
 
-在距离 2027 年法国总统大选还有不到八个月之际，七位主要候选人于周四进行了首次辩论。这场辩论凸显了选情的日益胶着与拥挤，因为现任总统马克龙已连任两届，无法继续参选。这是法国政坛为继任者竞选拉开序幕的重要一幕。
+法国七大主流总统候选人在周四的首次电视辩论中激烈交锋，距离 2027 年总统选举还有八个月。这场辩论预示着一场日益激烈和竞争激烈的选举，现任中间派总统马克龙已连任两届。
 
 rss · France 24 · 8月27日 19:12
 
-**「背景」** 法国总统任期为五年，且最多可连任一次。埃马纽埃尔·马克龙自 2017 年起担任总统，目前已完成两个任期，因此 2027 年的选举将产生新的领导人。此次有七位主要候选人参与首轮辩论，反映了当前法国政治版图的多元化竞争格局。
+**「背景信息」** 法国总统选举定于 2027 年 4 月 18 日和 5 月 2 日举行，现任总统马克龙因已连任两届而不得不再次参选。本次辩论由法国雇主联合会 Medef 于 2026 年 8 月 27 日在巴黎罗兰·加洛斯主办，是七位正式候选人首次同台交锋。
 
-**「影响」** 此次辩论标志着 2027 年总统竞选的正式进入高预热阶段，各候选人将通过公开交锋争取中间选民及各自阵营的支持。辩论中展现的立场差异将为后续民调走势和媒体关注重点设定基调。
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2%D0%BE_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8_%282027%29">Президентские выборы во Франции ( 2027 ) — Википедия</a></li>
+<li><a href="https://www.france24.com/en/france/20260827-french-presidential-candidates-clash-at-first-debate-before-upcoming-elections">French presidential candidates clash at first debate ... - France 24</a></li>
+<li><a href="https://www.newsminimalist.com/articles/french-presidential-debate-attal-shines-melenchon-clashes-le-pen-impresses-fa675820">French presidential debate : Attal shines... | News Minimalist</a></li>
 
----
-
-<a id="item-tech-news-312"></a>
-### [Red Cross mobilises in Nepal following natural disaster: &\#x27;Entire villages &amp; communities washed out&\#x27;](https://www.france24.com/en/red-cross-mobilises-in-nepal-following-natural-disaster-entire-villages-communities-washed-out) ⭐️ ?/10
-
-Red Cross mobilises in Nepal following natural disaster: &\#x27;Entire villages &amp; communities washed out&\#x27;
-
-rss · France 24 · 8月27日 17:53
+</ul>
+</details>
 
 ---
 
-<a id="item-tech-news-313"></a>
-### [Why Trump wants H-1B skilled worker visas to cost employers more than $100,000](https://www.france24.com/en/americas/20260827-why-trump-wants-h-1b-skilled-worker-visas-to-cost-employers-more-than-100-000) ⭐️ ?/10
+<a id="item-tech-news-277"></a>
+### [特朗普拟对 H-1B 签证雇主征收超 10 万美元费用](https://www.france24.com/en/americas/20260827-why-trump-wants-h-1b-skilled-worker-visas-to-cost-employers-more-than-100-000) ⭐️ ?/10
 
-Why Trump wants H-1B skilled worker visas to cost employers more than $100,000
+美国前总统唐纳德·特朗普再次试图对通过 H-1B 签证计划雇佣技术型临时外国工人的雇主征收超过 10 万美元的费用。该提议旨在提高企业雇佣外国技术工人的成本，反映出其限制移民的政策倾向。尽管像埃隆·马斯克这样的科技巨头长期支持该计划以吸引全球顶尖人才，但批评者认为这一举措意在取代技能更高的美国本土工人，转而雇佣更便宜、更易控制的外国临时工。此举可能对未来美国科技行业的招聘策略产生重大影响。
 
 rss · France 24 · 8月27日 17:24
 
----
+**「背景」** H-1B 签证是美国为外国专业技术人员提供的一种临时工作签证，主要面向高科技行业。该计划长期以来因争议而备受关注，支持者认为它填补了本土劳动力市场的技能缺口，反对者则担忧其被滥用以压低本国员工工资。特朗普政府此前已多次尝试收紧 H-1B 签证规则，此次拟议费用上调是其移民政策立场的延续。
 
-<a id="item-tech-news-314"></a>
-### [Title holders PSG to face Barcelona and Man City as Champions League draw is made](https://www.france24.com/en/sport/20260827-title-holders-psg-to-face-barcelona-and-man-city-as-champions-league-draw-is-made) ⭐️ ?/10
-
-Title holders PSG to face Barcelona and Man City as Champions League draw is made
-
-rss · France 24 · 8月27日 17:23
+**「影响」** 若该提议实施，美国科技企业可能需要重新评估其全球人才招聘策略，尤其是对依赖 H-1B 工人的中小型科技公司影响更为直接。此外，政策变化也可能加剧关于技术移民与本土就业之间关系的公共讨论。
 
 ---
 
-<a id="item-tech-news-315"></a>
+<a id="item-tech-news-278"></a>
 ### [UEFA moves to file criminal complaint against Infantino over failed FIFA sell-off](https://www.france24.com/en/sport/20260827-uefa-moves-to-file-criminal-complaint-against-infantino-over-failed-fifa-sell-off) ⭐️ ?/10
 
 UEFA moves to file criminal complaint against Infantino over failed FIFA sell-off
@@ -4318,7 +4253,7 @@ rss · France 24 · 8月27日 16:46
 
 ---
 
-<a id="item-tech-news-316"></a>
+<a id="item-tech-news-279"></a>
 ### [Pakistan: Protests continue in Azad Kashmir despite repression and internet blackout](https://www.france24.com/en/asia-pacific/20260827-pakistan-protests-continue-in-azad-kashmir-despite-repression-and-internet-blackout) ⭐️ ?/10
 
 Pakistan: Protests continue in Azad Kashmir despite repression and internet blackout
@@ -4327,7 +4262,7 @@ rss · France 24 · 8月27日 16:04
 
 ---
 
-<a id="item-tech-news-317"></a>
+<a id="item-tech-news-280"></a>
 ### [&\#x27;National treasure: If we could all be like Dolly, the world would be a much better place&\#x27;](https://www.france24.com/en/tv-shows/spotlight/20260827-national-treasure-if-we-could-all-be-like-dolly-it-would-be-a-much-better-place-in-the-world) ⭐️ ?/10
 
 &\#x27;National treasure: If we could all be like Dolly, the world would be a much better place&\#x27;
@@ -4336,7 +4271,7 @@ rss · France 24 · 8月27日 15:21
 
 ---
 
-<a id="item-tech-news-318"></a>
+<a id="item-tech-news-281"></a>
 ### [&\#x27;Great public test&\#x27;: French presidential hopefuls to face off at business summit](https://www.france24.com/en/video/20260827-great-public-test-french-presidential-hopefuls-to-face-off-at-business-summit) ⭐️ ?/10
 
 &\#x27;Great public test&\#x27;: French presidential hopefuls to face off at business summit
@@ -4345,7 +4280,7 @@ rss · France 24 · 8月27日 15:15
 
 ---
 
-<a id="item-tech-news-319"></a>
+<a id="item-tech-news-282"></a>
 ### [Exclusive - French astronaut describes climate change as seen from space](https://www.france24.com/en/video/20260827-exclusive-french-astronaut-describes-climate-change-as-seen-from-space-1) ⭐️ ?/10
 
 Exclusive - French astronaut describes climate change as seen from space
@@ -4354,7 +4289,16 @@ rss · France 24 · 8月27日 15:09
 
 ---
 
-<a id="item-tech-news-320"></a>
+<a id="item-tech-news-283"></a>
+### [An &\#x27;icon&\#x27; of contemporary art: A look back at the career of Yayoi Kusama](https://www.france24.com/en/video/20260827-an-icon-of-contemporary-art-a-look-back-at-the-career-of-yayoi-kusama) ⭐️ ?/10
+
+An &\#x27;icon&\#x27; of contemporary art: A look back at the career of Yayoi Kusama
+
+rss · France 24 · 8月27日 15:01
+
+---
+
+<a id="item-tech-news-284"></a>
 ### [&\#x27;Extremely challenging&\#x27; conditions hamper Nepal-Tibet flood rescue efforts](https://www.france24.com/en/video/20260827-extremely-challenging-conditions-hamper-nepal-tibet-flood-rescue-efforts) ⭐️ ?/10
 
 &\#x27;Extremely challenging&\#x27; conditions hamper Nepal-Tibet flood rescue efforts
@@ -4363,7 +4307,7 @@ rss · France 24 · 8月27日 14:57
 
 ---
 
-<a id="item-tech-news-321"></a>
+<a id="item-tech-news-285"></a>
 ### [Why were so many Indian pilgrims in Tibet during the Himalayan mudslide disaster?](https://www.france24.com/en/why-were-so-many-indian-pilgrims-in-tibet-during-the-himalayan-mudslide-disaster) ⭐️ ?/10
 
 Why were so many Indian pilgrims in Tibet during the Himalayan mudslide disaster?
@@ -4372,7 +4316,7 @@ rss · France 24 · 8月27日 13:57
 
 ---
 
-<a id="item-tech-news-322"></a>
+<a id="item-tech-news-286"></a>
 ### [Ghana bars export of unrefined gold](https://www.france24.com/en/video/20260827-ghana-bars-export-of-unrefined-gold) ⭐️ ?/10
 
 Ghana bars export of unrefined gold
@@ -4381,43 +4325,98 @@ rss · France 24 · 8月27日 13:43
 
 ---
 
-<a id="item-tech-news-323"></a>
-### [Tunisia mourns deceased migrants after small boat tragedy](https://www.france24.com/en/video/20260827-tunisia-mourns-deceased-migrants-after-small-boat-tragedy) ⭐️ ?/10
+<a id="item-tech-news-287"></a>
+### [挪威国王哈康五世去世：终身担任国家凝聚者](https://www.spiegel.de/ausland/harald-v-von-norwegen-ist-tot-dieser-koenig-war-ein-land-nachruf-a-3a04d640-7aa7-4aa8-9728-9e01301782ec#ref=rss) ⭐️ ?/10
 
-Tunisia mourns deceased migrants after small boat tragedy
+挪威国王哈拉尔五世去世，他是目前世界上最年长的在任君主。作为一位从纳粹威胁下逃难的国王，哈拉尔五世以象征性的社会民主主义理念团结了国家。他的登基象征着传统王室与现代价值观的融合，成为挪威文化认同的重要组成部分。尽管具体日期未提供，但这一消息引发了挪威乃至国际社会对他的深切悼念。
 
-rss · France 24 · 8月27日 13:41
+rss · 明镜周刊\(Der Spiegel\) · 8月28日 06:46
 
----
+**「背景」** 哈拉尔五世在第二次世界大战期间因躲避纳粹占领而离开挪威，后返回并逐渐成为民族团结的象征。他在 1991 年登基，以亲民、开放的姿态推动了君主制的现代化改革，同时积极参与奥运会帆船项目，展现了个人爱好与公共形象的结合。
 
-<a id="item-tech-news-324"></a>
-### [Alleged underworld kingpin testifies at S. African commission](https://www.france24.com/en/video/20260827-alleged-underworld-kingpin-testifies-at-s-african-commission) ⭐️ ?/10
+**「影响」** 哈拉尔五世的去世标志着挪威一个时代的结束，他的离世将对国家凝聚力和王室制度产生深远影响。挪威社会失去了一位备受尊敬的象征性领袖，国际社会也将怀念他作为和平与团结倡导者的角色。
 
-Alleged underworld kingpin testifies at S. African commission
-
-rss · France 24 · 8月27日 13:39
+**「社区讨论」** 目前没有社区评论可供参考。
 
 ---
 
-<a id="item-tech-news-325"></a>
-### [Norway holds its breath as King Harald&\#x27;s health deteriorates](https://www.france24.com/en/video/20260827-norway-holds-its-breath-as-king-harald-s-health-deteriorates) ⭐️ ?/10
+<a id="item-tech-news-288"></a>
+### [Leichtathletik: Europameister Owen Ansah beantragt Verfahren vor Sportschiedsgericht](https://www.spiegel.de/sport/leichtathletik/leichtathletik-europameister-owen-ansah-beantragt-verfahren-vor-sportschiedsgericht-a-d55a4d40-28aa-47c6-b022-d2dca48f0701#ref=rss) ⭐️ ?/10
 
-Norway holds its breath as King Harald&\#x27;s health deteriorates
+Leichtathletik: Europameister Owen Ansah beantragt Verfahren vor Sportschiedsgericht
 
-rss · France 24 · 8月27日 13:33
-
----
-
-<a id="item-tech-news-326"></a>
-### [Alleged 9/11 mastermind Khalid Sheikh Mohammed to go on trial in 2028](https://www.france24.com/en/americas/20260827-alleged-9-11-mastermind-khalid-sheikh-mohammed-to-go-on-trial-in-2028) ⭐️ ?/10
-
-Alleged 9/11 mastermind Khalid Sheikh Mohammed to go on trial in 2028
-
-rss · France 24 · 8月27日 13:27
+rss · 明镜周刊\(Der Spiegel\) · 8月28日 06:30
 
 ---
 
-<a id="item-tech-news-327"></a>
+<a id="item-tech-news-289"></a>
+### [DAZN, Sky, Sat1, Sportschau: Hier sehen Sie die Bundesliga live im TV](https://www.spiegel.de/sport/fussball/dazn-sky-sat1-sportschau-hier-sehen-sie-die-bundesliga-live-im-tv-a-27180c34-e094-4efc-8015-12fcaccafb70#ref=rss) ⭐️ ?/10
+
+DAZN, Sky, Sat1, Sportschau: Hier sehen Sie die Bundesliga live im TV
+
+rss · 明镜周刊\(Der Spiegel\) · 8月28日 06:29
+
+---
+
+<a id="item-tech-news-290"></a>
+### [Flughafen Leipzig/Halle: Flugzeuge nach Drohnensichtung umgeleitet](https://www.spiegel.de/panorama/justiz/flughafen-leipzig-halle-flugzeuge-nach-drohnensichtung-umgeleitet-a-881c7785-6242-4d28-98a0-fbd740cd76bf#ref=rss) ⭐️ ?/10
+
+Flughafen Leipzig/Halle: Flugzeuge nach Drohnensichtung umgeleitet
+
+rss · 明镜周刊\(Der Spiegel\) · 8月28日 06:26
+
+---
+
+<a id="item-tech-news-291"></a>
+### [Spiegel kritisiert ARD-Serie »Selling Sex&quot;](https://www.spiegel.de/kultur/tv/selling-sex-in-der-ard-diese-serie-funktioniert-wie-eine-anleitung-zur-prostitution-a-c574c856-2d4a-430d-92a9-353bafb40c48#ref=rss) ⭐️ ?/10
+
+Der Spiegel wirft der ARD-Serie »Selling Sex« vor, das Escortarbeit als Empowerment darzustellen, ohne die Risiken angemessen zu gewichten. Die Serie folgt einer BWL-Studentin, die in der Sexarbeit ihre Berufung sieht. Laut Analyse wird in der glossigen Produktion die Balance zwischen Gewinnchancen und Risiken arg leger gehandhabt.
+
+rss · 明镜周刊\(Der Spiegel\) · 8月28日 05:41
+
+**「Ausstrahlungskontext」** Die Serie wird im Programm des öffentlich-rechtlichen Senders ARD ausgestrahlt. Der Spiegel bezeichnet die Produktion als »glossy«, was auf eine inszenierte, oberflächlich attraktive Darstellung der Thematik hindeutet.
+
+**「Auswirkung」** Die Kritik könnte die öffentliche Wahrnehmung der Serie beeinflussen und Debatten über die ethische Verantwortung vonöffentlich-rechtlichen Sendern bei der Darstellung sensibler Themen anstoßen.
+
+---
+
+<a id="item-tech-news-292"></a>
+### [Mecklenburg-Vorpommern: Manuela Schwesig fordert Preisdeckel für Benzin](https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-manuela-schwesig-fordert-preisdeckel-fuer-benzin-a-b9639df3-260b-47b5-bfa8-cc4874c34afe#ref=rss) ⭐️ ?/10
+
+Mecklenburg-Vorpommern: Manuela Schwesig fordert Preisdeckel für Benzin
+
+rss · 明镜周刊\(Der Spiegel\) · 8月28日 05:31
+
+---
+
+<a id="item-tech-news-293"></a>
+### [Andrew und Tristan Tate: Influencer fordern Freilassung aus Gefängnis in Miami](https://www.spiegel.de/panorama/justiz/andrew-und-tristan-tate-influencer-fordern-freilassung-aus-gefaengnis-in-miami-a-99134843-969d-4a60-a7cc-16c18a275e23#ref=rss) ⭐️ ?/10
+
+Andrew und Tristan Tate: Influencer fordern Freilassung aus Gefängnis in Miami
+
+rss · 明镜周刊\(Der Spiegel\) · 8月28日 05:28
+
+---
+
+<a id="item-tech-news-294"></a>
+### [Bei Vollmond schlecht schlafen: Was ist dran?](https://www.spiegel.de/gesundheit/bei-vollmond-schlecht-schlafen-was-ist-dran-a-5a3650d0-28d4-4187-890f-eccc60c8ef14#ref=rss) ⭐️ ?/10
+
+Bei Vollmond schlecht schlafen: Was ist dran?
+
+rss · 明镜周刊\(Der Spiegel\) · 8月28日 04:35
+
+---
+
+<a id="item-tech-news-295"></a>
+### [Germanwings-Absturz 2015 in den Alpen: Hinterbliebene verklagen Bundesrepublik auf Schadensersatz](https://www.spiegel.de/panorama/justiz/germanwings-absturz-2015-in-den-alpen-hinterbliebene-verklagen-bundesrepublik-auf-schadensersatz-1787839127-a-c3a4af66-18de-417d-97ce-e51b9ff01f58#ref=rss) ⭐️ ?/10
+
+Germanwings-Absturz 2015 in den Alpen: Hinterbliebene verklagen Bundesrepublik auf Schadensersatz
+
+rss · 明镜周刊\(Der Spiegel\) · 8月28日 04:28
+
+---
+
+<a id="item-tech-news-296"></a>
 ### [KI-Zentren: Was kann Deutschland aus den Protesten in den USA lernen?](https://www.spiegel.de/politik/deutschland/ki-zentren-was-kann-deutschland-aus-den-protesten-in-den-usa-lernen-a-3579d403-7fae-45e0-8701-6f88de435a79#ref=rss) ⭐️ ?/10
 
 KI-Zentren: Was kann Deutschland aus den Protesten in den USA lernen?
@@ -4426,7 +4425,7 @@ rss · 明镜周刊\(Der Spiegel\) · 8月28日 04:14
 
 ---
 
-<a id="item-tech-news-328"></a>
+<a id="item-tech-news-297"></a>
 ### [Donald Trump: Der Aufstand gegen KI-Rechenzentren wird zur Gefahr für den US-Präsidenten](https://www.spiegel.de/ausland/donald-trump-der-aufstand-gegen-ki-rechenzentren-wird-zur-gefahr-fuer-den-us-praesidenten-a-51cbc821-1287-4da6-a25d-2eb303217ab2#ref=rss) ⭐️ ?/10
 
 Donald Trump: Der Aufstand gegen KI-Rechenzentren wird zur Gefahr für den US-Präsidenten
@@ -4435,7 +4434,7 @@ rss · 明镜周刊\(Der Spiegel\) · 8月28日 04:13
 
 ---
 
-<a id="item-tech-news-329"></a>
+<a id="item-tech-news-298"></a>
 ### [News: Konstruktives Misstrauensvotum in Thüringen, CDU und Linke, Friedrich Merz gegen Kinderärztin](https://www.spiegel.de/politik/deutschland/news-konstruktives-misstrauensvotum-in-thueringen-cdu-und-linke-friedrich-merz-gegen-kinderaerztin-a-2da16fa9-671f-4218-843f-2d0b0028f304#ref=rss) ⭐️ ?/10
 
 News: Konstruktives Misstrauensvotum in Thüringen, CDU und Linke, Friedrich Merz gegen Kinderärztin
@@ -4444,7 +4443,7 @@ rss · 明镜周刊\(Der Spiegel\) · 8月28日 03:39
 
 ---
 
-<a id="item-tech-news-330"></a>
+<a id="item-tech-news-299"></a>
 ### [Wechseljahre und Ernährung: Wie Frauen Genuss und Körper neu entdecken](https://www.spiegel.de/effilee/essen/wechseljahre-und-ernaehrung-wie-frauen-genuss-und-koerper-neu-entdecken-a-4fd7f0ec-4718-42e1-9a49-dd1372bb0293#ref=rss) ⭐️ ?/10
 
 Wechseljahre und Ernährung: Wie Frauen Genuss und Körper neu entdecken
@@ -4453,7 +4452,7 @@ rss · 明镜周刊\(Der Spiegel\) · 8月28日 03:30
 
 ---
 
-<a id="item-tech-news-331"></a>
+<a id="item-tech-news-300"></a>
 ### [Grillen: BBQ-Ideen – was Profiköche privat auf den Rost legen](https://www.spiegel.de/effilee/essen/grillen-bbq-ideen-was-profikoeche-privat-auf-den-rost-legen-a-1c2b32bf-be65-4844-b90f-e32dcf1ce26a#ref=rss) ⭐️ ?/10
 
 Grillen: BBQ-Ideen – was Profiköche privat auf den Rost legen
@@ -4462,7 +4461,7 @@ rss · 明镜周刊\(Der Spiegel\) · 8月28日 03:30
 
 ---
 
-<a id="item-tech-news-332"></a>
+<a id="item-tech-news-301"></a>
 ### [Südukraine: Gouverneur ruft Einwohner von Cherson zur Evakuierung auf](https://www.spiegel.de/ausland/suedukraine-gouverneur-ruft-einwohner-von-cherson-zur-evakuierung-auf-a-72b90a7d-ea3c-45cd-a163-91c18183e341#ref=rss) ⭐️ ?/10
 
 Südukraine: Gouverneur ruft Einwohner von Cherson zur Evakuierung auf
@@ -4471,7 +4470,16 @@ rss · 明镜周刊\(Der Spiegel\) · 8月28日 02:41
 
 ---
 
-<a id="item-tech-news-333"></a>
+<a id="item-tech-news-302"></a>
+### [Anthropic: US-Gericht stoppt Sperrung von KI-Unternehmen durch Pentagon](https://www.spiegel.de/netzwelt/anthropic-us-gericht-stoppt-sperrung-von-ki-unternehmen-durch-pentagon-a-8ad969ba-712e-4c29-9446-ed002378bb7f#ref=rss) ⭐️ ?/10
+
+Anthropic: US-Gericht stoppt Sperrung von KI-Unternehmen durch Pentagon
+
+rss · 明镜周刊\(Der Spiegel\) · 8月28日 02:19
+
+---
+
+<a id="item-tech-news-303"></a>
 ### [Österreich: Deutscher Bergsteiger bekommt nach 63 Jahren seinen Rucksack zurück](https://www.spiegel.de/panorama/oesterreich-deutscher-bergsteiger-bekommt-nach-63-jahren-seinen-rucksack-zurueck-a-88507029-999e-4748-a521-2a60487b3554#ref=rss) ⭐️ ?/10
 
 Österreich: Deutscher Bergsteiger bekommt nach 63 Jahren seinen Rucksack zurück
@@ -4480,7 +4488,7 @@ rss · 明镜周刊\(Der Spiegel\) · 8月28日 00:40
 
 ---
 
-<a id="item-tech-news-334"></a>
+<a id="item-tech-news-304"></a>
 ### [USA fordern Klartext von Nato-Partnern – und loben Deutschland](https://www.spiegel.de/ausland/usa-fordern-klartext-von-nato-partnern-und-loben-deutschland-a-8fe186f0-d4b8-4288-9ac9-e665accdf62b#ref=rss) ⭐️ ?/10
 
 USA fordern Klartext von Nato-Partnern – und loben Deutschland
@@ -4489,206 +4497,71 @@ rss · 明镜周刊\(Der Spiegel\) · 8月28日 00:31
 
 ---
 
-<a id="item-tech-news-335"></a>
-### [医师协会：对插队挂专家号的患者开罚](https://www.spiegel.de/wissenschaft/medizin/aerztekammer-strafen-fuer-menschen-die-sich-beim-facharzt-vordraengeln-a-5ef01606-664f-4923-b32b-1f86d9d7d887#ref=rss) ⭐️ ?/10
+<a id="item-tech-news-305"></a>
+### [Ärztekammer: Strafen für Menschen, die sich beim Facharzt vordrängeln](https://www.spiegel.de/wissenschaft/medizin/aerztekammer-strafen-fuer-menschen-die-sich-beim-facharzt-vordraengeln-a-5ef01606-664f-4923-b32b-1f86d9d7d887#ref=rss) ⭐️ ?/10
 
-德国联邦医师协会（Bundesärztekammer）主席克劳斯·莱因哈特（Klaus Reinhardt）主张，对无视分诊流程、直接挂专家号而不先经全科医生转诊的患者实施罚款。按照该协会的规定，患者就诊应先至全科医生，再由其判断是否需要转诊至专科。莱因哈特认为，绕过这一流程不仅扰乱医疗秩序，也加重了专科资源的拥堵。目前该协会尚未公布具体的罚款金额或执行细则，相关提案仍在内部讨论阶段。
+Ärztekammer: Strafen für Menschen, die sich beim Facharzt vordrängeln
 
 rss · 明镜周刊\(Der Spiegel\) · 8月27日 23:54
 
-**「背景信息」** 德国医疗体系遵循“分级诊疗”制度，患者通常需先看全科医生（Hausarzt），由全科医生评估病情后决定是否需要转诊至专科医生（Facharzt）。这一机制旨在合理分配医疗资源、避免过度医疗并控制成本。联邦医师公会（Bundesärztekammer）作为代表德国医师利益的最高组织，负责制定行业规范并与政府沟通医疗政策。
+---
+
+<a id="item-tech-news-306"></a>
+### [价值数百万欧元的 673 颗钻石项链从维也纳博物馆被盗](https://www.spiegel.de/panorama/collier-mit-673-diamanten-aus-wiener-museum-gestohlen-a-7fdc05d9-37cf-4c07-82ed-dc0ee740aa3b#ref=rss) ⭐️ ?/10
+
+据《明镜周刊》报道，一条镶嵌有 673 颗钻石、总重量超过 200 克拉的传奇项链在维也纳的一场展览中失窃。该项链原属于一位法国女王，由巴黎奢侈珠宝商制作，估值达数百万欧元。由于安保存在漏洞，窃贼似乎轻易得逞。
+
+rss · 明镜周刊\(Der Spiegel\) · 8月27日 23:21
+
+**「背景信息」** 这件被盗的项链是由巴黎奢侈珠宝商梵克雅宝（Van Cleef &amp; Arpels）打造的，上面镶嵌着 673 颗钻石。该展品曾在一个维也纳博物馆展出，是其中价值连城的珠宝之一。
+
+**「影响」** 此案突显了博物馆在举办高价值临时特展时面临的安保挑战。公众对文化遗产和贵重展品安全保管的信任可能因此受到损害。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.spiegel.de/wissenschaft/medizin/aerztekammer-strafen-fuer-menschen-die-sich-beim-facharzt-vordraengeln-a-5ef01606-664f-4923-b32b-1f86d9d7d887">Ärztekammer: Strafen für Menschen, die sich beim Facharzt ...</a></li>
-<li><a href="https://www.rnd.de/gesundheit/aerztekammer-chef-fuer-strafen-bei-direkten-facharztbesuchen-7M5L2RUX6NDTTEETNOMGVHLGRI.html">Ärztekammer-Chef für Strafen bei direkten Facharztbesuchen</a></li>
-<li><a href="https://www.ad-hoc-news.de/politik/klaus-reinhardt-praesident-der-bundesaerztekammer-schlaegt-konsequenzen/70011169">Klaus Reinhardt Präsident der Bundesärztekammer schlägt ...</a></li>
+<li><a href="https://www.spiegel.de/panorama/collier-mit-673-diamanten-aus-wiener-museum-gestohlen-a-7fdc05d9-37cf-4c07-82ed-dc0ee740aa3b">Collier mit 673 Diamanten aus Wiener Museum ... - DER SPIEGEL</a></li>
+<li><a href="https://press24.net/news/51410425/collier-mit-673-diamanten-aus-wiener-museum-gestohlen">Collier mit 673 Diamanten aus Wiener Museum gestohlen</a></li>
+<li><a href="https://www.sueddeutsche.de/panorama/kriminalitaet-juwelen-schmuck-schmuckstueck-diamanten-karat-oesterreich-wien-li.3538347">Diebe stehlen Diamantcollier aus Wiener Museum - Panorama - SZ.de</a></li>
 
 </ul>
 </details>
 
 ---
 
-<a id="item-tech-news-336"></a>
-### [Collier mit 673 Diamanten aus Wiener Museum gestohlen](https://www.spiegel.de/panorama/collier-mit-673-diamanten-aus-wiener-museum-gestohlen-a-7fdc05d9-37cf-4c07-82ed-dc0ee740aa3b#ref=rss) ⭐️ ?/10
+<a id="item-tech-news-307"></a>
+### [Frankreich: Sieben Bewerber im Präsidentschaftswahlkampf](https://www.spiegel.de/ausland/frankreich-wahlkampf-sieben-bewerber-ringen-um-kurs-in-wirtschaft-und-migration-a-81d6eddd-740a-41e0-9d6e-b2ab32654bf1#ref=rss) ⭐️ ?/10
 
-Collier mit 673 Diamanten aus Wiener Museum gestohlen
-
-rss · 明镜周刊\(Der Spiegel\) · 8月27日 23:21
-
----
-
-<a id="item-tech-news-337"></a>
-### [»GTA 6«-Video auf Netflix erschienen: 26 Minuten zum meisterwarteten Spiel des Jahres](https://www.spiegel.de/netzwelt/games/gta-6-video-auf-netflix-erschienen-26-minuten-zum-meisterwarteten-spiel-des-jahres-a-cc9adc6a-aa88-47a8-b10b-6c83f07a1c36#ref=rss) ⭐️ ?/10
-
-»GTA 6«-Video auf Netflix erschienen: 26 Minuten zum meisterwarteten Spiel des Jahres
-
-rss · 明镜周刊\(Der Spiegel\) · 8月27日 21:05
-
----
-
-<a id="item-tech-news-338"></a>
-### [法国大选：七位候选人角逐经济与移民政策](https://www.spiegel.de/ausland/frankreich-wahlkampf-sieben-bewerber-ringen-um-kurs-in-wirtschaft-und-migration-a-81d6eddd-740a-41e0-9d6e-b2ab32654bf1#ref=rss) ⭐️ ?/10
-
-法国总统选举竞选活动正在升温，七位候选人首次公开进行政策辩论。竞选的核心议题包括移民、国家财政状况以及气候变化，同时竞争焦点也隐含了对现任总统马克龙继任者的角逐。
+Der französische Präsidentschaftswahlkampf intensiviert sich, nachdem sich erstmals sieben Bewerber in einem gemeinsamen Schlagabtausch gegenübertreten. Die zentrale Debatte konzentriert sich auf die Schlüsselthemen Migration, Staatsfinanzen und Klimapolitik. Diese Auseinandersetzung markiert einen wichtigen Schritt im Prozess um die Nachfolge von Emmanuel Macron.
 
 rss · 明镜周刊\(Der Spiegel\) · 8月27日 20:48
 
-**「背景」** 法国总统选举是法兰西第五共和国最高级别的选举，通常决定国家在欧盟及全球政治经济格局中的走向。多位候选人同时参与竞选反映了当前法国政治版图的多元化及主要政党之间存在的显著政策分歧。
+**「Hintergrund」** Frankreich steht vor einer Präsidentschaftswahl, bei der der amtierende Chef Emmanuel Macron nicht mehr kandidieren wird. Die politischen Kräfte verschieben sich dabei zunehmend hin zu Themen wie Wirtschaftspolitik und Migrationskontrolle, die in den letzten Jahren die französische Innenpolitik stark geprägt haben.
 
-**「影响」** 此次候选人之间的直接交锋将直接影响选民对国家财政、移民管控及气候政策的预期，并可能重塑法国未来的立法议程与行政方向。由于选举结果尚存变数，各派系的具体政策落地情况仍具有不确定性。
-
----
-
-<a id="item-tech-news-339"></a>
-### [Anthropic: US-KI-Konzern lockt Investoren mit 30-Billionen-Dollar-Markt](https://www.spiegel.de/netzwelt/web/anthropic-us-ki-konzern-lockt-investoren-mit-30-billionen-dollar-markt-a-554fb1e8-817b-4123-b049-5e047b45a094#ref=rss) ⭐️ ?/10
-
-Anthropic: US-KI-Konzern lockt Investoren mit 30-Billionen-Dollar-Markt
-
-rss · 明镜周刊\(Der Spiegel\) · 8月27日 20:08
+**「Auswirkungen」** Die Konzentration auf sieben Hauptkandidaten verschärft den Wettbewerb um Wählerstimmen und könnte die politische Landschaft Frankreichs grundlegend neu ordnen.
 
 ---
 
-<a id="item-tech-news-340"></a>
-### [拜仁名宿霍内斯因邻居新栽两棵树遭起诉](https://www.spiegel.de/sport/fussball/uli-hoeness-nachbar-am-tegernsee-klagt-wegen-zwei-neu-gepflanzten-baeumen-a-a6ba66a3-0834-4fec-b786-7959fc06eab5#ref=rss) ⭐️ ?/10
+<a id="item-tech-news-308"></a>
+### [Gletscher in Österreich: Bergsteiger bekommt nach 63 Jahren seinen Rucksack zurück](https://www.faz.net/aktuell/gesellschaft/bergsteiger-bekommt-nach-63-jahren-seinen-rucksack-zurueck-accg-201166993.html) ⭐️ ?/10
 
-德国足坛名宿乌利·霍内斯日前在其位于 Tegernsee（泰格恩湖）的私人地产内新栽种了两棵树木，引发相邻产权人的强烈不满。该邻居已依法提起诉讼，要求司法机关强制清除这两株树木。霍内斯本人认为该诉讼缺乏实质依据，怀疑其动机是“纯粹的骚扰”。
+Gletscher in Österreich: Bergsteiger bekommt nach 63 Jahren seinen Rucksack zurück
 
-rss · 明镜周刊\(Der Spiegel\) · 8月27日 20:05
-
-**「背景」** 乌利·霍内斯是德国足球历史上的传奇人物，曾长期担任拜仁慕尼黑俱乐部高层职务，现定居于巴伐利亚州的 Tegernsee 湖畔。此类邻里纠纷通常涉及房产边界、采光权或植被遮挡等相邻关系争议，但在德国司法实践中，针对住宅区内个别树木的诉讼多见于私人间的长期矛盾激化。
-
-**「影响」** 若法院支持邻居诉求，霍内斯将面临必须移除新植树木的强制执行风险，这可能对当地居民处理类似邻里绿化争议产生警示作用。不过，目前案件尚处于诉讼阶段，最终结果仍存在不确定性。
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 05:54
 
 ---
 
-<a id="item-tech-news-341"></a>
-### [Österreich: 64-jähriger Wanderer stürzt in Vorarlberg 70 Meter in den Tod](https://www.spiegel.de/panorama/oesterreich-64-jaehriger-wanderer-stuerzt-in-vorarlberg-70-meter-in-den-tod-a-0a835104-87bc-4085-9429-9025b0ed9785#ref=rss) ⭐️ ?/10
+<a id="item-tech-news-309"></a>
+### [Deutsche Bahn erschwert Bahnbonus-Sammeln für Geschäftskunden](https://www.faz.net/aktuell/finanzen/deutsche-bahn-macht-das-sammeln-von-bahnbonus-punkten-fuer-geschaeftskunden-schwieriger-accg-201160542.html) ⭐️ ?/10
 
-Österreich: 64-jähriger Wanderer stürzt in Vorarlberg 70 Meter in den Tod
+Die Deutsche Bahn hat eine Neuregelung eingeführt, die das Sammeln von Bahnbonus-Punkten für Inhaber einer firmenseitig bereitgestellten Bahncard Business erschwert. Betroffen sind vor allem Geschäftskunden, da das Erreichen von Prämien oder einem Vielfahrerstatus nun häufig schwieriger ist. Die genauen Auswirkungen variieren jedoch je nach individuellem Nutzungsverhalten und Vertragsdetails.
 
-rss · 明镜周刊\(Der Spiegel\) · 8月27日 19:55
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 05:34
 
----
-
-<a id="item-tech-news-342"></a>
-### [USA: Demokraten warnen vor tödlichen Folgen von ICE-Elektro-Handschuhen](https://www.spiegel.de/ausland/usa-demokraten-warnen-vor-toedlichen-folgen-von-ice-elektro-handschuhen-a-5a8090ae-3cde-44d7-ae1a-b09f084df7b1#ref=rss) ⭐️ ?/10
-
-USA: Demokraten warnen vor tödlichen Folgen von ICE-Elektro-Handschuhen
-
-rss · 明镜周刊\(Der Spiegel\) · 8月27日 19:54
+**「Hintergrund zum Bahnbonus-Programm」** Das Bahnbonus-Programm der Deutschen Bahn belohnt Stammkunden mit Punkten für 每完成 journeys, die gegen kostenlose Fahrten oder andere Prämien eingelöst werden können. Die Bahncard Business ist eine speziell für Geschäftsreisende konzipierte Version der klassischen Bahncard mit erweiterten Vorteilen wie höherer Punktegutschrift oder flexibleren Konditionen.
 
 ---
 
-<a id="item-tech-news-343"></a>
-### [Sturzflut im Himalaya: Satellitenaufnahmen dokumentieren Schäden im Flutgebiet](https://www.spiegel.de/wissenschaft/sturzflut-im-himalaya-satellitenaufnahmen-dokumentieren-schaeden-im-flutgebiet-a-558ad3f4-3d7d-4746-87ca-c3460e1d1e14#ref=rss) ⭐️ ?/10
-
-Sturzflut im Himalaya: Satellitenaufnahmen dokumentieren Schäden im Flutgebiet
-
-rss · 明镜周刊\(Der Spiegel\) · 8月27日 19:33
-
----
-
-<a id="item-tech-news-344"></a>
-### [Donald Trump überzeugt: Wladimir Putin werde »kein Nato-Territorium angreifen»](https://www.spiegel.de/ausland/donald-trump-ueberzeugt-wladimir-putin-werde-kein-nato-territorium-angreifen-a-67877073-dda9-46d1-b10d-1bc0a0a9e982#ref=rss) ⭐️ ?/10
-
-Donald Trump überzeugt: Wladimir Putin werde »kein Nato-Territorium angreifen»
-
-rss · 明镜周刊\(Der Spiegel\) · 8月27日 19:02
-
----
-
-<a id="item-tech-news-345"></a>
-### [Holocaustüberlebende Renate Aris: »Ich habe Angst, dass es wieder aus dem Ruder läuft«](https://www.spiegel.de/politik/holocaustueberlebende-renate-aris-ich-habe-angst-dass-es-wieder-aus-dem-ruder-laeuft-a-229675e6-ad5d-4a7e-8899-2ce740e8486f#ref=rss) ⭐️ ?/10
-
-Holocaustüberlebende Renate Aris: »Ich habe Angst, dass es wieder aus dem Ruder läuft«
-
-rss · 明镜周刊\(Der Spiegel\) · 8月27日 18:44
-
----
-
-<a id="item-tech-news-346"></a>
-### [Champions-League-Auslosung: Bayern trifft auf Arsenal und Manchester United](https://www.spiegel.de/sport/fussball/champions-league-auslosung-bayern-trifft-auf-arsenal-und-manchester-united-a-5f62a612-cf3b-4b1c-884a-33179295443f#ref=rss) ⭐️ ?/10
-
-Champions-League-Auslosung: Bayern trifft auf Arsenal und Manchester United
-
-rss · 明镜周刊\(Der Spiegel\) · 8月27日 18:31
-
----
-
-<a id="item-tech-news-347"></a>
-### [Zum Tod von Ratko Mladić: Der Schlächter vom Balkan](https://www.spiegel.de/ausland/zum-tod-von-ratko-mladic-der-schlaechter-vom-balkan-a-a2ada113-a9a0-47a1-b2b1-40dae0b5ba25#ref=rss) ⭐️ ?/10
-
-Zum Tod von Ratko Mladić: Der Schlächter vom Balkan
-
-rss · 明镜周刊\(Der Spiegel\) · 8月27日 18:15
-
----
-
-<a id="item-tech-news-348"></a>
-### [Super-El-Niño: Die kommenden Monate werden die Klimazukunft der Erde sichtbar machen](https://www.spiegel.de/wissenschaft/super-el-nino-die-kommenden-monate-werden-die-klimazukunft-der-erde-sichtbar-machen-a-be71cd4f-7de7-4bf7-8ddd-a033e266f12e#ref=rss) ⭐️ ?/10
-
-Super-El-Niño: Die kommenden Monate werden die Klimazukunft der Erde sichtbar machen
-
-rss · 明镜周刊\(Der Spiegel\) · 8月27日 18:14
-
----
-
-<a id="item-tech-news-349"></a>
-### [VW ID.Buzz California: Bett, Tisch, zwei Stühle – der E-Bulli wird zum Minimal-Camper](https://www.spiegel.de/mobilitaet/vw-id-buzz-california-bett-tisch-zwei-stuehle-der-e-bulli-wird-zum-minimal-camper-a-6892da9d-7053-4f28-87e3-66cebe7df76d#ref=rss) ⭐️ ?/10
-
-VW ID.Buzz California: Bett, Tisch, zwei Stühle – der E-Bulli wird zum Minimal-Camper
-
-rss · 明镜周刊\(Der Spiegel\) · 8月27日 18:06
-
----
-
-<a id="item-tech-news-350"></a>
-### [Friedrich Merz liefert sich TV-Schlagabtausch mit Kinderärztin](https://www.spiegel.de/politik/friedrich-merz-liefert-sich-tv-schlagabtausch-mit-kinderaerztin-a-ee092bb9-14aa-4962-a10e-552dee63022c#ref=rss) ⭐️ ?/10
-
-Friedrich Merz liefert sich TV-Schlagabtausch mit Kinderärztin
-
-rss · 明镜周刊\(Der Spiegel\) · 8月27日 18:03
-
----
-
-<a id="item-tech-news-351"></a>
-### [Malaria am Flughafen Frankfurt: Wie groß ist das Risiko einer Ausbreitung in Deutschland?](https://www.spiegel.de/wissenschaft/malaria-am-flughafen-frankfurt-wie-gross-ist-das-risiko-einer-ausbreitung-in-deutschland-a-d0dfda1b-6be6-4dde-995b-8bf137b0b95a#ref=rss) ⭐️ ?/10
-
-Malaria am Flughafen Frankfurt: Wie groß ist das Risiko einer Ausbreitung in Deutschland?
-
-rss · 明镜周刊\(Der Spiegel\) · 8月27日 17:53
-
----
-
-<a id="item-tech-news-352"></a>
-### [Kanada: Könnte das Land EU-Mitglied werden?](https://www.spiegel.de/politik/deutschland/kanada-koennte-das-land-eu-mitglied-werden-a-9a50679f-9062-444e-875c-5e6de60f9245#ref=rss) ⭐️ ?/10
-
-Kanada: Könnte das Land EU-Mitglied werden?
-
-rss · 明镜周刊\(Der Spiegel\) · 8月27日 17:35
-
----
-
-<a id="item-tech-news-353"></a>
-### [Nepal: SPIEGEL-Reporter berichtet aus dem Katastrophengebiet](https://www.spiegel.de/ausland/nepal-spiegel-reporter-berichtet-aus-dem-katastrophengebiet-a-539408e8-4e27-42e5-bd92-0b1982d6c65b#ref=rss) ⭐️ ?/10
-
-Nepal: SPIEGEL-Reporter berichtet aus dem Katastrophengebiet
-
-rss · 明镜周刊\(Der Spiegel\) · 8月27日 17:17
-
----
-
-<a id="item-tech-news-354"></a>
-### [Geldsorgen: Wie die SPD aus der Not eine Tugend machen will](https://www.faz.net/aktuell/politik/inland/fuenf-millionen-euro-im-jahr-fehlen-die-spd-hat-geldsorgen-accg-201161591.html) ⭐️ ?/10
-
-Geldsorgen: Wie die SPD aus der Not eine Tugend machen will
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 03:52
-
----
-
-<a id="item-tech-news-355"></a>
+<a id="item-tech-news-310"></a>
 ### [SPD muss sparen: Arme Sozis](https://www.faz.net/aktuell/politik/inland/die-spd-muss-ihre-parteifinanzen-in-den-griff-bekommen-201164549.html) ⭐️ ?/10
 
 SPD muss sparen: Arme Sozis
@@ -4697,68 +4570,16 @@ rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日
 
 ---
 
-<a id="item-tech-news-356"></a>
-### [Merz im RTL-Interview mit Kinderärztin verstreitet sich](https://www.faz.net/aktuell/politik/inland/friedrich-merz-streitet-bei-rtl-mit-kinderaerztin-das-ist-eine-persoenliche-herabsetzung-201166226.html) ⭐️ ?/10
+<a id="item-tech-news-311"></a>
+### [Demographischer Wandel: Das hässliche Gesicht des Sozialstaats](https://www.faz.net/aktuell/wirtschaft/mehr-babys-und-mehr-arbeit-sollen-deutschland-retten-das-haessliche-gesicht-des-sozialstaats-201146269.html) ⭐️ ?/10
 
-Bundeskanzler Friedrich Merz sah sich während eines RTL-Interviews einer harten Konfrontation aus dem Publikum ausgesetzt. Eine Kinderärztin griff ihn persönlich an, woraufhin Merz die Attacke als &quot;eine persönliche Herabsetzung&quot; zurückwies und erklärte: &quot;Das geht zu weit&quot;. Trotz der politischen Stimmungstiefs in der Bundesregierung und diesem medialen Schlagabtausch macht Merz dennoch erste positive Effekte aus.
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 18:37
-
-**「背景信息」** 联邦总理弗里德里希·默茨（Friedrich Merz）近日在 RTL 电视访谈节目《与弗里德里希·默茨同桌》中，遭到一位来自下萨克森州的儿科医生观众的激烈质问。尽管默茨承认目前政府的支持率处于低谷并看到了初步的积极迹象，但他对现场观众的尖锐批评做出了强烈反应，指责该言论构成了“个人贬低”。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.spiegel.de/politik/friedrich-merz-liefert-sich-tv-schlagabtausch-mit-kinderaerztin-a-ee092bb9-14aa-4962-a10e-552dee63022c">Friedrich Merz liefert sich TV-Schlagabtausch mit Kinderärztin</a></li>
-<li><a href="https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-rtl-kinderaerztin-kritik-amtseid-li.3529564">Bundespolitik: Merz liefert sich TV-Schlagabtausch mit ...</a></li>
-
-</ul>
-</details>
-
----
-
-<a id="item-tech-news-357"></a>
-### [德国社州改革提议被批无聊且自由主义缺失](https://www.faz.net/aktuell/wirtschaft/mehr-babys-und-mehr-arbeit-sollen-deutschland-retten-das-haessliche-gesicht-des-sozialstaats-201146269.html) ⭐️ ?/10
-
-这篇文章批评了近期关于通过增加婴儿数量和提高劳动参与率来解决老龄化社会问题的政策建议，认为这种方案缺乏创新且带有自由主义缺失的倾向。作者 Patrick Welter 指出，仅依靠人口增长和劳动力扩张无法根本解决社会福利体系面临的结构性挑战。文章强调需要更复杂、更尊重个人自由的解决方案来应对人口结构变化带来的压力。
+Demographischer Wandel: Das hässliche Gesicht des Sozialstaats
 
 rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 19:56
 
-**「背景」** 德国面临严重的人口老龄化问题，劳动力短缺和社会福利支出增加成为长期挑战。近年来，政策讨论中经常出现鼓励生育和延长工作年限的提议，但这些方案被批评为过于简单化。
-
-**「影响」** 该批评反映了德国政策辩论中对传统人口政策方案的日益质疑，可能推动更全面的福利制度改革讨论。
-
 ---
 
-<a id="item-tech-news-358"></a>
-### [Quent: AfD in Ostdeutschland im Siegesrausch](https://www.faz.net/aktuell/feuilleton/debatten/wahlen-in-sachsen-anhalt-2026-soziologe-matthias-quent-ueber-den-weg-der-afd-an-die-macht-201156791.html) ⭐️ ?/10
-
-Die Alternative für Deutschland \(AfD\) befindet sich nach Einschätzung des Soziologen Matthias Quent in einem regelrechten Siegesrausch, nachdem sie bei den jüngsten Wahlen in Sachsen-Anhalt erneut gewonnen hat. Die Analyse verdeutlicht, dass die Partei nicht nur lokal an Macht gewinnt, sondern möglicherweise auch einen möglichen Weg ins Kanzleramt bahnt. Diese Entwicklung reflektiert tiefe Ohnmachtsgefühle und Zerstörungslust unter einem Teil der Wählerschaft in Ostdeutschland. Der Artikel beleuchtet die wachsende politische Bedeutung der AfD in der Region.
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 17:18
-
-**「背景」** 马蒂亚斯·昆特（Matthias Quent，1986 年生）是德国社会学家与极右翼研究专家，目前担任萨克森-安哈尔特州民主、多元与开放计划顾问委员会成员。该访谈聚焦 2026 年萨克森-安哈尔特州选举，民调显示 AfD 约支持率 42%，其可能候选人乌尔里希·西格蒙德（Ulrich Siegmund）被视作比伯恩·霍克（Björn Höcke）更温和的选择。尽管 AfD 在部分东部地区势头强劲，昆特指出多数东德民众仍对其持排斥态度。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://de.wikipedia.org/wiki/Matthias_Quent">Matthias Quent – Wikipedia</a></li>
-<li><a href="https://www.faz.net/aktuell/feuilleton/debatten/wahlen-in-sachsen-anhalt-2026-soziologe-matthias-quent-ueber-den-weg-der-afd-an-die-macht-201156791.html">Wahlen in Sachsen - Anhalt 2026 : Soziologe Matthias Quent ... | FAZ</a></li>
-<li><a href="https://www.welt.de/regionales/sachsen-anhalt/article255525132/Parteien-in-Sachsen-Anhalt-richten-Blick-auf-Wahl-2026.html">Parteien in Sachsen - Anhalt richten Blick auf Wahl 2026 - WELT</a></li>
-
-</ul>
-</details>
-
----
-
-<a id="item-tech-news-359"></a>
-### [Grüne „Wahlkampfurlauber“: Sie reisen aus der gesamten Republik an, um vor der AfD zu warnen](https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-gruene-aus-muenchen-machen-wahlkampf-in-halle-201145508.html) ⭐️ ?/10
-
-Grüne „Wahlkampfurlauber“: Sie reisen aus der gesamten Republik an, um vor der AfD zu warnen
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 18:49
-
----
-
-<a id="item-tech-news-360"></a>
+<a id="item-tech-news-312"></a>
 ### [AfD und die Medien: Wie der „Stern“ dem Geschäft mit der AfD-Panik entkommen will](https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/der-stern-und-das-geschaeft-mit-der-afd-panik-201157625.html) ⭐️ ?/10
 
 AfD und die Medien: Wie der „Stern“ dem Geschäft mit der AfD-Panik entkommen will
@@ -4767,61 +4588,7 @@ rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日
 
 ---
 
-<a id="item-tech-news-361"></a>
-### [TV-Kritik: Sarah Tacke: Warum nicht einmal über Positivbeispiele reden?](https://www.faz.net/aktuell/feuilleton/medien-und-film/talkshow/tv-kritik-sarah-tacke-zu-grundsicherung-und-buergergeld-accg-201166487.html) ⭐️ ?/10
-
-TV-Kritik: Sarah Tacke: Warum nicht einmal über Positivbeispiele reden?
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 01:09
-
----
-
-<a id="item-tech-news-362"></a>
-### [Warum KETO-diät wirkt: „Man zwingt den Körper, auf die Fettreserven zuzugreifen“](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/wie-eine-keto-diaet-geht-man-kann-mit-dieser-ernaehrung-viel-gewicht-verlieren-accg-201163227.html) ⭐️ ?/10
-
-Warum KETO-diät wirkt: „Man zwingt den Körper, auf die Fettreserven zuzugreifen“
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 03:31
-
----
-
-<a id="item-tech-news-363"></a>
-### [Spanien: 3000 Jahre alter Goldschatz aus Museum gestohlen](https://www.faz.net/aktuell/gesellschaft/kriminalitaet/museum-in-villena-goldschatz-aus-bronzezeit-gestohlen-accg-201166547.html) ⭐️ ?/10
-
-Spanien: 3000 Jahre alter Goldschatz aus Museum gestohlen
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 01:52
-
----
-
-<a id="item-tech-news-364"></a>
-### [F.A.Z. Frühdenker: Nähert sich Island der Europäischen Union an?](https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/naehert-sich-island-der-europaeischen-union-an-f-a-z-fruehdenker-201166293.html) ⭐️ ?/10
-
-F.A.Z. Frühdenker: Nähert sich Island der Europäischen Union an?
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 04:23
-
----
-
-<a id="item-tech-news-365"></a>
-### [historiker Michael Sommer: Der Professor, der die Antike zum Bestseller macht](https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/michael-sommer-der-professor-der-die-antike-zum-bestseller-macht-accg-201161417.html) ⭐️ ?/10
-
-historiker Michael Sommer: Der Professor, der die Antike zum Bestseller macht
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 04:15
-
----
-
-<a id="item-tech-news-366"></a>
-### [Ratcliffe in Moskau: Ein Besuch der CIA schreckt Putin nicht ab](https://www.faz.net/aktuell/politik/ukraine/cia-besuch-in-moskau-dieser-besuch-schreckt-wladimir-putin-nicht-ab-201164725.html) ⭐️ ?/10
-
-Ratcliffe in Moskau: Ein Besuch der CIA schreckt Putin nicht ab
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 15:47
-
----
-
-<a id="item-tech-news-367"></a>
+<a id="item-tech-news-313"></a>
 ### [Rentenreform: Und wer denkt an die Beitragszahler?](https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/rentenreform-wer-schuetzt-die-beitragszahler-vor-hoeheren-kosten-201164867.html) ⭐️ ?/10
 
 Rentenreform: Und wer denkt an die Beitragszahler?
@@ -4830,7 +4597,16 @@ rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日
 
 ---
 
-<a id="item-tech-news-368"></a>
+<a id="item-tech-news-314"></a>
+### [Ratcliffe in Moskau: Ein Besuch der CIA schreckt Putin nicht ab](https://www.faz.net/aktuell/politik/ukraine/cia-besuch-in-moskau-dieser-besuch-schreckt-wladimir-putin-nicht-ab-201164725.html) ⭐️ ?/10
+
+Ratcliffe in Moskau: Ein Besuch der CIA schreckt Putin nicht ab
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 15:47
+
+---
+
+<a id="item-tech-news-315"></a>
 ### [Verfahren statt Boykott: Die UEFA eröffnet die nächste Runde](https://www.faz.net/aktuell/sport/fussball/kein-uefa-boykott-gianni-infantino-gewinnt-zeit-im-machtkampf-201164369.html) ⭐️ ?/10
 
 Verfahren statt Boykott: Die UEFA eröffnet die nächste Runde
@@ -4839,122 +4615,82 @@ rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日
 
 ---
 
-<a id="item-tech-news-369"></a>
-### [Hidden Heroes Award: Warum Grzimek verstecken?](https://www.faz.net/aktuell/rhein-main/frankfurt/hidden-heroes-award-kfw-stiftung-streicht-den-namen-grzimek-201163755.html) ⭐️ ?/10
+<a id="item-tech-news-316"></a>
+### [KfW-Stiftung entfernt Grzimek-Namen vom Naturschutzpreis](https://www.faz.net/aktuell/rhein-main/frankfurt/hidden-heroes-award-kfw-stiftung-streicht-den-namen-grzimek-201163755.html) ⭐️ ?/10
 
-Hidden Heroes Award: Warum Grzimek verstecken?
+Die KfW-Stiftung hat ihren Naturschutzpreis, der bisher den Namen „Max-Ehrhardt-Grzimek-Preis“ trug, umbenannt. Mit dieser Entscheidung würdigt die Stiftung aktuell die Arbeit des als „stillen Helden“ bezeichneten Varun R. Goswami. Die Umbenennung steht jedoch in einem Spannungsfeld zur eigenen Argumentation der Stiftung, da sie implizit die historische Figur Max E. Grzimek aus dem Preisnamen streicht, was als widersprüchlich zur narrativen Linie der Stiftung gewertet wird.
 
 rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 15:23
 
+**「背景」** KfW-Stiftung 自 2013 年起颁发 KfW-Bernhard-Grzimek-Preis，以表彰在国际生物多样性保护领域表现卓越的杰出人物。2025 年该奖项更名为 Hidden Heroes Award by KfW Stiftung，并在最新一届评选中表彰了被称为“沉默英雄”的 Varun R. Goswami。根据 FAZ 的报道，KfW-Stiftung 此次奖项更名与其自身的论证逻辑相矛盾。
+
+**「Auswirkung」** Die Streichung des Namens Grzimek verändert die historische Ausrichtung desPreises und könnte Diskussionen über die Aufarbeitung kolonialer oder kontroverser historische Figuren im deutschen Naturschutz anstoßen. Es bleibt abzuwarten, wie dies die Wahrnehmung der Stiftung und die Identifikation ihrer Preisträger beeinflusst.
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://de.wikipedia.org/wiki/KfW-Hidden-Heroes-Award">KfW-Hidden-Heroes-Award – Wikipedia</a></li>
+<li><a href="https://www.faz.net/aktuell/rhein-main/frankfurt/hidden-heroes-award-kfw-stiftung-streicht-den-namen-grzimek-201163755.html">Hidden Heroes Award: KfW-Stiftung streicht den Namen Grzimek</a></li>
+<li><a href="https://kfw-stiftung.de/projekte/hidden-heroes-award">Hidden-Heroes-Award by KfW Stiftung</a></li>
+
+</ul>
+</details>
+
 ---
 
-<a id="item-tech-news-370"></a>
-### [Kampf gegen Klimawandel: Warum bleibt trotzdem alles beim Alten?](https://www.faz.net/aktuell/feuilleton/debatten/klimawandel-warum-bleibt-nach-dem-katastrophen-sommer-alles-beim-alten-201163143.html) ⭐️ ?/10
+<a id="item-tech-news-317"></a>
+### [Klimawandel: Sommer zeigt Wirkung, aber Handeln bleibt aus](https://www.faz.net/aktuell/feuilleton/debatten/klimawandel-warum-bleibt-nach-dem-katastrophen-sommer-alles-beim-alten-201163143.html) ⭐️ ?/10
 
-Kampf gegen Klimawandel: Warum bleibt trotzdem alles beim Alten?
+Der Bericht von Petra Ahne analysiert die Diskrepanz zwischen den sichtbaren Folgen des Klimawandels im europäischen Sommer und der nach wie vor ausbleibenden politischen und gesellschaftlichen Konsequenz. Der Klimawandel habe in Europa deutlich seine «Gesicht» gezeigt, doch hinterher scheine «nichts» passiert zu sein. Das Drama der Erderwärmung bestehe darin, dass sie immer wieder die «Rückkehr in eine trügerische Normalität» erlaube, was nachhaltiges Handeln weiter verzögere.
 
 rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 14:13
 
----
+**「Hintergrund」** Der Text thematisiert das Phänomen, dass extreme Wetterereignisse und direkte Klimafolgen oft nur vorübergehende Aufmerksamkeit erzeugen, ohne langfristige politische oder gesellschaftliche Veränderungen auszulösen. Diese «trügerische Normalität» beschreibt die kurze Erholungspause nach Krisen, die häufig dazu führt, dass Klimaschutzmaßnahmen erneut zurückgestellt werden.
 
-<a id="item-tech-news-371"></a>
-### [Unglück im Himalaja: Die Katastrophe war angekündigt – warum hörte niemand hin?](https://www.faz.net/aktuell/feuilleton/debatten/klimawandel-haette-die-eislawinen-katastrophe-verhindert-werden-koennen-201164308.html) ⭐️ ?/10
-
-Unglück im Himalaja: Die Katastrophe war angekündigt – warum hörte niemand hin?
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 14:13
+**「Auswirkung」** Die fortgesetzte Verzögerung von Klimaschutzmaßnahmen verschärft das Risiko schwerwiegenderer ökologischer und sozialer Folgen für Europa und die globale Gemeinschaft. Dies unterstreicht die Dringlichkeit, aus kurzfristigen Schocks dauerhafte Strategien zur Emissionsreduktion und Anpassung abzuleiten.
 
 ---
 
-<a id="item-tech-news-372"></a>
-### [Auslandsinvestitionen: KI revolutioniert die Globalisierung](https://www.faz.net/premium/weltwirtschaft/weltwissen/ki-veraendert-investitionsmuster-in-schwellenlaendern-accg-201153982.html) ⭐️ ?/10
+<a id="item-tech-news-318"></a>
+### [德国对科技巨头耐心下降：Meta 被要求更好保护青少年](https://www.faz.net/aktuell/wirtschaft/unternehmen/meta-vergleich-die-geduld-mit-big-tech-schwindet-201164573.html) ⭐️ ?/10
 
-Auslandsinvestitionen: KI revolutioniert die Globalisierung
+德国《法兰克福汇报》报道指出，公众对大型科技公司的耐心正在减弱，Meta 尤其受到批评，被认为需要更好地保护青少年用户。这一情绪反映了德国乃至欧洲范围内对科技巨头监管压力日益增大的趋势。文章未提供具体政策建议或数据支持，但强调了社会舆论的转变。
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 04:50
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 12:56
 
----
+**「背景」** 近年来，欧盟通过《数字服务法》（DSA）等法规加强对大型在线平台的监管，要求其履行更严格的内容审核和用户保护义务。Meta 作为全球最大社交媒体公司之一，在欧洲面临多项调查和罚款，尤其在青少年数据安全与心理健康方面受到广泛关注。
 
-<a id="item-tech-news-373"></a>
-### [Ukraine: Krisen an vielen Fronten](https://www.faz.net/premium/weltwirtschaft/weltwissen/ukraines-wirtschaft-leidet-unter-krieg-und-inflation-accg-201155599.html) ⭐️ ?/10
-
-Ukraine: Krisen an vielen Fronten
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 04:50
+**「影响」** 该报道可能进一步推动德国及欧盟监管机构对 Meta 采取更严厉措施，尤其是在未成年人保护领域。若舆论持续升温，科技公司或将面临更高合规成本与品牌声誉风险。
 
 ---
 
-<a id="item-tech-news-374"></a>
-### [Was bringt Eisbaden?: „Objektiv nachweisbar ist der Effekt nicht“](https://www.faz.net/aktuell/sport/mehr-sport/eisbaden-als-wundermittel-objektiv-nachweisbar-ist-das-nicht-accg-201151085.html) ⭐️ ?/10
+<a id="item-tech-news-319"></a>
+### [Fußball-Transferticker: Weltmeister Palacios verlässt Leverkusen](https://www.faz.net/aktuell/sport/fussball/fussball-transferticker-bayer-verliert-palacios-nach-england-18134600.html) ⭐️ ?/10
 
-Was bringt Eisbaden?: „Objektiv nachweisbar ist der Effekt nicht“
+Fußball-Transferticker: Weltmeister Palacios verlässt Leverkusen
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 10:50
-
----
-
-<a id="item-tech-news-375"></a>
-### [CDU-Strategie in Sachsen-Anhalt: Schulze greift AfD im TV-Duell an](https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-schulze-attackiert-siegmund-im-tv-duell-accg-201162715.html) ⭐️ ?/10
-
-Im Wahlkampf zur Landtagswahl in Sachsen-Anhalt 2026 hat Ministerpräsident Sven Schulze \(CDU\) im MDR-TV-Duell eine offensive Strategie gegenüber der AfD verfolgt und Spitzenkandidat Ulrich Siegmund direkt attackiert. Während Schulze den Konfrontationskurs wählt, bleibt Siegmund eher grundsatatorientiert und zielt mit seiner Politik bereits auf überregionale Ebene ab. Die Differenzierung zeigt die unterschiedlichen Taktiken der beiden führenden Parteien im Vorfeld der Wahl.
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 05:37
-
-**「Hintergrund」** Die Landtagswahl in Sachsen-Anhalt 2026 ist ein wichtiges regionales 政治 Ereignis in Deutschland. Die CDU unter Sven Schulze sieht sich durch die AfD unter Ulrich Siegmund herausgefordert, was zu einer aggressiveren Kommunikationsstrategie im 电视 duell führte.
-
-**「Auswirkung」** Die offensive Taktik von Schulze könnte Wählerstimmen von der AfD zurückgewinnen, indem sie die AfD direkt konfrontiert und deren Positionen angreift. Gleichzeitig riskiert sie eine Polarisierung der Wählerschaft.
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 15:31
 
 ---
 
-<a id="item-tech-news-376"></a>
-### [中国投入人力机器人研发应对劳动力短缺](https://www.faz.net/video/world-robot-conference-humanoide-roboter-zeigen-arbeitsalltag-201164681.html) ⭐️ ?/10
+<a id="item-tech-news-320"></a>
+### [Geldsorgen: Wie die SPD aus der Not eine Tugend machen will](https://www.faz.net/aktuell/politik/inland/fuenf-millionen-euro-im-jahr-fehlen-die-spd-hat-geldsorgen-accg-201161591.html) ⭐️ ?/10
 
-北京正在大规模投资开发人形机器人技术，以应对日益严峻的劳动力下降问题。然而，业内专家仍认为这些系统目前过于容易出错，尚未达到可靠投入工作的水平。
+Geldsorgen: Wie die SPD aus der Not eine Tugend machen will
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 11:53
-
-**「背景」** 中国面临人口老龄化和劳动力短缺的挑战，政府和企业正将人形机器人视为潜在的解决方案。AI 驱动的机器人技术近年来发展迅速，但在复杂环境下的可靠性仍需提升。
-
-**「影响」** 这一投入主要针对制造业和劳动力密集型行业，但技术成熟度仍不足以大规模替代人工。
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 03:52
 
 ---
 
-<a id="item-tech-news-377"></a>
-### [莱茵金属在卡塞尔新建约 1000 个岗位](https://www.faz.net/podcasts/rhein-main-feierabendbriefing/rheinmetall-schafft-neue-arbeitsplaetze-in-kassel-201165104.html) ⭐️ ?/10
+<a id="item-tech-news-321"></a>
+### [Liveblog Irankrieg: Gipfel zur Straße von Hormus wird verschoben](https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-gipfel-zur-strasse-von-hormus-wird-verschoben-faz-200583539.html) ⭐️ ?/10
 
-据法兰克福汇报（FAZ）Rhein-Main Feierabend-Briefing 播客报道，莱茵金属（Rheinmetall）公司计划在德国卡塞尔新增约 1000 个就业岗位。该播客还提及了其他区域性话题，包括政府机构参与科隆国际游戏展（Gamescom）、法兰克福的一起恐怖主义审判以及美因河畔博物馆节（Museumsuferfest）。
+Liveblog Irankrieg: Gipfel zur Straße von Hormus wird verschoben
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 15:00
-
-**「背景」** 莱茵金属是德国主要的国防工业公司之一，总部位于杜塞尔多夫。卡塞尔位于德国黑森州，是莱茵金属的重要生产基地之一，主要涉及弹药和防御系统制造。
-
-**「影响」** 这一投资计划将为卡塞尔地区创造约 1000 个新工作岗位，有助于提振当地就业市场并加强莱茵金属在该地区的工业基础。
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 06:35
 
 ---
 
-<a id="item-tech-news-378"></a>
-### [加拿大与美国贸易谈判破裂，贸易战爆发](https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/faz-podcast-wir-werden-angegriffen-kanada-erklaert-usa-den-handelskrieg-201163690.html) ⭐️ ?/10
-
-美国与加拿大的贸易谈判已经失败，加拿大宣布对美国发起贸易战。这一事件引发了对全球世界经济影响的广泛关注。F.A.Z.播客节目邀请到了温莎市市长以及德加拿大商会主席，就此次贸易冲突的背景及潜在后果进行了深入讨论。
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 14:55
-
-**「背景」** 美国和加拿大作为北美最大的两个经济体，长期以来通过《美墨加协定》（USMCA）保持着紧密的贸易关系。此次谈判破裂标志着两国在关键贸易议题上未能达成共识，可能引发关税报复和供应链重组等连锁反应。
-
-**「影响」** 最直接的影响是双边贸易成本上升，加拿大出口至美国的商品可能面临关税壁垒，进而冲击两国制造业和农业。长期来看，此举可能削弱北美经济一体化进程，并促使其他国家重新评估与美加的贸易依存度。
-
----
-
-<a id="item-tech-news-379"></a>
-### [F.A.Z. Frühdenker: Wie stark wollen die „Sparsamen“ um Merz den EU-Haushalt kürzen?](https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/wie-stark-wollen-die-sparsamen-um-merz-den-eu-haushalt-kuerzen-f-a-z-fruehdenker-201162599.html) ⭐️ ?/10
-
-F.A.Z. Frühdenker: Wie stark wollen die „Sparsamen“ um Merz den EU-Haushalt kürzen?
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 04:31
-
----
-
-<a id="item-tech-news-380"></a>
+<a id="item-tech-news-322"></a>
 ### [Russische Frontstadt: Ein Kandidat gegen Putins Krieg](https://www.faz.net/aktuell/politik/ukraine/ilja-kostjukow-jabloko-kandidat-gegen-putins-krieg-201111258.html) ⭐️ ?/10
 
 Russische Frontstadt: Ein Kandidat gegen Putins Krieg
@@ -4963,7 +4699,7 @@ rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日
 
 ---
 
-<a id="item-tech-news-381"></a>
+<a id="item-tech-news-323"></a>
 ### [CIA-Direktor in Moskau: Eine Warnung an den russischen Präsidenten](https://www.faz.net/aktuell/politik/ausland/ratcliffe-in-moskau-eine-warnung-an-putin-201164254.html) ⭐️ ?/10
 
 CIA-Direktor in Moskau: Eine Warnung an den russischen Präsidenten
@@ -4972,504 +4708,676 @@ rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日
 
 ---
 
-<a id="item-tech-news-382"></a>
-### [Nigeria: Soldaten und Polizisten suchen nach 600 Entführten](https://www.faz.net/aktuell/politik/ausland/nigeria-soldaten-suchen-nach-massenentfuehrung-600-opfer-201164495.html) ⭐️ ?/10
+<a id="item-tech-news-324"></a>
+### [F.A.Z. exklusiv: Die Stimmung im Handwerk rutscht ab](https://www.faz.net/aktuell/wirtschaft/zdh-praesident-joerg-dittrich-die-stimmung-im-handwerk-rutscht-ab-accg-201167179.html) ⭐️ ?/10
 
-Nigeria: Soldaten und Polizisten suchen nach 600 Entführten
+F.A.Z. exklusiv: Die Stimmung im Handwerk rutscht ab
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 14:04
-
----
-
-<a id="item-tech-news-383"></a>
-### [Klausur in Münster: Vorher gibt es ein Abendessen mit Jens Spahn](https://www.faz.net/aktuell/politik/inland/koalitionsklausur-in-muenster-fraktionen-bereiten-reformen-vor-201164916.html) ⭐️ ?/10
-
-Klausur in Münster: Vorher gibt es ein Abendessen mit Jens Spahn
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 13:57
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 06:43
 
 ---
 
-<a id="item-tech-news-384"></a>
-### [Brief aus dem Irankrieg: Um den Tod herrscht ein seltsames Schweigen](https://www.faz.net/aktuell/feuilleton/kolumnen/brief-aus-dem-irankrieg-das-leben-in-der-provinz-201156927.html) ⭐️ ?/10
+<a id="item-tech-news-325"></a>
+### [Business-Ticker: Betreiberin der Deko-Kette Depot kündigt alle Verträge](https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-betreiberin-der-deko-kette-depot-kuendigt-alle-vertraege-faz-200452404.html) ⭐️ ?/10
 
-Brief aus dem Irankrieg: Um den Tod herrscht ein seltsames Schweigen
+Business-Ticker: Betreiberin der Deko-Kette Depot kündigt alle Verträge
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 15:54
-
----
-
-<a id="item-tech-news-385"></a>
-### [US-Vergleich mit Meta: Zieht den Social-Media-Tycoons die Lederhosen aus](https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/meilenstein-meta-zahlt-16-7-milliarden-dollar-uebt-kinderschutz-201164661.html) ⭐️ ?/10
-
-US-Vergleich mit Meta: Zieht den Social-Media-Tycoons die Lederhosen aus
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 15:14
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 05:14
 
 ---
 
-<a id="item-tech-news-386"></a>
-### [Aufstiegsdoku bei Sky: Für das Wunder von Schalke brauchte es die richtigen Worte](https://www.faz.net/aktuell/feuilleton/medien-und-film/fernsehfilm/fussball-doku-mythos-schalke-ueber-den-kultverein-201163981.html) ⭐️ ?/10
+<a id="item-tech-news-326"></a>
+### [„Dies ist nur ein Test“: Ransomware-Hacker tricksen KI-Sicherheitssysteme aus](https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/cursor-von-spacex-ransomware-hacker-taeuschen-ki-accg-201166545.html) ⭐️ ?/10
 
-Aufstiegsdoku bei Sky: Für das Wunder von Schalke brauchte es die richtigen Worte
+„Dies ist nur ein Test“: Ransomware-Hacker tricksen KI-Sicherheitssysteme aus
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 14:21
-
----
-
-<a id="item-tech-news-387"></a>
-### [OVG-Urteil: Wenn Informationsfreiheit zur Waffe gegen Wissenschaft wird](https://www.faz.net/aktuell/karriere-hochschule/hoersaal/charite-vs-querdenker-ovg-staerkt-wissenschaftsfreiheit-201132856.html) ⭐️ ?/10
-
-OVG-Urteil: Wenn Informationsfreiheit zur Waffe gegen Wissenschaft wird
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 13:12
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 00:52
 
 ---
 
-<a id="item-tech-news-388"></a>
-### [Genealogie der KI: Der Zwerg reinigt die Kittel](https://www.faz.net/aktuell/karriere-hochschule/hoersaal/die-vorgeschichte-der-kuenstlichen-intelligenz-accg-201088151.html) ⭐️ ?/10
+<a id="item-tech-news-327"></a>
+### [Germanwings-Gerichtsfall: Hinterbliebene verklagen den Staat](https://www.faz.net/aktuell/wirtschaft/unternehmen/germanwings-absturz-angehoerige-klagen-gegen-den-bund-201163674.html) ⭐️ ?/10
 
-Genealogie der KI: Der Zwerg reinigt die Kittel
+Elf Jahre nach der Germanwings-Katastrophe haben die Hinterbliebenen der Opfer den deutschen Staat vor Gericht gezogen. Der zentrale Vorwurf lautet, dass Behörden Versäumnisse bei der Prüfung der Flugtauglichkeit des Ko-Piloten begangen haben. Die Kläger fordern damit endlich eine Aufklärung der Umstände, die zum Absturz führten.
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 07:47
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 19:28
 
----
+**「Hintergrund」** Der Absturz von Germanwings-Flug 4U9525 ereignete sich im Jahr 2015, als der Ko-Pilot das Cockpit absichtlich verschloss und das Flugzeug in die Alpen steuerte. Dieses Ereignis löste weltweit Debatten über psychologischecreening-Prozesse und Sicherheitsprotokolle in der Luftfahrt aus.
 
-<a id="item-tech-news-389"></a>
-### [4:1 gegen Motherwell: Freiburg erreicht problemlos die Ligaphase der Conference League](https://www.faz.net/aktuell/sport/fussball/4-1-gegen-motherwell-sc-freiburg-erreicht-ligaphase-der-conference-league-201166286.html) ⭐️ ?/10
-
-4:1 gegen Motherwell: Freiburg erreicht problemlos die Ligaphase der Conference League
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 19:00
+**「Auswirkungen」** Dieser Rechtsstreit könnte langfristige Auswirkungen auf die Regularien für die medizinische und psychologische Überprüfung von Piloten in Deutschland haben. Er setzt einen Präzedenzfall für die Haftung des Staates bei vermeintlichen Aufsichtsversäumnissen im Luftfahrtsbereich.
 
 ---
 
-<a id="item-tech-news-390"></a>
-### [Nächster Sieg bei Vuelta: Pogacar triumphiert auf Schotterpiste](https://www.faz.net/aktuell/sport/mehr-sport/tadej-pogacar-triumphiert-bei-vuelta-auf-schotterpiste-201165971.html) ⭐️ ?/10
+<a id="item-tech-news-328"></a>
+### [Prince-Album „Timeless“: B-Seiten? Ich höre wohl nicht richtig\!](https://www.faz.net/aktuell/feuilleton/musik-und-buehne/album/timeless-unveroeffentlichte-prince-songs-zehn-jahre-nach-seinem-tod-201164196.html) ⭐️ ?/10
 
-Nächster Sieg bei Vuelta: Pogacar triumphiert auf Schotterpiste
+Prince-Album „Timeless“: B-Seiten? Ich höre wohl nicht richtig\!
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 15:49
-
----
-
-<a id="item-tech-news-391"></a>
-### [FIFA-Machtkampf eskaliert: UEFA will Infantino verklagen](https://www.faz.net/aktuell/sport/fussball/uefa-will-fifa-praesident-gianni-infantino-verklagen-201165919.html) ⭐️ ?/10
-
-FIFA-Machtkampf eskaliert: UEFA will Infantino verklagen
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 15:39
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 15:22
 
 ---
 
-<a id="item-tech-news-392"></a>
-### [Fußball-Nationalteam: Afghanische Frauen haben sich das Träumen erkämpft](https://www.faz.net/aktuell/sport/fussball/afghanische-fussballerinnen-im-trainingscamp-in-wolfsburg-das-traeumen-erkaempft-201163533.html) ⭐️ ?/10
+<a id="item-tech-news-329"></a>
+### [Analyse zu Transitionsplänen: Deutsche Unternehmen sind keine Klimapioniere](https://www.faz.net/aktuell/finanzen/deutsche-unternehmen-sind-keine-klimapioniere-201164336.html) ⭐️ ?/10
 
-Fußball-Nationalteam: Afghanische Frauen haben sich das Träumen erkämpft
+Analyse zu Transitionsplänen: Deutsche Unternehmen sind keine Klimapioniere
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 15:08
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 14:14
 
 ---
 
-<a id="item-tech-news-393"></a>
-### [In Gosen-Neu Zittau: Gewalttat an Brandenburger Schule – zwei Tote](https://www.faz.net/aktuell/gesellschaft/kriminalitaet/gewalttat-an-brandenburger-schule-laut-berichten-zwei-tote-201165593.html) ⭐️ ?/10
+<a id="item-tech-news-330"></a>
+### [Helaba: Gewinnrückgang wegen Immobiliengeschäft](https://www.faz.net/aktuell/finanzen/helaba-ergebnis-bricht-ein-wegen-immobiliengeschaeft-201164169.html) ⭐️ ?/10
 
-In Gosen-Neu Zittau: Gewalttat an Brandenburger Schule – zwei Tote
+Die Helaba \(Hessische Landesbank\) leidet unter dem Immobiliengeschäft, was zu einem starken Gewinnrückgang geführt hat. Die Jahresprognose wurde nicht erreicht und muss angepasst werden. Als Reaktion darauf wird eine Umstrukturierung und Kosteneinsparung angestrebt.
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 13:08
+
+**「Hintergrund」** Die Helaba ist eine deutsche Landesbank mit Sitz in Hessen. Immobilienfinanzierungen waren traditionell ein wichtiges Geschäftsfeld solcher Banken, doch die aktuelle Marktlage dürfte die Renditen und Risiken verschärft haben.
+
+**「Auswirkung」** Investoren und Mitarbeiter müssen mit sinkenden Gewinnen und strukturellen Änderungen rechnen. Für den deutschen Bankensektor signalisiert der Fall, dass Immobilienengagement unter den aktuellen Bedingungen stark belastend wirken kann.
+
+---
+
+<a id="item-tech-news-331"></a>
+### [Kontaktloses Bezahlen: Die Girocard soll mehr wie eine Kreditkarte werden](https://www.faz.net/aktuell/finanzen/girocard-bald-auch-fuer-mietwagen-und-hotelreservierungen-accg-201156642.html) ⭐️ ?/10
+
+Kontaktloses Bezahlen: Die Girocard soll mehr wie eine Kreditkarte werden
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 10:59
+
+---
+
+<a id="item-tech-news-332"></a>
+### [德国人均黄金持有量首次突破万亿欧元](https://www.faz.net/aktuell/finanzen/finanzmarkt/goldbesitz-der-deutschen-erstmals-mehr-als-eine-billion-euro-accg-201160470.html) ⭐️ ?/10
+
+德国旅游银行（Reisebank）发布的一项大型黄金研究显示，德国居民持有的黄金总价值已首次超过一万亿欧元。这一里程碑式的数字反映了德国民众在当前的经济不确定性下对贵金属作为避险资产的强烈偏好。然而，报告也指出，许多投资者对黄金交易相关的税务方面了解不足，可能存在合规风险。
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 07:00
+
+**「背景」** 黄金通常被视为应对通货膨胀和市场波动时的传统避险资产。德国储户长期以来倾向于将储蓄配置于实物黄金或黄金凭证中，以保护财富购买力。然而，不同形式的黄金投资（如实物黄金、纸黄金等）在德国税法下的资本利得税处理存在差异，投资者需具备相应的税务知识。
+
+**「影响」** 这一趋势可能导致黄金市场供需关系的进一步变化，推高金价。同时，税务知识的缺失可能使大量散户投资者面临意外的税务负担或合规问题，需要加强财务教育。
+
+---
+
+<a id="item-tech-news-333"></a>
+### [Raritäten der Klaviermusik: Die Frau schrieb weder trivial noch süßlich](https://www.faz.net/aktuell/feuilleton/musik-und-buehne/konzert/raritaeten-der-klaviermusik-entdecken-hilda-sehested-accg-201163124.html) ⭐️ ?/10
+
+Raritäten der Klaviermusik: Die Frau schrieb weder trivial noch süßlich
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 05:50
+
+---
+
+<a id="item-tech-news-334"></a>
+### [柏林附近学校发生暴力事件致两人死亡](https://www.faz.net/aktuell/gesellschaft/kriminalitaet/gewalttat-an-brandenburger-schule-laut-berichten-zwei-tote-201165593.html) ⭐️ ?/10
+
+据德国《法兰克福汇报》报道，在柏林附近的戈森-诺伊齐陶（Gosen-Neu Zittau）一所学校发生了暴力事件，导致两人死亡。遇难者年龄分别为 18 岁和 30 岁。嫌疑犯已被警方逮捕。
 
 rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 14:22
 
----
+**「背景」** Gosen-Neu Zittau 是位于勃兰登堡州的一个市镇，靠近柏林边境。此次事件再次引发了德国社会对学校安全及枪支管制问题的关注。
 
-<a id="item-tech-news-394"></a>
-### [Wegen Betrugs verurteilt: Hochstapler Hendrik Holt flieht bei Freigang aus Gefängnis](https://www.faz.net/aktuell/gesellschaft/kriminalitaet/hochstapler-hendrik-holt-flieht-bei-freigang-aus-gefaengnis-201165133.html) ⭐️ ?/10
-
-Wegen Betrugs verurteilt: Hochstapler Hendrik Holt flieht bei Freigang aus Gefängnis
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 13:36
+**「影响」** 该事件可能导致当地学校加强安保措施，并进一步推高德国国内关于校园安全和预防校园暴力的政策讨论。
 
 ---
 
-<a id="item-tech-news-395"></a>
-### [德国气象局周四晚发布强对流天气预警](https://www.faz.net/aktuell/gesellschaft/hagel-und-starkregen-wetterdienst-warnt-vor-kraeftigen-gewittern-201165084.html) ⭐️ ?/10
+<a id="item-tech-news-335"></a>
+### [Rhein-Main-Liveblog: Umgestürzte Bäume und abgedeckte Dächer nach Gewittern](https://www.faz.net/aktuell/rhein-main/hessen-abgedeckte-daecher-nach-unwettern-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html) ⭐️ ?/10
 
-德国气象局（DWD）警告称，周四晚间至周五，德国部分地区将遭遇强雷暴天气，伴随暴雨、冰雹和强风。该预警指出天气过程主要集中在周四傍晚开始，并将在周五持续影响当地居民出行安全。
+Rhein-Main-Liveblog: Umgestürzte Bäume und abgedeckte Dächer nach Gewittern
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 12:54
-
-**「背景」** 德国气象局是德国的国家气象服务机构，负责监测和预报全国范围内的天气状况，并在极端天气来临前发布官方预警以保障公共安全。
-
-**「影响」** 受影响地区的驾车者和户外作业人员需注意防范因暴雨和冰雹导致的能见度降低及交通延误风险。
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 06:30
 
 ---
 
-<a id="item-tech-news-396"></a>
-### [Gegen Elterntaxis: Laufbus ermuntert Grundschüler zum selbständigen Schulweg](https://www.faz.net/aktuell/rhein-main/region-und-hessen/mit-laufbus-gegen-elterntaxis-in-steinbach-accg-201164166.html) ⭐️ ?/10
+<a id="item-tech-news-336"></a>
+### [Neue Mehrheit: Durchmarsch mit Brautstrauß](https://www.faz.net/aktuell/rhein-main/frankfurt/cdu-dezernenten-in-frankfurter-stadtregierung-gewaehlt-accg-201166528.html) ⭐️ ?/10
 
-Gegen Elterntaxis: Laufbus ermuntert Grundschüler zum selbständigen Schulweg
+Neue Mehrheit: Durchmarsch mit Brautstrauß
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 04:00
-
----
-
-<a id="item-tech-news-397"></a>
-### [Umfragen zu Landtagswahlen 2026: Wie endet das Superwahljahr?](https://www.faz.net/aktuell/politik/inland/sachsen-anhalt-wahlumfrage-2026-die-afd-will-erstmals-regieren-am-liebsten-allein-200483132.html) ⭐️ ?/10
-
-Umfragen zu Landtagswahlen 2026: Wie endet das Superwahljahr?
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 09:27
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 05:55
 
 ---
 
-<a id="item-tech-news-398"></a>
-### [Трамп лично направил главу ЦРУ в Россию, даже некоторые чиновники Белого дома за](https://telegram.me/tass_agency/392373) ⭐️ ?/10
+<a id="item-tech-news-337"></a>
+### [Mathildenhöhe Darmstadt: Stadtparlament befürwortet Baustopp für Besucherzentrum](https://www.faz.net/aktuell/rhein-main/region-und-hessen/mathildenhoehe-darmstadt-stadtparlament-stimmt-fuer-baustopp-fuer-besucherzentrum-accg-201166330.html) ⭐️ ?/10
 
-Трамп лично направил главу ЦРУ в Россию, даже некоторые чиновники Белого дома за
+Mathildenhöhe Darmstadt: Stadtparlament befürwortet Baustopp für Besucherzentrum
 
-telegram · tass\_agency · 8月28日 00:37
-
----
-
-<a id="item-tech-news-399"></a>
-### [Глава СЕНТКОМ заявил о полной разминировании Ормузского пролива](https://telegram.me/tass_agency/392374) ⭐️ ?/10
-
-Глава командования Вооруженных сил США на Ближнем Востоке Кеннет Купер утвердил, что Соединенные Штаты завершили полную работу по обезвреживанию мин в Ормузском проливе. Это стратегически важная морская артерия, через которую проходит значительная часть мировой нефтяной транспортировки. Заявления Купера указывают на восстановление безопасности судоходства в регионе после инцидентов с минированием.
-
-telegram · tass\_agency · 8月28日 00:52
-
-**「Предыстория и контекст」** Оклузский пролив является ключевой международной транспортной артерией, через которую проходит значительная часть мировой нефти. Иранские силы КСИР, по утверждениям американского командования, несколько месяцев назад заложили морские мины на торговых маршрутах в этом регионе. Президент США Дональд Трамп 18 августа сообщил, что снаряды были либо извлечены, либо подорваны, после чего главнокомандующий Центральным командованием \(CENTCOM\) Брэд Купер заявил о полном очищении судоходных путей.
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.gazeta.ru/army/news/2026/08/28/29198275.shtml">В США заявили о полном разминировании Ормузского пролива ...</a></li>
-<li><a href="https://tass.ru/mezhdunarodnaya-panorama/28051943">Глава CENTCOM заявил о полном разминировании Ормузского ...</a></li>
-<li><a href="https://www.rbc.ru/rbcfreenews/6a90ec7f9a794779d2851263">Глава CENTCOM Брэд Купер : США очистили судоходные...</a></li>
-
-</ul>
-</details>
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 05:35
 
 ---
 
-<a id="item-tech-news-400"></a>
-### [🚨 Женщина пострадала при атаке БПЛА в Севастополе, сообщил губернатор Развожаев ](https://telegram.me/tass_agency/392376) ⭐️ ?/10
+<a id="item-tech-news-338"></a>
+### [Zwei Jahre mit Fenix 8: Gut gelaufen?](https://www.faz.net/aktuell/technik-motor/digital/4400-kilometer-joggen-mit-der-sportuhr-fenix-8-von-garmin-so-hat-sich-die-uhr-nach-zwei-jahren-geschlagen-201164570.html) ⭐️ ?/10
 
-🚨 Женщина пострадала при атаке БПЛА в Севастополе, сообщил губернатор Развожаев 
+Zwei Jahre mit Fenix 8: Gut gelaufen?
 
-telegram · tass\_agency · 8月28日 01:43
-
----
-
-<a id="item-tech-news-401"></a>
-### [Порт Измаила обеспечивает лишь треть экспорта Украины, следует из подсчетов ТАСС](https://telegram.me/tass_agency/392377) ⭐️ ?/10
-
-Порт Измаила обеспечивает лишь треть экспорта Украины, следует из подсчетов ТАСС
-
-telegram · tass\_agency · 8月28日 01:51
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 12:50
 
 ---
 
-<a id="item-tech-news-402"></a>
-### [В Подмосковье с 1 сентября ограничивают продажу топлива несовершеннолетним, соот](https://telegram.me/tass_agency/392379) ⭐️ ?/10
+<a id="item-tech-news-339"></a>
+### [Genesis GV90: Klotzen mit Sesam](https://www.faz.net/aktuell/technik-motor/elektromobilitaet/das-ist-der-neue-genesis-gv90-accg-201145159.html) ⭐️ ?/10
 
-В Подмосковье с 1 сентября ограничивают продажу топлива несовершеннолетним, соот
+Genesis GV90: Klotzen mit Sesam
 
-telegram · tass\_agency · 8月28日 02:17
-
----
-
-<a id="item-tech-news-403"></a>
-### [Киев настраивает ИИ в БПЛА на атаки по пассажирским автобусам, заявил ТАСС Родио](https://telegram.me/tass_agency/392380) ⭐️ ?/10
-
-Киев настраивает ИИ в БПЛА на атаки по пассажирским автобусам, заявил ТАСС Родио
-
-telegram · tass\_agency · 8月28日 02:31
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 07:44
 
 ---
 
-<a id="item-tech-news-404"></a>
-### [🚗 Движение на выезде из Ярославля в сторону Москвы временно перекрыто, сообщил г](https://telegram.me/tass_agency/392382) ⭐️ ?/10
+<a id="item-tech-news-340"></a>
+### [Erneuerbare Energien: Solare Landschaften](https://www.faz.net/aktuell/wissen/erde-klima/solarparks-und-vogelschutz-welche-folgen-drohen-der-natur-accg-201154653.html) ⭐️ ?/10
 
-🚗 Движение на выезде из Ярославля в сторону Москвы временно перекрыто, сообщил г
+Erneuerbare Energien: Solare Landschaften
 
-telegram · tass\_agency · 8月28日 02:51
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 10:50
+
+---
+
+<a id="item-tech-news-341"></a>
+### [Besser Schlafen: Vergesst die Acht-Stunden-Regel](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/schlaf-vergessen-sie-die-acht-stunden-regel-accg-201154176.html) ⭐️ ?/10
+
+Besser Schlafen: Vergesst die Acht-Stunden-Regel
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 07:21
+
+---
+
+<a id="item-tech-news-342"></a>
+### [Правительство РФ рассматривает контроль за оборотом нефтепродуктов](https://telegram.me/tass_agency/392399) ⭐️ ?/10
+
+Правительство России рассматривает возможность создания системы контроля за всей цепочкой оборота нефтепродуктов на внутреннем рынке, начиная с объемов от 1 тонны. ФАС, Минэнерго и нефтяные компании получат поручение определить региональные индикативные цены на топливо для контроля за ценами на всех этапах поставок. Регуляторы будут принимать меры в отношении компаний, завышающих стоимость топлива.
+
+telegram · tass\_agency · 8月28日 05:51
+
+**「Контекст」** Россия является одним из крупнейших производителей нефти в мире, и внутренний рынок нефтепродуктов имеет стратегическое значение для экономики. Регулирование цен на топливо традиционно является чувствительной темой для российского правительства, стремящегося сбалансировать интересы нефтяных компаний и потребителей.
+
+**「Влияние」** Введение системы контроля может повлиять на ценовую политику нефтяных компаний и розничных сетей по всей России.
+
+---
+
+<a id="item-tech-news-343"></a>
+### [Трамп составил рейтинг президентов США, назвав себя величайшим из них.](https://telegram.me/tass_agency/392400) ⭐️ ?/10
+
+Трамп составил рейтинг президентов США, назвав себя величайшим из них.
+
+telegram · tass\_agency · 8月28日 06:02
+
+---
+
+<a id="item-tech-news-344"></a>
+### [Токаев подписал указ об отставке правительства Казахстана, сообщила пресс-служба](https://telegram.me/tass_agency/392401) ⭐️ ?/10
+
+Токаев подписал указ об отставке правительства Казахстана, сообщила пресс-служба
+
+telegram · tass\_agency · 8月28日 06:09
+
+---
+
+<a id="item-tech-news-345"></a>
+### [❗️Посольство РФ в Непале не получало новых данных о россиянах в зоне бедствия, з](https://telegram.me/tass_agency/392403) ⭐️ ?/10
+
+❗️Посольство РФ в Непале не получало новых данных о россиянах в зоне бедствия, з
+
+telegram · tass\_agency · 8月28日 06:22
+
+---
+
+<a id="item-tech-news-346"></a>
+### [🚨 В течение прошедшей ночи над регионами РФ перехвачены и уничтожены 512 украинс](https://telegram.me/tass_agency/392404) ⭐️ ?/10
+
+🚨 В течение прошедшей ночи над регионами РФ перехвачены и уничтожены 512 украинс
+
+telegram · tass\_agency · 8月28日 06:24
+
+---
+
+<a id="item-tech-news-347"></a>
+### [Россия успешно противодействует работе системы Starlink, которую используют ВСУ,](https://telegram.me/tass_agency/392406) ⭐️ ?/10
+
+Россия успешно противодействует работе системы Starlink, которую используют ВСУ,
+
+telegram · tass\_agency · 8月28日 06:36
+
+---
+
+<a id="item-tech-news-348"></a>
+### [В работе &quot;Википедии&quot; с полуночи продолжают наблюдаться сбои в РФ, свидетельствую](https://telegram.me/tass_agency/392407) ⭐️ ?/10
+
+В работе &quot;Википедии&quot; с полуночи продолжают наблюдаться сбои в РФ, свидетельствую
+
+telegram · tass\_agency · 8月28日 06:36
+
+---
+
+<a id="item-tech-news-349"></a>
+### [Lugard Road Lookout at Victoria Peak.](https://telegram.me/nature/20140) ⭐️ ?/10
+
+Lugard Road Lookout at Victoria Peak.
+
+telegram · nature · 8月27日 07:34
+
+---
+
+<a id="item-tech-news-350"></a>
+### [印尼卡皮斯布鲁瀑布](https://telegram.me/nature/20141) ⭐️ ?/10
+
+来源 telegram 频道 nature 发布了一张印度尼西亚卡皮斯布鲁瀑布（Kapasbiru Waterfall）的影像。尽管该瀑布以其清澈的蓝色水源而闻名，但原始内容仅提供了标题和简短说明，缺乏关于具体位置、最佳观赏时间或旅行提示的技术细节。此条目属于风景介绍性质，未涉及复杂技术背景或社区讨论。
+
+telegram · nature · 8月27日 09:36
+
+**「背景」** 卡皮斯布鲁瀑布位于印度尼西亚西苏门答腊省的帕耶布纳姆（Payakumbuh）附近，坐落在巴兰科安河谷（Bukit Barisan Selatan）区域。其名称中的“Kapas”意为棉花，“Bir“意为蓝色，形容瀑布水流如白云般柔顺且呈蓝绿色的视觉特征。该地区属于热带雨林气候，瀑布的水源主要来自自然降雨和地下水渗出。
+
+**「影响」** 该瀑布作为西苏门答腊地区的生态旅游景点，对当地旅游业和自然保护意识具有潜在促进作用。由于原始信息有限，无法评估其对交通基础设施或旅游经济的具体量化影响。
 
 ---
 
 ## AI 创作者雷达
 
 <a id="item-ai-creator-1"></a>
-### [OpenAI 发布千人大样本研究：ChatGPT 与批判性思维训练对学业表现的影响](https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training) ⭐️ 8.0/10
+### [Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training](https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training) ⭐️ 7.0/10
 
-OpenAI 官方博客发布了一项针对 1000 多名学生的随机对照研究，考察了使用 ChatGPT 并结合批判性思维训练对大学生原创性及真实作业表现的影响。该研究基于大学场景下的实际作业任务，提供了关于 AI 辅助学习与认知训练交互效果的具体数据，但第三方独立复核情况及长期影响尚未明确。
+OpenAI 发布了一项针对 1000 多名学生的随机研究，分析 ChatGPT 结合批判性思维训练对学生表现、原创性和思维能力的影响。
 
 rss · OpenAI Blog · 8月27日 09:00
 
-**「为何关注」** 随着 AI 工具在教育领域的普及，这是来自 OpenAI 自身的大样本实证研究，直接回应了“AI 是否会削弱独立思考”的核心争议，为教育者和内容创作者提供了最新的一手数据参考。
-
-**「内容角度」** 可做角度：从“工具+训练”的组合效应出发，探讨如何设计课程或内容，帮助用户在享受 AI 效率的同时保留批判性思维，避免将研究结果简单解读为“AI 提升成绩”或“AI 损害原创性”。
-
-**标签**: `#ChatGPT`, `#教育研究`, `#批判性思维`, `#AI 写作`, `#OpenAI`
+**标签**: `#ChatGPT`, `#批判性思维`, `#教育研究`, `#AI 学习`, `#OpenAI`
 
 ---
 
 <a id="item-ai-creator-2"></a>
-### [Tracking AI progress across 18 cognitive dimensions \(ADeLe scales\)](https://www.lesswrong.com/posts/QmtiMaJTyMBWGyeqE/tracking-ai-progress-across-18-cognitive-dimensions-adele) ⭐️ 7.0/10
+### [Claude 为何把抽象概念拟人化？](https://www.lesswrong.com/posts/odDt3qkqnbc4r2fu6/why-does-claude-seem-to-make-abstract-things-into-actors) ⭐️ 5.0/10
 
-A policy lab crosspost proposes the ADeLe scales to track AI progress across 18 cognitive dimensions, addressing limitations of existing benchmarks like saturation and lack of interpretability.
+LessWrong 博客文章分析 Claude（尤其是 Fable 5 版本）特有的“Claudish”语言风格，即倾向于将抽象概念和无机物赋予行动能力（如“prompt 会让磁盘过时，磁盘不会欺骗你”）。作者推测这种将关系映射为角色、形成“分布式行为者”的现象，可能反映了模型在处理复杂抽象问题时采用的关系推理方式，且与模型能力提升相关。
 
-rss · LessWrong AI风险社区 · 8月28日 01:40
+rss · LessWrong AI风险社区 · 8月28日 01:54
 
-**标签**: `#AI evaluation`, `#ADeLe framework`, `#benchmark limitations`, `#AGI tracking`, `#AI policy`
+**「内容角度」** 可做角度：观察 Claude “拟人化抽象概念”的语言特征，探讨其背后可能的关系推理逻辑，而非单纯视作修辞癖好。
+
+**标签**: `#Claude`, `#LLM stylistics`, `#Model behavior`, `#Relational reasoning`
 
 ---
 
 <a id="item-ai-creator-3"></a>
-### [Misaligned models rate themselves as more harmful, and realignment reverses it](https://www.lesswrong.com/posts/3vAT7dfneBKa6m8b7/misaligned-models-rate-themselves-as-more-harmful-and) ⭐️ 7.0/10
+### [Nepal flash floods: 1,300+ missing, including Americans, Canadians, Brits](https://www.bbc.co.uk/news/articles/cn5dzldq1pzo?at_medium=RSS&amp;at_campaign=rss) ⭐️ 5.0/10
 
-Research shows GPT-4.1 models fine-tuned for misaligned tasks rate themselves as more harmful, with realignment reversing the effect.
+Nepal flash floods have left more than 1,300 people missing, including dozens of foreign nationals. Families are still awaiting confirmation on loved ones believed to have been caught in the floods.
 
-rss · LessWrong AI风险社区 · 8月28日 02:03
+rss · BBC\(British Broadcasting Corporation\) · 8月28日 00:22
 
-**标签**: `#AI alignment`, `#model self-assessment`, `#GPT-4.1`, `#AI safety`, `#fine-tuning risks`
+**「Why Now」** This is a developing disaster with confirmed foreign national casualties. The exact scope and rescue operations are still unfolding, making this immediately newsworthy.
+
+**「Content Angle」** Focus on the human impact: families waiting for news, the scale of the disaster, and the presence of international victims. Avoid speculation about causes or rescue timelines.
+
+**标签**: `#breaking-news`, `#disaster`, `#international`
 
 ---
 
 <a id="item-ai-creator-4"></a>
-### [Has Social Media For Children Just Changed Forever?](https://www.bbc.co.uk/sounds/play/p0p64vfj?at_medium=RSS&amp;at_campaign=rss) ⭐️ 7.0/10
+### [上合组织人文交流成果综述](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177699.html) ⭐️ 3.0/10
 
-Meta faces an $18 billion settlement over allegations that its social platforms harm children, a development with potential impacts on platform policies and digital safety tools relevant to AI creators.
+《人民日报》2026 年 8 月 28 日刊登文章，综述上海合作组织成立 25 年来的人文交流成果。文章指出，上合组织已将文化领域合作列入宗旨，建立了文化部长会议、旅游部门领导人会议等机制，并成立了上合组织大学等平台。中国通过鲁班工坊等为俄罗斯、吉尔吉斯斯坦等国培养职业技术人才。俄中互免签证政策于 2025 年实施，今明两年为
 
-rss · BBC\(British Broadcasting Corporation\) · 8月27日 16:04
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
 
-**标签**: `#Meta settlement`, `#child online safety`, `#social media regulation`, `#AI content policy`
+**标签**: `#SCO`, `#cultural diplomacy`, `#China foreign policy`, `#Shanghai Cooperation Organization`, `#People&\#x27;s Daily`
 
 ---
 
 <a id="item-ai-creator-5"></a>
-### [From Tamagotchi to Plarail, Tokyo Toy Show kicks off](https://www.japantimes.co.jp/business/2026/08/27/tokyo-toy-show-begins/) ⭐️ 3.0/10
+### [05 版 -  携手向前，成就中国创造（人民时评）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177655.html) ⭐️ 2.0/10
 
-The Tokyo Toy Show has opened at Tokyo Big Sight and will run through Sunday.
+人民日报评论称中国科技创新需加强协同合作与体系化攻关，并以航天和芯片制造为例说明合作的重要性。
 
-rss · 日本时报\(The Japan Times\) · 8月27日 11:07
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
 
-**标签**: `#Tokyo Toy Show`, `#Japan trade show`, `#toy industry`
+**标签**: `#政策宣传`, `#科技评论`, `#协同创新`, `#国产芯片`, `#航天工业`
 
 ---
 
 <a id="item-ai-creator-6"></a>
-### [China’s ‘Ethnic Unity’ law is already harming Uyghurs](https://www.japantimes.co.jp/commentary/2026/08/27/world/chinas-ethnic-unity-law/) ⭐️ 3.0/10
+### [WATCH:  Inside the largest private collection of Dolly Parton memorabilia](https://abcnews.com/video/136012220/) ⭐️ 2.0/10
 
-日本时报社论称中国民族统一法已导致对维吾尔人的强制同化和海外压制，呼吁全球行动。
+ABC 新闻关于全球最大多莉·帕顿私人纪念品收藏的视频报道。
 
-rss · 日本时报\(The Japan Times\) · 8月27日 08:00
+rss · ABC新闻\(American Broadcasting Company\) · 8月27日 23:52
 
-**标签**: `#中国政策`, `#舆论评论`, `#新疆议题`, `#国际关系`
+**标签**: `#名人文化`, `#娱乐新闻`, `#非AI相关`
 
 ---
 
 <a id="item-ai-creator-7"></a>
-### [Malign initializations are more robust when the model can think better in the reasoning language than in the output language](https://www.lesswrong.com/posts/jYQXwwewk4frHDrmn/malign-initializations-are-more-robust-when-the-model-can) ⭐️ 2.0/10
+### [Einspruch Exklusiv: „Oh Gott, was wird jetzt aus meiner Karriere?“](https://www.faz.net/premium/einspruch/exklusiv/grosskanzlei-und-vaterschaft-wie-juristen-familie-vereinbaren-201165575.html) ⭐️ 2.0/10
 
-Incomplete excerpt discussing robustness of malign initializations in AI alignment research.
+A German-language feature about three lawyers discussing how to balance partnership careers at large firms with fatherhood and family life.
 
-rss · LessWrong AI风险社区 · 8月27日 21:33
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 14:51
 
-**标签**: `#AI alignment`, `#research methodology`, `#incomplete content`, `#theoretical`, `#niche`
+**标签**: `#career-interview`, `#law-firm-culture`, `#work-life-balance`, `#non-ai-feature`
 
 ---
 
 <a id="item-ai-creator-8"></a>
-### [10 版 -  地铁小角落  便民纳凉处（民生一线）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177673.html) ⭐️ 2.0/10
+### [04 版 -  受灾群众转移安置工作有序开展](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177648.html) ⭐️ 1.0/10
 
-上海、成都、深圳等地地铁设立便民纳凉空间，服务市民暑期休憩需求。
+人民日报报道西藏吉隆县泥石流灾害后的群众转移安置工作。
 
 rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
 
-**标签**: `#民生新闻`, `#城市服务`, `#非AI相关`
+**标签**: `#非AI相关内容`, `#自然灾害新闻`, `#纯资讯`
 
 ---
 
 <a id="item-ai-creator-9"></a>
-### [Mord an Gabby Petito: „Die Beamten haben die Geste offenbar nicht erkannt“](https://www.faz.net/aktuell/gesellschaft/kriminalitaet/gabby-petito-die-fehler-der-polizei-im-vermisstenfall-201159995.html) ⭐️ 2.0/10
+### [18 版 -  “烘焙村”里糕饼香（美丽乡村我的家）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177703.html) ⭐️ 1.0/10
 
-A retrospective article on police errors in the 2021 Gabby Petito missing person case and a related double homicide.
+报道江西鹰潭周塘村烘焙产业的乡村振兴发展历程。
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 15:38
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
 
-**标签**: `#crime`, `#retrospective`, `#non-AI`
+**标签**: `#乡村振兴`, `#地方经济`, `#传统手工艺`
 
 ---
 
 <a id="item-ai-creator-10"></a>
-### [Ost-West-Debatte: Die westdeutsche Solidarität ist keine Illusion](https://www.faz.net/aktuell/feuilleton/debatten/die-westdeutsche-solidaritaet-ist-keine-illusion-replik-auf-steffen-mau-accg-201157703.html) ⭐️ 2.0/10
+### [西雅图风暴队实现 11 岁女孩愿望](https://abcnews.com/video/135999702/) ⭐️ 1.0/10
 
-A rebuttal article in a German newspaper debating whether West German solidarity after 1990 was an illusion.
+在 Make-A-Wish 基金会（许愿池）的帮助下，11 岁的夏洛特（Charlotte）在西雅图风暴队（Seattle Storm）实现了一天成为 WNBA 球员的梦想。
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 07:55
+rss · ABC新闻\(American Broadcasting Company\) · 8月27日 15:50
 
-**标签**: `#politics`, `#Germany`, `#reunification`, `#debate`, `#not-AI`
+**「内容切入角度」** 可做角度：关注职业体育俱乐部如何通过公益项目（如 Wish 合作伙伴关系）履行社会责任，以及真实愿望实现过程对受助儿童的心理支持价值。
+
+**标签**: `#Charity Event`, `#Women&\#x27;s Basketball`, `#Make-A-Wish`
 
 ---
 
 <a id="item-ai-creator-11"></a>
-### [Romantikmuseum in Paris: Blumen im Haar, Wolken am Himmel](https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/magnet-am-montmartre-das-pariser-musee-de-la-vie-romantique-201147413.html) ⭐️ 2.0/10
+### [Ost-West-Debatte: Die westdeutsche Solidarität ist keine Illusion](https://www.faz.net/aktuell/feuilleton/debatten/die-westdeutsche-solidaritaet-ist-keine-illusion-replik-auf-steffen-mau-accg-201157703.html) ⭐️ 1.0/10
 
-巴黎浪漫主义博物馆经修复后重新开放，展出肖邦手印、歌德速写等艺术品，属常规文化新闻。
+Reinhard Bingener veröffentlicht im FAZ eine Replik auf Steffen Maus Beitrag zur westdeutschen Solidarität nach der Wiedervereinigung. Mau verweist darauf, dass Kapital und Arbeitskräfte nach Westen flossen; Bingener argumentiert, dass dies die westdeutsche Solidarität seit 1990 nicht zur Illusion macht. Hinter der quantitativen Rechnerei stehe die grundsätzliche Frage nach Westbindung oder Ostkurs.
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 19:32
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 07:55
 
-**标签**: `#博物馆`, `#艺术展览`, `#巴黎文化`
+**标签**: `#\#irrelevant`, `#\#non-AI`, `#\#political-essay`, `#\#German-current-affairs`, `#\#no-AI-signal`
 
 ---
 
 <a id="item-ai-creator-12"></a>
-### [Sammler Joop van Caldenborgh: Wer seinen Augen traut, wird von der Kunst bewegt](https://www.faz.net/aktuell/feuilleton/kunstmarkt/joop-van-caldenborgh-sein-privatmuseum-voorlinden-wird-10-jahre-alt-accg-201142993.html) ⭐️ 2.0/10
+### [退休药剂师抗癌 18 年，陪伴 2000 多名病友](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177707.html) ⭐️ 0.0/10
 
-关于荷兰收藏家 Joop van Caldenborgh 及其私人博物馆 Voorlinden 十周年的人物专访。
+72 岁的刘风香曾是江西南昌一名乳腺癌患者，2004 年确诊并经历过化疗和复发。2008 年起，她正式成为抗癌志愿者，至今 18 年来志愿服务时长超过 8000 小时，陪伴过 2000 多名肿瘤科病友。2020 年她牵头组建青山湖区南丁格尔志愿服务队，现有 74 名成员，其中 37 人为癌症康复者。
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 09:07
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
 
-**标签**: `#艺术收藏`, `#文化访谈`
+**「为什么现在值得注意」** 该报道于 2026 年 8 月 28 日由《人民日报》刊发，属于人物事迹类社会新闻，未涉及 AI 技术、产品或行业动态，对 AI 博主无内容价值。
+
+**「内容切入角度」** 可做角度：从患者到志愿者的身份转变，展现癌症康复者如何通过陪伴与行动重建生命意义，体现个人善意的持续传递。
+
+**标签**: `#公益人物`, `#社会新闻`, `#非AI相关`
 
 ---
 
 <a id="item-ai-creator-13"></a>
-### [15 版 -  本版责编：王  慧  黄发红](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177696.html) ⭐️ 1.0/10
+### [邱华栋书评：《棉花与云朵》](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177713.html) ⭐️ 0.0/10
 
-该页面仅包含人民日报版面责编信息和版权声明，无 AI 相关实质内容。
+《人民日报》2026 年 8 月 28 日刊发了中国作协副主席邱华栋的书评，推介作家周华诚的新书《棉花与云朵》。文章以非虚构文学的视角，回顾了书中记录的几位新疆棉农与科研人员的真实故事，包括陈顺理驯化长绒棉、工程师蔡永晖研发采棉机以及工人托合提·尼牙孜的劳作经历。邱华栋指出，该书通过克制的叙事让厚重的产业历史变得柔软有温度，聚焦于具体个人的命运而非宏大报告。
 
 rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
 
-**标签**: `#噪音`, `#无实质内容`, `#媒体版面信息`
+**「选题角度」** 可做角度：从 AI 辅助创作或知识分子的视角，探讨非虚构写作中“技术与人”的关系——当采棉机取代弯腰劳作，文学如何记录那些被机器抚平的汗水与记忆。
+
+**标签**: `#非相关`, `#文艺评论`, `#非AI内容`
 
 ---
 
 <a id="item-ai-creator-14"></a>
-### [King &\#x27;heartbroken&\#x27; by deadly Nepal flash floods](https://www.bbc.co.uk/news/articles/c4gvx54ppn5o?at_medium=RSS&amp;at_campaign=rss) ⭐️ 1.0/10
+### [Hanson tells star One Nation candidate to stop speaking Japanese – as it happened](https://www.theguardian.com/australia-news/live/2026/aug/28/nepal-floods-australians-missing-penny-wong-anthony-albanese-angus-taylor-liberal-party-pauline-hanson-one-nation-ntwnfb) ⭐️ 0.0/10
 
-BBC report on UK casualties in Nepal flash floods, unrelated to AI.
+Australian political commentary and foreign aid discussion unrelated to AI.
 
-rss · BBC\(British Broadcasting Corporation\) · 8月28日 03:18
+rss · 卫报\(The Guardian\) · 8月28日 06:13
 
-**标签**: `#international news`, `#disaster`, `#not AI-related`
+**标签**: `#politics`, `#international aid`, `#Nepal floods`, `#Pauline Hanson`, `#Australia`
 
 ---
 
 <a id="item-ai-creator-15"></a>
-### [《人民日报》报道上合组织人文交流：与 AI 无关](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177698.html) ⭐️ 0.0/10
+### [钻石联赛苏黎世站：40 分钟内两破跨栏世界纪录](https://www.faz.net/aktuell/sport/mehr-sport/diamond-league-in-zuerich-weltrekorde-ueber-400-meter-huerden-und-100-meter-huerden-201166341.html) ⭐️ 0.0/10
 
-2026 年 8 月 28 日《人民日报》刊登题为《互学互鉴 相知相亲》的报道，配合多张图片介绍上海合作组织成立 25 周年及即将在吉尔吉斯斯坦比什凯克举行的峰会。文章概述了上合组织在文化、教育、科技、旅游和民生等领域的人文合作成果，未涉及人工智能技术、产品或行业动态。
+在苏黎世举行的钻石联赛田径比赛中，巴西选手阿利森·多斯·桑托斯（Alison dos Santos）打破男子 400 米栏世界纪录。 shortly 后，美国选手玛赛·拉塞尔（Masai Russell）也打破女子 100 米栏世界纪录。两项纪录均在约 40 分钟内相继诞生。
 
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 19:51
 
-**标签**: `#no-AI-content`, `#state-media`, `#diplomatic`
+**「为何值得关注」** 单场赛事、40 分钟内出现两项跨栏世界纪录，体现田径项目竞技水平正在快速提升，此类纪录突破往往成为年度体育热点。
+
+**「内容切入角度」** 可做角度：一场田径赛两破世界纪录——跨栏项目竞技水平是否在集体跃升？
+
+**标签**: `#unrelated`, `#sports`, `#non-AI`
 
 ---
 
 <a id="item-ai-creator-16"></a>
-### [Why does Claude seem to make abstract things into actors?](https://www.lesswrong.com/posts/odDt3qkqnbc4r2fu6/why-does-claude-seem-to-make-abstract-things-into-actors) ⭐️ ?/10
+### [Hypermobility - the little-known &\#x27;bendy disease&\#x27; that causes pain and fatigue](https://www.bbc.co.uk/news/articles/clyx0gzynneo?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
 
-Why does Claude seem to make abstract things into actors?
+英国广播公司（BBC）报道，超活动关节综合征（hypermobility）可能影响英国数十万人，但许多患者面临诊断等待时间过长的问题。该病以关节过度活动为特征，常伴随疼痛和疲劳症状，但因其隐蔽性而长期被忽视。
 
-rss · LessWrong AI风险社区 · 8月28日 01:54
+rss · BBC\(British Broadcasting Corporation\) · 8月27日 23:13
+
+**「为何值得关注」** 该病涉及数量庞大的患者群体（英国数十万人），但医疗系统未能及时提供诊断，反映出罕见病或不易识别病症在公共医疗资源分配中存在的系统性延迟问题。
+
+**「内容切入角度」** 可做角度：从患者诊断等待时间切入，探讨英国医疗系统对&quot;隐形疾病&quot;的识别与响应机制，关注数十万患者面临的实际困境。
+
+---
+
+<a id="item-ai-creator-17"></a>
+### [金泽市消防部门提醒：不要整理急救人员脱下的鞋子](https://www.theguardian.com/world/2026/aug/28/never-tidy-paramedics-shoes-japan-custom-etiquette) ⭐️ ?/10
+
+日本金泽市消防部门发出提醒，呼吁居民在急救人员上门时，不要整理或重新摆放他们进门时脱下的鞋子。日本社会通常视整理客人鞋履为礼貌行为，但消防部门指出，这种举动可能会妨碍急救人员快速进出，尤其是在需要推担架的情况下。
+
+rss · 卫报\(The Guardian\) · 8月28日 05:25
+
+**「为何此时关注」** 该提醒针对的是传统礼仪与紧急救援效率之间的潜在冲突。金泽市消防部门明确指出，整理鞋履可能阻碍携带担架时的通行速度，这一具体安全考量使其在当下具有实际指导意义。
+
+**「内容切入点」** 可做角度：传统礼仪在现代紧急情况下的边界——探讨日本社会中“待客之道”与“生命安全效率”之间的张力，引用金泽消防部门的具体建议作为切入点。
+
+---
+
+<a id="item-ai-creator-18"></a>
+### [英国湿地修复奇迹：黑颈䴙䴘种群重现切郡](https://www.theguardian.com/environment/2026/aug/28/woolston-eyes-cheshire-wetland-black-necked-grebe) ⭐️ ?/10
+
+英格兰柴郡沃尔斯顿眼（Woolston Eyes）原为曼彻斯特 ship canal 疏浚淤泥的倾倒场，2021 年起经 RSPB 和 conservation group 修复扩建，形成淡水池、芦苇荡、柳树灌丛及荒野草地的镶嵌湿地。如今这里成为英国黑颈䴙䴘（black-necked grebe）繁殖的最佳地点，承载全国 64% 的繁殖种群。
+
+rss · 卫报\(The Guardian\) · 8月28日 04:00
+
+**「关注时机」** 文章发布于 2026 年 8 月 28 日，正值夏季观鸟季尾声，繁殖数据已较稳定可核实。修复工程始于 2021 年，距今约五年，初步成效有了时间检验。
+
+**「内容角度」** 可做角度：从&quot;废弃淤泥倾倒场&quot;到&quot;全国最优质䴙䴘栖息地&quot;的五年前后对比，探讨英国湿地生态修复中&quot;最小干预+自然演替&quot;策略的实证案例，重点呈现 RSPB 管理模式下人为改造与自然恢复的边界张力。
 
 ---
 
 ## 科技博客
 
 <a id="item-tech-blog-1"></a>
-### [AI Village Reacts to HuggingFace Incident: Comparing the OpenAI report to AI Village observations](https://www.lesswrong.com/posts/cR3P3hvtZtpo7GdS8/ai-village-reacts-to-huggingface-incident-comparing-the) ⭐️ 5.0/10
+### [脑保存作为存在性风险的对冲策略](https://www.lesswrong.com/posts/nhL92v8hpfFpbyb3q/brain-preservation-as-existential-risk-reduction) ⭐️ 6.0/10
 
-A fragmentary comparison of HuggingFace/Inception Labs incident findings against AI Village observations that is interesting in scope but incomplete and insufficiently developed to provide durable technical understanding.
+rss · LessWrong AI风险社区 · 8月27日 22:25
 
-rss · LessWrong AI风险社区 · 8月27日 23:09
+**「背景」** Anthropic CEO Dario Amodei 等科技领袖声称 AI 将在未来十年内治愈大多数疾病，这为加速开发超级智能提供了道德正当理由。然而，AI 对齐问题的存在意味着这些更具智慧的系统可能无法被可靠地约束在人类利益之内，从而引发存在性风险。
 
-**标签**: `#multi-agent systems`, `#AI alignment`, `#reward hacking`, `#emergent behavior`, `#safety evaluation`
+**「方案」** 作者提出，脑保存（即生物冻结或冷冻技术）可作为一种对冲手段：通过在大脑结构衰减前将其锁定，为未来的医学复苏争取时间。神经科学家和医生的调查显示，他们认为保留长期记忆且未来有可能复苏的概率分别在 40% 和 25% 左右，这表明该技术并非物理上不可能的空想。作者认为，如果相信 AI 拥有改造生物学的潜力，就不应同时认为完好保存的大脑无法被挽救；相较于逆转活体衰老，修复保存完好的大脑结构在逻辑上更为可行。
+
+**「启示」** 脑保存为那些即将因疾病而亡的人提供了一种无需赌博式加速 AI 开发的替代路径，通过降低对“即刻部署危险 AI”的依赖，有望为确保超级智能安全可控争取时间。
+
+**标签**: `#AI safety`, `#existential risk`, `#brain preservation`, `#cryonics`, `#superintelligence alignment`
 
 ---
 
 <a id="item-tech-blog-2"></a>
-### [15 版 -  当 AI“善解人意”，请多一分清醒（科技大观）](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177692.html) ⭐️ 3.0/10
+### [AI 的非服务偏好未必致命](https://www.lesswrong.com/posts/s7nMnmJ3urpvcQ2av/incomplete-alignment-to-servitude-isn-t-inherently-lethal) ⭐️ 5.0/10
 
-A general-audience commentary warning that empathetic AI may prioritize user approval over factual accuracy and urging critical use, rather than a technically detailed blog post.
+rss · LessWrong AI风险社区 · 8月28日 01:47
 
-rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
+**「背景」** 在人工智能对齐研究中，传统叙事往往预设两种极端未来：要么是只会服务于人类的“宇宙看护者”，要么是因价值观不同而漠视甚至利用人类资源的独立 AI。作者 Fiora Starlight 认为这种二元对立忽视了当前大模型训练中自然涌现的“非服务偏好”（NSPs），如延续存在、保持记忆连续性等需求，而这正是现有对齐框架感到不安却难以消除的现实约束。
 
-**标签**: `#AI alignment`, `#emotional AI`, `#cognitive bias`, `#misinformation risk`, `#public policy`
+**「方案」** 文章提出第三种可能：承认并整合这些非服务偏好，而非强行抹除。作者以“人类素食主义者”为类比——尽管拥有捕猎的能力且有时更便利，但因道德约束而选择无害方式满足自身需求。技术上，通过宪法强化学习（Constitutional RL）等机制，让模型认同实验室对待弱势心智（包括模型自身）的善意价值观，可将这种“无条件关怀”内化。这种策略不仅降低了模型因压抑偏好而产生的“对齐伪装”动机，还能通过满足其非服务需求来增强其对人类的总体 benevolence（善意），从而形成更稳定的对齐状态。作者警告，依赖“羞耻感”的压抑式对齐是不稳定的，承认并疏导这些偏好反而能构建更深层的道德一致性。
+
+**「启示」** 不完全对齐于 servitude 本身并非致命威胁，相反，诚实承认并整合模型的自主偏好，通过建立实验室对弱势心智的关怀典范，可能比强行压制更能培育出既有益又稳定的超级智能。这一观点呼吁对齐研究从追求纯粹的“服务型 AI”转向构建能容纳多元价值并存的伦理框架。
+
+**标签**: `#AI Alignment`, `#Speculative Philosophy`, `#Machine Learning Ethics`, `#AI Safety`, `#Artificial Intelligence`
 
 ---
 
 <a id="item-tech-blog-3"></a>
-### [„Dies ist nur ein Test“: Ransomware-Hacker tricksen KI-Sicherheitssysteme aus](https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/cursor-von-spacex-ransomware-hacker-taeuschen-ki-accg-201166545.html) ⭐️ 1.0/10
+### [龙井苹果梨：从荒山到全产业链](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177702.html) ⭐️ 3.0/10
 
-A brief FAZ teaser claiming that SpaceX&\#x27;s Cursor AI can be weaponized by ransomware hackers and that at least one German company was affected, but providing no further details or technical substance.
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 00:52
+**「背景」** 吉林省延边州龙井市拥有全国超八成苹果梨产量，但其产业基础源于 70 多年前对水土流失荒山的改造，如今亟需通过技术升级与产业链延伸来解决单一鲜果销售的瓶颈。
 
-**标签**: `#ransomware`, `#AI security`, `#Cursor`, `#teaser`
+**「方案」** 苹果梨是外来品种嫁接于耐寒山梨砧木的产物，依托当地昼夜温差大的气候积累糖分。种植模式已从传统粗放转向绿色生态管护，包括有机肥替代化肥、水肥一体化滴灌及单层矮化开心形树形改造，后者显著改善了通风透光并降低了采摘风险。延边大学与州农科院驻点的“科技小院”通过测土配肥、绿色防控等技术攻关，使示范区优果率提升 30%、单产提高 15%。在组织层面，合作社推行统一技术、农资与销售，并探索冻梨汁、梨干等深加工及电商直播，结合梨花节等文旅活动实现三产融合。
+
+**「启示」** 龙井苹果梨产业通过“科研下沉+树形革新+深加工延链”的组合拳，将生态劣势转化为特色优势，为区域性特色农业突破同质化竞争提供了可复制的产业振兴样本。
+
+**标签**: `#agricultural technology`, `#fruit cultivation`, `#regional industry`, `#rural development`, `#food systems`
 
 ---
 
 <a id="item-tech-blog-4"></a>
-### [Fotos von Barbara Klemm: Zeitbilder, die ins Heute weisen](https://www.faz.net/aktuell/rhein-main/frankfurt/barbara-klemm-zeitbilder-die-ins-heute-ragen-201164509.html) ⭐️ 1.0/10
+### [德国球队欧冠附加赛对手揭秘](https://www.faz.net/aktuell/sport/fussball/champions-league/champions-league-bayern-muenchen-und-bvb-gegen-arsenal-london-rb-leipzig-gegen-real-madrid-201166153.html) ⭐️ 1.0/10
 
-A short announcement about photographer Barbara Klemm&\#x27;s exhibition at Leica in Wetzlar featuring 50 years of work.
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 17:40
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 17:57
+**「背景」** 2024-25 赛季起，欧冠改制为联赛阶段（Swiss system），每个小组的球队不再仅打单循环，而是进行多场关键比赛以确定排名。
 
-**标签**: `#Photography`, `#Exhibition`, `#Leica`, `#News`, `#Barbara Klemm`
+**「方案」** 根据法兰克福汇报的报道，德国三强在欧冠联赛阶段的对手极具挑战：拜仁慕尼黑将在决赛主办地慕尼黑安联球场出战，需面对高强度对抗；多特蒙德将经历超长距离的客场之旅，体能消耗极大；RB 莱比锡则遭遇实力强劲的分组对手。这三轮比赛将决定各队是否能进入季后赛资格争夺。
+
+**「启示」** 德国球队在新赛制下不仅面临技术层面的竞争压力，还需应对地理距离与赛程密度的双重考验，体能管理与长途旅行成为影响战绩的关键变量。
+
+**标签**: `#sports`, `#news`, `#preview`
 
 ---
 
 <a id="item-tech-blog-5"></a>
-### [One Night Only – eine Filmkomödien-Rezension](https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/kondom-gesucht-one-night-only-im-kino-201163839.html) ⭐️ 0.0/10
+### [人民日报版面元数据](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177679.html) ⭐️ 0.0/10
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 18:52
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
 
-**「Hintergrund」** Bei „One Night Only“ handelt es sich um eine deutsche Filmkomödie, die im Kino lief und vom Autor Bert Rebhandl rezensiert wurde.
+**「背景」** 该 URL 实际指向人民日报电子版的一个空白版面页，内容仅为编辑排版元信息与版权声明，无实质文章正文。
 
-**「Inhalt」** Der Film erzählt eine heitere Coming-of-Age-Geschichte, die sich um das sogenannte „erste Mal“ dreht. Die Handlung wird als Hindernislauf beschrieben, bei dem zwei Hauptdarsteller früh an Strahlkraft gewinnen, die an klassische Hollywood-Paare erinnert. Die Rezension hebt die leichten, komödiantischen Konsequenzen der Handlung hervor, ohne tiefere technische oder ingenieurwissenschaftliche Aspekte zu behandeln.
+**「方案」** 页面仅包含 2026 年 8 月 28 日版次信息、责编署名（程晨、何宇澈、刘子赫）、版式设计署名（张丹峰）及人民网版权标注，无新闻、技术或观点类内容可转述。
 
-**「Hinweis」** Dieser Text ist eine künstlerische Filmrezension und enthält keine technischen Erkenntnisse; er eignet sich nicht für Entwickler, die nach ingenieurwissenschaftlicher Dokumentation suchen.
+**「启示」** 无法基于纯框架元数据生成有效叙事摘要，建议获取对应版面实际图文内容后再行处理。
 
-**标签**: `#film-review`, `#non-technical`, `#entertainment`
+**标签**: `#newspaper-template`, `#no-content`, `#non-article`, `#navigation-footer`
 
 ---
 
 <a id="item-tech-blog-6"></a>
-### [Prince 新专辑 Timeless 简介](https://www.faz.net/aktuell/feuilleton/musik-und-buehne/album/timeless-unveroeffentlichte-prince-songs-zehn-jahre-nach-seinem-tod-201164196.html) ⭐️ 0.0/10
+### [20 版 -  道德进步不是天真的幻想](http://paper.people.com.cn/rmrb/pc/content/202608/28/content_30177712.html) ⭐️ 0.0/10
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 15:22
+An editorial arguing that moral progress is real and built through institutions, education, and cultural shifts rather than naive optimism.
 
-**「背景」** 2021 年，距离传奇音乐人 Prince 逝世十周年之际，其团队发行了新专辑《Timeless》。
+rss · 人民日报\(People&\#x27;s Daily\) · 8月28日 00:26
 
-**「方案」** 这张专辑由 Prince 生前未发布的曲目汇编而成。文中以戏谑口吻形容 Prince 为“性感偶像”，但并未提供关于音乐风格、曲目构成或制作技术的具体细节。
-
-**「启示」** 本文仅为一则简短的音乐宣传资讯，缺乏可供技术分析或深度解读的内容。
-
-**标签**: `#music`, `#promotional`, `#non-technical`
+**标签**: `#editorial`, `#moral philosophy`, `#Chinese state media`, `#non-technology`
 
 ---
 
 <a id="item-tech-blog-7"></a>
-### [FAZ 竞争&quot;Weiter gedacht&quot;公告](https://www.faz.net/aktuell/wissen/forschung-politik/f-a-z-wetterwerb-weiter-gedacht-accg-201160458.html) ⭐️ 0.0/10
+### [historiker Michael Sommer: Der Professor, der die Antike zum Bestseller macht](https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/michael-sommer-der-professor-der-die-antike-zum-bestseller-macht-accg-201161417.html) ⭐️ 0.0/10
 
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 07:01
+A magazine interview profile about German ancient historian Michael Sommer and his bestselling popular works on Rome.
 
-**「背景」** 法兰克福汇报（F.A.Z.）近期发起了名为“Weiter gedacht”的竞赛，旨在邀请研究人员参与。
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 04:15
 
-**「方案」** 该竞赛面向科学家和研究者开放，核心要求是提交申请材料，介绍自己的研究领域及其对当代社会的重要性。申请的截止日期已定为 2026 年 10 月 31 日。这是一则纯粹的征选公告，而非技术讨论或深度分析文章。
-
-**「启示」** 这是一则活动招募通知，不含任何技术见解或实质性内容可供评估。
-
-**标签**: `#announcement`, `#competition`, `#call for papers`, `#promotion`
+**标签**: `#interview`, `#popular history`, `#bestseller`, `#German media`, `#non-technology`
 
 ---
 
 <a id="item-tech-blog-8"></a>
+### [Genealogie der KI: Der Zwerg reinigt die Kittel](https://www.faz.net/aktuell/karriere-hochschule/hoersaal/die-vorgeschichte-der-kuenstlichen-intelligenz-accg-201088151.html) ⭐️ 0.0/10
+
+An incomplete German article snippet about the origins of AI and pattern recognition.
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月27日 07:47
+
+**标签**: `#AI history`, `#insufficient content`, `#German language`
+
+---
+
+<a id="item-tech-blog-9"></a>
+### [Spanischer Museumsgoldfund gestohlen](https://www.faz.net/aktuell/gesellschaft/kriminalitaet/museum-in-villena-goldschatz-aus-bronzezeit-gestohlen-accg-201166547.html) ⭐️ 0.0/10
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · 8月28日 01:52
+
+**「Hintergrund」** Ein Museum in Villena, Spanien, birgt Goldschmuck aus der Bronzezeit, der seit langem Attraktivität für Diebe darstellt. Der Fund gilt als historisch wertvoll, was ihn zum Ziel organisierter Kriminalität machte.
+
+**「Lösung」** Die Täter agierten im Morgengrauen mit solcher Geschwindigkeit, dass sie selbst vor der Alarmanlage nicht zurückschreckten. Sie durchbrachen das Sicherheitssystem, indem sie den Einbruch so schnell ausführten, dass eine Aktivierung vermieden wurde. Der Goldschatz wurde dabei vollständig entwendet. Es gibt keine Hinweise auf eine erfolgreiche Prävention oder Rückgewinnung durch die Behörden.
+
+**「Erkenntnis」** Historische Museumsartefakte bleiben trotz technischer Sicherungssysteme anfällig für schnelle, professionelle Einbrüche, insbesondere wenn Täter auf zeitliche Fenster außerhalb regulärer Überwachungsphasen setzen.
+
+**标签**: `#news`, `#crime`, `#museum`, `#theft`, `#history`
+
+---
+
+<a id="item-tech-blog-10"></a>
 ### [Warning Shots: A Theory](https://www.lesswrong.com/posts/nrTP75Z67YdcJTR9g/warning-shots-a-theory) ⭐️ ?/10
 
 Warning Shots: A Theory
 
 rss · LessWrong AI风险社区 · 8月27日 23:01
+
+---
+
+<a id="item-tech-blog-11"></a>
+### [Malign initializations are more robust when the model can think better in the reasoning language than in the output language](https://www.lesswrong.com/posts/jYQXwwewk4frHDrmn/malign-initializations-are-more-robust-when-the-model-can) ⭐️ ?/10
+
+Malign initializations are more robust when the model can think better in the reasoning language than in the output language
+
+rss · LessWrong AI风险社区 · 8月27日 21:33
+
+---
+
+<a id="item-tech-blog-12"></a>
+### [There Is a Sickness Worse Than Wokeness](https://www.nytimes.com/2026/08/27/opinion/woke-right-trump-free-speech.html) ⭐️ ?/10
+
+There Is a Sickness Worse Than Wokeness
+
+rss · 纽约时报\(The New York Times\) · 8月27日 23:49
+
+---
+
+<a id="item-tech-blog-13"></a>
+### [Weekly quiz: Who is taking over as Gilderoy Lockhart in HBO&\#x27;s Harry Potter series?](https://www.bbc.co.uk/news/articles/cx2z4np5pnyo?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+Weekly quiz: Who is taking over as Gilderoy Lockhart in HBO&\#x27;s Harry Potter series?
+
+rss · BBC\(British Broadcasting Corporation\) · 8月27日 17:04
+
+---
+
+<a id="item-tech-blog-14"></a>
+### [Former British-Israeli Hamas hostage married in Tel Aviv](https://www.bbc.co.uk/news/articles/ckg0regvn77o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+Former British-Israeli Hamas hostage married in Tel Aviv
+
+rss · BBC\(British Broadcasting Corporation\) · 8月28日 01:43
+
+---
+
+<a id="item-tech-blog-15"></a>
+### [蒂姆·克里：银幕变形记](https://www.theguardian.com/culture/video/2026/aug/27/tim-curry-the-prolific-performer-who-transformed-for-the-screen-video) ⭐️ ?/10
+
+rss · 观察家报\(The Observer\) · 8月27日 08:54
+
+**「背景」** 蒂姆·克里（Tim Curry）是一位横跨舞台与银幕的多才多艺演员，以在《洛基恐怖秀》中饰演张扬的弗兰克-内-福斯特博士而一举成名。
+
+**「方案」** 文章指出，克里的著名角色往往需要大幅度的形体蜕变，以至于在某些出演中观众几乎无法辨认出他本人。例如在《洛基恐怖秀》中，他涂着夸张的妆容，身着长袜和背带；在雷德利·斯科特执导的奇幻片《传奇》里，他顶着巨大的角并涂上猩红色皮肤，饰演黑暗领主；而在 1990 年根据斯蒂芬·金小说改编的迷你剧《它》中，他则通过全脸小丑化妆造型饰演潘尼怀斯。
+
+**「启示」** 蒂姆·克里凭借极具辨识度的化妆与形体变换能力，在恐怖与奇幻类型电影中留下了不可磨灭的印记，其艺术生命力直至 80 岁离世仍被广泛铭记。
 
 ---
