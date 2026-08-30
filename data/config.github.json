@@ -5,14 +5,13 @@
     "base_url": "https://api.agnes-ai.cn/v1",
     "api_key_env": "AGNES_API_KEY",
     "temperature": 0.3,
-    "max_tokens": 8192,
-    "throttle_sec": 1,
+    "throttle_sec": 3,
     "languages": [
       "zh",
       "en"
     ],
-    "analysis_concurrency": 5,
-    "enrichment_concurrency": 5
+    "analysis_concurrency": 2,
+    "enrichment_concurrency": 2
   },
   "sources": {
     "hackernews": {
