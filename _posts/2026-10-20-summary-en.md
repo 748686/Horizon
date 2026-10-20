@@ -5,1012 +5,1065 @@ date: 2026-10-20
 lang: en
 ---
 
-> From 502 items, 493 important content pieces were selected
+> From 544 items, 516 important content pieces were selected
 
 ---
 
-**Technology News**
-1. [Red-teaming multi-agent attacks for loss-of-control risks](#item-tech-news-1) ⭐️ 8.0/10
-2. [Human vs AI in Go in 2026: Lessons for superintelligence?](#item-tech-news-2) ⭐️ 8.0/10
-3. [People&\#x27;s Daily on China&\#x27;s radiation-free cardiac intervention innovation](#item-tech-news-3) ⭐️ 4.0/10
-4. [gvanrossum created branch in gvanrossum/cpython](#item-tech-news-4) ⭐️ 3.0/10
-5. [05版 -  让智能经济更好激发新动能（人民时评）](#item-tech-news-5) ⭐️ 3.0/10
-6. [Армия США намерена активно использовать аэростаты в случае конфликта в Европе, с](#item-tech-news-6) ⭐️ 3.0/10
-7. [Ex-OpenAI worker accused of planting device had Saudi support, says court filing](#item-tech-news-7) ⭐️ 2.0/10
-8. [КНР была и остается заинтересованной в украинском урегулировании, заявил замглав](#item-tech-news-8) ⭐️ 2.0/10
-9. [Украину не следует принимать в состав НАТО, заявил вице-президент США Вэнс в инт](#item-tech-news-9) ⭐️ 2.0/10
-10. [ЦБ на ближайшем заседании сохранит ключевую ставку на уровне 14%. Значение сохра](#item-tech-news-10) ⭐️ 2.0/10
-11. [02版 -  李强会见白俄罗斯总理图尔钦](#item-tech-news-11) ⭐️ 1.0/10
-12. [02版 -  保加利亚总统约托娃会见王毅](#item-tech-news-12) ⭐️ 1.0/10
-13. [06版 -  深入学习贯彻习近平文化思想，筑牢强国建设、民族复兴的文化根基](#item-tech-news-13) ⭐️ 1.0/10
-14. [Criminals detained in hospital set to lose benefits](#item-tech-news-14) ⭐️ 1.0/10
-15. [Five ways El Niño is affecting the weather around the world](#item-tech-news-15) ⭐️ 1.0/10
-16. [The singles choosing in-person dating events over apps](#item-tech-news-16) ⭐️ 1.0/10
-17. [‘This is not poker’: Alberta goes to polls in referendum that has exposed divisions, not least among separatists](#item-tech-news-17) ⭐️ 1.0/10
-18. [En tournée dans le golfe Persique, Emmanuel Macron cherche une issue à la flambée des prix du carburant](#item-tech-news-18) ⭐️ 1.0/10
-19. [Berlin&\#x27;s Housing and Migration Plans Under Scrutiny](#item-tech-news-19) ⭐️ 1.0/10
-20. [Trump Open to Potential Meetings with Putin and Xi on Nuclear Disarmament](#item-tech-news-20) ⭐️ 1.0/10
-21. [США не одобрили поставки Украине снарядов для Patriot, пишет The Washington Post](#item-tech-news-21) ⭐️ 1.0/10
-22. [Уиткофф и Кушнер проведут в Норвегии переговоры по Украине, сообщает Reuters со ](#item-tech-news-22) ⭐️ 1.0/10
-23. [В РФ с лидера группы &quot;Ногу свело\!&quot; Покровского\* взыскивают почти 84 тыс. налогов](#item-tech-news-23) ⭐️ 1.0/10
-24. [Детям до 14 лет с 2027 года потребуется свой загранпаспорт для выезда за пределы](#item-tech-news-24) ⭐️ 1.0/10
-25. [02版 -  “埃中关系经得起国际风云变幻考验”](#item-tech-news-25) ⭐️ 0.0/10
-26. [02版 -  拜靖国神社，日本再次撕下自己的“和平伪装”（钟声）](#item-tech-news-26) ⭐️ 0.0/10
-27. [02版 -  外交部：严厉谴责日方涉靖国神社消极动向](#item-tech-news-27) ⭐️ 0.0/10
-28. [05版 -  无名与有名（评论员观察）](#item-tech-news-28) ⭐️ 0.0/10
-29. [05版 -  图片报道](#item-tech-news-29) ⭐️ 0.0/10
-30. [US church on frontline of battle against drug known as &\#x27;tranq&\#x27;](#item-tech-news-30) ⭐️ 0.0/10
-31. [US grants deportation reprieve to migrants from Ukraine and Sudan](#item-tech-news-31) ⭐️ 0.0/10
-32. [Kenyan starvation cult leader guilty of murder of 190 children and one adult](#item-tech-news-32) ⭐️ 0.0/10
-33. [Drone attack near market kills 80 in Sudan](#item-tech-news-33) ⭐️ 0.0/10
-34. [Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods](#item-tech-news-34) ⭐️ 0.0/10
-35. [EN DIRECT, guerre en Ukraine : Volodymyr Zelensky accuse Washington de retarder la livraison à Kiev de missiles « déjà payés »](#item-tech-news-35) ⭐️ 0.0/10
-36. [Au procès de l’explosion de la rue de Trévise, la Ville de Paris et le syndic d’un immeuble face à la justice](#item-tech-news-36) ⭐️ 0.0/10
-37. [Benyamin Nétanyahou met en scène sa proximité avec Donald Trump, à une semaine des élections législatives en Israël](#item-tech-news-37) ⭐️ 0.0/10
-38. [Not applicable: non-technology news item](#item-tech-news-38) ⭐️ 0.0/10
-39. [Пока нет понимания, когда будет следующий визит Си Цзиньпина в Россию, сообщил Т](#item-tech-news-39) ⭐️ 0.0/10
-40. [Посольство РФ направило Польше протест в связи с осквернением кладбища советских](#item-tech-news-40) ⭐️ 0.0/10
-41. [Not a Technology Story](#item-tech-news-41) ⭐️ 0.0/10
-42. [Gradient Routing Localizes and Removes Unintended Behaviors in RL](#item-tech-news-42) ⭐️ ?/10
-43. [A Video by Adam Conover and the “A.I. Distraction Narrative”](#item-tech-news-43) ⭐️ ?/10
-44. [Improving the flow of interesting things](#item-tech-news-44) ⭐️ ?/10
-45. [01版 -  弘扬伟大长征精神  走好今天的长征路](#item-tech-news-45) ⭐️ ?/10
-46. [01版 -  红旗漫卷处  山乡启新程（赓续长征精神  奋进复兴征程）](#item-tech-news-46) ⭐️ ?/10
-47. [01版 -  绿水青山千秋画  红色文化永铸魂](#item-tech-news-47) ⭐️ ?/10
-48. [01版 -  李强会见塔吉克斯坦总统拉赫蒙](#item-tech-news-48) ⭐️ ?/10
-49. [01版 -  同心铸辉煌  奋进新征程](#item-tech-news-49) ⭐️ ?/10
-50. [01版 -  前三季度国内生产总值同比增长4.6%](#item-tech-news-50) ⭐️ ?/10
-51. [01版 -  导读](#item-tech-news-51) ⭐️ ?/10
-52. [02版 -  李强会见伊朗第一副总统阿雷夫](#item-tech-news-52) ⭐️ ?/10
-53. [02版 - 中俄人文合作委员会第二十七次会议召开 谌贻琴与戈利科娃共同主持](#item-tech-news-53) ⭐️ ?/10
-54. [03版 -  推动经济平稳运行、高质量发展积极因素累积增多（权威发布）](#item-tech-news-54) ⭐️ ?/10
-55. [03版 -  努力完成全年目标任务（快评）](#item-tech-news-55) ⭐️ ?/10
-56. [03版 -  把科技创新势能转化为商贸发展动能（权威发布）](#item-tech-news-56) ⭐️ ?/10
-57. [03版 -  历经8代选育，耐盐碱稻亩产超500公斤（秋收进行时·不一样的水稻品种）](#item-tech-news-57) ⭐️ ?/10
-58. [03版 -  2026金融街论坛年会在京开幕](#item-tech-news-58) ⭐️ ?/10
-59. [04版 -  一纸“万万火急”电令，被年轻人唱响（文物里的长征故事）](#item-tech-news-59) ⭐️ ?/10
-60. [04版 -  让红色精神永放光芒（专家点评）](#item-tech-news-60) ⭐️ ?/10
-61. [04版 -  “何以中国·当惊世界殊”网络主题宣传活动在湖北宜昌举行](#item-tech-news-61) ⭐️ ?/10
-62. [04版 -  中央档案馆向社会集中开放一批长征专题档案](#item-tech-news-62) ⭐️ ?/10
-63. [04版 -  舞步踏一起  生活在一起（铸牢共同体  中华一家亲）](#item-tech-news-63) ⭐️ ?/10
-64. [04版 -  弘扬伟大长征精神  走好今天的长征路](#item-tech-news-64) ⭐️ ?/10
-65. [04版 -  一版责编：杨  旭  张帅祯  赵川博 二版责编：韩晓明  姜  波  关皓宇 三版责编：林  琳  祁嘉润  张安宇 四版责编：袁振喜  韩春瑶  刘静文](#item-tech-news-65) ⭐️ ?/10
-66. [05版 -  本版责编：李浩燃  彭  飞  李铁林](#item-tech-news-66) ⭐️ ?/10
-67. [07版 -  三级联动，让老年生活更安心（编辑手记）](#item-tech-news-67) ⭐️ ?/10
-68. [07版 -  领证更便利  服务更贴心](#item-tech-news-68) ⭐️ ?/10
-69. [07版 -  第五届中国报业创新发展大会举办](#item-tech-news-69) ⭐️ ?/10
-70. [07版 -  红旗漫卷处  山乡启新程（赓续长征精神  奋进复兴征程）](#item-tech-news-70) ⭐️ ?/10
-71. [07版 -  同心铸辉煌  奋进新征程](#item-tech-news-71) ⭐️ ?/10
-72. [07版 -  以高质量金融服务支撑国际科技创新中心建设](#item-tech-news-72) ⭐️ ?/10
-73. [07版 -  本版责编　纪雅林  张伟昊  翟钦奇](#item-tech-news-73) ⭐️ ?/10
-74. [08版 -  守护红色记忆  传承长征精神](#item-tech-news-74) ⭐️ ?/10
-75. [08版 -  用一碗热汤温暖城市“奔跑者”（一线行走）](#item-tech-news-75) ⭐️ ?/10
-76. [08版 -  《长征专题书目（一九三六—二〇二六）》出版发行](#item-tech-news-76) ⭐️ ?/10
-77. [08版 -  图片报道](#item-tech-news-77) ⭐️ ?/10
-78. [08版 -  把群众身边小事一件件办实](#item-tech-news-78) ⭐️ ?/10
-79. [08版 -  自然资源部原党组成员，国家林草局原党组书记、局长张建龙严重违纪违法被开除党籍](#item-tech-news-79) ⭐️ ?/10
-80. [08版 -  社保基金会原党组成员、副理事长王文灵严重违纪违法被开除党籍和公职](#item-tech-news-80) ⭐️ ?/10
-81. [08版 -  中国人保原党委委员、副总裁俞小平严重违纪违法被开除党籍](#item-tech-news-81) ⭐️ ?/10
-82. [08版 -  本版责编：苏显龙  赵晓曦  李佩阳](#item-tech-news-82) ⭐️ ?/10
-83. [09版 -  从万里长征走向伟大复兴（深入学习贯彻习近平新时代中国特色社会主义思想）](#item-tech-news-83) ⭐️ ?/10
-84. [09版 -  统筹基层工作的“跳进去”与“领出来”（思想纵横）](#item-tech-news-84) ⭐️ ?/10
-85. [09版 -  把握发展普惠托育和托幼一体化服务的着力点（有的放矢）](#item-tech-news-85) ⭐️ ?/10
-86. [10版 -  聚焦需求，AI赋能新型工业化](#item-tech-news-86) ⭐️ ?/10
-87. [10版 -  汇聚工商界力量  共建亚太共同体](#item-tech-news-87) ⭐️ ?/10
-88. [10版 -  减脂餐的“洋食材”成土特产（财米油盐）](#item-tech-news-88) ⭐️ ?/10
-89. [10版 -  图片报道](#item-tech-news-89) ⭐️ ?/10
-90. [10版 -  让中医药更加自信地走向世界](#item-tech-news-90) ⭐️ ?/10
-91. [10版 -  “千户万灯”点亮千企万家](#item-tech-news-91) ⭐️ ?/10
-92. [10版 -  本版责编：吕钟正  吴  凯  韩文榕](#item-tech-news-92) ⭐️ ?/10
-93. [11版 -  AI+教育，“加”什么，如何“加”（教育优质均衡发展·四问“人工智能+教育”④）](#item-tech-news-93) ⭐️ ?/10
-94. [11版 -  搭建通往教育公平的“AI管道”（编辑手记）](#item-tech-news-94) ⭐️ ?/10
-95. [11版 -  保护文化遗产  推动文明对话](#item-tech-news-95) ⭐️ ?/10
-96. [11版 -  ‍‍2026中国景德镇国际陶瓷博览会开幕](#item-tech-news-96) ⭐️ ?/10
-97. [11版 -  阿佤山乡满目新](#item-tech-news-97) ⭐️ ?/10
-98. [11版 -  中国气象学会年会在兰州开幕](#item-tech-news-98) ⭐️ ?/10
-99. [11版 -  本版责编：肖  遥  董映雪  银  燕](#item-tech-news-99) ⭐️ ?/10
-100. [12版 -  广告](#item-tech-news-100) ⭐️ ?/10
-101. [13版 -  一山揽胜景  烟火暖千家（美丽中国·世界自然遗产这样保护）](#item-tech-news-101) ⭐️ ?/10
-102. [13版 -  河流源头如何确定](#item-tech-news-102) ⭐️ ?/10
-103. [13版 -  海南开展秋季迁徙鸟类调查](#item-tech-news-103) ⭐️ ?/10
-104. [13版 -  去年我国渔业资源与水域生态环境状况保持稳定](#item-tech-news-104) ⭐️ ?/10
-105. [13版 -  图片报道](#item-tech-news-105) ⭐️ ?/10
-106. [13版 -  广东印发实施碧带建设规划](#item-tech-news-106) ⭐️ ?/10
-107. [13版 -  屋顶晒出“阳光存折”  绿能释放发展活力](#item-tech-news-107) ⭐️ ?/10
-108. [13版 -  本版责编：张  晔  杨笑雨  付明丽](#item-tech-news-108) ⭐️ ?/10
-109. [14版 -  “我愿意一直拼下去”（聚焦亚残运会）](#item-tech-news-109) ⭐️ ?/10
-110. [14版 -  听声辨位，盲人足球赛也精彩（秒懂）](#item-tech-news-110) ⭐️ ?/10
-111. [14版 -  一路追风一路歌](#item-tech-news-111) ⭐️ ?/10
-112. [14版 -  家门口老粮站，健身好去处](#item-tech-news-112) ⭐️ ?/10
-113. [14版 -  “张雪机车”车手获年度车手亚军](#item-tech-news-113) ⭐️ ?/10
-114. [14版 -  2026北马男子赛会纪录大幅刷新](#item-tech-news-114) ⭐️ ?/10
-115. [14版 -  2026全国围棋行业职工大赛举行](#item-tech-news-115) ⭐️ ?/10
-116. [14版 -  全国群众公开水域游泳系列赛元荡湖站开赛](#item-tech-news-116) ⭐️ ?/10
-117. [14版 -  独臂少年的篮球梦](#item-tech-news-117) ⭐️ ?/10
-118. [14版 -  “援青杯”足球邀请赛在青海举行](#item-tech-news-118) ⭐️ ?/10
-119. [14版 -  本版责编：巩育华  史  哲  高  佶](#item-tech-news-119) ⭐️ ?/10
-120. [15版 -  一些国家持续探索如何遏制食物浪费（国际视点）](#item-tech-news-120) ⭐️ ?/10
-121. [15版 -  从并蒂莲到机器狗，感受中国好物（环球走笔）](#item-tech-news-121) ⭐️ ?/10
-122. [15版 -  环球扫描](#item-tech-news-122) ⭐️ ?/10
-123. [15版 -  尼泊尔努力挖掘经济潜能](#item-tech-news-123) ⭐️ ?/10
-124. [15版 -  欧洲多地发生抗议示威活动](#item-tech-news-124) ⭐️ ?/10
-125. [15版 -  本版责编：邹志鹏  张慧中  褚  君](#item-tech-news-125) ⭐️ ?/10
-126. [16版 -  广告](#item-tech-news-126) ⭐️ ?/10
-127. [17版 -  长征精神 全人类的共同财富（权威论坛）](#item-tech-news-127) ⭐️ ?/10
-128. [Trump Rallies Red States Amid Fears About G.O.P. Voter Enthusiasm as Midterms Near](#item-tech-news-128) ⭐️ ?/10
-129. [Trump Campaigns for Republicans as Turmoil Mounts in Washington](#item-tech-news-129) ⭐️ ?/10
-130. [Republicans Barely Mention Trump in Political Ads Ahead of the Midterms](#item-tech-news-130) ⭐️ ?/10
-131. [France Imposes Curfews](#item-tech-news-131) ⭐️ ?/10
-132. [France Imposes Curfews in Parts of Paris and Other Cities After Nationwide Rioting](#item-tech-news-132) ⭐️ ?/10
-133. [The French Teen Maimed During School Unrest by Tear Gas Grenade](#item-tech-news-133) ⭐️ ?/10
-134. [Why Are There Protests in France?](#item-tech-news-134) ⭐️ ?/10
-135. [Trump Golf Course Dispute Sparks Clash Between Judge and DOJ](#item-tech-news-135) ⭐️ ?/10
-136. [Mahmoud Khalil Appeals to Supreme Court to Halt Deportation](#item-tech-news-136) ⭐️ ?/10
-137. [U.S. Citizen Hospitalized After Being Detained by ICE, His Family Says](#item-tech-news-137) ⭐️ ?/10
-138. [Man Who Died in ICE Custody in Texas Was Denied Medicine, Daughter Says](#item-tech-news-138) ⭐️ ?/10
-139. [It’s Sliced Cheese on Bread. And It’s Rocking Copenhagen’s World.](#item-tech-news-139) ⭐️ ?/10
-140. [Latest Climate Report Warns of Major Upheaval to California Way of Life](#item-tech-news-140) ⭐️ ?/10
-141. [The Overlapping Plagues Quietly Devastating American Forests](#item-tech-news-141) ⭐️ ?/10
-142. [Bend Residents Want Accountability. Oregon’s Gun Laws Make It Hard.](#item-tech-news-142) ⭐️ ?/10
-143. [How Penélope Cruz Masterminded One of the Most Versatile Careers in Hollywood](#item-tech-news-143) ⭐️ ?/10
-144. [Deaths at Danjiri Float Festival Prompt Questions in Japan](#item-tech-news-144) ⭐️ ?/10
-145. [Trump Is Pushing Ukraine to Surrender to Russia, Zelensky Says](#item-tech-news-145) ⭐️ ?/10
-146. [Russian Satellite Makes a Menacing Approach to Another Craft in Orbit](#item-tech-news-146) ⭐️ ?/10
-147. [Applying to High School in New York City Is a Soul-Destroying Nightmare](#item-tech-news-147) ⭐️ ?/10
-148. [The Republican Party Is a Mess. It Will Emerge Stronger for It.](#item-tech-news-148) ⭐️ ?/10
-149. [As Alberta Holds a Referendum on Separatism, Premier Danielle Smith Has Alienated Both Sides](#item-tech-news-149) ⭐️ ?/10
-150. [Dream and Valkyries skip national anthem again in WNBA Finals Game 2 despite rulebook requirement](#item-tech-news-150) ⭐️ ?/10
-151. [JD Vance declines to endorse Netanyahu despite Trump&\#x27;s strong backing](#item-tech-news-151) ⭐️ ?/10
-152. [French soccer icon Emmanuel Petit condemns arson and looting, warns Macron to &\#x27;protect honest citizens&\#x27;](#item-tech-news-152) ⭐️ ?/10
-153. [&\#x27;Office Space&\#x27; star Richard Riehle dead at 78](#item-tech-news-153) ⭐️ ?/10
-154. [One of Major League Baseball&\#x27;s owners just destroyed the league&\#x27;s entire argument for a lockout](#item-tech-news-154) ⭐️ ?/10
-155. [Brandon Miller agrees to $209M extension with Hornets as top draft pick cashes in after controversial past](#item-tech-news-155) ⭐️ ?/10
-156. [LISTEN: Kansas soccer field dispatch call captures mass-casualty response after driver kills boy, man](#item-tech-news-156) ⭐️ ?/10
-157. [Python hunters snag Puerto Rico&\#x27;s largest reticulated python on record after it was spotted strangling pet cat](#item-tech-news-157) ⭐️ ?/10
-158. [Lung cancer can grow silently for years, here’s who qualifies for screening](#item-tech-news-158) ⭐️ ?/10
-159. [Calgary Opera removes singer waving Palestinian flag during opening night curtain call](#item-tech-news-159) ⭐️ ?/10
-160. [NFL suspends Buffalo Bills safety CJ Gardner-Johnson after grotesque spitting incident](#item-tech-news-160) ⭐️ ?/10
-161. [Amanda Seyfried faces harsh criticism as viewers rip her behavior in Elizabeth Holmes documentary](#item-tech-news-161) ⭐️ ?/10
-162. [Veteran CNN anchor Christiane Amanpour announces exit from network, will go off the air next June](#item-tech-news-162) ⭐️ ?/10
-163. [Kansas man mapped rooftops near Trump speech site, threatened to shoot president: DOJ](#item-tech-news-163) ⭐️ ?/10
-164. [Cause of death released for 3 who perished at Burning Man festival in Nevada](#item-tech-news-164) ⭐️ ?/10
-165. [New Orleans Saints arrive in France with safety top of mind ahead of NFL&\#x27;s first Paris game](#item-tech-news-165) ⭐️ ?/10
-166. [Matthew McConaughey divides fans over independent voting plea ahead of midterms](#item-tech-news-166) ⭐️ ?/10
-167. [Rams lose Davante Adams for 6-10 weeks after receiver ruptures his hamstring, adding to team&\#x27;s injury woes](#item-tech-news-167) ⭐️ ?/10
-168. [Beleaguered Macron cites US-Iran war as factor in protests amid Trump, Vance criticism](#item-tech-news-168) ⭐️ ?/10
-169. [&\#x27;The View&\#x27; co-hosts defend El-Sayed comparing himself to JFK over Muslim Brotherhood scrutiny](#item-tech-news-169) ⭐️ ?/10
-170. [The Eagles owe it to Jalen Hurts to address these serious allegations](#item-tech-news-170) ⭐️ ?/10
-171. [Antonio Brown booked for comedy debut at New England club while facing attempted murder charge](#item-tech-news-171) ⭐️ ?/10
-172. [Oregon school officials silent after football player levels opponent carrying American flag](#item-tech-news-172) ⭐️ ?/10
-173. [Former Biden aide predicts socialists will be sidelined in 2028, &\#x27;Baby gets put in a corner&\#x27;](#item-tech-news-173) ⭐️ ?/10
-174. [Famed wedding venue of Michael Douglas, others closing for years, leaving brides scrambling](#item-tech-news-174) ⭐️ ?/10
-175. [DOJ charges 28 with unlawful voting, other election-related offenses in California](#item-tech-news-175) ⭐️ ?/10
-176. [LIVE:  ABC News Live](#item-tech-news-176) ⭐️ ?/10
-177. [US citizen injured during ICE detainment in California, officials say](#item-tech-news-177) ⭐️ ?/10
-178. [Ronaldo suspended for 30 days and fined for walking out on Portugal camp](#item-tech-news-178) ⭐️ ?/10
-179. [WATCH:  David Muir reports on the beloved barn owls that have made Manhattan home](#item-tech-news-179) ⭐️ ?/10
-180. [WATCH:  Teen on how he turned 3D printing idea into a profitable business](#item-tech-news-180) ⭐️ ?/10
-181. [WATCH:  Is using cash for purchases becoming a thing of the past?](#item-tech-news-181) ⭐️ ?/10
-182. [WATCH:  Blind student, guide dog enjoy adventures in Scotland](#item-tech-news-182) ⭐️ ?/10
-183. [Mahmoud Khalil appeals to Supreme Court to sue Trump admin over free speech](#item-tech-news-183) ⭐️ ?/10
-184. [Iran live updates: Russia says it won&\#x27;t stop cooperating with Iran](#item-tech-news-184) ⭐️ ?/10
-185. [Shawn Oliver pleads not guilty to OUI after suspending lieutenant governor campaign](#item-tech-news-185) ⭐️ ?/10
-186. [Bipartisan group of senators want answers on Starlink disruptions in Ukraine](#item-tech-news-186) ⭐️ ?/10
-187. [Supreme Court to hear case on race in middle school admissions](#item-tech-news-187) ⭐️ ?/10
-188. [Curfew imposed in parts of central Paris and other cities after rioting across France](#item-tech-news-188) ⭐️ ?/10
-189. [Watch: Clean up begins after French riots but police remain](#item-tech-news-189) ⭐️ ?/10
-190. [Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC](#item-tech-news-190) ⭐️ ?/10
-191. [Chancellor rejects calls to raise Capital Gains Tax in Budget](#item-tech-news-191) ⭐️ ?/10
-192. [Burnham vows end to &\#x27;rip-off parking charges&\#x27; under new rules](#item-tech-news-192) ⭐️ ?/10
-193. [Woman says she &\#x27;closed eyes and tried not to be there&\#x27; during alleged Russell Brand rape](#item-tech-news-193) ⭐️ ?/10
-194. [Ukraine says it carried out first drone airlift of wounded soldier from front line](#item-tech-news-194) ⭐️ ?/10
-195. [Mission blasts off for Mars to grab a piece of its moon](#item-tech-news-195) ⭐️ ?/10
-196. [Kenya cult leader who told parents to starve children guilty of 191 murders](#item-tech-news-196) ⭐️ ?/10
-197. [Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation](#item-tech-news-197) ⭐️ ?/10
-198. [Apu returns to The Simpsons with new voice after race row](#item-tech-news-198) ⭐️ ?/10
-199. [Trial hears Robinson &\#x27;intimidated&\#x27; Daily Mail reporters](#item-tech-news-199) ⭐️ ?/10
-200. [US bans DeepSeek AI from government use as tech tension with China continues](#item-tech-news-200) ⭐️ ?/10
-201. [Kylie Jenner&\#x27;s debut at Victoria&\#x27;s Secret Fashion Show in $50m bra sparks mixed reaction](#item-tech-news-201) ⭐️ ?/10
-202. [Maddison&\#x27;s magic moment for Spurs - 18 months in the making](#item-tech-news-202) ⭐️ ?/10
-203. [Ronaldo given 30-day suspension and £215 fine by Portuguese FA](#item-tech-news-203) ⭐️ ?/10
-204. [England coach should be English, suggests Fleming](#item-tech-news-204) ⭐️ ?/10
-205. [Maddison shines on return - Tottenham v Coventry ratings](#item-tech-news-205) ⭐️ ?/10
-206. [Building Lionesses 2.0 - Wiegman&\#x27;s new challenge awaits](#item-tech-news-206) ⭐️ ?/10
-207. [Who has made Troy&\#x27;s Premier League team of the week?](#item-tech-news-207) ⭐️ ?/10
-208. [Spurs beat Coventry to earn first league win of the season](#item-tech-news-208) ⭐️ ?/10
-209. [Amelia Earhart researchers leave remote atoll empty-handed after ‘plane debris’ found to be a clump of trees](#item-tech-news-209) ⭐️ ?/10
-210. [Helen Haines live updates: independent MP in critical but stable condition as Asio boss warns about ‘violent rhetoric’](#item-tech-news-210) ⭐️ ?/10
-211. [Beau Lamarre-Condon had surgery after alleged double murder but before disposing of bodies, court told](#item-tech-news-211) ⭐️ ?/10
-212. [Brendan Nugent named as driver apprehended over alleged attack on Helen Haines](#item-tech-news-212) ⭐️ ?/10
-213. [NAB to cut 2,500 jobs in massive restructure](#item-tech-news-213) ⭐️ ?/10
-214. [‘I don’t want to be known as a hero’: barber who rushed to help Helen Haines praised by PM](#item-tech-news-214) ⭐️ ?/10
-215. [Milan luxury shops close as Italy prepares to deploy troops in the city after days of protests](#item-tech-news-215) ⭐️ ?/10
-216. [Trump borrows from far right to blame unrest in France on immigration](#item-tech-news-216) ⭐️ ?/10
-217. [French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – as it happened](#item-tech-news-217) ⭐️ ?/10
-218. [‘Crucial opportunity to act’ as study finds most of Europe’s wild bee species in decline](#item-tech-news-218) ⭐️ ?/10
-219. [France imposes partial curfews in several cities, including parts of Paris](#item-tech-news-219) ⭐️ ?/10
-220. [Israeli police detain 10 people in rare raid against West Bank settlers](#item-tech-news-220) ⭐️ ?/10
-221. [Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited](#item-tech-news-221) ⭐️ ?/10
-222. [People scour strait of Hormuz for spilt cargo after Iran attacks container ships](#item-tech-news-222) ⭐️ ?/10
-223. [Cuts force World Food Programme to end support for half a million Palestinians in Gaza](#item-tech-news-223) ⭐️ ?/10
-224. [Andy Burnham outlines new rules to outlaw ‘rip-off’ private parking fines](#item-tech-news-224) ⭐️ ?/10
-225. [Burnham urges officials to come up with more radical options for Thames Water](#item-tech-news-225) ⭐️ ?/10
-226. [ITV’s exposé of racism and misogyny in Reform? Just a few \(more\) bad apples \| John Crace](#item-tech-news-226) ⭐️ ?/10
-227. [North Sea strikes could severely disrupt UK fuel supplies, union warns](#item-tech-news-227) ⭐️ ?/10
-228. [Minister says Mahmood’s migration policy will ‘prolong integration’](#item-tech-news-228) ⭐️ ?/10
-229. [At Kansas rally, Trump focuses closing midterm message on anti-Muslim racism – US politics live](#item-tech-news-229) ⭐️ ?/10
-230. [Colorado wildlife overpass cut vehicle-animal collisions by 91%, report finds](#item-tech-news-230) ⭐️ ?/10
-231. [New AI tool can predict cancer survival by a single patient selfie, study suggests](#item-tech-news-231) ⭐️ ?/10
-232. [California to receive $6m settlement after 23andMe data breach](#item-tech-news-232) ⭐️ ?/10
-233. [Oregon man who killed school shooter reportedly took part in military drills with Iraq veterans](#item-tech-news-233) ⭐️ ?/10
-234. [US defence stocks tumble as investors bet on Democratic election sweep](#item-tech-news-234) ⭐️ ?/10
-235. [CME plans tungsten futures as demand for weapons rises](#item-tech-news-235) ⭐️ ?/10
-236. [China’s villages pay the price for Beijing’s AI ambitions](#item-tech-news-236) ⭐️ ?/10
-237. [France’s riots expose the impotence of its political class](#item-tech-news-237) ⭐️ ?/10
-238. [‘I still do support him’: US voters weigh in on Trump and the midterms](#item-tech-news-238) ⭐️ ?/10
-239. [French bond sell-off intensifies after riots and looting](#item-tech-news-239) ⭐️ ?/10
-240. [Violent protests multiply across Europe](#item-tech-news-240) ⭐️ ?/10
-241. [Trump envoys to hold fresh Ukraine talks as energy crunch looms over midterms](#item-tech-news-241) ⭐️ ?/10
-242. [New York pensions chief says private equity firm sought to expense jet use](#item-tech-news-242) ⭐️ ?/10
-243. [Anthropic and Nscale in talks for second multibillion-dollar deal](#item-tech-news-243) ⭐️ ?/10
-244. [OpenAI employee accused of bugging had links to Saudi royals, prosecutors claim](#item-tech-news-244) ⭐️ ?/10
-245. [Journalists forced to flee homes after Tommy Robinson shared images of where they lived online, court told](#item-tech-news-245) ⭐️ ?/10
-246. [Masts removed from bomb-laden WWII ship in Thames in bid to avoid explosion](#item-tech-news-246) ⭐️ ?/10
-247. [No 10: Hegseth ‘wrong’ to say most non-US Nato soldiers didn’t fight in Afghanistan – as it happened](#item-tech-news-247) ⭐️ ?/10
-248. [Farage claim that £5m was reward for Brexit was ‘not press office line’, close aide says](#item-tech-news-248) ⭐️ ?/10
-249. [‘Concerning issues’ found at GB power grid by inquiry into cover-up claims](#item-tech-news-249) ⭐️ ?/10
-250. [Hegseth wrong to say most non-US Nato forces in Afghanistan did not fight, says No 10](#item-tech-news-250) ⭐️ ?/10
-251. [Youth services in parts of England in state of emergency, children’s commissioner says](#item-tech-news-251) ⭐️ ?/10
-252. [Burnham urged to launch inquiry into unequal health impacts of air pollution](#item-tech-news-252) ⭐️ ?/10
-253. [‘It’s about persistence’: Cornish devolution no longer a pipe dream as its champion bows out](#item-tech-news-253) ⭐️ ?/10
-254. [Profit warnings from UK-listed firms at highest level in two years as Iran war drives up costs](#item-tech-news-254) ⭐️ ?/10
-255. [Up to 20 maternity units in England may have to shut, NHS leader warns](#item-tech-news-255) ⭐️ ?/10
-256. [The Canary news website announces closure after ‘vicious campaign against us’](#item-tech-news-256) ⭐️ ?/10
-257. [AI firm Anthropic to commit 5% of shares to fund for ‘public good’](#item-tech-news-257) ⭐️ ?/10
-258. [More than half of UK first-time buyers paying more for mortgage than they did for rent](#item-tech-news-258) ⭐️ ?/10
-259. [UK government promises disabled air passengers better safeguards](#item-tech-news-259) ⭐️ ?/10
-260. [Ellie Goulding admits error over promoting diamonds from controversial Australian mine](#item-tech-news-260) ⭐️ ?/10
-261. [Stop ‘cash to trash’ housebuilding in Norfolk Broads, says Labour MP](#item-tech-news-261) ⭐️ ?/10
-262. [Seabird numbers bounce back in Solent region after 2022 avian flu wipeout](#item-tech-news-262) ⭐️ ?/10
-263. [British people react to Burnham&\#x27;s campaign against ‘headphone dodgers’ on public transport – video](#item-tech-news-263) ⭐️ ?/10
-264. [Dan Jukes reveals Nigel Farage did not take press office line on £5m gift - video](#item-tech-news-264) ⭐️ ?/10
-265. [South Korea’s $1 trillion chip bet to revive left-behind region risks Trump’s ire](#item-tech-news-265) ⭐️ ?/10
-266. [MTR bets $5 billion on a Hong Kong city that doesn’t exist yet](#item-tech-news-266) ⭐️ ?/10
-267. [Technologies seen at Osaka Expo increasingly being put into practice](#item-tech-news-267) ⭐️ ?/10
-268. [Palestinian activist Mahmoud Khalil asks U.S. Supreme Court to hear case](#item-tech-news-268) ⭐️ ?/10
-269. [Australian lawmaker in critical condition after vehicle attack](#item-tech-news-269) ⭐️ ?/10
-270. [Houthi attack on Yemen government camp kills over 50, officials say](#item-tech-news-270) ⭐️ ?/10
-271. [Zelenskyy says Ukraine got no warning of overnight Russian missile strike](#item-tech-news-271) ⭐️ ?/10
-272. [Alberta votes on leaving Canada, separatist movement likely to outlast expected defeat](#item-tech-news-272) ⭐️ ?/10
-273. [France imposes curfews in parts of Paris and other cities after riots](#item-tech-news-273) ⭐️ ?/10
-274. [‘25 Years of You’: Is there such a thing as a ‘good’ stalker?](#item-tech-news-274) ⭐️ ?/10
-275. [From Harvard to Tokyo screens, one actor takes the leap](#item-tech-news-275) ⭐️ ?/10
-276. [Trump open to trilateral summit with Putin and Xi but wants denuclearization focus](#item-tech-news-276) ⭐️ ?/10
-277. [Trump approval falls to record low of 31% as midterms near, poll finds](#item-tech-news-277) ⭐️ ?/10
-278. [Japan launches probe in historic bid to collect sample from Mars moon](#item-tech-news-278) ⭐️ ?/10
-279. [A millennium ago, \(almost\) everyone in Japan was a poet](#item-tech-news-279) ⭐️ ?/10
-280. [Over 16% of Japanese companies experience data breaches](#item-tech-news-280) ⭐️ ?/10
-281. [Japan to restart accepting foreign workers for meal services at some facilities](#item-tech-news-281) ⭐️ ?/10
-282. [China reveals advanced nuclear sub was used to test-fire missile](#item-tech-news-282) ⭐️ ?/10
-283. [New species of sperm whale identified from fossils found in Gunma](#item-tech-news-283) ⭐️ ?/10
-284. [Tensions overshadow 70th anniversary of key Japan-Soviet declaration](#item-tech-news-284) ⭐️ ?/10
-285. [Sydney’s new $4 billion airport set to open with barely any flights](#item-tech-news-285) ⭐️ ?/10
-286. [Cases of consumers disputing personal training contracts rise](#item-tech-news-286) ⭐️ ?/10
-287. [Fukushima University to undergo overhaul with greater science focus](#item-tech-news-287) ⭐️ ?/10
-288. [World faces nature reality check at U.N. biodiversity conference](#item-tech-news-288) ⭐️ ?/10
-289. [JICA and the World Bank should put the poor first](#item-tech-news-289) ⭐️ ?/10
-290. [Asian Para Games officially open in Nagoya](#item-tech-news-290) ⭐️ ?/10
-291. [Why harassment scandals continue engulfing Japan’s local leaders](#item-tech-news-291) ⭐️ ?/10
-292. [\[Update 2\] Report on Unauthorized Access to Group Managed Server and Potential Data Leak](#item-tech-news-292) ⭐️ ?/10
-293. [LeBron James gears up for another title run at age 41 with 76ers](#item-tech-news-293) ⭐️ ?/10
-294. [Legacy of Japanese woman’s apple pie store lives on in California](#item-tech-news-294) ⭐️ ?/10
-295. [JCS Chair Orders &\#x27;Stern Response&\#x27; to Enemy Provocation after N. Korea Shifts Blame over Tensions](#item-tech-news-295) ⭐️ ?/10
-296. [US Reaffirms Fulfillment of Conditions Must Precede OPCON Transfer](#item-tech-news-296) ⭐️ ?/10
-297. [Average Gas, Diesel Prices Continue Sliding Tuesday](#item-tech-news-297) ⭐️ ?/10
-298. [KOSPI Opens Down 0.6% Tuesday](#item-tech-news-298) ⭐️ ?/10
-299. [Trump Uncertain about Meeting with N. Korea&\#x27;s Kim during China Trip](#item-tech-news-299) ⭐️ ?/10
-300. [Kim Yo-jong: N. Korea Mulling Resumption of Loudspeaker Propaganda Broadcasts](#item-tech-news-300) ⭐️ ?/10
-301. [KMA Calls on Gov&\#x27;t to Reconsider Revisions to Enforcement Rules for Telemedicine](#item-tech-news-301) ⭐️ ?/10
-302. [Lee: S. Korea Must Regain OPCON from US Swiftly, without Fail](#item-tech-news-302) ⭐️ ?/10
-303. [Firefighters Pay Emotional Tribute to Fallen Colleague](#item-tech-news-303) ⭐️ ?/10
-304. [Hollys Coffee: Hacking Attack Compromised Nearly 3 Million Items of Customers’ Personal Info](#item-tech-news-304) ⭐️ ?/10
-305. [Rain Forecast for Southern Regions on Tuesday](#item-tech-news-305) ⭐️ ?/10
-306. [USFK Chief Stirs Sovereignty Controversy in S. Korea with DMZ Remarks](#item-tech-news-306) ⭐️ ?/10
-307. [Ninth Hanbok Culture Week Begins Monday](#item-tech-news-307) ⭐️ ?/10
-308. [DP Vows Best Efforts to Ease Public Sentiment over Gyeonggi Governor&\#x27;s Remarks](#item-tech-news-308) ⭐️ ?/10
-309. [USFK Commander under Fire over Where S. Korea Begins in DMZ](#item-tech-news-309) ⭐️ ?/10
-310. [KOSPI Up 1.76% Monday](#item-tech-news-310) ⭐️ ?/10
-311. [Badminton Star An Se-young Sets All-Time Record with 47th Women’s Singles Title](#item-tech-news-311) ⭐️ ?/10
-312. [Army Chief Disagrees with Brunson&\#x27;s Remarks on S. Korean Territory](#item-tech-news-312) ⭐️ ?/10
-313. [KOSPI Posts Weakest Returns among Key Global Stock Markets in October](#item-tech-news-313) ⭐️ ?/10
-314. [Ruling Party Slams Brunson’s Remark about S. Korea’s Territorial Boundaries](#item-tech-news-314) ⭐️ ?/10
-315. [Funeral Held for Firefighter Killed in Bucheon Factory Fire](#item-tech-news-315) ⭐️ ?/10
-316. [Seoul Prosecution Chief Says He Never Considered Dropping Charges against President](#item-tech-news-316) ⭐️ ?/10
-317. [Gyeonggi Governor Again Apologizes to Firefighters over ‘Financial Drain’ Remark](#item-tech-news-317) ⭐️ ?/10
-318. [Police Push to Replace ‘Agency’ with ‘Service’ in English Name](#item-tech-news-318) ⭐️ ?/10
-319. [JMS Cult Leader Sentenced to 33 Years for Additional Sexual Assaults](#item-tech-news-319) ⭐️ ?/10
-320. [Lee Meets World Bank Chief to Discuss AI, Energy Cooperation](#item-tech-news-320) ⭐️ ?/10
-321. [IVE to Release New Song ‘Looks Can Kill’ Monday](#item-tech-news-321) ⭐️ ?/10
-322. [Police Yet to Find Evidence of Premeditation in Incheon Stabbing Case](#item-tech-news-322) ⭐️ ?/10
-323. [SCIA Chief Vows to End &\#x27;Politicization&\#x27; of Investigations](#item-tech-news-323) ⭐️ ?/10
-324. [Finance Minister Projects Mid-3% Growth for S. Korean Economy This Year](#item-tech-news-324) ⭐️ ?/10
-325. [EN DIRECT, manifestations du 17 octobre : Laurent Nuñez, venu lundi soir à Marseille, promet au maire davantage de forces de l’ordre pour encadrer la prochaine manifestation prévue samedi](#item-tech-news-325) ⭐️ ?/10
-326. [Les violences urbaines du 17 octobre « ont acté la mort du macronisme » avec « rage, colère et peur de l’avenir » : le regard d’une presse étrangère stupéfaite](#item-tech-news-326) ⭐️ ?/10
-327. [Contre les violences du 17 octobre, les élus ont appelé à « faire bloc » lors des rassemblements devant les mairies](#item-tech-news-327) ⭐️ ?/10
-328. [Le mandat de Giorgia Meloni, des marges italiennes au cœur de la politique européenne](#item-tech-news-328) ⭐️ ?/10
-329. [Narcobanditisme : journée sous tension au procès de l’assassinat du demi-frère d’Amine Kessaci](#item-tech-news-329) ⭐️ ?/10
-330. [Ramener un petit morceau de Phobos, l’une des deux lunes de Mars, l’objectif de l’audacieuse mission japonaise MMX](#item-tech-news-330) ⭐️ ?/10
-331. [La foisonnante inventivité des chercheurs pour étudier les capacités d’adaptation des espèces](#item-tech-news-331) ⭐️ ?/10
-332. [Japan launches mission to explore Mars&\#x27; moons and bring back samples](#item-tech-news-332) ⭐️ ?/10
-333. [Spain floods kill four as torrential rain inundates eastern regions](#item-tech-news-333) ⭐️ ?/10
-334. [France tells online marketplaces to crack down on resale of looted items](#item-tech-news-334) ⭐️ ?/10
-335. [Le Pen &\#x27;trying to use these events to push her popularity&\#x27;, expert says](#item-tech-news-335) ⭐️ ?/10
-336. [Le Pen &\#x27;trying to use these events to push her popularity&\#x27;, expert says](#item-tech-news-336) ⭐️ ?/10
-337. [Art crime detective Arthur Brand warns: &\#x27;All museums have been, and will be, victims of theft&\#x27;](#item-tech-news-337) ⭐️ ?/10
-338. [France riots: AI photos falsely depict elderly couple ‘stripped and robbed’](#item-tech-news-338) ⭐️ ?/10
-339. [France faces reckoning with public order policing after violent protest weekend](#item-tech-news-339) ⭐️ ?/10
-340. [French far right seeks to capitalise on protests with calls for law and order](#item-tech-news-340) ⭐️ ?/10
-341. [Russia-China-US summit would prolong the war, Kyiv says](#item-tech-news-341) ⭐️ ?/10
-342. [Paris weekend riots raise concerns for tourism industry](#item-tech-news-342) ⭐️ ?/10
-343. [Zelensky says Starshield speed limits slowing down frontline response](#item-tech-news-343) ⭐️ ?/10
-344. [🔴 France issues curfew for parts of central Paris](#item-tech-news-344) ⭐️ ?/10
-345. [France: ‘localised’ curfews announced after weekend of violence](#item-tech-news-345) ⭐️ ?/10
-346. [DZ Mafia murder trial set to begin near Marseille](#item-tech-news-346) ⭐️ ?/10
-347. [Ukraine deploys drone to airlift wounded soldier in &\#x27;world-first&\#x27; operation](#item-tech-news-347) ⭐️ ?/10
-348. [France wants curfews in some areas after weekend of riots](#item-tech-news-348) ⭐️ ?/10
-349. [France protests: Who are the people arrested during the unrest?](#item-tech-news-349) ⭐️ ?/10
-350. [&\#x27;Police weren&\#x27;t overwhelmed by people protesting and marching&\#x27; about education and cost of living](#item-tech-news-350) ⭐️ ?/10
-351. [Four soldiers dead, dozens injured in fire at Canada military base](#item-tech-news-351) ⭐️ ?/10
-352. [French PM says &\#x27;ultra-left&\#x27; seeking &\#x27;deep unrest&\#x27; ahead of election](#item-tech-news-352) ⭐️ ?/10
-353. [Brazil court orders Meta to prove it gives Lula, Bolsonaro campaign content equal treatment](#item-tech-news-353) ⭐️ ?/10
-354. [France protests draw global attention: Trump, Vance blame immigration for unrest](#item-tech-news-354) ⭐️ ?/10
-355. [Macron kicks off three-day Gulf tour, seeks securing fuel supplies amid crisis](#item-tech-news-355) ⭐️ ?/10
-356. [Ukraine-Krieg: Wolodymyr Selenskyj wirft USA Blockade bezahlter Raketenlieferungen vor](#item-tech-news-356) ⭐️ ?/10
-357. [»Promi Big Brother« 2026: Maurice Dwizak gewinnt Finale vor Axel Schulz](#item-tech-news-357) ⭐️ ?/10
-358. [Friedrich Merz: Viele Deutsche unterschätzen Bedrohung durch Russland](#item-tech-news-358) ⭐️ ?/10
-359. [Peter Christian Zinkann: Langjähriger Miele-Chef ist tot](#item-tech-news-359) ⭐️ ?/10
-360. [Iran: Spionageurteile belasten Verhältnis – Botschafter einbestellt](#item-tech-news-360) ⭐️ ?/10
-361. [Japan: Erfolgreicher Raketenstart für Mission zum Marsmond Phobos](#item-tech-news-361) ⭐️ ?/10
-362. [Cristiano Ronaldo: Geringe Geldstrafe nach Eklat im Nationalteam](#item-tech-news-362) ⭐️ ?/10
-363. [Kenia: Sektenführer wegen Tötung von 191 Menschen schuldig gesprochen](#item-tech-news-363) ⭐️ ?/10
-364. [Berlin: SPD und Grüne stimmen für Koalitionsgespräche mit der Linken](#item-tech-news-364) ⭐️ ?/10
-365. [Frankreich: Städte verhängen nächtliche Ausgangssperren nach Plünderungen](#item-tech-news-365) ⭐️ ?/10
-366. [Nvidia: Bundesregierung und Konzernchef Huang besiegeln KI-Kooperation](#item-tech-news-366) ⭐️ ?/10
-367. [Armin Meiwes: »Kannibale von Rotenburg« bleibt vorerst im Gefängnis](#item-tech-news-367) ⭐️ ?/10
-368. [Christiane Amanpour: CNN-Chefkorrespondentin geht nach 43 Jahren](#item-tech-news-368) ⭐️ ?/10
-369. [Berlin: Warum die Vergesellschaftung wohl scheitern wird](#item-tech-news-369) ⭐️ ?/10
-370. [Kevin Dorow: Staatsanwaltschaft klagt AfD-Politiker wegen NS-Parole an](#item-tech-news-370) ⭐️ ?/10
-371. [NFL: Jalen Hurts erleidet Thrombose und beidseitige Lungenembolie](#item-tech-news-371) ⭐️ ?/10
-372. [VW-Krise: Warum ein Bruch mit der IG Metall riskant wäre](#item-tech-news-372) ⭐️ ?/10
-373. [Bulgarien: Angriff auf Starlink-Antennen – Haftbefehl gegen Deutsche erlassen](#item-tech-news-373) ⭐️ ?/10
-374. [Bärbel Bas&\#x27; Rücktritt: Christian von Stetten \(CDU\) verteidigt sich gegen SPD-Kritik](#item-tech-news-374) ⭐️ ?/10
-375. [Prinzessin Amalia der Niederlande bekommt eine kalte Dusche – das ist der Grund](#item-tech-news-375) ⭐️ ?/10
-376. [Junge Union: Deutschlandtag in Bonn - Dieses Banner ist eine Entgleisung](#item-tech-news-376) ⭐️ ?/10
-377. [News des Tages: Mögliches Linksbündnis in Berlin, Krawalle in Frankreich, Natur in der Krise](#item-tech-news-377) ⭐️ ?/10
-378. [Verden in Niedersachsen: Hebamme muss nach tödlicher Hausgeburt drei Jahre in Haft](#item-tech-news-378) ⭐️ ?/10
-379. [Donald Trump: Meta entschuldigt sich für Sperrung von »No Kings«-Instagram-Account](#item-tech-news-379) ⭐️ ?/10
-380. [Deutschland: Wie Vermögen, Bildung und Herkunft die Ungleichheit prägen](#item-tech-news-380) ⭐️ ?/10
-381. [Stade: Tochter von Opfer übernimmt Mutter-Kind-Haus](#item-tech-news-381) ⭐️ ?/10
-382. [Rob Jetten: Niederländischer Regierungschef und sein Partner werden Väter](#item-tech-news-382) ⭐️ ?/10
-383. [TSV 1860 München: Warum der Club trotz der Niederlage gegen den FC Bayern II vor Euphorie sprüht](#item-tech-news-383) ⭐️ ?/10
-384. [Olfen: Messerattacke in Seniorenheim – Verletzte Frauen außer Lebensgefahr](#item-tech-news-384) ⭐️ ?/10
-385. [Zittern um Rentenreform: Was die „Rente mit 63“ so brisant macht](#item-tech-news-385) ⭐️ ?/10
-386. [Huang zu Merz: „Gib Deutschland eine Chance\!“](#item-tech-news-386) ⭐️ ?/10
-387. [Rot-Rot-Grün: Berliner Grüne stimmen für Koalitionsverhandlungen](#item-tech-news-387) ⭐️ ?/10
-388. [„Hart aber fair“: Leben deutsche Beamte wirklich länger?](#item-tech-news-388) ⭐️ ?/10
-389. [Verdreckte Innenstädte: „Sonst macht es ja keiner“](#item-tech-news-389) ⭐️ ?/10
-390. [Arrest warrants issued for two Germans over Starlink sabotage in Bulgaria](#item-tech-news-390) ⭐️ ?/10
-391. [Vor der Steuerreform: Schnell noch Geld sparen](#item-tech-news-391) ⭐️ ?/10
-392. [Streit mit Selenskyj: Wird Trumps Torheit wieder Normalmaß annehmen?](#item-tech-news-392) ⭐️ ?/10
-393. [Berliner Sondierung: Deutschland ist keine parteipolitische Strafanstalt](#item-tech-news-393) ⭐️ ?/10
-394. [Insulinfabrik: Sanofi setzt auf Frankfurt dank üppiger Staatshilfe](#item-tech-news-394) ⭐️ ?/10
-395. [Kunstmesse Art Basel: Sammler, kommst du nach Paris](#item-tech-news-395) ⭐️ ?/10
-396. [Unruhen: Die gescheiterte Integration in Frankreich](#item-tech-news-396) ⭐️ ?/10
-397. [Neuer Beatles-Mix: Als stünden John und Paul direkt neben uns](#item-tech-news-397) ⭐️ ?/10
-398. [Abhängigkeit von Musk: Ein europäisches Starlink wäre möglich – doch es fehlt der Wille](#item-tech-news-398) ⭐️ ?/10
-399. [Krise der „Lilien“: Der zweiten Liga nicht würdig](#item-tech-news-399) ⭐️ ?/10
-400. [Koalition: Ein Fuß über dem Abgrund](#item-tech-news-400) ⭐️ ?/10
-401. [SPD-Frauen: Wer ist hier sexistisch?](#item-tech-news-401) ⭐️ ?/10
-402. [Ballon D’or: Ist Harry Kane der beste Fußballspieler der Welt?](#item-tech-news-402) ⭐️ ?/10
-403. [Gesundheitsversorgung: Kassenärzte warnen vor längeren Wartezeiten auf Arzttermine](#item-tech-news-403) ⭐️ ?/10
-404. [Neue Exportregeln: China will das Ausland von neuer KI- und Solartechnik abschneiden](#item-tech-news-404) ⭐️ ?/10
-405. [Gemeinsame Mission: Japan und Deutschland starten zu den Marsmonden](#item-tech-news-405) ⭐️ ?/10
-406. [Nach 43 Jahren: Starreporterin Christiane Amanpour verlässt CNN](#item-tech-news-406) ⭐️ ?/10
-407. [Gewalt in Frankreich: „Es herrschte die Absicht zu zerstören, zu zerschlagen, zu töten“](#item-tech-news-407) ⭐️ ?/10
-408. [Trauer in Gütersloh: Langjähriger Miele-Chef Peter Christian Zinkann ist tot](#item-tech-news-408) ⭐️ ?/10
-409. [Südtirol: Eltern lassen Teenager in den Alpen zurück – von Bergwacht gerettet](#item-tech-news-409) ⭐️ ?/10
-410. [Kate Zambrenos „Schaum“: Bilder einer Lebensausstellung](#item-tech-news-410) ⭐️ ?/10
-411. [Film „Schattenkrieger“: Wer Russland retten will, muss der Ukraine zum Sieg verhelfen](#item-tech-news-411) ⭐️ ?/10
-412. [Lust in der Beziehung: „Ich dachte: Das ist ein Mann, der muss doch auch wollen\!“](#item-tech-news-412) ⭐️ ?/10
-413. [„Weg zum Triathlon“: Wie sinnvoll ist eine Sportuhr?](#item-tech-news-413) ⭐️ ?/10
-414. [F.A.Z. Exklusiv: Satellitendaten zeigen Russlands gefährliches Agieren an der Ostsee](#item-tech-news-414) ⭐️ ?/10
-415. [Anschlag in Australien: Abgeordnete lebensgefährlich verletzt](#item-tech-news-415) ⭐️ ?/10
-416. [„Victoria’s Secret“-Show: Kylie Jenner gibt Debüt im Fantasy-Bra](#item-tech-news-416) ⭐️ ?/10
-417. [Unmut über steigende Kosten: Krawalle bei Protesten auch in Italien](#item-tech-news-417) ⭐️ ?/10
-418. [F.A.Z. Podcast für Deutschland: Merz&\#x27; Triumph in Brüssel: „Das Verbrenner-Aus ist Geschichte“](#item-tech-news-418) ⭐️ ?/10
-419. [Rhein-Main-Feierabendbriefing: Lufthansa: Der letzte Flug der A340-600](#item-tech-news-419) ⭐️ ?/10
-420. [F.A.Z. Frühdenker: Stimmen SPD und Grüne für Koalitionsgespräche mit der Linken?](#item-tech-news-420) ⭐️ ?/10
-421. [Deutschland Liveblog: Grüne und SPD stimmen für Koalitionsverhandlungen mit Linken in Berlin](#item-tech-news-421) ⭐️ ?/10
-422. [Vergangenheitsbewältigung: Versöhnt ist Nordirland noch lange nicht](#item-tech-news-422) ⭐️ ?/10
-423. [Starlink-Beschränkungen: Warum Satelliteninternet für die Ukraine so wichtig ist](#item-tech-news-423) ⭐️ ?/10
-424. [Jugend-Konferenz: Was macht eigentlich die Klimabewegung?](#item-tech-news-424) ⭐️ ?/10
-425. [Tanken mit Kraftstoff E20: Biosprit soll gegen hohe Ölpreise helfen](#item-tech-news-425) ⭐️ ?/10
-426. [Prognose: Die Kfz-Versicherung wird abermals etwas teurer](#item-tech-news-426) ⭐️ ?/10
-427. [Wohnungen Enteignen?: Um diesen Paragraphen dreht sich in Berlin jetzt alles](#item-tech-news-427) ⭐️ ?/10
-428. [EU-Regeln: Streit über Satellitentelefonie: Warum die USA Europa drohen](#item-tech-news-428) ⭐️ ?/10
-429. [France debates responsibility for recent unrest](#item-tech-news-429) ⭐️ ?/10
-430. [US-Midterms: Der Kandidat, der zufällig Muslim ist](#item-tech-news-430) ⭐️ ?/10
-431. [Nachts in der Notaufnahme: „Der schiebt gerade miese Paranoia“](#item-tech-news-431) ⭐️ ?/10
-432. [Hohes Marktpotential: Auch das gute alte Gold soll digital werden](#item-tech-news-432) ⭐️ ?/10
-433. [Vonovia shares fall 40% amid Berlin expropriation fears](#item-tech-news-433) ⭐️ ?/10
-434. [gefördertes Depot: Vermögensbildung schon für Babys](#item-tech-news-434) ⭐️ ?/10
-435. [„Die Holländerinnen“ in Berlin: Relikte einer langen Reise](#item-tech-news-435) ⭐️ ?/10
-436. [Rundfunkbeitrag: ÖRR-Beitragsservice macht großen Datenabgleich](#item-tech-news-436) ⭐️ ?/10
-437. [„Rubber Soul“-Neuauflage: Als die Beatles lernten, „ich“ zu sagen](#item-tech-news-437) ⭐️ ?/10
-438. [Deutsches Jazzfest: Ohne ideologische Beweislast](#item-tech-news-438) ⭐️ ?/10
-439. [künstliche intelligenz: Wer braucht noch Berufsanfänger?](#item-tech-news-439) ⭐️ ?/10
-440. [Lage der Soziologie: Die Gesellschaft passt in keine Badewanne](#item-tech-news-440) ⭐️ ?/10
-441. [Nach Abreise-Eklat: Ronaldo kommt mit einer milden Strafe davon](#item-tech-news-441) ⭐️ ?/10
-442. [NHL-Profis wollen weg: Warum wollen die US-Stars Kanada verlassen?](#item-tech-news-442) ⭐️ ?/10
-443. [Missbrauch im Turnen: „Wer keine Unruhe stiftet, wird auch nichts verändern“](#item-tech-news-443) ⭐️ ?/10
-444. [EM-Zweite Kaufmann: Je größer die Bühne, desto stärker spielt sie auf](#item-tech-news-444) ⭐️ ?/10
-445. [Gesundheitliche Probleme: Ralph Siegel sagt Termin ab](#item-tech-news-445) ⭐️ ?/10
-446. [Cold Case vor Aufklärung: Kerstin Lee Langley wurde offenbar erwürgt](#item-tech-news-446) ⭐️ ?/10
-447. [Mit Hilfe von Leihmutter: Niederländischer Ministerpräsident und sein Verlobter bekommen ein Baby](#item-tech-news-447) ⭐️ ?/10
-448. [Regenflut in Spanien: Mehr als 700 Liter pro Quadratmeter](#item-tech-news-448) ⭐️ ?/10
-449. [New Balance 530: Ein Retro-Laufschuh wird zum Herbstliebling](#item-tech-news-449) ⭐️ ?/10
-450. [„Zwischen Ruhm und Ehre“: Größenwahn und Selbstzweifel](#item-tech-news-450) ⭐️ ?/10
-451. [„verkehrte Welt“: Warum ein Spielplatz wegen der Drogenszene verlegt werden soll](#item-tech-news-451) ⭐️ ?/10
-452. [Nach Vorwürfen: Gremmels verteidigt Frankfurter Uniklinik](#item-tech-news-452) ⭐️ ?/10
-453. [Friedberg: Patientin greift Arzt in Notaufnahme an](#item-tech-news-453) ⭐️ ?/10
-454. [BMW M440d Im Test: Offenbar alternativlos](#item-tech-news-454) ⭐️ ?/10
-455. [Made in Germany: Kühle KI und heiße Grills](#item-tech-news-455) ⭐️ ?/10
-456. [Wissen im Internet: Welche Zukunft haben Lexika im Netz?](#item-tech-news-456) ⭐️ ?/10
-457. [Arbeitsbelastung: Wie Exoskelette Rücken und Schultern entlasten](#item-tech-news-457) ⭐️ ?/10
-458. [Immobilien vor Gericht: Womit ein Mieter die Eigenbedarfskündigung seiner Wohnung aufhalten kann](#item-tech-news-458) ⭐️ ?/10
-459. [Preisabsprachen: Wie bekommt man bei Skipässen Geld zurück?](#item-tech-news-459) ⭐️ ?/10
-460. [In Paris: Spektakuläre Werke von Claude Monet kommen zur Auktion](#item-tech-news-460) ⭐️ ?/10
-461. [Literaturrätsel im Oktober: Sieben Fragen, ein Lösungswort](#item-tech-news-461) ⭐️ ?/10
-462. [Большинство стран Евросоюза не поддерживают инициативу Финляндии прекратить во в](#item-tech-news-462) ⭐️ ?/10
-463. [Lake Braies, the pearl of the Dolomites.](#item-tech-news-463) ⭐️ ?/10
-464. [The Table Mountains, or Tepuis, rise up in Venezuela&\#x27;s Canaima National Park.](#item-tech-news-464) ⭐️ ?/10
-465. [Pallas&\#x27;s cats never get boring.](#item-tech-news-465) ⭐️ ?/10
-466. [Leopard reproduction is extremely slow, in 80% of cases, females give birth to 1](#item-tech-news-466) ⭐️ ?/10
-467. [Curious one.](#item-tech-news-467) ⭐️ ?/10
-468. [One of the most unusual sea caves, the Blue Grotto in Italy.](#item-tech-news-468) ⭐️ ?/10
-469. [⚛️ Google Just Reduced a Critical Quantum Computing Error by 40 TIMES Quantum co](#item-tech-news-469) ⭐️ ?/10
-
 **Financial News**
-1. [Ebola cases in Kenya highlight US failures amid Trump cuts to key services](#item-finance-news-1) ⭐️ 8.0/10
-2. [02版 -  何立峰与俄罗斯副总理切尔内申科共同主持召开中俄总理定期会晤委员会第三十次会议](#item-finance-news-2) ⭐️ 7.0/10
-3. [China’s economy grows faster than forecast after AI boom boosts exports](#item-finance-news-3) ⭐️ 7.0/10
-4. [L’administration présente ses scénarios de réforme pour la fonction publique : « On est vraiment dans une situation d’urgence »](#item-finance-news-4) ⭐️ 7.0/10
-5. [I have a condition people are too embarrassed to talk about](#item-finance-news-5) ⭐️ 1.0/10
-6. [Le nombre de morts sur les routes de France métropolitaine recule de 5 % sur un an](#item-finance-news-6) ⭐️ 0.0/10
-7. [02版 -  从“中国项目”到“全球经验”](#item-finance-news-7) ⭐️ ?/10
-8. [02版 -  第170次中老缅泰湄公河联合巡逻执法行动正式启动](#item-finance-news-8) ⭐️ ?/10
-9. [&\#x27;Our worst nightmare&\#x27;: Threats to Australian politicians were rising before MP hit by car](#item-finance-news-9) ⭐️ ?/10
-10. [&\#x27;The French correction&\#x27; and &\#x27;Labour cuts £2bn from Army&\#x27;](#item-finance-news-10) ⭐️ ?/10
-11. [Dans une Allemagne en crise, le nombre de créations de start-up atteint un record](#item-finance-news-11) ⭐️ ?/10
+1. [Opposition offers alternatives to food consumption tax cut in parliamentary debate](#item-finance-news-1) ⭐️ 7.0/10
+2. [Bundle water safeguards into critical-mineral licences](#item-finance-news-2) ⭐️ 2.0/10
+3. [Bill Ackman sounds off on &\#x27;crazy, radicalized&\#x27; Democratic Party, argues it&\#x27;s in &\#x27;worst place it&\#x27;s ever been&\#x27;](#item-finance-news-3) ⭐️ 0.0/10
+4. [Threats of political violence soar in Australia’s ‘online echo chamber’](#item-finance-news-4) ⭐️ ?/10
+5. [Soziale Immobilität: Die Wohnungsnot ist ein Kern der deutschen Probleme](#item-finance-news-5) ⭐️ ?/10
+
+**Technology News**
+1. [Nobel-prizewinning breakthroughs can emerge from neglected organisms](#item-tech-news-1) ⭐️ 5.0/10
+2. [Panasonic speeds up efforts to turn windows into solar panels](#item-tech-news-2) ⭐️ 5.0/10
+3. [Near miss: Indonesia probes crash of suspected Chinese rocket fragment](#item-tech-news-3) ⭐️ 5.0/10
+4. [Europe and the rest of the world must come up with an answer to US science strategy](#item-tech-news-4) ⭐️ 3.0/10
+5. [gvanrossum created branch in gvanrossum/peps](#item-tech-news-5) ⭐️ 2.0/10
+6. [As Private Equity Scales Up Small Restaurants, Customers Push Back](#item-tech-news-6) ⭐️ 2.0/10
+7. [torvalds pushed 0 commit\(s\) to torvalds/linux](#item-tech-news-7) ⭐️ 1.0/10
+8. [gvanrossum pushed 0 commit\(s\) to python/peps](#item-tech-news-8) ⭐️ 1.0/10
+9. [Conservation planning should follow animal clocks](#item-tech-news-9) ⭐️ 1.0/10
+10. [Netflix Is Great at Making Money. Its Problem Is Keeping Viewers Hooked.](#item-tech-news-10) ⭐️ 1.0/10
+11. [Canada Has Never Been More United](#item-tech-news-11) ⭐️ 1.0/10
+12. [Trumpism Is Backfiring](#item-tech-news-12) ⭐️ 1.0/10
+13. [Have MLB home run celebrations gone too far? Junior Caminero&\#x27;s long run around the bases sparks debate](#item-tech-news-13) ⭐️ 1.0/10
+14. [American Airlines jet suffers brake trouble, blown tire after landing at Chicago O&\#x27;Hare: FAA](#item-tech-news-14) ⭐️ 1.0/10
+15. [Bangladesh battle against measles a ‘real warning’ to other nations](#item-tech-news-15) ⭐️ 1.0/10
+16. [Seoul to pull embassy staff from Kyiv over North Korea prisoner disclosure](#item-tech-news-16) ⭐️ 1.0/10
+17. [Interview zur AfD: Warum nimmt sich die „Bild“-Chefin zurück?](#item-tech-news-17) ⭐️ 1.0/10
+18. [Eklat um Linken: Die Jüdin soll doch einfach auswandern](#item-tech-news-18) ⭐️ 1.0/10
+19. [Entertainer ohne Auto: Wie Harald Schmidt in die Vernunft fiel](#item-tech-news-19) ⭐️ 1.0/10
+20. [VW Polo und Co.: Jahreswagen](#item-tech-news-20) ⭐️ 1.0/10
+21. [Trump’s D.C. Golf Course Renovation Plan Has Many Residents Feeling Discouraged](#item-tech-news-21) ⭐️ 0.0/10
+22. [Christina Applegate Says Her MS Was Misdiagnosed](#item-tech-news-22) ⭐️ 0.0/10
+23. [Iran prolongs talks in stalemate to influence U.S. midterms, officials say](#item-tech-news-23) ⭐️ 0.0/10
+24. [Neue Steuerschätzung: Die Rechnung von Merz geht nicht auf](#item-tech-news-24) ⭐️ 0.0/10
+25. [Frankfurter PR-Erfolg: Ein Schatten über der Harmonie](#item-tech-news-25) ⭐️ 0.0/10
+26. [Is it ‘moon-stroke’, or a chill?](#item-tech-news-26) ⭐️ ?/10
+27. [Butterfly wing patterns make motion hard to read](#item-tech-news-27) ⭐️ ?/10
+28. [&lt;i&gt;Nature&lt;/i&gt;’s job-satisfaction survey highlights the changing geography of science](#item-tech-news-28) ⭐️ ?/10
+29. [Will this sleep-disorder drug be the next big blockbuster?](#item-tech-news-29) ⭐️ ?/10
+30. [Can a human survive in a whale’s belly? The science behind the thriller &lt;i&gt;Whalefall&lt;/i&gt;](#item-tech-news-30) ⭐️ ?/10
+31. [It’s time to teach peer review as a core research skill](#item-tech-news-31) ⭐️ ?/10
+32. [Vast new fossil record challenges story of Earth’s ‘big five’ mass extinctions](#item-tech-news-32) ⭐️ ?/10
+33. [China picks first researchers for 15-year mega grants](#item-tech-news-33) ⭐️ ?/10
+34. [Nepal’s disaster is an urgent wake-up call](#item-tech-news-34) ⭐️ ?/10
+35. [Author Correction: FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial](#item-tech-news-35) ⭐️ ?/10
+36. [Franchisee reconciles cash in 94% less time with ChatGPT Work](#item-tech-news-36) ⭐️ ?/10
+37. [OpenAI acquires Orchestra Bio](#item-tech-news-37) ⭐️ ?/10
+38. [Updatelessness explained](#item-tech-news-38) ⭐️ ?/10
+39. [Why do fictional jailbreaks work?](#item-tech-news-39) ⭐️ ?/10
+40. [How I discovered an Exoplanet &amp; the science apocalypse](#item-tech-news-40) ⭐️ ?/10
+41. [Which AI economics and governance research most needs independent expert evaluation? \(help The Unjournal prioritize it\)](#item-tech-news-41) ⭐️ ?/10
+42. [A brief\(ish\) introduction to LM psychology](#item-tech-news-42) ⭐️ ?/10
+43. [ACS Infra: free access to large base models for LLM psychology research](#item-tech-news-43) ⭐️ ?/10
+44. [Agent Action Steering](#item-tech-news-44) ⭐️ ?/10
+45. [What to sort out before the money lands](#item-tech-news-45) ⭐️ ?/10
+46. [VPD&\#x27;s Evaluation Adversary Finds Systematic Defects in the Released Decomposition](#item-tech-news-46) ⭐️ ?/10
+47. [There Will Be Hells](#item-tech-news-47) ⭐️ ?/10
+48. [01版 -  弘扬伟大长征精神  走好今天的长征路](#item-tech-news-48) ⭐️ ?/10
+49. [01版 -  红旗漫卷处  山乡启新程（赓续长征精神  奋进复兴征程）](#item-tech-news-49) ⭐️ ?/10
+50. [01版 -  绿水青山千秋画  红色文化永铸魂](#item-tech-news-50) ⭐️ ?/10
+51. [01版 -  李强会见塔吉克斯坦总统拉赫蒙](#item-tech-news-51) ⭐️ ?/10
+52. [01版 -  同心铸辉煌  奋进新征程](#item-tech-news-52) ⭐️ ?/10
+53. [01版 -  前三季度国内生产总值同比增长4.6%](#item-tech-news-53) ⭐️ ?/10
+54. [01版 -  导读](#item-tech-news-54) ⭐️ ?/10
+55. [Li Qiang Meets Iran&\#x27;s First Vice President Amid Middle East Tensions](#item-tech-news-55) ⭐️ ?/10
+56. [Li Qiang Meets Belarus Prime Minister Turchyn in Dushanbe](#item-tech-news-56) ⭐️ ?/10
+57. [China-Egypt ties resilient amid global changes, official says](#item-tech-news-57) ⭐️ ?/10
+58. [02版 -  拜靖国神社，日本再次撕下自己的“和平伪装”（钟声）](#item-tech-news-58) ⭐️ ?/10
+59. [China condemns Japanese visits to Yasukuni Shrine](#item-tech-news-59) ⭐️ ?/10
+60. [02版 -  保加利亚总统约托娃会见王毅](#item-tech-news-60) ⭐️ ?/10
+61. [02版 -  何立峰与俄罗斯副总理切尔内申科共同主持召开中俄总理定期会晤委员会第三十次会议](#item-tech-news-61) ⭐️ ?/10
+62. [02版 -  从“中国项目”到“全球经验”](#item-tech-news-62) ⭐️ ?/10
+63. [02版 - 中俄人文合作委员会第二十七次会议召开 谌贻琴与戈利科娃共同主持](#item-tech-news-63) ⭐️ ?/10
+64. [02版 -  刘海星会见塞舌尔联合塞舌尔党副主席、政府卫生部长范尼](#item-tech-news-64) ⭐️ ?/10
+65. [02版 -  第170次中老缅泰湄公河联合巡逻执法行动正式启动](#item-tech-news-65) ⭐️ ?/10
+66. [03版 -  推动经济平稳运行、高质量发展积极因素累积增多（权威发布）](#item-tech-news-66) ⭐️ ?/10
+67. [03版 -  努力完成全年目标任务（快评）](#item-tech-news-67) ⭐️ ?/10
+68. [03版 -  把科技创新势能转化为商贸发展动能（权威发布）](#item-tech-news-68) ⭐️ ?/10
+69. [03版 -  历经8代选育，耐盐碱稻亩产超500公斤（秋收进行时·不一样的水稻品种）](#item-tech-news-69) ⭐️ ?/10
+70. [03版 -  2026金融街论坛年会在京开幕](#item-tech-news-70) ⭐️ ?/10
+71. [04版 -  一纸“万万火急”电令，被年轻人唱响（文物里的长征故事）](#item-tech-news-71) ⭐️ ?/10
+72. [04版 -  让红色精神永放光芒（专家点评）](#item-tech-news-72) ⭐️ ?/10
+73. [04版 -  “何以中国·当惊世界殊”网络主题宣传活动在湖北宜昌举行](#item-tech-news-73) ⭐️ ?/10
+74. [04版 -  中央档案馆向社会集中开放一批长征专题档案](#item-tech-news-74) ⭐️ ?/10
+75. [04版 -  舞步踏一起  生活在一起（铸牢共同体  中华一家亲）](#item-tech-news-75) ⭐️ ?/10
+76. [04版 -  弘扬伟大长征精神  走好今天的长征路](#item-tech-news-76) ⭐️ ?/10
+77. [04版 -  一版责编：杨  旭  张帅祯  赵川博 二版责编：韩晓明  姜  波  关皓宇 三版责编：林  琳  祁嘉润  张安宇 四版责编：袁振喜  韩春瑶  刘静文](#item-tech-news-77) ⭐️ ?/10
+78. [05版 -  无名与有名（评论员观察）](#item-tech-news-78) ⭐️ ?/10
+79. [05版 -  让智能经济更好激发新动能（人民时评）](#item-tech-news-79) ⭐️ ?/10
+80. [05版 -  “重病轻治”的创新之道（微观）](#item-tech-news-80) ⭐️ ?/10
+81. [05版 -  图片报道](#item-tech-news-81) ⭐️ ?/10
+82. [05版 -  菜单里藏着教育智慧（纵横）](#item-tech-news-82) ⭐️ ?/10
+83. [People&\#x27;s Daily editorial on grassroots mass work](#item-tech-news-83) ⭐️ ?/10
+84. [People&\#x27;s Daily October 20, 2026: Page 5 Editorial Staff List](#item-tech-news-84) ⭐️ ?/10
+85. [06版 -  深入学习贯彻习近平文化思想，筑牢强国建设、民族复兴的文化根基](#item-tech-news-85) ⭐️ ?/10
+86. [Hubei Builds Three-Tier Elderly Care Network](#item-tech-news-86) ⭐️ ?/10
+87. [07版 -  三级联动，让老年生活更安心（编辑手记）](#item-tech-news-87) ⭐️ ?/10
+88. [07版 -  领证更便利  服务更贴心](#item-tech-news-88) ⭐️ ?/10
+89. [07版 -  第五届中国报业创新发展大会举办](#item-tech-news-89) ⭐️ ?/10
+90. [07版 -  红旗漫卷处  山乡启新程（赓续长征精神  奋进复兴征程）](#item-tech-news-90) ⭐️ ?/10
+91. [07版 -  同心铸辉煌  奋进新征程](#item-tech-news-91) ⭐️ ?/10
+92. [07版 -  以高质量金融服务支撑国际科技创新中心建设](#item-tech-news-92) ⭐️ ?/10
+93. [07版 -  本版责编　纪雅林  张伟昊  翟钦奇](#item-tech-news-93) ⭐️ ?/10
+94. [08版 -  守护红色记忆  传承长征精神](#item-tech-news-94) ⭐️ ?/10
+95. [08版 -  用一碗热汤温暖城市“奔跑者”（一线行走）](#item-tech-news-95) ⭐️ ?/10
+96. [08版 -  《长征专题书目（一九三六—二〇二六）》出版发行](#item-tech-news-96) ⭐️ ?/10
+97. [08版 -  图片报道](#item-tech-news-97) ⭐️ ?/10
+98. [08版 -  把群众身边小事一件件办实](#item-tech-news-98) ⭐️ ?/10
+99. [08版 -  自然资源部原党组成员，国家林草局原党组书记、局长张建龙严重违纪违法被开除党籍](#item-tech-news-99) ⭐️ ?/10
+100. [08版 -  社保基金会原党组成员、副理事长王文灵严重违纪违法被开除党籍和公职](#item-tech-news-100) ⭐️ ?/10
+101. [08版 -  中国人保原党委委员、副总裁俞小平严重违纪违法被开除党籍](#item-tech-news-101) ⭐️ ?/10
+102. [08版 -  本版责编：苏显龙  赵晓曦  李佩阳](#item-tech-news-102) ⭐️ ?/10
+103. [09版 -  从万里长征走向伟大复兴（深入学习贯彻习近平新时代中国特色社会主义思想）](#item-tech-news-103) ⭐️ ?/10
+104. [09版 -  统筹基层工作的“跳进去”与“领出来”（思想纵横）](#item-tech-news-104) ⭐️ ?/10
+105. [09版 -  把握发展普惠托育和托幼一体化服务的着力点（有的放矢）](#item-tech-news-105) ⭐️ ?/10
+106. [10版 -  聚焦需求，AI赋能新型工业化](#item-tech-news-106) ⭐️ ?/10
+107. [10版 -  汇聚工商界力量  共建亚太共同体](#item-tech-news-107) ⭐️ ?/10
+108. [10版 -  减脂餐的“洋食材”成土特产（财米油盐）](#item-tech-news-108) ⭐️ ?/10
+109. [10版 -  图片报道](#item-tech-news-109) ⭐️ ?/10
+110. [10版 -  让中医药更加自信地走向世界](#item-tech-news-110) ⭐️ ?/10
+111. [10版 -  “千户万灯”点亮千企万家](#item-tech-news-111) ⭐️ ?/10
+112. [10版 -  本版责编：吕钟正  吴  凯  韩文榕](#item-tech-news-112) ⭐️ ?/10
+113. [11版 -  AI+教育，“加”什么，如何“加”（教育优质均衡发展·四问“人工智能+教育”④）](#item-tech-news-113) ⭐️ ?/10
+114. [11版 -  搭建通往教育公平的“AI管道”（编辑手记）](#item-tech-news-114) ⭐️ ?/10
+115. [11版 -  保护文化遗产  推动文明对话](#item-tech-news-115) ⭐️ ?/10
+116. [11版 -  ‍‍2026中国景德镇国际陶瓷博览会开幕](#item-tech-news-116) ⭐️ ?/10
+117. [11版 -  阿佤山乡满目新](#item-tech-news-117) ⭐️ ?/10
+118. [11版 -  中国气象学会年会在兰州开幕](#item-tech-news-118) ⭐️ ?/10
+119. [11版 -  本版责编：肖  遥  董映雪  银  燕](#item-tech-news-119) ⭐️ ?/10
+120. [12版 -  广告](#item-tech-news-120) ⭐️ ?/10
+121. [13版 -  一山揽胜景  烟火暖千家（美丽中国·世界自然遗产这样保护）](#item-tech-news-121) ⭐️ ?/10
+122. [13版 -  河流源头如何确定](#item-tech-news-122) ⭐️ ?/10
+123. [13版 -  海南开展秋季迁徙鸟类调查](#item-tech-news-123) ⭐️ ?/10
+124. [13版 -  去年我国渔业资源与水域生态环境状况保持稳定](#item-tech-news-124) ⭐️ ?/10
+125. [13版 -  图片报道](#item-tech-news-125) ⭐️ ?/10
+126. [13版 -  广东印发实施碧带建设规划](#item-tech-news-126) ⭐️ ?/10
+127. [13版 -  屋顶晒出“阳光存折”  绿能释放发展活力](#item-tech-news-127) ⭐️ ?/10
+128. [13版 -  本版责编：张  晔  杨笑雨  付明丽](#item-tech-news-128) ⭐️ ?/10
+129. [14版 -  “我愿意一直拼下去”（聚焦亚残运会）](#item-tech-news-129) ⭐️ ?/10
+130. [14版 -  听声辨位，盲人足球赛也精彩（秒懂）](#item-tech-news-130) ⭐️ ?/10
+131. [14版 -  一路追风一路歌](#item-tech-news-131) ⭐️ ?/10
+132. [14版 -  家门口老粮站，健身好去处](#item-tech-news-132) ⭐️ ?/10
+133. [14版 -  “张雪机车”车手获年度车手亚军](#item-tech-news-133) ⭐️ ?/10
+134. [14版 -  2026北马男子赛会纪录大幅刷新](#item-tech-news-134) ⭐️ ?/10
+135. [14版 -  2026全国围棋行业职工大赛举行](#item-tech-news-135) ⭐️ ?/10
+136. [14版 -  全国群众公开水域游泳系列赛元荡湖站开赛](#item-tech-news-136) ⭐️ ?/10
+137. [14版 -  独臂少年的篮球梦](#item-tech-news-137) ⭐️ ?/10
+138. [14版 -  “援青杯”足球邀请赛在青海举行](#item-tech-news-138) ⭐️ ?/10
+139. [14版 -  本版责编：巩育华  史  哲  高  佶](#item-tech-news-139) ⭐️ ?/10
+140. [15版 -  一些国家持续探索如何遏制食物浪费（国际视点）](#item-tech-news-140) ⭐️ ?/10
+141. [15版 -  从并蒂莲到机器狗，感受中国好物（环球走笔）](#item-tech-news-141) ⭐️ ?/10
+142. [15版 -  环球扫描](#item-tech-news-142) ⭐️ ?/10
+143. [15版 -  尼泊尔努力挖掘经济潜能](#item-tech-news-143) ⭐️ ?/10
+144. [15版 -  欧洲多地发生抗议示威活动](#item-tech-news-144) ⭐️ ?/10
+145. [15版 -  本版责编：邹志鹏  张慧中  褚  君](#item-tech-news-145) ⭐️ ?/10
+146. [16版 -  广告](#item-tech-news-146) ⭐️ ?/10
+147. [17版 -  长征精神 全人类的共同财富（权威论坛）](#item-tech-news-147) ⭐️ ?/10
+148. [A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal.](#item-tech-news-148) ⭐️ ?/10
+149. [In Texas’ Senate Race, Paxton and Talarico Converge on Key Battleground](#item-tech-news-149) ⭐️ ?/10
+150. [Trump Announces Plans to Spend Another $100 Million by Election Day](#item-tech-news-150) ⭐️ ?/10
+151. [A ‘Doom Loop’ Threatens France as Populism Confronts Markets](#item-tech-news-151) ⭐️ ?/10
+152. [Student Protesters in France Have a Strange New Slogan. What Does It Mean?](#item-tech-news-152) ⭐️ ?/10
+153. [Heading to France? Amid Recent Unrest, Here’s What to Know](#item-tech-news-153) ⭐️ ?/10
+154. [Art Basel Paris Preview Draws Interest Despite Protests](#item-tech-news-154) ⭐️ ?/10
+155. [Why Zelensky Took the Gloves Off This Time With Trump](#item-tech-news-155) ⭐️ ?/10
+156. [Trump Says He Asked Putin to Release an American Jailed in Russia](#item-tech-news-156) ⭐️ ?/10
+157. [Trump Pushes to Evict White House Press Corps](#item-tech-news-157) ⭐️ ?/10
+158. [Houdini Died on Halloween 100 Years Ago. Some Still Question How.](#item-tech-news-158) ⭐️ ?/10
+159. [Kate Middleton brings back Princess Diana&\#x27;s famous tiara for glamorous night alongside Prince William](#item-tech-news-159) ⭐️ ?/10
+160. [Vacation spot slapped with US travel warning over crime, sexual assaults and kidnappings](#item-tech-news-160) ⭐️ ?/10
+161. [Carmelo Anthony says LeBron James and 76ers can be &\#x27;problem for everyone,&\#x27; including reigning-champion Knicks](#item-tech-news-161) ⭐️ ?/10
+162. [Judge Trump called a ‘lunatic’ abruptly backs off demand after showdown with DOJ No. 3](#item-tech-news-162) ⭐️ ?/10
+163. [Amy Schumer shares swimsuit photos from Caribbean getaway nearly a year after 50-pound weight-loss reveal](#item-tech-news-163) ⭐️ ?/10
+164. [Common disorder linked to 70% higher death rate, but medication may offer protection](#item-tech-news-164) ⭐️ ?/10
+165. [Commanders star wide receiver Terry McLaurin out for season with patellar tendon injury, coach says](#item-tech-news-165) ⭐️ ?/10
+166. [Washington Post columnist reinstated after being fired over Charlie Kirk posts gloats about receiving back pay](#item-tech-news-166) ⭐️ ?/10
+167. [Trump says Ilhan Omar could go to jail or be deported, calls her ‘a disgrace to our country’](#item-tech-news-167) ⭐️ ?/10
+168. [NFL VP says league is &\#x27;vigilant&\#x27; about security for France matchup, remains confident in plans](#item-tech-news-168) ⭐️ ?/10
+169. [Jay Z&\#x27;s past political statements won&\#x27;t help perception of NFL politicizing Super Bowl halftime](#item-tech-news-169) ⭐️ ?/10
+170. [Mel Brooks, 100, asked ‘Spaceballs’ team to film his scenes first due to age](#item-tech-news-170) ⭐️ ?/10
+171. [Irish rock legends U2 get the nod to perform during the NFL&\#x27;s Thanksgiving Eve halftime show](#item-tech-news-171) ⭐️ ?/10
+172. [Crest 3D Whitestrips are on sale for $35 on Amazon — their lowest price since January](#item-tech-news-172) ⭐️ ?/10
+173. [Disabled Canadian man says hospital repeatedly offered assisted death as he fought for care to stay alive](#item-tech-news-173) ⭐️ ?/10
+174. [MLB player will become World Series champion regardless of Brewers-Rays outcome](#item-tech-news-174) ⭐️ ?/10
+175. [Reporter’s Notebook: A Democratic majority could expose the limits of the progressive agenda](#item-tech-news-175) ⭐️ ?/10
+176. [Former Disney star Erik von Detten sued for elder abuse after couple poured $2.1M retirement savings into gold](#item-tech-news-176) ⭐️ ?/10
+177. [Ilhan Omar&\#x27;s daughters show up at scene of DC raid as rumors swirl about embattled rep&\#x27;s whereabouts](#item-tech-news-177) ⭐️ ?/10
+178. [Forty-five percent of college students say violence can be justified to stop hate speech, poll finds](#item-tech-news-178) ⭐️ ?/10
+179. [Urban Meyer joins Dan Dakich, gushes about new Florida head coach Jon Sumrall: &\#x27;I love that guy&\#x27;](#item-tech-news-179) ⭐️ ?/10
+180. [Reporter&\#x27;s Notebook: France braces for more unrest after parts of Paris spun out of control](#item-tech-news-180) ⭐️ ?/10
+181. [El-Sayed says Trump&\#x27;s attacks on his faith are to distract from pain he&\#x27;s causing](#item-tech-news-181) ⭐️ ?/10
+182. [LIVE:  ABC News Live](#item-tech-news-182) ⭐️ ?/10
+183. [American Airlines flight blows tire while landing at Chicago O&\#x27;Hare: FAA](#item-tech-news-183) ⭐️ ?/10
+184. [Man arrested for alleged threats to shoot President Trump at Kansas rally](#item-tech-news-184) ⭐️ ?/10
+185. [WATCH:  Funding cuts forcing World Food Program to reduce lifesaving aid in Gaza](#item-tech-news-185) ⭐️ ?/10
+186. [WATCH:  Trump says what Russia is doing to Ukraine is &\#x27;fine&\#x27;](#item-tech-news-186) ⭐️ ?/10
+187. [WATCH:  Wirecutter shares top picks after 15 years of product testing](#item-tech-news-187) ⭐️ ?/10
+188. [WATCH:  Study shows Gulf oil spill&\#x27;s lasting damage](#item-tech-news-188) ⭐️ ?/10
+189. [WATCH:  Trump announces fuel relief for farmers](#item-tech-news-189) ⭐️ ?/10
+190. [WATCH:  David Muir reports on the beloved barn owls that have made Manhattan home](#item-tech-news-190) ⭐️ ?/10
+191. [Trump attacks Democratic challenger Hamilton at Kansas rally as Senate race tightens](#item-tech-news-191) ⭐️ ?/10
+192. [Some older siblings left raising family members after parents&\#x27; deportation: Advocates](#item-tech-news-192) ⭐️ ?/10
+193. [Amy Acton campaign slams Ramaswamy over controversial ad featuring estranged mother](#item-tech-news-193) ⭐️ ?/10
+194. [NJ food importer files lawsuit challenging Trump&\#x27;s 50% tariffs on Canadian goods](#item-tech-news-194) ⭐️ ?/10
+195. [WATCH:  DHS: Ukrainians Retain Protection Pending TPS Decision](#item-tech-news-195) ⭐️ ?/10
+196. [Some changes are coming for Medicare as open enrollment begins](#item-tech-news-196) ⭐️ ?/10
+197. [About 6 in 10 Americans confident election will be conducted fairly, accurately: Poll](#item-tech-news-197) ⭐️ ?/10
+198. [Rubio and Jaishankar hold talks in Mumbai as US and India aim to finalize trade deal](#item-tech-news-198) ⭐️ ?/10
+199. [Triumphal Arch final plans submitted to National Capital Planning Commission](#item-tech-news-199) ⭐️ ?/10
+200. [Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident](#item-tech-news-200) ⭐️ ?/10
+201. [Zelensky says US intelligence sharing &\#x27;works now&\#x27; after talks with Trump envoy in Oslo](#item-tech-news-201) ⭐️ ?/10
+202. [Government failings allowed Covid &\#x27;to spread like wildfire&\#x27; in care homes, inquiry finds](#item-tech-news-202) ⭐️ ?/10
+203. [BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close](#item-tech-news-203) ⭐️ ?/10
+204. [King praises Strait of Hormuz peace efforts at glittering banquet](#item-tech-news-204) ⭐️ ?/10
+205. [Elon Musk says Tesla-SpaceX merger being considered](#item-tech-news-205) ⭐️ ?/10
+206. [Tory MP questions government advisor&\#x27;s position after wife&\#x27;s Palestine Action post](#item-tech-news-206) ⭐️ ?/10
+207. [Schools should recognise antisemitism as distinct form of harm, review says](#item-tech-news-207) ⭐️ ?/10
+208. [Woman says she &\#x27;couldn&\#x27;t speak or breathe&\#x27; during alleged rape by Russell Brand](#item-tech-news-208) ⭐️ ?/10
+209. [UK government to make Jackdaw gas field announcement](#item-tech-news-209) ⭐️ ?/10
+210. [Audit regulator looking into Manchester City accounting](#item-tech-news-210) ⭐️ ?/10
+211. [60 years on: The Aberfan disaster through the eyes of those who survived](#item-tech-news-211) ⭐️ ?/10
+212. [Trump and Zelensky appear at loggerheads despite Oslo optimism](#item-tech-news-212) ⭐️ ?/10
+213. [Watch: Why does Prince Harry want to &\#x27;work it out&\#x27; with his father and brother?](#item-tech-news-213) ⭐️ ?/10
+214. [No &\#x27;protective ring&\#x27; and visiting rules too strict - key points from Covid report on care homes](#item-tech-news-214) ⭐️ ?/10
+215. [Teenagers tell BBC of their hopes and fears as they prepare to start work](#item-tech-news-215) ⭐️ ?/10
+216. [Katie Razzall: BBC closures make business sense, but far more savings are needed](#item-tech-news-216) ⭐️ ?/10
+217. [North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?](#item-tech-news-217) ⭐️ ?/10
+218. [Harry says he wants to &\#x27;reconcile&\#x27; with his family](#item-tech-news-218) ⭐️ ?/10
+219. [Man charged with attack on Australia MP to face court](#item-tech-news-219) ⭐️ ?/10
+220. [Immersive Beatles museum described as &\#x27;like Graceland or Dollywood&\#x27; to open in 2028](#item-tech-news-220) ⭐️ ?/10
+221. [Second Labour MP suspended over Covid loan repayments](#item-tech-news-221) ⭐️ ?/10
+222. [Student who stabbed housemate 30 times admits murder](#item-tech-news-222) ⭐️ ?/10
+223. [UK to deploy jets to defend Saudi Arabia from Houthi attacks](#item-tech-news-223) ⭐️ ?/10
+224. [Marseille braces for more unrest after protests give way to &\#x27;apocalyptic&\#x27; disorder](#item-tech-news-224) ⭐️ ?/10
+225. [The night &\#x27;ruthless&\#x27; Ngumoha came of age for Liverpool](#item-tech-news-225) ⭐️ ?/10
+226. [No Haaland, no problem - can Foden be Man City&\#x27;s alternative goalscorer?](#item-tech-news-226) ⭐️ ?/10
+227. [Sloppy England start winter with Pakistan defeat](#item-tech-news-227) ⭐️ ?/10
+228. [Carrick wants more clean sheets to turn season around](#item-tech-news-228) ⭐️ ?/10
+229. [Allen considers retirement after NI Open exit](#item-tech-news-229) ⭐️ ?/10
+230. [RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau](#item-tech-news-230) ⭐️ ?/10
+231. [Alberta voters overwhelmingly reject plan to leave Canada in referendum](#item-tech-news-231) ⭐️ ?/10
+232. [‘Bad decisions’: Man convicted for taking Peachy the flamingo from Las Vegas hotel](#item-tech-news-232) ⭐️ ?/10
+233. [Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff](#item-tech-news-233) ⭐️ ?/10
+234. [Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds](#item-tech-news-234) ⭐️ ?/10
+235. [Helen Haines live updates: Police are charging ‘almost one individual every week’ for targeting politicians, MP critical after surgery to save second leg](#item-tech-news-235) ⭐️ ?/10
+236. [Helen Haines loses leg as surgeons fight to save the other after alleged attack in Wangaratta](#item-tech-news-236) ⭐️ ?/10
+237. [Brendan Nugent’s family say Helen Haines has been their friend for more than 20 years](#item-tech-news-237) ⭐️ ?/10
+238. [Brendan Nugent facing three charges over alleged attack on MP Helen Haines](#item-tech-news-238) ⭐️ ?/10
+239. [PM calls alleged car attack on Helen Haines a deliberate act](#item-tech-news-239) ⭐️ ?/10
+240. [Italy Deploys 500 Troops to Milan Amid Protests and Looting](#item-tech-news-240) ⭐️ ?/10
+241. [US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy](#item-tech-news-241) ⭐️ ?/10
+242. [Nato increases Black Sea deployment amid escalating deadly Russian attacks](#item-tech-news-242) ⭐️ ?/10
+243. [Zelenskyy praises intelligence on missile strikes during Oslo visit](#item-tech-news-243) ⭐️ ?/10
+244. [Republicans push back on Donald Trump’s wavering support for Ukraine](#item-tech-news-244) ⭐️ ?/10
+245. [UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks](#item-tech-news-245) ⭐️ ?/10
+246. [Billionaire Mukesh Ambani launches India’s biggest-ever IPO](#item-tech-news-246) ⭐️ ?/10
+247. [She was harassed for crude remarks about Modi at a Cockroach protest. Now she can’t leave home](#item-tech-news-247) ⭐️ ?/10
+248. [Myanmar’s ousted leader Aung San Suu Kyi seen in rare photos after receiving gift from King Charles](#item-tech-news-248) ⭐️ ?/10
+249. [Senior Reform official cast doubt over legality of huge donations](#item-tech-news-249) ⭐️ ?/10
+250. [Andy Burnham faces climate revolt after approval of North Sea gas drilling](#item-tech-news-250) ⭐️ ?/10
+251. [Russell Brand told woman to ‘clear up the mess you’ve made’ after alleged rape, court hears](#item-tech-news-251) ⭐️ ?/10
+252. [Baby who died from meningitis may have been saved if tested sooner, inquest finds](#item-tech-news-252) ⭐️ ?/10
+253. [‘I’ll make you famous’: court hears recording of Tommy Robinson threat to Daily Mail editor](#item-tech-news-253) ⭐️ ?/10
+254. [Trump says he will have spent $400m to support Republicans in midterms – US politics live](#item-tech-news-254) ⭐️ ?/10
+255. [Michael Bloomberg spends $80m on Democrats as Trump moves $400m to Republican candidates](#item-tech-news-255) ⭐️ ?/10
+256. [You Can See Everything mania lifts viewership for The Dropout by 186%](#item-tech-news-256) ⭐️ ?/10
+257. [Kyle Kennedy, granddaughter of Robert F Kennedy, dies aged 42](#item-tech-news-257) ⭐️ ?/10
+258. [Trump suggests he could be ‘arbitrator’ in DoJ anti-fraud whistleblower scheme](#item-tech-news-258) ⭐️ ?/10
+259. [SpaceX and Tesla boards are exploring potential merger](#item-tech-news-259) ⭐️ ?/10
+260. [AI debt worries spark surge in default insurance trading](#item-tech-news-260) ⭐️ ?/10
+261. [Who are the Black Bloc?](#item-tech-news-261) ⭐️ ?/10
+262. [Putin’s American friends](#item-tech-news-262) ⭐️ ?/10
+263. [The unlikely winners from Trump’s Iran war](#item-tech-news-263) ⭐️ ?/10
+264. [Finnish president hails progress in talks about ending Russia’s war in Ukraine](#item-tech-news-264) ⭐️ ?/10
+265. [UAE official emerges as late contender to lead UN](#item-tech-news-265) ⭐️ ?/10
+266. [Netflix gives downbeat outlook as streaming hits dry up](#item-tech-news-266) ⭐️ ?/10
+267. [Boeing wins approval for Max 10 jet in boost for turnaround efforts](#item-tech-news-267) ⭐️ ?/10
+268. [Report: Schools in England must treat antisemitism as distinct harm](#item-tech-news-268) ⭐️ ?/10
+269. [Two men re-arrested on suspicion of aiding Iran over RAF Fairford incident](#item-tech-news-269) ⭐️ ?/10
+270. [NatWest ends remote-first policy for UK staff in 2027](#item-tech-news-270) ⭐️ ?/10
+271. [UK government failures led to Covid spreading ‘like wildfire’ in care homes, inquiry finds](#item-tech-news-271) ⭐️ ?/10
+272. [Thames Water creditors secure former Labour minister to drive rescue deal](#item-tech-news-272) ⭐️ ?/10
+273. [Ex-Greens co-leader urges council groups to reject Zionism policy](#item-tech-news-273) ⭐️ ?/10
+274. [Surprise drop in UK unemployment to 4.7% as John Healey’s first budget looms](#item-tech-news-274) ⭐️ ?/10
+275. [Healey to reject calls to raise capital gains tax in budget](#item-tech-news-275) ⭐️ ?/10
+276. [What does the UK’s approval of the Jackdaw gasfield mean?](#item-tech-news-276) ⭐️ ?/10
+277. [‘Superficial damp squib’: Covid inquiry recommendations fail to impress bereaved families](#item-tech-news-277) ⭐️ ?/10
+278. [Who exactly will be affected by the UK review of benefits for young people?](#item-tech-news-278) ⭐️ ?/10
+279. [‘These risks are real’: the threat of AI bioweapons – podcast](#item-tech-news-279) ⭐️ ?/10
+280. [Why terrorism laws stopped Sally Rooney selling books in the UK – podcast](#item-tech-news-280) ⭐️ ?/10
+281. [‘Too big to not fail’: Google outage exposes UK reliance on a handful of cloud providers](#item-tech-news-281) ⭐️ ?/10
+282. [Ban ‘intrusive’ cameras in England’s mental health wards, say bereaved families](#item-tech-news-282) ⭐️ ?/10
+283. [Public support for founding principles of NHS is falling across UK population](#item-tech-news-283) ⭐️ ?/10
+284. [Paddy Power owner blames tax rises for plan to shed up to 1,400 jobs](#item-tech-news-284) ⭐️ ?/10
+285. [Google cloud failure hits millions as UK courts and banks knocked offline](#item-tech-news-285) ⭐️ ?/10
+286. [‘No real sense of appeal’: Vinted sellers complain of unfair account ‘bans’](#item-tech-news-286) ⭐️ ?/10
+287. [Whale in Wales: amateur photographer captures stunning footage - video](#item-tech-news-287) ⭐️ ?/10
+288. [Vast Beatles museum, hailed as ‘extraordinary’ by Paul McCartney, to open in Liverpool in 2028](#item-tech-news-288) ⭐️ ?/10
+289. [Getting Ziggy with it: David Bowie’s alter egos inspire dance show that will transform his songs](#item-tech-news-289) ⭐️ ?/10
+290. [Get crafty with Halloween treats, the Japanese way](#item-tech-news-290) ⭐️ ?/10
+291. [As France erupts, Europe’s far right gains from fuel-price anger ahead of elections](#item-tech-news-291) ⭐️ ?/10
+292. [Chinese AI tool used in cyberattacks on Japanese companies, investigation finds](#item-tech-news-292) ⭐️ ?/10
+293. [China’s panda diplomacy is losing its charm](#item-tech-news-293) ⭐️ ?/10
+294. [Politics of the potato front and center for Japan’s new agriculture minister](#item-tech-news-294) ⭐️ ?/10
+295. [Former truck driver gets seven-year sentence for killing six in expressway crash](#item-tech-news-295) ⭐️ ?/10
+296. [Under pledge to U.S., Japan’s chip investment divided between home and abroad](#item-tech-news-296) ⭐️ ?/10
+297. [Japan slams lack of access to journalist detained in Russia](#item-tech-news-297) ⭐️ ?/10
+298. [Electronic warrant system to be rolled out in Tokyo and nearby areas by March](#item-tech-news-298) ⭐️ ?/10
+299. [One year in, Takaichi administration’s public support remains largely intact](#item-tech-news-299) ⭐️ ?/10
+300. [Japan needs higher interest rates](#item-tech-news-300) ⭐️ ?/10
+301. [Fewer than 1 in 3 families want a second child amid rising costs, study finds](#item-tech-news-301) ⭐️ ?/10
+302. [Alberta voters reject separation from Canada as Carney triumphs](#item-tech-news-302) ⭐️ ?/10
+303. [Saudi Arabia’s MBS is facing his greatest challenge](#item-tech-news-303) ⭐️ ?/10
+304. [Declared dead: Indian voters fight to get back on electoral rolls](#item-tech-news-304) ⭐️ ?/10
+305. [Top NPB slugger Teruaki Sato set to test MLB market](#item-tech-news-305) ⭐️ ?/10
+306. [49ers remain unbeaten after staving off Commanders’ comeback bid](#item-tech-news-306) ⭐️ ?/10
+307. [Two-run homers send Rays past Guardians into World Series](#item-tech-news-307) ⭐️ ?/10
+308. [Natixis buys Japanese advisory firm to join M&amp;A dealmaking boom](#item-tech-news-308) ⭐️ ?/10
+309. [The ‘Tequila Crisis’ and Mexico’s long economic hangover](#item-tech-news-309) ⭐️ ?/10
+310. [KDDI subsidiary faces criticism and questions over Mongolian wildfire](#item-tech-news-310) ⭐️ ?/10
+311. [Japan launches probe in historic bid to collect sample from Mars moon](#item-tech-news-311) ⭐️ ?/10
+312. [Defense Ministry Vows Stern Response if N. Korea Acts on Threats along Border](#item-tech-news-312) ⭐️ ?/10
+313. [Top Office: OPCON Transfer Signifies Shift in Roles](#item-tech-news-313) ⭐️ ?/10
+314. [Gov’t Designates 10-day Countermeasures Period to Manage Halloween Crowds](#item-tech-news-314) ⭐️ ?/10
+315. [Wednesday to Bring Rain, Cold Temperatures](#item-tech-news-315) ⭐️ ?/10
+316. [Suspect Arrested in Arson Case after Fires at 2 Buildings in Seoul’s Gangnam District](#item-tech-news-316) ⭐️ ?/10
+317. [Groundless Rumor about N. Korean Leader’s Death Spreads on Social Media](#item-tech-news-317) ⭐️ ?/10
+318. [Lee Presses Cabinet to Speed Up Housing Construction to Contain Soaring Home Prices](#item-tech-news-318) ⭐️ ?/10
+319. [S. Korea’s Military Vows to Respond Sternly to Enemy Provocations after Kim Yo Jong’s Remarks](#item-tech-news-319) ⭐️ ?/10
+320. [KOSPI Plummets 3.73% Tuesday](#item-tech-news-320) ⭐️ ?/10
+321. [Inaugural Serious Crimes Agency Chief Vows to Uphold Political Neutrality, Independence](#item-tech-news-321) ⭐️ ?/10
+322. [S. Korea to Withdraw Some Embassy Staff from Ukraine](#item-tech-news-322) ⭐️ ?/10
+323. [5 Citizens Who Subdued Incheon Knife Attacker Receive Awards for Bravery](#item-tech-news-323) ⭐️ ?/10
+324. [Unification Ministry Urges N. Korea to Cooperate to Resolve Border Issue](#item-tech-news-324) ⭐️ ?/10
+325. [19 Injured in Separate Fires at 2 Buildings in Seoul’s Gangnam District](#item-tech-news-325) ⭐️ ?/10
+326. [Monthly Rentals Account for More than Half of Seoul Apartment Leases for First Time](#item-tech-news-326) ⭐️ ?/10
+327. [Gov’t Announces Traffic, Noise Control Measures for Nov. 19 College Entrance Exam](#item-tech-news-327) ⭐️ ?/10
+328. [Daou Kiwoom-CJ Consortium Named Preferred Bidder for JoongAng Ilbo](#item-tech-news-328) ⭐️ ?/10
+329. [Supreme Court Affirms 4-Year Prison Term for Aricell CEO over Deadly Fire](#item-tech-news-329) ⭐️ ?/10
+330. [Nuri Rocket to Launch Military Satellites for First Time in 2031](#item-tech-news-330) ⭐️ ?/10
+331. [Seoul Museum of Art to Showcase Media Artist Lynn Hershman Leeson in Solo Exhibition](#item-tech-news-331) ⭐️ ?/10
+332. [S. Korea’s Seo Hoon-tae Wins Gold in 10m Air Rifle at 2026 Asian Para Games](#item-tech-news-332) ⭐️ ?/10
+333. [Lee Tells Cabinet to Accelerate Housing Supply by Compressing Administrative Procedures](#item-tech-news-333) ⭐️ ?/10
+334. [Seoul Reveals UN Command Has Suspended DMZ Surveys for More than 2 Years](#item-tech-news-334) ⭐️ ?/10
+335. [Trump Downplays Expectations for Meeting with Kim-Jong-un](#item-tech-news-335) ⭐️ ?/10
+336. [Lee Asks Serious Crimes Investigation Agency Chief to Spare No One in Carrying Out Mandate](#item-tech-news-336) ⭐️ ?/10
+337. [Joint Chiefs Chair Orders Stern Response to Enemy Provocations, Says N. Korea Is Shifting Blame](#item-tech-news-337) ⭐️ ?/10
+338. [US Reaffirms that OPCON Transfer Remains Conditional](#item-tech-news-338) ⭐️ ?/10
+339. [Average Gas, Diesel Prices Continue Sliding Tuesday](#item-tech-news-339) ⭐️ ?/10
+340. [KOSPI Opens Down 0.6% Tuesday](#item-tech-news-340) ⭐️ ?/10
+341. [Trump Uncertain about Meeting with N. Korea&\#x27;s Kim during China Trip](#item-tech-news-341) ⭐️ ?/10
+342. [EN DIRECT, manifestations du 17 octobre : nouveaux couvre-feux mardi soir ; les partis se positionnent avant la réunion de jeudi à Matignon](#item-tech-news-342) ⭐️ ?/10
+343. [PSG-Barcelone : le résumé de la nouvelle victoire remarquable des Parisiens en Ligue des champions](#item-tech-news-343) ⭐️ ?/10
+344. [Israël, laboratoire de l’union des droites et de l’extrême droite](#item-tech-news-344) ⭐️ ?/10
+345. [Trump et les Etats-Unis vus de la Route 66 : à Chicago, « tous les sujets ne doivent pas nécessairement nous diviser »](#item-tech-news-345) ⭐️ ?/10
+346. [Le Royaume-Uni, allié de toujours de l’Arabie saoudite, accroît son aide à Riyad contre les houthistes du Yémen](#item-tech-news-346) ⭐️ ?/10
+347. [Daniel Kretinsky a les coudées franches pour s’emparer de Fnac Darty](#item-tech-news-347) ⭐️ ?/10
+348. [Les 6 000 salariés de l’enseigne à petits prix GiFi s’inquiètent pour leur sort](#item-tech-news-348) ⭐️ ?/10
+349. [EN DIRECT, guerre en Ukraine : l’émissaire américain Steve Witkoff va présenter à Vladimir Poutine des « idées claires » pour « parvenir à la paix », selon Volodymyr Zelensky](#item-tech-news-349) ⭐️ ?/10
+350. [Aux Pays-Bas, où la GPA est seulement tolérée, le premier ministre, Rob Jetten, et son compagnon annoncent attendre un enfant](#item-tech-news-350) ⭐️ ?/10
+351. [« Technologie du coup d’Etat », de Thibault Prévost, raconte la volonté de Trump de casser l’Etat fédéral pour mieux s’en emparer](#item-tech-news-351) ⭐️ ?/10
+352. [En Pologne, les députés votent un assouplissement du droit à l’avortement, menacé d’un veto présidentiel](#item-tech-news-352) ⭐️ ?/10
+353. [En Egypte, le président assure qu’il quittera le pouvoir en 2030, mais œuvre à la pérennité de son régime militaire](#item-tech-news-353) ⭐️ ?/10
+354. [Au Moyen-Orient, l’armée américaine contrainte de se redéployer sous le feu des missiles iraniens](#item-tech-news-354) ⭐️ ?/10
+355. [Procès de Rima Hassan pour apologie du terrorisme : prison avec sursis et inéligibilité requises contre l’eurodéputée de LFI](#item-tech-news-355) ⭐️ ?/10
+356. [La junte du Burkina Faso rétablit la peine de mort](#item-tech-news-356) ⭐️ ?/10
+357. [Jean Messiha visé par une plainte pour « cyberharcèlement raciste » après une publication sur des jeunes filles en burkini](#item-tech-news-357) ⭐️ ?/10
+358. [Egypt involvement in Yemen &\#x27;may actually weaken Cairo&\#x27;s regional role&\#x27;, expert says](#item-tech-news-358) ⭐️ ?/10
+359. [PSG end Barcelona&\#x27;s winning run as Liverpool fight back against Villarreal](#item-tech-news-359) ⭐️ ?/10
+360. [Lula&\#x27;s campaign seeks to disqualify Bolsonoro from Brazil presidential vote over Meta &\#x27;interference&\#x27;](#item-tech-news-360) ⭐️ ?/10
+361. [Egypt involvement in Yemen &\#x27;may actually weaken Cairo&\#x27;s regional role&\#x27;, expert says](#item-tech-news-361) ⭐️ ?/10
+362. [US regulators certify Boeing 737 Max 10 after years of delay](#item-tech-news-362) ⭐️ ?/10
+363. [‘I’m alive’: Paris street medic isn’t dead, despite viral claims he was killed by police](#item-tech-news-363) ⭐️ ?/10
+364. [Trump campaigning in Republican strongholds amid slide in polls](#item-tech-news-364) ⭐️ ?/10
+365. [Italy sends troops, toughens security laws after Milan clashes](#item-tech-news-365) ⭐️ ?/10
+366. [French PM vows &\#x27;massive&\#x27; police deployment for new demonstrations](#item-tech-news-366) ⭐️ ?/10
+367. [&\#x27;Netanyahu is fighting for his political career&\#x27;, expert says a week ahead of crucial vote](#item-tech-news-367) ⭐️ ?/10
+368. [Zelensky meets Witkoff as US-Ukraine relations sink to new lows](#item-tech-news-368) ⭐️ ?/10
+369. [Hundreds put on immediate trial for ransacking city centres across France](#item-tech-news-369) ⭐️ ?/10
+370. [New Paris curfew ordered in parts of city from 2100 GMT Tuesday](#item-tech-news-370) ⭐️ ?/10
+371. [How French police are harnessing social media to identify looters](#item-tech-news-371) ⭐️ ?/10
+372. [More than 150 killed in Sudan drone strike on disputed Abyei border region](#item-tech-news-372) ⭐️ ?/10
+373. [France: Local curfews imposed after protests](#item-tech-news-373) ⭐️ ?/10
+374. [France&\#x27;s decades-long ties with Gulf states built on &\#x27;economic development, oil, defence agreements&\#x27;](#item-tech-news-374) ⭐️ ?/10
+375. [US midterm elections: Trump approval rating falls to new low](#item-tech-news-375) ⭐️ ?/10
+376. [From fine wine to no alcohol: The changing world of French sommeliers](#item-tech-news-376) ⭐️ ?/10
+377. [French PM vows &\#x27;massive&\#x27; police deployment for new demonstrations Saturday](#item-tech-news-377) ⭐️ ?/10
+378. [October 17 riots in France: Who&\#x27;s responsible?](#item-tech-news-378) ⭐️ ?/10
+379. [French Justice Minister promises &\#x27;extremely firm&\#x27; punishment for rioters](#item-tech-news-379) ⭐️ ?/10
+380. [French PM blames &\#x27;ultra-left&\#x27; groups for weekend riots, promises &\#x27;massive&\#x27; security deployment](#item-tech-news-380) ⭐️ ?/10
+381. [Ukraine ‘losing people and time’, Zelensky says after Oslo talks](#item-tech-news-381) ⭐️ ?/10
+382. [Zwei Verletzte nach Einsturz von Hoteldecke in Düsseldorf](#item-tech-news-382) ⭐️ ?/10
+383. [Champions League: VfB Stuttgart verpasst Sieg gegen Atlético Madrid](#item-tech-news-383) ⭐️ ?/10
+384. [Champions League: Paris Saint-Germain schlägt FC Barcelona 4:2 – Lamine Yamal mit Patzer und Traumtor](#item-tech-news-384) ⭐️ ?/10
+385. [Polens Parlament verabschiedet Gesetze zu Liberalisierung von Abtreibungsrecht](#item-tech-news-385) ⭐️ ?/10
+386. [Prinz Harry: Streit mit Vater und Bruder soll beigelegt werden](#item-tech-news-386) ⭐️ ?/10
+387. [Nigeria bestätigt ersten Ebolafall](#item-tech-news-387) ⭐️ ?/10
+388. [Ukrainekrieg: US-Gesandter Steve Witkoff reist für Gespräche nach Russland](#item-tech-news-388) ⭐️ ?/10
+389. [Hamburg: Feuerwehr hilft bei Hausgeburt und bringt Jungen zur Welt](#item-tech-news-389) ⭐️ ?/10
+390. [Krieg in der Ukraine: Jetzt verzögert Trump auch noch Waffenlieferungen – warum das fatale Folgen für Kyjiw haben könnte](#item-tech-news-390) ⭐️ ?/10
+391. [Champions League: Serhou Guirassy schießt Borussia Dortmund in Aserbaidschan aus der Ergebniskrise](#item-tech-news-391) ⭐️ ?/10
+392. [Zeitmessung wird neu geregelt: Das Ende der Schaltsekunde](#item-tech-news-392) ⭐️ ?/10
+393. [USA: Yorkshire Terrier jagt Bär auf Baum – und verjagt ihn vom Grundstück](#item-tech-news-393) ⭐️ ?/10
+394. [Sudan: Über 150 Tote nach Drohnenangriff in Grenzregion Abyei](#item-tech-news-394) ⭐️ ?/10
+395. [Bulgarien lehnt Beteiligung an neuer EU-Finanzhilfe für Ukraine ab](#item-tech-news-395) ⭐️ ?/10
+396. [Investitionen: Was Vinci-Chef Pierre Anjolras am Standort Deutschland schätzt](#item-tech-news-396) ⭐️ ?/10
+397. [Adam Wolke aka SkylineTV: Der deutsche Livestreamer ist tot](#item-tech-news-397) ⭐️ ?/10
+398. [Cornell University: »Jane Doe« wirft Unipräsident Kotlikoff Versagen vor](#item-tech-news-398) ⭐️ ?/10
+399. [Union Berlin: Wer-wird-Millionär-Kandidat kennt Trainer Mauro Lustrinelli nicht](#item-tech-news-399) ⭐️ ?/10
+400. [News des Tages: Friedrich Merz auf dem Investitionsgipfel; Vanessa Emde und die Berliner Linken; Deutschlandticket light](#item-tech-news-400) ⭐️ ?/10
+401. [VW ruft weltweit Tausende E-Autos zurück](#item-tech-news-401) ⭐️ ?/10
+402. [Deutsche Wirtschaft: Investitionsgipfel in Berlin soll Milliarden anlocken](#item-tech-news-402) ⭐️ ?/10
+403. [Mit dieser Liste setzen die Europäer Fifa-Chef Infantino unter Druck](#item-tech-news-403) ⭐️ ?/10
+404. [Terrakotta-Armee in China: Fingerabdrücke geben Hinweise auf die Bildhauer](#item-tech-news-404) ⭐️ ?/10
+405. [Ukraine-Krieg: Drohne rettet erstmals verletzten Soldaten von der Front](#item-tech-news-405) ⭐️ ?/10
+406. [Washington: Flugpassagierin weint offenbar stundenlang, weil sie ihren Sitzplatz nicht tauschen kann](#item-tech-news-406) ⭐️ ?/10
+407. [Kerstin Lee Langley: Was über den Fall aus der Oberpfalz bekannt ist](#item-tech-news-407) ⭐️ ?/10
+408. [Wärmepumpe: WWF-Studie zeigt, wann sich die Investition wirklich lohnt](#item-tech-news-408) ⭐️ ?/10
+409. [Joy-Lance Mickels: Der Deutsche, den der BVB am Toreschießen hindern muss](#item-tech-news-409) ⭐️ ?/10
+410. [Christina Applegate wurde fälschlicherweise mit MS diagnostiziert](#item-tech-news-410) ⭐️ ?/10
+411. [Indonesien: Mutmaßliches Raketenteil in Autogröße stürzt auf Plantage ab](#item-tech-news-411) ⭐️ ?/10
+412. [Großmächte-Gipfel: In Shenzhen droht die Rückkehr imperialer Politik](#item-tech-news-412) ⭐️ ?/10
+413. [Ukrainekrieg: Trumps verdrehte Sicht auf die Welt](#item-tech-news-413) ⭐️ ?/10
+414. [Liveblog Ukrainekrieg: Selenskyj: Ukraine muss an möglichem Treffen von Putin, Trump und Xi teilnehmen](#item-tech-news-414) ⭐️ ?/10
+415. [Musk-Imperium: SpaceX und Tesla prüfen Fusion](#item-tech-news-415) ⭐️ ?/10
+416. [Rot-grün-rot: Es ist Zeit, in Berlin die Reißleine zu ziehen](#item-tech-news-416) ⭐️ ?/10
+417. [Gewalt und Plünderungen: Frankreichs böses Erwachen nach den Unruhen](#item-tech-news-417) ⭐️ ?/10
+418. [Streamingdienst: Netflix überzeugt die Börse nicht](#item-tech-news-418) ⭐️ ?/10
+419. [Aufregung in Esslingen: Warum Tausende diese Statue loswerden wollen](#item-tech-news-419) ⭐️ ?/10
+420. [US-Kongresswahlen: Für ihn hat Trump einen besonders fiesen Spitznamen](#item-tech-news-420) ⭐️ ?/10
+421. [Midterms in den USA: MAGA wirbt mit der Sportprominenz](#item-tech-news-421) ⭐️ ?/10
+422. [Investorengipfel: Viel Show, wenig Substanz](#item-tech-news-422) ⭐️ ?/10
+423. [AfD gehackt: Diese Mails passen ins Bild](#item-tech-news-423) ⭐️ ?/10
+424. [Strippenziehen in Österreich: Wenn Lobbyismus zum Risiko für den Standort wird](#item-tech-news-424) ⭐️ ?/10
+425. [Champions League: PSG gewinnt Topspiel gegen Barça – Wirtz trifft für Liverpool](#item-tech-news-425) ⭐️ ?/10
+426. [Dortmund edges Sabah 2-1 in Champions League after winless run](#item-tech-news-426) ⭐️ ?/10
+427. [Integration: Merz nennt Angst vor dem Fremden „ideologisch infektiös“](#item-tech-news-427) ⭐️ ?/10
+428. [Deutschland Liveblog: Keine Lösung im Streit um Berliner Linke-Abgeordnete Emde](#item-tech-news-428) ⭐️ ?/10
+429. [Unruhen in Mailand: Italien will minderjährige Krawallmacher abschrecken](#item-tech-news-429) ⭐️ ?/10
+430. [Investorengipfel in Berlin: „Ich will Ihr Geld“](#item-tech-news-430) ⭐️ ?/10
+431. [Liveblog Nahost: Netanjahus Ziel bleibt der Sturz des Mullah-Regimes](#item-tech-news-431) ⭐️ ?/10
+432. [FRau aus uganda: Erste Ebola-Infektion in Nigeria bestätigt](#item-tech-news-432) ⭐️ ?/10
+433. [Business-Ticker: Carrefour kappt wegen Frankreich-Unruhen Prognose](#item-tech-news-433) ⭐️ ?/10
+434. [„Das Leben der M“: Was ist echt und was Fiktion?](#item-tech-news-434) ⭐️ ?/10
+435. [Immendorff in Düsseldorf: Wo stehst du mit deiner Kunst, Kollege?](#item-tech-news-435) ⭐️ ?/10
+436. [Nur eine Richtung: Die Hundert-Wochen-Börsenreise](#item-tech-news-436) ⭐️ ?/10
+437. [Anleihen: Firmenkredite statt Staatspapiere](#item-tech-news-437) ⭐️ ?/10
+438. [Zurück zur Normalität: Warum der Renditeanstieg eine gute Nachricht ist](#item-tech-news-438) ⭐️ ?/10
+439. [Neurodermitis-Therapie: „Cortison wird zu Unrecht verteufelt“](#item-tech-news-439) ⭐️ ?/10
+440. [Die Karrierefrage: Wie werde ich als Jüngster im Team ernst genommen?](#item-tech-news-440) ⭐️ ?/10
+441. [Höflich sprechen: „Mit zunehmendem Alter wird das Siezen, das Respekt und Distanz ausdrückt, relevanter“](#item-tech-news-441) ⭐️ ?/10
+442. [Zittern um Rentenreform: Was die „Rente mit 63“ so brisant macht](#item-tech-news-442) ⭐️ ?/10
+443. [Plan des Präsidiums: So soll die Goethe-Uni künftig organisiert sein](#item-tech-news-443) ⭐️ ?/10
+444. [AfD-Mails gehackt: Soll so die AfD diskreditiert werden?](#item-tech-news-444) ⭐️ ?/10
+445. [Parlamentswahlen in ISrael: Umfragen sehen Niederlage für Netanjahu](#item-tech-news-445) ⭐️ ?/10
+446. [Ukraine-Treffen in Oslo: Russischer Angriff überschattet Friedensgespräche](#item-tech-news-446) ⭐️ ?/10
+447. [Kenia: Sektenführer des Massenmordes schuldig gesprochen](#item-tech-news-447) ⭐️ ?/10
+448. [Rhein-Main-Feierabendbriefing: Goethe-Frankfurt soll nur noch sieben Fachbereiche haben](#item-tech-news-448) ⭐️ ?/10
+449. [F.A.Z. PODCAST FÜR DEUTSCHLAND: Gewaltausbruch in Frankreich: „Dem Staat ist die Kontrolle entglitten“](#item-tech-news-449) ⭐️ ?/10
+450. [Finanzen &amp; Immobilien: Wohnraum gesucht](#item-tech-news-450) ⭐️ ?/10
+451. [Nach den Unruhen: Ein Linker zündete das Rathaus an](#item-tech-news-451) ⭐️ ?/10
+452. [Niculescu gewählt: Rumänien hat nach fünfeinhalb Monaten wieder eine Regierung](#item-tech-news-452) ⭐️ ?/10
+453. [Rot-GRÜN-Rot: Berliner Grüne stimmen für Koalitionsverhandlungen](#item-tech-news-453) ⭐️ ?/10
+454. [„Bayerntrend“: CSU bleibt klar stärkste Kraft im Freistaat](#item-tech-news-454) ⭐️ ?/10
+455. [Korruption: Der Manager, der Minister – und ein neuer Skandal in Österreich](#item-tech-news-455) ⭐️ ?/10
+456. [Energiepolitik der EU: Mehr CO₂-Zertifikate, laxere Erdgasregeln – und dennoch steigende Energiepreise](#item-tech-news-456) ⭐️ ?/10
+457. [Fehler an Batterien: VW ruft mehr als 70.000 Elektroautos auf der Welt zurück](#item-tech-news-457) ⭐️ ?/10
+458. [Datev-index: Der Aufschwung kommt im Mittelstand nicht richtig an](#item-tech-news-458) ⭐️ ?/10
+459. [Trainer der eigenen Kinder: Mädchen kicken anders als Jungen](#item-tech-news-459) ⭐️ ?/10
+460. [Exporterfolge: Wie Chinas Autohersteller die Märkte gewinnen](#item-tech-news-460) ⭐️ ?/10
+461. [Schwacher Börsengang: Hohe Kursverluste in Korea schwächen Vertrauen in KI-Boom](#item-tech-news-461) ⭐️ ?/10
+462. [ING und Revolut: IT-Störungen nerven Bankkunden](#item-tech-news-462) ⭐️ ?/10
+463. [Digitale Wertpapiere: Die Börse Stuttgart erhält Lizenz für Blockchain-Handel](#item-tech-news-463) ⭐️ ?/10
+464. [Business Model: Netflix, America’s Dominant Streaming Service, Has Hit a Wall](#item-tech-news-464) ⭐️ ?/10
+465. [Donaueschingen: Gehaltsabfragen beim Publikum sind musikalisch gehaltlos](#item-tech-news-465) ⭐️ ?/10
+466. [AltMeisterauktion in Wien: Nicht nur Idyllen](#item-tech-news-466) ⭐️ ?/10
+467. [Neue Diagnose: Was Simonettas Schielen verraten soll](#item-tech-news-467) ⭐️ ?/10
+468. [Gustav Falke gestorben: Kritik als Selbstversuch](#item-tech-news-468) ⭐️ ?/10
+469. [Missbrauch im Turnen: „Regeln für Schutz von Kindern müssen verpflichtend sein“](#item-tech-news-469) ⭐️ ?/10
+470. [Transferticker: Sergen Yalcin wird neuer Nationaltrainer der Türkei](#item-tech-news-470) ⭐️ ?/10
+471. [Reicher Weltverband: Was passiert mit den Milliarden-Reserven der FIFA?](#item-tech-news-471) ⭐️ ?/10
+472. [Sport als Hobby: Nicht hopsen, hinsetzen\!](#item-tech-news-472) ⭐️ ?/10
+473. [Lima: Passagiermaschine fängt kurz vor Start Feuer](#item-tech-news-473) ⭐️ ?/10
+474. [Baden-Württemberg: Wo der erste Schnee fallen könnte](#item-tech-news-474) ⭐️ ?/10
+475. [Südafrika: 65-Jährige wird an beliebtem Strand von Hai getötet](#item-tech-news-475) ⭐️ ?/10
+476. [Bayerische Provinz: Ansbach uralt?](#item-tech-news-476) ⭐️ ?/10
+477. [Anschlag auf UkraineHilfe: „Wir werden alles abschicken, was wir retten konnten“](#item-tech-news-477) ⭐️ ?/10
+478. [Smart-Store-Konzept: Start-up Yobsti baut sein Netz mit Teo-Minimärkten aus](#item-tech-news-478) ⭐️ ?/10
+479. [Rhein-Main-Liveblog: Aktivisten blockieren Rheinmetall-Werk in Kassel](#item-tech-news-479) ⭐️ ?/10
+480. [Frankfurt-Marathon: Teilnehmerrekord möglich](#item-tech-news-480) ⭐️ ?/10
+481. [Feststoffbatterien: Des Akkus nächster Schritt](#item-tech-news-481) ⭐️ ?/10
+482. [Im Test: Nikon ZR: Kleines Kino](#item-tech-news-482) ⭐️ ?/10
+483. [Ausgrabung in Vizzini: Reinliche Gassen breiten sich aus](#item-tech-news-483) ⭐️ ?/10
+484. [DeepWater Horizon: Ölkatastrophe hat Tierbestände im Golf von Mexiko nachhaltig beschädigt](#item-tech-news-484) ⭐️ ?/10
+485. [Hausbau: So lange hält die Gewährleistung nach dem Hausbau](#item-tech-news-485) ⭐️ ?/10
+486. [Mehr Luxus geht immer: Die geheime Welt der Privatjets](#item-tech-news-486) ⭐️ ?/10
+487. [Protest in Düsseldorf und Köln: Galerien wehren sich gegen rechten Zugriff auf Kultur](#item-tech-news-487) ⭐️ ?/10
+488. [Preis für Arche-Gründer: Der Exot, der zum Wohltäter wurde](#item-tech-news-488) ⭐️ ?/10
+489. [Münchner Klimawoche: „Wir rasen auf eine viel heißere Welt zu“](#item-tech-news-489) ⭐️ ?/10
+490. [Путешественники отказываются посещать финский город Лаппеенранта из-за отсутстви](#item-tech-news-490) ⭐️ ?/10
+491. [Украине и Зеленскому надо стремиться к урегулированию конфликта, иначе для них д](#item-tech-news-491) ⭐️ ?/10
+492. [Мира на Украине можно достичь и без совместного подписания документов Путиным и ](#item-tech-news-492) ⭐️ ?/10
+493. [Системой ПВО Минобороны уничтожены три БПЛА, летевших на Москву, сообщил Собянин](#item-tech-news-493) ⭐️ ?/10
+494. [Гражданин США Стефан Хаббард, которого попросил освободить Трамп, был осужден за](#item-tech-news-494) ⭐️ ?/10
+495. [Стубб заявил, что по результатам переговоров в Осло участниками были найдены нек](#item-tech-news-495) ⭐️ ?/10
+496. [🏆 Российские гимнасты стали серебряными призерами чемпионата мира в командном мн](#item-tech-news-496) ⭐️ ?/10
+497. [США обсудили гарантии безопасности с представителями Украины и Европы в Осло, со](#item-tech-news-497) ⭐️ ?/10
+498. [Уиткофф намерен предложить переговоры с участием России, Украины и США, а также ](#item-tech-news-498) ⭐️ ?/10
+499. [Россия заинтересована в бессрочном продлении безвизового режима с Китаем, заявил](#item-tech-news-499) ⭐️ ?/10
+500. [Прожиточный минимум пенсионеров вырастет до 17,4 тыс. рублей в 2027 году, сообщи](#item-tech-news-500) ⭐️ ?/10
+501. [&quot;Трамп хочет, чтобы Зеленский хотел мирного решения конфликта на Украине&quot;. Так Д](#item-tech-news-501) ⭐️ ?/10
+502. [The Chapel of Saint-Michel d&\#x27;Aiguille stands atop a volcanic cliff approximately](#item-tech-news-502) ⭐️ ?/10
+503. [Red panda.](#item-tech-news-503) ⭐️ ?/10
+504. [Cavernas do Peruaçu National Park is an amazing place in Brazil, known for its n](#item-tech-news-504) ⭐️ ?/10
+505. [Chinese zookeeper.](#item-tech-news-505) ⭐️ ?/10
+506. [Beautiful historic Rome.](#item-tech-news-506) ⭐️ ?/10
+507. [The elegance.](#item-tech-news-507) ⭐️ ?/10
+508. [Sweet revenge.](#item-tech-news-508) ⭐️ ?/10
 
 **AI Creator Radar**
-1. [GLM-5.1 Has ~Astra Level CoT Control](#item-ai-creator-1) ⭐️ 7.0/10
-2. [07版 -  暖心服务送到老人身边（大数据观察）](#item-ai-creator-2) ⭐️ 3.0/10
-3. [05版 -  菜单里藏着教育智慧（纵横）](#item-ai-creator-3) ⭐️ 2.0/10
-4. [Les rapatriés d’Indochine obtiennent reconnaissance et réparation de la France, soixante-dix ans après](#item-ai-creator-4) ⭐️ 1.0/10
-5. [What do the other 80 percent mean?](#item-ai-creator-5) ⭐️ ?/10
-6. [02版 -  刘海星会见塞舌尔联合塞舌尔党副主席、政府卫生部长范尼](#item-ai-creator-6) ⭐️ ?/10
-7. [05版 -  “在平时多做过细的群众工作”（大家谈·认识基层  深入基层  服务基层⑩）](#item-ai-creator-7) ⭐️ ?/10
-8. [Au Mali, plus de quarante civils tués par des hommes armés dans la région de Ménaka, selon des sources locales](#item-ai-creator-8) ⭐️ ?/10
+1. [Kein Oktoberfest: Mainzer Dilettantenstadl](#item-ai-creator-1) ⭐️ 2.0/10
+2. [‘Two Cigarettes, Three Nights’ explores messy emotions and moral compromises](#item-ai-creator-2) ⭐️ ?/10
 
 **Technology Blog**
-1. [AI Labor Disruption: Quantifying the Economic Threat](#item-tech-blog-1) ⭐️ 4.0/10
-2. [Advancing coding in low‑resource programming languages](#item-tech-blog-2) ⭐️ 3.0/10
-3. [Permanent underclass taxonomy](#item-tech-blog-3) ⭐️ ?/10
-4. [How is &quot;prosaic aligned AI&quot; supposed to work?](#item-tech-blog-4) ⭐️ ?/10
-5. [Three deaths from float crushes raise safety concerns over Japanese festivals](#item-tech-blog-5) ⭐️ ?/10
+1. [Trotz Überlegenheit: Starker VfB verpasst Sieg gegen Atlético](#item-tech-blog-1) ⭐️ ?/10
+
+---
+
+## Financial News
+
+<a id="item-finance-news-1"></a>
+### [Opposition offers alternatives to food consumption tax cut in parliamentary debate](https://www.japantimes.co.jp/news/2026/10/20/japan/politics/consumption-tax-debate-start/) ⭐️ 7.0/10
+
+Prime Minister Sanae Takaichi faces parliamentary opposition as she advances her economic agenda centered on food consumption tax cuts.
+
+rss · 日本时报\(The Japan Times\) · Oct 20, 08:45
+
+**Tags**: `#Japanese Politics`, `#Fiscal Policy`, `#Tax Reform`, `#Economic Policy`
+
+---
+
+<a id="item-finance-news-2"></a>
+### [Bundle water safeguards into critical-mineral licences](https://www.nature.com/articles/d41586-026-03353-z) ⭐️ 2.0/10
+
+A short article suggests bundling water safeguards into critical-mineral licensing but provides no financial or economic substance.
+
+rss · Nature 自然 · Oct 20, 00:00
+
+**Tags**: `#policy`, `#environment`, `#mining`, `#commentary`, `#regulation`
+
+---
+
+<a id="item-finance-news-3"></a>
+### [Bill Ackman sounds off on &\#x27;crazy, radicalized&\#x27; Democratic Party, argues it&\#x27;s in &\#x27;worst place it&\#x27;s ever been&\#x27;](https://www.foxnews.com/media/bill-ackman-sounds-off-crazy-radicalized-democratic-party-argues-its-worst-place-its-ever-been) ⭐️ 0.0/10
+
+Investor Bill Ackman criticized the Democratic Party as radicalized and anti-American in a Fox News interview.
+
+rss · 福克斯新闻\(Fox News\) · Oct 20, 22:26
+
+**Tags**: `#Political Commentary`, `#Personal Opinion`, `#Non-financial News`
+
+---
+
+<a id="item-finance-news-4"></a>
+### [Threats of political violence soar in Australia’s ‘online echo chamber’](https://www.japantimes.co.jp/news/2026/10/20/asia-pacific/politics/australia-echo-chamber/) ⭐️ ?/10
+
+Threats of political violence soar in Australia’s ‘online echo chamber’
+
+rss · 日本时报\(The Japan Times\) · Oct 20, 08:46
+
+---
+
+<a id="item-finance-news-5"></a>
+### [Soziale Immobilität: Die Wohnungsnot ist ein Kern der deutschen Probleme](https://www.faz.net/aktuell/politik/inland/die-wohnungsnot-ist-ein-kern-der-deutschen-probleme-201282847.html) ⭐️ ?/10
+
+Soziale Immobilität: Die Wohnungsnot ist ein Kern der deutschen Probleme
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 08:16
 
 ---
 
 ## Technology News
 
 <a id="item-tech-news-1"></a>
-### [Red-teaming multi-agent attacks for loss-of-control risks](https://www.lesswrong.com/posts/SiWdLyjQQtBgtaLZq/red-teaming-multi-agent-attacks-for-loss-of-control-risks) ⭐️ 8.0/10
+### [Nobel-prizewinning breakthroughs can emerge from neglected organisms](https://www.nature.com/articles/d41586-026-03351-1) ⭐️ 5.0/10
 
-The post summarizes new research on optimizing multi-agent attacks to expose vulnerabilities in AI monitoring systems, highlighting recent cyber incidents and presenting a paper with a spotlight talk at MATS Summer 2026.
+A Nature editorial highlights how neglected organisms can be a source for Nobel-prize winning scientific breakthroughs.
 
-rss · LessWrong AI风险社区 · Oct 20, 01:30
+rss · Nature 自然 · Oct 20, 00:00
 
-**Tags**: `#artificial intelligence`, `#AI safety`, `#multi-agent systems`, `#cybersecurity`, `#red-teaming`
+**Tags**: `#Science Policy`, `#Biotechnology`, `#Research Trends`, `#Nature`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [Human vs AI in Go in 2026: Lessons for superintelligence?](https://www.lesswrong.com/posts/FZmEpvcdbgnRLmAKg/human-vs-ai-in-go-in-2026-lessons-for-superintelligence) ⭐️ 8.0/10
+### [Panasonic speeds up efforts to turn windows into solar panels](https://www.japantimes.co.jp/business/2026/10/20/tech/panasonic-window-solar-panels/) ⭐️ 5.0/10
 
-Analysis of a 2026 Go match where human player Shin Jin-seo defeated KataGo 2-1 with a 2-stone handicap, exploring what this means for AI superintelligence.
+Panasonic is accelerating development of customizable power-generating glass aimed at integrating solar functionality into windows and exterior building surfaces.
 
-rss · LessWrong AI风险社区 · Oct 19, 23:20
+rss · 日本时报\(The Japan Times\) · Oct 20, 10:27
 
-**Tags**: `#AI`, `#artificial intelligence`, `#game theory`, `#reinforcement learning`, `#superintelligence`
+**Tags**: `#Solar Energy`, `#Building-Integrated Photovoltaics`, `#Hardware Innovation`, `#Renewable Energy`
 
 ---
 
 <a id="item-tech-news-3"></a>
-### [People&\#x27;s Daily on China&\#x27;s radiation-free cardiac intervention innovation](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186726.html) ⭐️ 4.0/10
+### [Near miss: Indonesia probes crash of suspected Chinese rocket fragment](https://www.japantimes.co.jp/news/2026/10/20/asia-pacific/indonesia-probe-rocket-debris/) ⭐️ 5.0/10
 
-An October 20, 2026 People&\#x27;s Daily opinion article discusses China&\#x27;s original radiation-free percutaneous cardiac intervention technology, which enables heart procedures using ultrasound guidance instead of radiation and contrast agents. The piece highlights how this innovation has been adopted in nearly 2,000 medical institutions across 72 countries, treating over 200,000 patients, with UN support for physician training. The article frames this as an example of innovation methodology that prioritizes accessibility, cost reduction, and addressing real-world barriers to technology deployment.
+Indonesia is investigating a suspected Chinese rocket fragment found after a loud bang reported by residents.
 
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+rss · 日本时报\(The Japan Times\) · Oct 20, 08:46
 
-**「Background」** Traditional cardiac interventions rely on fluoroscopy \(radiation\) and iodinated contrast agents, which pose risks to pregnant women, patients with kidney dysfunction, and others. Ultrasound-guided percutaneous procedures represent an alternative imaging approach that requires specialized equipment and training but eliminates radiation exposure and contrast-related complications.
-
-**「Impact」** The technology&\#x27;s international adoption provides an alternative treatment pathway for patients who cannot safely undergo conventional radiation-based cardiac procedures. However, the article is primarily commentary rather than technical reporting, and independent verification of clinical outcomes or adoption metrics would require additional sources.
-
-**Tags**: `#Medical Technology`, `#Innovation Policy`, `#Chinese Media`, `#Healthcare Innovation`
+**Tags**: `#Space Industry`, `#Rocket Debris`, `#Indonesia`, `#News`
 
 ---
 
 <a id="item-tech-news-4"></a>
-### [gvanrossum created branch in gvanrossum/cpython](https://github.com/gvanrossum/cpython) ⭐️ 3.0/10
+### [Europe and the rest of the world must come up with an answer to US science strategy](https://www.nature.com/articles/d41586-026-03352-0) ⭐️ 3.0/10
 
-A minimal GitHub activity entry referencing a Python language branch with no technical substance.
+An incomplete Nature article headline about global responses to US science strategy, lacking substantive content.
 
-github · gvanrossum · Oct 19, 22:40
+rss · Nature 自然 · Oct 20, 00:00
 
-**Tags**: `#Python`, `#GitHub`, `#Open Source`
+**Tags**: `#science policy`, `#international research`, `#incomplete content`, `#no technical detail`
 
 ---
 
 <a id="item-tech-news-5"></a>
-### [05版 -  让智能经济更好激发新动能（人民时评）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186725.html) ⭐️ 3.0/10
+### [gvanrossum created branch in gvanrossum/peps](https://github.com/gvanrossum/peps) ⭐️ 2.0/10
 
-A People&\#x27;s Daily editorial discussing China&\#x27;s strategic push toward an intelligent economy, emphasizing the integration of AI with the real sector and infrastructure development.
+A GitHub branch creation event by Guido van Rossum on the Python Enhancement Proposals repository, with no additional content details provided.
 
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+github · gvanrossum · Oct 20, 17:59
 
-**Tags**: `#AI Policy`, `#Editorial`, `#Digital Economy`, `#China Tech`
+**Tags**: `#Python`, `#GitHub`, `#Open Source Governance`
 
 ---
 
 <a id="item-tech-news-6"></a>
-### [Армия США намерена активно использовать аэростаты в случае конфликта в Европе, с](https://telegram.me/tass_agency/401164) ⭐️ 3.0/10
+### [As Private Equity Scales Up Small Restaurants, Customers Push Back](https://www.nytimes.com/2026/10/20/dining/private-equity-restaurant-deals.html) ⭐️ 2.0/10
 
-The US Army plans to deploy hundreds or thousands of high-altitude balloons for data relay and weapon launches in a potential European conflict.
+Private equity firms are acquiring small restaurants, leading to customer backlash.
 
-telegram · tass\_agency · Oct 20, 01:29
+rss · 纽约时报\(The New York Times\) · Oct 20, 15:22
 
-**Tags**: `#Military Technology`, `#Aeronautics`, `#Hardware`, `#Defense Strategy`
+**Tags**: `#private equity`, `#restaurants`, `#consumer trends`
 
 ---
 
 <a id="item-tech-news-7"></a>
-### [Ex-OpenAI worker accused of planting device had Saudi support, says court filing](https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&amp;at_campaign=rss) ⭐️ 2.0/10
+### [torvalds pushed 0 commit\(s\) to torvalds/linux](https://github.com/torvalds/linux) ⭐️ 1.0/10
 
-A headline notes court filing claims about alleged Saudi support for an ex-OpenAI worker&\#x27;s accusations, with no substantive content provided.
+A GitHub activity log indicating Linus Torvalds pushed zero commits to the Linux repository.
 
-rss · BBC\(British Broadcasting Corporation\) · Oct 19, 21:12
+github · torvalds · Oct 20, 22:35
 
-**Tags**: `#AI Industry`, `#Legal News`, `#Low Priority`
+**Tags**: `#low priority`, `#routine update`, `#noise`
 
 ---
 
 <a id="item-tech-news-8"></a>
-### [КНР была и остается заинтересованной в украинском урегулировании, заявил замглав](https://telegram.me/tass_agency/401152) ⭐️ 2.0/10
+### [gvanrossum pushed 0 commit\(s\) to python/peps](https://github.com/python/peps) ⭐️ 1.0/10
 
-A Russian deputy foreign minister stated that China remains interested in a settlement of the Ukraine conflict and will likely continue to advocate for its previously outlined proposals.
+A null push event to the Python PEPs repository by Guido van Rossum, carrying no technical content.
 
-telegram · tass\_agency · Oct 19, 21:39
+github · gvanrossum · Oct 20, 17:20
 
-**Tags**: `#diplomacy`, `#geopolitics`, `#international relations`
+**Tags**: `#Software Engineering`, `#Open Source`, `#Python`
 
 ---
 
 <a id="item-tech-news-9"></a>
-### [Украину не следует принимать в состав НАТО, заявил вице-президент США Вэнс в инт](https://telegram.me/tass_agency/401155) ⭐️ 2.0/10
+### [Conservation planning should follow animal clocks](https://www.nature.com/articles/d41586-026-03354-y) ⭐️ 1.0/10
 
-US Vice President Vance stated Ukraine should not be admitted to NATO in an interview, per a TASS Telegram report.
+A short Nature news article suggesting conservation planning should align with animal chronobiology.
 
-telegram · tass\_agency · Oct 19, 23:02
+rss · Nature 自然 · Oct 20, 00:00
 
-**Tags**: `#politics`, `#NATO`, `#international relations`, `#briefing`
+**Tags**: `#conservation`, `#chronobiology`, `#off-topic`
 
 ---
 
 <a id="item-tech-news-10"></a>
-### [ЦБ на ближайшем заседании сохранит ключевую ставку на уровне 14%. Значение сохра](https://telegram.me/tass_agency/401160) ⭐️ 2.0/10
+### [Netflix Is Great at Making Money. Its Problem Is Keeping Viewers Hooked.](https://www.nytimes.com/2026/10/20/business/media/netflix-earnings-ted-sarandos-peter-rice.html) ⭐️ 1.0/10
 
-Russia&\#x27;s Central Bank is expected to maintain its key interest rate at 14% through at least the end of 2026, according to a senator reported by TASS.
+A non-technical business news brief regarding Netflix&\#x27;s financial performance and viewer retention challenges.
 
-telegram · tass\_agency · Oct 20, 00:34
+rss · 纽约时报\(The New York Times\) · Oct 20, 22:39
 
-**Tags**: `#economics`, `#monetary policy`, `#Russia`, `#finance`
+**Tags**: `#Business`, `#Streaming Services`, `#Revenue`
 
 ---
 
 <a id="item-tech-news-11"></a>
-### [02版 -  李强会见白俄罗斯总理图尔钦](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186702.html) ⭐️ 1.0/10
+### [Canada Has Never Been More United](https://www.nytimes.com/2026/10/20/opinion/canada-alberta-referendum-trump.html) ⭐️ 1.0/10
 
-Diplomatic meeting between Chinese and Belarusian prime ministers discussing bilateral relations and cooperation in various sectors.
+An opinion article on Canada&\#x27;s political unity in response to Alberta&\#x27;s rejection of a secession vote and opposition to Trump.
 
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+rss · 纽约时报\(The New York Times\) · Oct 20, 22:51
 
-**Tags**: `#diplomacy`, `#international relations`, `#trade`, `#government`
+**Tags**: `#politics`, `#international`, `#opinion`, `#non-technology`
 
 ---
 
 <a id="item-tech-news-12"></a>
-### [02版 -  保加利亚总统约托娃会见王毅](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186706.html) ⭐️ 1.0/10
+### [Trumpism Is Backfiring](https://www.nytimes.com/2026/10/20/opinion/ezra-klein-podcast-chrystia-freeland.html) ⭐️ 1.0/10
 
-Diplomatic meeting report between Bulgarian and Chinese officials with no technology relevance.
+A political podcast episode featuring former Canadian deputy prime minister Chrystia Freeland discussing Canada&\#x27;s response to Trumpism.
 
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+rss · 纽约时报\(The New York Times\) · Oct 20, 13:11
 
-**Tags**: `#diplomacy`, `#international-relations`, `#no-technology-relevance`
+**Tags**: `#Politics`, `#International Relations`, `#Opinion`
 
 ---
 
 <a id="item-tech-news-13"></a>
-### [06版 -  深入学习贯彻习近平文化思想，筑牢强国建设、民族复兴的文化根基](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186731.html) ⭐️ 1.0/10
+### [Have MLB home run celebrations gone too far? Junior Caminero&\#x27;s long run around the bases sparks debate](https://www.foxnews.com/outkick-sports/mlb-home-run-celebrations-gone-too-far-junior-caminero-long-run-bases-sparks-debate) ⭐️ 1.0/10
 
-A political/cultural commentary on Xi Jinping&\#x27;s cultural thought and recent publications, unrelated to technology.
+A Fox News article discusses whether MLB home run celebrations have gone too far, sparked by Junior Caminero&\#x27;s lengthy trot during the ALCS.
 
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+rss · 福克斯新闻\(Fox News\) · Oct 20, 22:35
 
-**Tags**: `#politics`, `#chinese-language`, `#ideology`, `#non-technical`
+**Tags**: `#sports`, `#irrelevant`, `#non-technical`
 
 ---
 
 <a id="item-tech-news-14"></a>
-### [Criminals detained in hospital set to lose benefits](https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&amp;at_campaign=rss) ⭐️ 1.0/10
+### [American Airlines jet suffers brake trouble, blown tire after landing at Chicago O&\#x27;Hare: FAA](https://www.foxnews.com/us/american-airlines-jet-suffers-brake-trouble-blown-tire-landing-chicago-ohare-faa) ⭐️ 1.0/10
 
-Victims&\#x27; families campaigned for detained criminal Valdo Calocane to lose benefits.
+An American Airlines flight experienced brake trouble and a blown tire after landing at Chicago O&\#x27;Hare from Spain.
 
-rss · BBC\(British Broadcasting Corporation\) · Oct 19, 23:21
+rss · 福克斯新闻\(Fox News\) · Oct 20, 22:29
 
-**Tags**: `#legal news`, `#social policy`, `#crime`
+**Tags**: `#aviation`, `#safety`, `#incident-report`
 
 ---
 
 <a id="item-tech-news-15"></a>
-### [Five ways El Niño is affecting the weather around the world](https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&amp;at_campaign=rss) ⭐️ 1.0/10
+### [Bangladesh battle against measles a ‘real warning’ to other nations](https://www.japantimes.co.jp/news/2026/10/20/asia-pacific/science-health/bangladesh-measles-outbreak/) ⭐️ 1.0/10
 
-A BBC article discussing the global weather impacts of the strongest El Niño on record.
+A Japan Times report on measles deaths in Bangladesh, with no relevance to technology.
 
-rss · BBC\(British Broadcasting Corporation\) · Oct 19, 23:08
+rss · 日本时报\(The Japan Times\) · Oct 20, 11:00
 
-**Tags**: `#Climate`, `#Weather`, `#Non-tech`, `#General Science`
+**Tags**: `#not relevant`, `#health`, `#news`
 
 ---
 
 <a id="item-tech-news-16"></a>
-### [The singles choosing in-person dating events over apps](https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&amp;at_campaign=rss) ⭐️ 1.0/10
+### [Seoul to pull embassy staff from Kyiv over North Korea prisoner disclosure](https://www.japantimes.co.jp/news/2026/10/20/asia-pacific/politics/south-korea-embassy-staff-ukraine/) ⭐️ 1.0/10
 
-A BBC article discussing why some singles prefer in-person dating events over apps.
+South Korea is pulling embassy staff from Kyiv following a diplomatic rift over North Korea prisoner disclosure.
 
-rss · BBC\(British Broadcasting Corporation\) · Oct 19, 23:00
+rss · 日本时报\(The Japan Times\) · Oct 20, 08:45
 
-**Tags**: `#lifestyle`, `#social trends`, `#consumer behavior`
+**Tags**: `#diplomacy`, `#international relations`, `#geopolitics`
 
 ---
 
 <a id="item-tech-news-17"></a>
-### [‘This is not poker’: Alberta goes to polls in referendum that has exposed divisions, not least among separatists](https://www.theguardian.com/world/2026/oct/19/alberta-goes-to-polls-in-referendum-divisions-separatists-canada) ⭐️ 1.0/10
+### [Interview zur AfD: Warum nimmt sich die „Bild“-Chefin zurück?](https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/bild-chefin-nimmt-anti-afd-spruch-zurueck-201605663.html) ⭐️ 1.0/10
 
-Article about Alberta&\#x27;s referendum on remaining in Canada or holding a binding independence vote.
+An interview with the Bild editor-in-chief regarding her controversial statements about the AfD political party.
 
-rss · 卫报\(The Guardian\) · Oct 19, 05:00
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 19:07
 
-**Tags**: `#politics`, `#referendum`, `#canada`, `#news`
+**Tags**: `#politics`, `#media`, `#current events`
 
 ---
 
 <a id="item-tech-news-18"></a>
-### [En tournée dans le golfe Persique, Emmanuel Macron cherche une issue à la flambée des prix du carburant](https://www.lemonde.fr/international/article/2026/10/19/en-tournee-dans-le-golfe-persique-emmanuel-macron-cherche-une-issue-a-la-flambee-des-prix-du-carburant_6797585_3210.html) ⭐️ 1.0/10
+### [Eklat um Linken: Die Jüdin soll doch einfach auswandern](https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/account-von-linkspolitiker-raet-juedin-das-land-zu-verlassen-201605056.html) ⭐️ 1.0/10
 
-French President Macron tours Persian Gulf nations seeking energy supply security amid fuel price spikes and regional geopolitical tensions.
+A German political commentary discussing an incident where a leftist politician&\#x27;s Facebook account was used to advise a Jewish journalist to leave the country, with the politician claiming the post was made by a hacker.
 
-rss · 世界报\(Le Monde\) · Oct 19, 19:45
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 15:54
 
-**Tags**: `#geopolitics`, `#energy policy`, `#France`, `#Persian Gulf`
+**Tags**: `#politics`, `#social media`, `#antisemitism`, `#journalism`
 
 ---
 
 <a id="item-tech-news-19"></a>
-### [Berlin&\#x27;s Housing and Migration Plans Under Scrutiny](https://www.spiegel.de/politik/deutschland/die-linke-spd-und-gruene-in-berlin-wie-realistisch-sind-die-miet-und-migrationsplaene-a-b215ebf7-fed2-43a1-8260-dfe754d61eb5#ref=rss) ⭐️ 1.0/10
+### [Entertainer ohne Auto: Wie Harald Schmidt in die Vernunft fiel](https://www.faz.net/aktuell/feuilleton/debatten/harald-schmidt-verschenkt-seinen-jaguar-und-lebt-ohne-auto-201604930.html) ⭐️ 1.0/10
 
-A Der Spiegel analysis examines the feasibility of housing and migration policies proposed by Berlin&\#x27;s coalition partners—Die Linke, SPD, and the Greens. The ruling red-green-red coalition has outlined ambitious plans including voting rights for foreigners, secure settlement for asylum seekers, and the socialization of major housing companies. However, the article questions what can realistically be implemented and highlights potential obstacles from the federal government that could block or limit these state-level initiatives.
+German entertainer Harald Schmidt donated his Jaguar to a hobbyist and shares his experience of living without a car.
 
-rss · 明镜周刊\(Der Spiegel\) · Oct 19, 18:06
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 12:39
 
-**「Background」** Germany&\#x27;s federal system divides powers between the federal government \(Bund\) and state governments \(Länder\), with housing policy largely falling under state jurisdiction while migration and asylum law are primarily federal matters. Berlin&\#x27;s unique political configuration with three parties in coalition creates both opportunities and challenges for implementing progressive policies.
-
-**「Impact」** The analysis affects Berlin residents and policymakers who will experience the practical outcomes of these proposals, as well as other German states considering similar housing reforms. Federal-state tensions over migration policy may influence how aggressively Berlin pursues its asylum seeker settlement plans.
-
-**Tags**: `#politics`, `#housing-policy`, `#migration-policy`, `#german-elections`
+**Tags**: `#entertainment`, `#lifestyle`, `#celebrity news`
 
 ---
 
 <a id="item-tech-news-20"></a>
-### [Trump Open to Potential Meetings with Putin and Xi on Nuclear Disarmament](https://telegram.me/tass_agency/401146) ⭐️ 1.0/10
+### [VW Polo und Co.: Jahreswagen](https://www.faz.net/aktuell/technik-motor/vw-hat-jede-menge-probleme-accg-201312987.html) ⭐️ 1.0/10
 
-Former President Donald Trump has stated his willingness to consider meetings with Russian President Vladimir Putin and Chinese President Xi Jinping, though he denied that any formal agreement for such talks currently exists. He indicated that the primary focus of these potential discussions would be nuclear disarmament rather than the war in Ukraine. This statement highlights a continued diplomatic interest from Trump&\#x27;s camp in engaging with major global adversaries on strategic arms control issues.
+An article noting long delivery times for new VW, Cupra, and Škoda electric small cars.
 
-telegram · tass\_agency · Oct 19, 19:27
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 08:11
 
-**「Background」** Nuclear disarmament remains a critical topic in international relations, particularly involving the three largest nuclear-armed states: the United States, Russia, and China. Previous efforts to include China in bilateral US-Russia arms control treaties have faced significant challenges due to differing arsenals and strategic perspectives.
-
-**「Impact」** This diplomatic posture could signal a shift in US foreign policy priorities toward direct high-level engagement on strategic stability if Trump returns to office, potentially reopening channels for nuclear arms control talks that have been dormant.
-
-**Tags**: `#politics`, `#international-relations`, `#diplomacy`
+**Tags**: `#automotive`, `#consumer goods`, `#supply chain`, `#electric vehicles`
 
 ---
 
 <a id="item-tech-news-21"></a>
-### [США не одобрили поставки Украине снарядов для Patriot, пишет The Washington Post](https://max.ru/tass_agency) ⭐️ 1.0/10
+### [Trump’s D.C. Golf Course Renovation Plan Has Many Residents Feeling Discouraged](https://www.nytimes.com/2026/10/20/us/trump-dc-golf-course-renovation-residents.html) ⭐️ 0.0/10
 
-A Telegram channel aggregation of unrelated international political and social news with no technology relevance.
+Residents express concern over a plan to renovate a golf course at East Potomac Park in Washington, D.C.
 
-telegram · tass\_agency · Oct 19, 23:34
+rss · 纽约时报\(The New York Times\) · Oct 20, 17:21
 
-**Tags**: `#not\_relevant`, `#politics`, `#news\_aggregation`
+**Tags**: `#local news`, `#politics`, `#park renovation`
 
 ---
 
 <a id="item-tech-news-22"></a>
-### [Уиткофф и Кушнер проведут в Норвегии переговоры по Украине, сообщает Reuters со ](https://telegram.me/tass_agency/401151) ⭐️ 1.0/10
+### [Christina Applegate Says Her MS Was Misdiagnosed](https://www.nytimes.com/2026/10/20/well/christina-applegate-misdiagnosis-ms.html) ⭐️ 0.0/10
 
-US officials Witkoff and Kushner are set to hold negotiations in Norway regarding Ukraine, with Zelenskyy expected to attend.
+Christina Applegate reports that her multiple sclerosis diagnosis was a misdiagnosis.
 
-telegram · tass\_agency · Oct 19, 20:44
+rss · 纽约时报\(The New York Times\) · Oct 20, 22:07
 
-**Tags**: `#geopolitics`, `#diplomacy`, `#international relations`, `#news`
+**Tags**: `#celebrity news`, `#health`, `#misdiagnosis`
 
 ---
 
 <a id="item-tech-news-23"></a>
-### [В РФ с лидера группы &quot;Ногу свело\!&quot; Покровского\* взыскивают почти 84 тыс. налогов](https://telegram.me/tass_agency/401158) ⭐️ 1.0/10
+### [Iran prolongs talks in stalemate to influence U.S. midterms, officials say](https://www.japantimes.co.jp/news/2026/10/20/world/politics/iran-prolong-us-talks-midterm-influence/) ⭐️ 0.0/10
 
-Russian authorities are collecting nearly 84,000 rubles in back taxes from the leader of the band &\#x27;Nagu Svelo\!&\#x27; Pokrovsky.
+Iran prolongs nuclear talks with the US to influence midterms amid fears of military action.
 
-telegram · tass\_agency · Oct 19, 23:57
+rss · 日本时报\(The Japan Times\) · Oct 20, 10:49
 
-**Tags**: `#taxation`, `#legal`, `#music`, `#russia`
+**Tags**: `#geopolitics`, `#international-relations`, `#diplomacy`, `#none`, `#none`
 
 ---
 
 <a id="item-tech-news-24"></a>
-### [Детям до 14 лет с 2027 года потребуется свой загранпаспорт для выезда за пределы](https://telegram.me/tass_agency/401161) ⭐️ 1.0/10
+### [Neue Steuerschätzung: Die Rechnung von Merz geht nicht auf](https://www.faz.net/aktuell/wirtschaft/steuerschaetzung-warum-merz-rechnung-zur-stromsteuer-nicht-aufgeht-201605076.html) ⭐️ 0.0/10
 
-A non-technology policy update stating that children under 14 in Russia will need their own international passports starting in 2027.
+An article discussing the poor state of the German federal budget and why political calculations regarding electricity tax revenue are not feasible.
 
-telegram · tass\_agency · Oct 20, 00:41
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 14:13
 
-**Tags**: `#policy`, `#administrative`, `#travel`, `#regulation`
+**Tags**: `#politics`, `#fiscal policy`, `#taxation`, `#economic analysis`
 
 ---
 
 <a id="item-tech-news-25"></a>
-### [02版 -  “埃中关系经得起国际风云变幻考验”](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186703.html) ⭐️ 0.0/10
+### [Frankfurter PR-Erfolg: Ein Schatten über der Harmonie](https://www.faz.net/aktuell/sport/rhein-main-sport/eintracht-frankfurt/eintracht-frankfurt-kroesches-abschied-und-die-ultra-frage-201604794.html) ⭐️ 0.0/10
 
-A Chinese state media report on the historical visit of President Xi to Egypt and the resulting diplomatic and economic cooperation agreements.
+A German sports article covering emotional farewells and leadership changes at Eintracht Frankfurt, including questions about ultra fan group influence.
 
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 11:00
 
-**Tags**: `#diplomacy`, `#international-relations`, `#news`, `#china-egypt-relations`
+**Tags**: `#sports`, `#irrelevant`, `#non-technology`
 
 ---
 
 <a id="item-tech-news-26"></a>
-### [02版 -  拜靖国神社，日本再次撕下自己的“和平伪装”（钟声）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186704.html) ⭐️ 0.0/10
+### [Is it ‘moon-stroke’, or a chill?](https://www.nature.com/articles/d41586-026-02975-7) ⭐️ ?/10
 
-A political editorial criticizing Japanese Prime Minister Sanae Takaichi&\#x27;s visits and offerings at the Yasukuni Shrine as a rejection of historical accountability.
+Is it ‘moon-stroke’, or a chill?
 
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
-**Tags**: `#politics`, `#international relations`, `#media`, `#commentary`
+rss · Nature 自然 · Oct 20, 00:00
 
 ---
 
 <a id="item-tech-news-27"></a>
-### [02版 -  外交部：严厉谴责日方涉靖国神社消极动向](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186705.html) ⭐️ 0.0/10
+### [Butterfly wing patterns make motion hard to read](https://www.nature.com/articles/d41586-026-03062-7) ⭐️ ?/10
 
-Chinese Foreign Ministry condemnation of Japanese officials&\#x27; actions at Yasukuni Shrine, a geopolitical news item with no relevance to technology.
+Butterfly wing patterns make motion hard to read
 
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
-**Tags**: `#irrelevant`, `#politics`, `#diplomacy`, `#international-relations`, `#non-tech`
+rss · Nature 自然 · Oct 20, 00:00
 
 ---
 
 <a id="item-tech-news-28"></a>
-### [05版 -  无名与有名（评论员观察）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186724.html) ⭐️ 0.0/10
+### [&lt;i&gt;Nature&lt;/i&gt;’s job-satisfaction survey highlights the changing geography of science](https://www.nature.com/articles/d41586-026-03327-1) ⭐️ ?/10
 
-A political commentary on Long March martyrs and revolutionary spirit, unrelated to technology.
+&lt;i&gt;Nature&lt;/i&gt;’s job-satisfaction survey highlights the changing geography of science
 
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
-**Tags**: `#politics`, `#history`, `#editorial`, `#cultural`, `#non-technical`
+rss · Nature 自然 · Oct 20, 00:00
 
 ---
 
 <a id="item-tech-news-29"></a>
-### [05版 -  图片报道](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186727.html) ⭐️ 0.0/10
+### [Will this sleep-disorder drug be the next big blockbuster?](https://www.nature.com/articles/d41586-026-03310-w) ⭐️ ?/10
 
-A photo feature describing China&\#x27;s development of revolutionary relic protection and display projects.
+Will this sleep-disorder drug be the next big blockbuster?
 
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
-**Tags**: `#news`, `#culture`, `#non-technical`
+rss · Nature 自然 · Oct 20, 00:00
 
 ---
 
 <a id="item-tech-news-30"></a>
-### [US church on frontline of battle against drug known as &\#x27;tranq&\#x27;](https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&amp;at_campaign=rss) ⭐️ 0.0/10
+### [Can a human survive in a whale’s belly? The science behind the thriller &lt;i&gt;Whalefall&lt;/i&gt;](https://www.nature.com/articles/d41586-026-03358-8) ⭐️ ?/10
 
-A BBC news piece about a US church&\#x27;s efforts against the drug &\#x27;tranq&\#x27; and the impact of synthetic opioids like fentanyl.
+Can a human survive in a whale’s belly? The science behind the thriller &lt;i&gt;Whalefall&lt;/i&gt;
 
-rss · BBC\(British Broadcasting Corporation\) · Oct 20, 00:02
-
-**Tags**: `#noisy`, `#unrelated-topic`
+rss · Nature 自然 · Oct 20, 00:00
 
 ---
 
 <a id="item-tech-news-31"></a>
-### [US grants deportation reprieve to migrants from Ukraine and Sudan](https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan) ⭐️ 0.0/10
+### [It’s time to teach peer review as a core research skill](https://www.nature.com/articles/d41586-026-03200-1) ⭐️ ?/10
 
-DHS grants a temporary reprieve from deportation to over 100,000 migrants from Ukraine and Sudan pending further announcement.
+It’s time to teach peer review as a core research skill
 
-rss · 卫报\(The Guardian\) · Oct 19, 22:34
-
-**Tags**: `#immigration`, `#US policy`, `#deportation`, `#humanitarian`
+rss · Nature 自然 · Oct 20, 00:00
 
 ---
 
 <a id="item-tech-news-32"></a>
-### [Kenyan starvation cult leader guilty of murder of 190 children and one adult](https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children) ⭐️ 0.0/10
+### [Vast new fossil record challenges story of Earth’s ‘big five’ mass extinctions](https://www.nature.com/articles/d41586-026-03316-4) ⭐️ ?/10
 
-A Kenyan court has convicted cult leader Paul Mackenzie and approximately 30 followers of murder for the deaths of 190 children and one adult through starvation.
+Vast new fossil record challenges story of Earth’s ‘big five’ mass extinctions
 
-rss · 卫报\(The Guardian\) · Oct 19, 16:08
-
-**Tags**: `#crime`, `#legal`, `#international news`, `#non-technology`
+rss · Nature 自然 · Oct 20, 00:00
 
 ---
 
 <a id="item-tech-news-33"></a>
-### [Drone attack near market kills 80 in Sudan](https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan) ⭐️ 0.0/10
+### [China picks first researchers for 15-year mega grants](https://www.nature.com/articles/d41586-026-03151-7) ⭐️ ?/10
 
-A Guardian report on a drone attack in Sudan that killed 80 people near a market.
+China picks first researchers for 15-year mega grants
 
-rss · 卫报\(The Guardian\) · Oct 19, 14:45
-
-**Tags**: `#Geopolitics`, `#Conflict News`, `#Drone Warfare`, `#Humanitarian Crisis`
+rss · Nature 自然 · Oct 20, 00:00
 
 ---
 
 <a id="item-tech-news-34"></a>
-### [Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods](https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods) ⭐️ 0.0/10
+### [Nepal’s disaster is an urgent wake-up call](https://www.nature.com/articles/d41586-026-03314-6) ⭐️ ?/10
 
-A weather report covering Hurricane Trudy&\#x27;s impact on Mexico&\#x27;s Pacific coast and deadly floods in Greece.
+Nepal’s disaster is an urgent wake-up call
 
-rss · 卫报\(The Guardian\) · Oct 19, 10:07
-
-**Tags**: `#weather`, `#natural disasters`, `#off-topic`
+rss · Nature 自然 · Oct 20, 00:00
 
 ---
 
 <a id="item-tech-news-35"></a>
-### [EN DIRECT, guerre en Ukraine : Volodymyr Zelensky accuse Washington de retarder la livraison à Kiev de missiles « déjà payés »](https://www.lemonde.fr/international/live/2026/10/20/en-direct-guerre-en-ukraine-volodymyr-zelensky-accuse-washington-de-retarder-la-livraison-a-kiev-de-missiles-deja-payes_6796922_3210.html) ⭐️ 0.0/10
+### [Author Correction: FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial](https://www.nature.com/articles/s41591-026-04757-0) ⭐️ ?/10
 
-Zelensky accuses Washington of delaying delivery of paid-for missiles while European partners await US permission to supply Patriot interceptors.
+Author Correction: FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial
 
-rss · 世界报\(Le Monde\) · Oct 19, 22:40
-
-**Tags**: `#geopolitics`, `#military affairs`, `#international relations`
+rss · Nature Medicine 自然医学 · Oct 20, 00:00
 
 ---
 
 <a id="item-tech-news-36"></a>
-### [Au procès de l’explosion de la rue de Trévise, la Ville de Paris et le syndic d’un immeuble face à la justice](https://www.lemonde.fr/societe/article/2026/10/19/au-proces-de-l-explosion-de-la-rue-de-trevise-la-ville-de-paris-et-le-syndic-d-un-immeuble-face-a-la-justice_6797556_3224.html) ⭐️ 0.0/10
+### [Franchisee reconciles cash in 94% less time with ChatGPT Work](https://openai.com/index/ted-taylor-restaurant) ⭐️ ?/10
 
-French entities face trial for a 2019 gas explosion in Paris that killed four people.
+Franchisee reconciles cash in 94% less time with ChatGPT Work
 
-rss · 世界报\(Le Monde\) · Oct 19, 15:58
-
-**Tags**: `#legal`, `#societal`, `#international news`
+rss · OpenAI Blog · Oct 20, 10:00
 
 ---
 
 <a id="item-tech-news-37"></a>
-### [Benyamin Nétanyahou met en scène sa proximité avec Donald Trump, à une semaine des élections législatives en Israël](https://www.lemonde.fr/international/article/2026/10/19/benyamin-netanyahou-met-en-scene-sa-proximite-avec-donald-trump-a-une-semaine-des-elections-legislatives-en-israel_6797582_3210.html) ⭐️ 0.0/10
+### [OpenAI acquires Orchestra Bio](https://openai.com/index/openai-to-acquire-orchestra-bio) ⭐️ ?/10
 
-Article about Benjamin Netanyahu&\#x27;s political dealings with Donald Trump ahead of Israeli elections, unrelated to technology.
+OpenAI acquires Orchestra Bio
 
-rss · 世界报\(Le Monde\) · Oct 19, 18:52
-
-**Tags**: `#politics`, `#international news`, `#elections`
+rss · OpenAI Blog · Oct 20, 00:00
 
 ---
 
 <a id="item-tech-news-38"></a>
-### [Not applicable: non-technology news item](https://telegram.me/tass_agency/401154) ⭐️ 0.0/10
+### [Updatelessness explained](https://www.lesswrong.com/posts/dhdCnNbqcPkvFdxnC/updatelessness-explained) ⭐️ ?/10
 
-This item reports that Ukrainian citizens are increasingly leaving Ukraine before winter, with long border queues cited at the Yagodin-Dorohusk and Rava-Ruska crossings. The claim is sourced from a Telegram channel attributed to Russian state media outlet TASS and a pro-Russian source. Because this content concerns wartime population movement rather than technology, software, AI, or the tech industry, it falls outside the scope of technical editorial processing.
+Updatelessness explained
 
-telegram · tass\_agency · Oct 19, 22:19
-
-**「Background」** Ukraine has experienced significant civilian displacement since the start of the full-scale Russian invasion in 2022, with border crossings frequently experiencing delays during seasonal migration waves. Reports about border conditions often circulate through social media and state-affiliated outlets, so claims about queue lengths should be corroborated by independent sources.
-
-**「Impact」** This item has no impact on technology users, developers, organizations, or standards. It does not affect software engineering, AI, systems, hardware, open source projects, or the tech industry.
-
-**Tags**: `#geopolitics`, `#conflict`, `#news`
+rss · LessWrong AI风险社区 · Oct 20, 22:28
 
 ---
 
 <a id="item-tech-news-39"></a>
-### [Пока нет понимания, когда будет следующий визит Си Цзиньпина в Россию, сообщил Т](https://telegram.me/tass_agency/401157) ⭐️ 0.0/10
+### [Why do fictional jailbreaks work?](https://www.lesswrong.com/posts/MttHvYu8SeKogg7xE/why-do-fictional-jailbreaks-work) ⭐️ ?/10
 
-No understanding yet of when Xi Jinping will visit Russia, stated by Peskov to TASS.
+Why do fictional jailbreaks work?
 
-telegram · tass\_agency · Oct 19, 23:42
-
-**Tags**: `#diplomacy`, `#international relations`, `#politics`, `#news`
+rss · LessWrong AI风险社区 · Oct 20, 21:37
 
 ---
 
 <a id="item-tech-news-40"></a>
-### [Посольство РФ направило Польше протест в связи с осквернением кладбища советских](https://telegram.me/tass_agency/401163) ⭐️ 0.0/10
+### [How I discovered an Exoplanet &amp; the science apocalypse](https://www.lesswrong.com/posts/kdybMpcFJ5iwCDJsd/how-i-discovered-an-exoplanet-and-the-science-apocalypse) ⭐️ ?/10
 
-Russia protested to Poland over vandals defacing memorial plaques at a Soviet war cemetery in Warsaw.
+How I discovered an Exoplanet &amp; the science apocalypse
 
-telegram · tass\_agency · Oct 20, 01:07
-
-**Tags**: `#diplomacy`, `#international relations`, `#none`
+rss · LessWrong AI风险社区 · Oct 20, 20:33
 
 ---
 
 <a id="item-tech-news-41"></a>
-### [Not a Technology Story](https://telegram.me/nature/20519) ⭐️ 0.0/10
+### [Which AI economics and governance research most needs independent expert evaluation? \(help The Unjournal prioritize it\)](https://www.lesswrong.com/posts/eXiXGMpyBqvHQarTA/which-ai-economics-and-governance-research-most-needs) ⭐️ ?/10
 
-The provided item is a non-technical animal anecdote about a baby armadillo and does not relate to software engineering, AI, or computer systems. Consequently, it cannot be summarized as a technology news story. No relevant technical details, versions, or organizational changes are present in the source material.
+Which AI economics and governance research most needs independent expert evaluation? \(help The Unjournal prioritize it\)
 
-telegram · nature · Oct 19, 05:33
-
-**「Background」** This item originates from a general nature channel on Telegram and describes a trivial biological observation rather than a technological development. It requires no technical context to understand, as it falls entirely outside the scope of technology news.
-
-**Tags**: `#off-topic`, `#trivial`, `#non-technical`
+rss · LessWrong AI风险社区 · Oct 20, 18:39
 
 ---
 
 <a id="item-tech-news-42"></a>
-### [Gradient Routing Localizes and Removes Unintended Behaviors in RL](https://www.lesswrong.com/posts/mKJEBiuuxHKuCoTB6/gradient-routing-localizes-and-removes-unintended-behaviors) ⭐️ ?/10
+### [A brief\(ish\) introduction to LM psychology](https://www.lesswrong.com/posts/EW8oncpXdanfjssZ3/a-brief-ish-introduction-to-lm-psychology) ⭐️ ?/10
 
-Gradient Routing Localizes and Removes Unintended Behaviors in RL
+A brief\(ish\) introduction to LM psychology
 
-rss · LessWrong AI风险社区 · Oct 19, 19:45
+rss · LessWrong AI风险社区 · Oct 20, 18:22
 
 ---
 
 <a id="item-tech-news-43"></a>
-### [A Video by Adam Conover and the “A.I. Distraction Narrative”](https://www.lesswrong.com/posts/9RRqT2EdysASmdRmt/a-video-by-adam-conover-and-the-a-i-distraction-narrative) ⭐️ ?/10
+### [ACS Infra: free access to large base models for LLM psychology research](https://www.lesswrong.com/posts/yzaKWxsJzJjyExSAP/acs-infra-free-access-to-large-base-models-for-llm) ⭐️ ?/10
 
-A Video by Adam Conover and the “A.I. Distraction Narrative”
+ACS Infra: free access to large base models for LLM psychology research
 
-rss · LessWrong AI风险社区 · Oct 19, 23:04
+rss · LessWrong AI风险社区 · Oct 20, 18:22
 
 ---
 
 <a id="item-tech-news-44"></a>
-### [Improving the flow of interesting things](https://www.lesswrong.com/posts/adCPqbs47dsckoao9/improving-the-flow-of-interesting-things) ⭐️ ?/10
+### [Agent Action Steering](https://www.lesswrong.com/posts/foyyX4y9eGYYfELoH/agent-action-steering) ⭐️ ?/10
 
-Improving the flow of interesting things
+Agent Action Steering
 
-rss · LessWrong AI风险社区 · Oct 19, 23:06
+rss · LessWrong AI风险社区 · Oct 20, 17:31
 
 ---
 
 <a id="item-tech-news-45"></a>
+### [What to sort out before the money lands](https://www.lesswrong.com/posts/6KuEywqzBDmFayRpQ/what-to-sort-out-before-the-money-lands) ⭐️ ?/10
+
+What to sort out before the money lands
+
+rss · LessWrong AI风险社区 · Oct 20, 16:15
+
+---
+
+<a id="item-tech-news-46"></a>
+### [VPD&\#x27;s Evaluation Adversary Finds Systematic Defects in the Released Decomposition](https://www.lesswrong.com/posts/tGdKJPmyaiHnqkLem/vpd-s-evaluation-adversary-finds-systematic-defects-in-the) ⭐️ ?/10
+
+VPD&\#x27;s Evaluation Adversary Finds Systematic Defects in the Released Decomposition
+
+rss · LessWrong AI风险社区 · Oct 20, 15:24
+
+---
+
+<a id="item-tech-news-47"></a>
+### [There Will Be Hells](https://www.lesswrong.com/posts/uFBhZhdKLaZ6qF8mn/there-will-be-hells) ⭐️ ?/10
+
+There Will Be Hells
+
+rss · LessWrong AI风险社区 · Oct 20, 15:05
+
+---
+
+<a id="item-tech-news-48"></a>
 ### [01版 -  弘扬伟大长征精神  走好今天的长征路](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186694.html) ⭐️ ?/10
 
 01版 -  弘扬伟大长征精神  走好今天的长征路
@@ -1019,7 +1072,7 @@ rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
 
 ---
 
-<a id="item-tech-news-46"></a>
+<a id="item-tech-news-49"></a>
 ### [01版 -  红旗漫卷处  山乡启新程（赓续长征精神  奋进复兴征程）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186695.html) ⭐️ ?/10
 
 01版 -  红旗漫卷处  山乡启新程（赓续长征精神  奋进复兴征程）
@@ -1028,7 +1081,7 @@ rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
 
 ---
 
-<a id="item-tech-news-47"></a>
+<a id="item-tech-news-50"></a>
 ### [01版 -  绿水青山千秋画  红色文化永铸魂](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186696.html) ⭐️ ?/10
 
 01版 -  绿水青山千秋画  红色文化永铸魂
@@ -1037,7 +1090,7 @@ rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
 
 ---
 
-<a id="item-tech-news-48"></a>
+<a id="item-tech-news-51"></a>
 ### [01版 -  李强会见塔吉克斯坦总统拉赫蒙](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186697.html) ⭐️ ?/10
 
 01版 -  李强会见塔吉克斯坦总统拉赫蒙
@@ -1046,7 +1099,7 @@ rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
 
 ---
 
-<a id="item-tech-news-49"></a>
+<a id="item-tech-news-52"></a>
 ### [01版 -  同心铸辉煌  奋进新征程](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186698.html) ⭐️ ?/10
 
 01版 -  同心铸辉煌  奋进新征程
@@ -1055,7 +1108,7 @@ rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
 
 ---
 
-<a id="item-tech-news-50"></a>
+<a id="item-tech-news-53"></a>
 ### [01版 -  前三季度国内生产总值同比增长4.6%](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186699.html) ⭐️ ?/10
 
 01版 -  前三季度国内生产总值同比增长4.6%
@@ -1064,7 +1117,7 @@ rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
 
 ---
 
-<a id="item-tech-news-51"></a>
+<a id="item-tech-news-54"></a>
 ### [01版 -  导读](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186700.html) ⭐️ ?/10
 
 01版 -  导读
@@ -1073,3853 +1126,88 @@ rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
 
 ---
 
-<a id="item-tech-news-52"></a>
-### [02版 -  李强会见伊朗第一副总统阿雷夫](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186701.html) ⭐️ ?/10
-
-02版 -  李强会见伊朗第一副总统阿雷夫
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-53"></a>
-### [02版 - 中俄人文合作委员会第二十七次会议召开 谌贻琴与戈利科娃共同主持](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186709.html) ⭐️ ?/10
-
-02版 - 中俄人文合作委员会第二十七次会议召开 谌贻琴与戈利科娃共同主持
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-54"></a>
-### [03版 -  推动经济平稳运行、高质量发展积极因素累积增多（权威发布）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186712.html) ⭐️ ?/10
-
-03版 -  推动经济平稳运行、高质量发展积极因素累积增多（权威发布）
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
 <a id="item-tech-news-55"></a>
-### [03版 -  努力完成全年目标任务（快评）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186713.html) ⭐️ ?/10
+### [Li Qiang Meets Iran&\#x27;s First Vice President Amid Middle East Tensions](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186701.html) ⭐️ ?/10
 
-03版 -  努力完成全年目标任务（快评）
+On October 19, 2026, Chinese Premier Li Qiang met with Iranian First Vice President Mohammad Mokhber&\#x27;s counterpart, Eshaq Jahangiri \(referred to here as Araf/Aref\), in Dushanbe during the 25th Shanghai Cooperation Organization \(SCO\) Prime Ministers&\#x27; Council meeting. Li emphasized the 55th anniversary of China-Iran diplomatic ties and the 10th anniversary of their comprehensive strategic partnership, calling for renewed cooperation across all fields. Both sides reaffirmed support for multilateralism and political resolution of conflicts, with China reiterating President Xi Jinping’s four-point proposal and four-initiative framework for Middle East peace and security.
 
 rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+**「Background」** China and Iran established diplomatic relations in 1971, elevating them to a comprehensive strategic partnership in 2016. The SCO is a Eurasian political, economic, and security organization comprising several Asian powers, including China and Iran, with periodic meetings of heads of government to coordinate policy. President Xi’s four-point proposal and four-initiative framework address de-escalation, dialogue, regional security architecture, and development cooperation in the Middle East.
+
+**「Impact」** The meeting reinforces China-Iran coordination within multilateral forums like the SCO and BRICS, signaling a united front among Global South nations on Middle East security. It underscores China’s diplomatic role in advocating political dialogue over military escalation in the region.
 
 ---
 
 <a id="item-tech-news-56"></a>
-### [03版 -  把科技创新势能转化为商贸发展动能（权威发布）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186714.html) ⭐️ ?/10
+### [Li Qiang Meets Belarus Prime Minister Turchyn in Dushanbe](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186702.html) ⭐️ ?/10
 
-03版 -  把科技创新势能转化为商贸发展动能（权威发布）
+On October 19, 2026, Chinese Premier Li Qiang met with Belarusian Prime Minister Turchyn in Dushanbe during the 25th Meeting of the Council of Heads of Government of the Shanghai Cooperation Organisation member states. The two leaders reaffirmed their commitment to deepening the all-weather comprehensive strategic partnership, with both sides highlighting upcoming cooperation in trade, industry, automotive sectors, digital economy, and artificial intelligence. They also stressed the importance of expanding cultural, tourism, and youth exchanges, while calling for closer coordination within multilateral frameworks like the SCO and BRICS to uphold multilateralism and international fairness.
 
 rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+**「Background」** China and Belarus established diplomatic relations in 1992 and have since developed a robust strategic partnership characterized by strong political trust and growing economic ties. The Shanghai Cooperation Organisation \(SCO\) is a Eurasian intergovernmental organization focused on regional security, economic cooperation, and counter-terrorism, with regular summits of government heads facilitating dialogue among member states.
+
+**「Impact」** The meeting underscores the continued strengthening of China-Belarus economic and political cooperation, particularly in high-tech and green sectors, which may influence regional trade dynamics within the SCO framework. Future collaboration will likely expand as both nations prepare for the 35th anniversary of diplomatic relations in 2027.
 
 ---
 
 <a id="item-tech-news-57"></a>
-### [03版 -  历经8代选育，耐盐碱稻亩产超500公斤（秋收进行时·不一样的水稻品种）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186715.html) ⭐️ ?/10
+### [China-Egypt ties resilient amid global changes, official says](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186703.html) ⭐️ ?/10
 
-03版 -  历经8代选育，耐盐碱稻亩产超500公斤（秋收进行时·不一样的水稻品种）
+An October 2026 People&\#x27;s Daily interview with Ali Shifni, vice president of the Egyptian-Chinese Friendship Association, highlights the strength of China-Egypt relations following President Xi Jinping&\#x27;s state visit to Egypt. The visit resulted in a joint statement on building a China-Egypt community with a shared future, over 30 cooperation agreements covering Belt and Road connectivity, AI, tech innovation, and education, and expanded local-currency swap arrangements. Shifni emphasized that Egypt&\#x27;s 2030 Vision is now deeply aligned with China&\#x27;s Belt and Road Initiative, and he praised China&\#x27;s four-point proposal for common security in the Middle East as part of a broader Chinese diplomatic approach grounded in sovereignty and peaceful negotiation.
 
 rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+**「Background」** China and Egypt have maintained long-standing diplomatic and cultural exchanges, with both civilizations frequently cited as examples of ancient continuous histories. The Belt and Road Initiative and Egypt&\#x27;s 2030 Vision are national development strategies that have been publicly aligned since the mid-2010s, and China has repeatedly proposed diplomatic frameworks for Middle East stability, including earlier four-point positions on peace and the Palestinian question.
+
+**「Impact」** The expanded financial and sectoral cooperation agreements are likely to increase trade facilitation and people-to-people ties between China and Egypt in the near term. Implementation will depend on project execution capacity and how smoothly the agreements translate into concrete infrastructure, technology, and educational initiatives.
+
+**「Community Discussion」** No community comments were provided for this item. Consequently, there is no available consensus, disagreement, or practical experience to summarize.
 
 ---
 
 <a id="item-tech-news-58"></a>
-### [03版 -  2026金融街论坛年会在京开幕](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186716.html) ⭐️ ?/10
+### [02版 -  拜靖国神社，日本再次撕下自己的“和平伪装”（钟声）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186704.html) ⭐️ ?/10
 
-03版 -  2026金融街论坛年会在京开幕
+02版 -  拜靖国神社，日本再次撕下自己的“和平伪装”（钟声）
 
 rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
 
 ---
 
 <a id="item-tech-news-59"></a>
-### [04版 -  一纸“万万火急”电令，被年轻人唱响（文物里的长征故事）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186717.html) ⭐️ ?/10
+### [China condemns Japanese visits to Yasukuni Shrine](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186705.html) ⭐️ ?/10
 
-04版 -  一纸“万万火急”电令，被年轻人唱响（文物里的长征故事）
+Chinese Foreign Ministry spokesperson Mao Ning on October 19 formally condemned recent Japanese government actions at the Yasukuni Shrine, stating that China has lodged a solemn representation and strong protest with the Japanese side. The dispute followed Japanese Prime Minister Sanae Takaichi&\#x27;s offerings of sacred items and祭祀费 \(memorial expenses\) on October 17 and 19, alongside visits by multiple government officials, Liberal Democratic Party figures, and National Diet members. Mao Ning described Yasukuni as a spiritual tool and symbol of Japanese military aggression, noting its enshrinement of 14 Class A war criminals who bore serious responsibility for wartime aggression. She emphasized that this occurred against the backdrop of the 80th anniversary of the opening of the Tokyo Trials and called on Japan to face history, repent its crimes, and stop backtracking on historical issues.
 
 rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+**「Background」** The Yasukuni Shrine in Tokyo is controversial because it honors individuals convicted as Class A war criminals for crimes against peace during World War II. China, South Korea, and other Asian nations view Japanese political visits to Yasukuni as a refusal to acknowledge wartime aggression, making it a recurring diplomatic flashpoint between Japan and its neighbors.
+
+**「Impact」** Chinese diplomatic protests intensify friction with Japan and signal continued regional tension over historical accountability, particularly as Prime Minister Takaichi takes a notably assertive stance on security and historical issues.
 
 ---
 
 <a id="item-tech-news-60"></a>
-### [04版 -  让红色精神永放光芒（专家点评）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186718.html) ⭐️ ?/10
+### [02版 -  保加利亚总统约托娃会见王毅](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186706.html) ⭐️ ?/10
 
-04版 -  让红色精神永放光芒（专家点评）
+02版 -  保加利亚总统约托娃会见王毅
 
 rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
 
 ---
 
 <a id="item-tech-news-61"></a>
-### [04版 -  “何以中国·当惊世界殊”网络主题宣传活动在湖北宜昌举行](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186719.html) ⭐️ ?/10
+### [02版 -  何立峰与俄罗斯副总理切尔内申科共同主持召开中俄总理定期会晤委员会第三十次会议](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186707.html) ⭐️ ?/10
 
-04版 -  “何以中国·当惊世界殊”网络主题宣传活动在湖北宜昌举行
+02版 -  何立峰与俄罗斯副总理切尔内申科共同主持召开中俄总理定期会晤委员会第三十次会议
 
 rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
 
 ---
 
 <a id="item-tech-news-62"></a>
-### [04版 -  中央档案馆向社会集中开放一批长征专题档案](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186720.html) ⭐️ ?/10
-
-04版 -  中央档案馆向社会集中开放一批长征专题档案
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-63"></a>
-### [04版 -  舞步踏一起  生活在一起（铸牢共同体  中华一家亲）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186721.html) ⭐️ ?/10
-
-04版 -  舞步踏一起  生活在一起（铸牢共同体  中华一家亲）
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-64"></a>
-### [04版 -  弘扬伟大长征精神  走好今天的长征路](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186722.html) ⭐️ ?/10
-
-04版 -  弘扬伟大长征精神  走好今天的长征路
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-65"></a>
-### [04版 -  一版责编：杨  旭  张帅祯  赵川博 二版责编：韩晓明  姜  波  关皓宇 三版责编：林  琳  祁嘉润  张安宇 四版责编：袁振喜  韩春瑶  刘静文](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186723.html) ⭐️ ?/10
-
-04版 -  一版责编：杨  旭  张帅祯  赵川博 二版责编：韩晓明  姜  波  关皓宇 三版责编：林  琳  祁嘉润  张安宇 四版责编：袁振喜  韩春瑶  刘静文
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-66"></a>
-### [05版 -  本版责编：李浩燃  彭  飞  李铁林](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186730.html) ⭐️ ?/10
-
-05版 -  本版责编：李浩燃  彭  飞  李铁林
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-67"></a>
-### [07版 -  三级联动，让老年生活更安心（编辑手记）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186733.html) ⭐️ ?/10
-
-07版 -  三级联动，让老年生活更安心（编辑手记）
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-68"></a>
-### [07版 -  领证更便利  服务更贴心](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186734.html) ⭐️ ?/10
-
-07版 -  领证更便利  服务更贴心
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-69"></a>
-### [07版 -  第五届中国报业创新发展大会举办](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186735.html) ⭐️ ?/10
-
-07版 -  第五届中国报业创新发展大会举办
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-70"></a>
-### [07版 -  红旗漫卷处  山乡启新程（赓续长征精神  奋进复兴征程）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186736.html) ⭐️ ?/10
-
-07版 -  红旗漫卷处  山乡启新程（赓续长征精神  奋进复兴征程）
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-71"></a>
-### [07版 -  同心铸辉煌  奋进新征程](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186737.html) ⭐️ ?/10
-
-07版 -  同心铸辉煌  奋进新征程
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-72"></a>
-### [07版 -  以高质量金融服务支撑国际科技创新中心建设](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186738.html) ⭐️ ?/10
-
-07版 -  以高质量金融服务支撑国际科技创新中心建设
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-73"></a>
-### [07版 -  本版责编　纪雅林  张伟昊  翟钦奇](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186739.html) ⭐️ ?/10
-
-07版 -  本版责编　纪雅林  张伟昊  翟钦奇
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-74"></a>
-### [08版 -  守护红色记忆  传承长征精神](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186740.html) ⭐️ ?/10
-
-08版 -  守护红色记忆  传承长征精神
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-75"></a>
-### [08版 -  用一碗热汤温暖城市“奔跑者”（一线行走）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186741.html) ⭐️ ?/10
-
-08版 -  用一碗热汤温暖城市“奔跑者”（一线行走）
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-76"></a>
-### [08版 -  《长征专题书目（一九三六—二〇二六）》出版发行](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186742.html) ⭐️ ?/10
-
-08版 -  《长征专题书目（一九三六—二〇二六）》出版发行
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-77"></a>
-### [08版 -  图片报道](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186743.html) ⭐️ ?/10
-
-08版 -  图片报道
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-78"></a>
-### [08版 -  把群众身边小事一件件办实](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186744.html) ⭐️ ?/10
-
-08版 -  把群众身边小事一件件办实
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-79"></a>
-### [08版 -  自然资源部原党组成员，国家林草局原党组书记、局长张建龙严重违纪违法被开除党籍](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186745.html) ⭐️ ?/10
-
-08版 -  自然资源部原党组成员，国家林草局原党组书记、局长张建龙严重违纪违法被开除党籍
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-80"></a>
-### [08版 -  社保基金会原党组成员、副理事长王文灵严重违纪违法被开除党籍和公职](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186746.html) ⭐️ ?/10
-
-08版 -  社保基金会原党组成员、副理事长王文灵严重违纪违法被开除党籍和公职
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-81"></a>
-### [08版 -  中国人保原党委委员、副总裁俞小平严重违纪违法被开除党籍](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186747.html) ⭐️ ?/10
-
-08版 -  中国人保原党委委员、副总裁俞小平严重违纪违法被开除党籍
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-82"></a>
-### [08版 -  本版责编：苏显龙  赵晓曦  李佩阳](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186748.html) ⭐️ ?/10
-
-08版 -  本版责编：苏显龙  赵晓曦  李佩阳
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-83"></a>
-### [09版 -  从万里长征走向伟大复兴（深入学习贯彻习近平新时代中国特色社会主义思想）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186749.html) ⭐️ ?/10
-
-09版 -  从万里长征走向伟大复兴（深入学习贯彻习近平新时代中国特色社会主义思想）
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-84"></a>
-### [09版 -  统筹基层工作的“跳进去”与“领出来”（思想纵横）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186750.html) ⭐️ ?/10
-
-09版 -  统筹基层工作的“跳进去”与“领出来”（思想纵横）
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-85"></a>
-### [09版 -  把握发展普惠托育和托幼一体化服务的着力点（有的放矢）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186751.html) ⭐️ ?/10
-
-09版 -  把握发展普惠托育和托幼一体化服务的着力点（有的放矢）
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-86"></a>
-### [10版 -  聚焦需求，AI赋能新型工业化](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186752.html) ⭐️ ?/10
-
-10版 -  聚焦需求，AI赋能新型工业化
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-87"></a>
-### [10版 -  汇聚工商界力量  共建亚太共同体](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186753.html) ⭐️ ?/10
-
-10版 -  汇聚工商界力量  共建亚太共同体
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-88"></a>
-### [10版 -  减脂餐的“洋食材”成土特产（财米油盐）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186754.html) ⭐️ ?/10
-
-10版 -  减脂餐的“洋食材”成土特产（财米油盐）
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-89"></a>
-### [10版 -  图片报道](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186755.html) ⭐️ ?/10
-
-10版 -  图片报道
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-90"></a>
-### [10版 -  让中医药更加自信地走向世界](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186756.html) ⭐️ ?/10
-
-10版 -  让中医药更加自信地走向世界
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-91"></a>
-### [10版 -  “千户万灯”点亮千企万家](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186757.html) ⭐️ ?/10
-
-10版 -  “千户万灯”点亮千企万家
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-92"></a>
-### [10版 -  本版责编：吕钟正  吴  凯  韩文榕](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186758.html) ⭐️ ?/10
-
-10版 -  本版责编：吕钟正  吴  凯  韩文榕
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-93"></a>
-### [11版 -  AI+教育，“加”什么，如何“加”（教育优质均衡发展·四问“人工智能+教育”④）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186604.html) ⭐️ ?/10
-
-11版 -  AI+教育，“加”什么，如何“加”（教育优质均衡发展·四问“人工智能+教育”④）
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-94"></a>
-### [11版 -  搭建通往教育公平的“AI管道”（编辑手记）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186605.html) ⭐️ ?/10
-
-11版 -  搭建通往教育公平的“AI管道”（编辑手记）
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-95"></a>
-### [11版 -  保护文化遗产  推动文明对话](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186606.html) ⭐️ ?/10
-
-11版 -  保护文化遗产  推动文明对话
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-96"></a>
-### [11版 -  ‍‍2026中国景德镇国际陶瓷博览会开幕](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186607.html) ⭐️ ?/10
-
-11版 -  ‍‍2026中国景德镇国际陶瓷博览会开幕
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-97"></a>
-### [11版 -  阿佤山乡满目新](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186608.html) ⭐️ ?/10
-
-11版 -  阿佤山乡满目新
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-98"></a>
-### [11版 -  中国气象学会年会在兰州开幕](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186609.html) ⭐️ ?/10
-
-11版 -  中国气象学会年会在兰州开幕
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-99"></a>
-### [11版 -  本版责编：肖  遥  董映雪  银  燕](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186610.html) ⭐️ ?/10
-
-11版 -  本版责编：肖  遥  董映雪  银  燕
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-100"></a>
-### [12版 -  广告](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186611.html) ⭐️ ?/10
-
-12版 -  广告
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-101"></a>
-### [13版 -  一山揽胜景  烟火暖千家（美丽中国·世界自然遗产这样保护）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186612.html) ⭐️ ?/10
-
-13版 -  一山揽胜景  烟火暖千家（美丽中国·世界自然遗产这样保护）
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-102"></a>
-### [13版 -  河流源头如何确定](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186613.html) ⭐️ ?/10
-
-13版 -  河流源头如何确定
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-103"></a>
-### [13版 -  海南开展秋季迁徙鸟类调查](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186614.html) ⭐️ ?/10
-
-13版 -  海南开展秋季迁徙鸟类调查
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-104"></a>
-### [13版 -  去年我国渔业资源与水域生态环境状况保持稳定](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186615.html) ⭐️ ?/10
-
-13版 -  去年我国渔业资源与水域生态环境状况保持稳定
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-105"></a>
-### [13版 -  图片报道](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186616.html) ⭐️ ?/10
-
-13版 -  图片报道
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-106"></a>
-### [13版 -  广东印发实施碧带建设规划](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186617.html) ⭐️ ?/10
-
-13版 -  广东印发实施碧带建设规划
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-107"></a>
-### [13版 -  屋顶晒出“阳光存折”  绿能释放发展活力](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186618.html) ⭐️ ?/10
-
-13版 -  屋顶晒出“阳光存折”  绿能释放发展活力
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-108"></a>
-### [13版 -  本版责编：张  晔  杨笑雨  付明丽](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186619.html) ⭐️ ?/10
-
-13版 -  本版责编：张  晔  杨笑雨  付明丽
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-109"></a>
-### [14版 -  “我愿意一直拼下去”（聚焦亚残运会）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186620.html) ⭐️ ?/10
-
-14版 -  “我愿意一直拼下去”（聚焦亚残运会）
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-110"></a>
-### [14版 -  听声辨位，盲人足球赛也精彩（秒懂）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186621.html) ⭐️ ?/10
-
-14版 -  听声辨位，盲人足球赛也精彩（秒懂）
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-111"></a>
-### [14版 -  一路追风一路歌](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186622.html) ⭐️ ?/10
-
-14版 -  一路追风一路歌
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-112"></a>
-### [14版 -  家门口老粮站，健身好去处](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186623.html) ⭐️ ?/10
-
-14版 -  家门口老粮站，健身好去处
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-113"></a>
-### [14版 -  “张雪机车”车手获年度车手亚军](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186624.html) ⭐️ ?/10
-
-14版 -  “张雪机车”车手获年度车手亚军
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-114"></a>
-### [14版 -  2026北马男子赛会纪录大幅刷新](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186625.html) ⭐️ ?/10
-
-14版 -  2026北马男子赛会纪录大幅刷新
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-115"></a>
-### [14版 -  2026全国围棋行业职工大赛举行](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186626.html) ⭐️ ?/10
-
-14版 -  2026全国围棋行业职工大赛举行
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-116"></a>
-### [14版 -  全国群众公开水域游泳系列赛元荡湖站开赛](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186627.html) ⭐️ ?/10
-
-14版 -  全国群众公开水域游泳系列赛元荡湖站开赛
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-117"></a>
-### [14版 -  独臂少年的篮球梦](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186628.html) ⭐️ ?/10
-
-14版 -  独臂少年的篮球梦
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-118"></a>
-### [14版 -  “援青杯”足球邀请赛在青海举行](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186629.html) ⭐️ ?/10
-
-14版 -  “援青杯”足球邀请赛在青海举行
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-119"></a>
-### [14版 -  本版责编：巩育华  史  哲  高  佶](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186630.html) ⭐️ ?/10
-
-14版 -  本版责编：巩育华  史  哲  高  佶
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-120"></a>
-### [15版 -  一些国家持续探索如何遏制食物浪费（国际视点）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186631.html) ⭐️ ?/10
-
-15版 -  一些国家持续探索如何遏制食物浪费（国际视点）
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-121"></a>
-### [15版 -  从并蒂莲到机器狗，感受中国好物（环球走笔）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186632.html) ⭐️ ?/10
-
-15版 -  从并蒂莲到机器狗，感受中国好物（环球走笔）
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-122"></a>
-### [15版 -  环球扫描](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186633.html) ⭐️ ?/10
-
-15版 -  环球扫描
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-123"></a>
-### [15版 -  尼泊尔努力挖掘经济潜能](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186634.html) ⭐️ ?/10
-
-15版 -  尼泊尔努力挖掘经济潜能
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-124"></a>
-### [15版 -  欧洲多地发生抗议示威活动](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186635.html) ⭐️ ?/10
-
-15版 -  欧洲多地发生抗议示威活动
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-125"></a>
-### [15版 -  本版责编：邹志鹏  张慧中  褚  君](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186636.html) ⭐️ ?/10
-
-15版 -  本版责编：邹志鹏  张慧中  褚  君
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-126"></a>
-### [16版 -  广告](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186637.html) ⭐️ ?/10
-
-16版 -  广告
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-127"></a>
-### [17版 -  长征精神 全人类的共同财富（权威论坛）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186638.html) ⭐️ ?/10
-
-17版 -  长征精神 全人类的共同财富（权威论坛）
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-128"></a>
-### [Trump Rallies Red States Amid Fears About G.O.P. Voter Enthusiasm as Midterms Near](https://www.nytimes.com/2026/10/19/us/politics/trump-midterm-rally-red-states.html) ⭐️ ?/10
-
-Trump Rallies Red States Amid Fears About G.O.P. Voter Enthusiasm as Midterms Near
-
-rss · 纽约时报\(The New York Times\) · Oct 20, 01:22
-
----
-
-<a id="item-tech-news-129"></a>
-### [Trump Campaigns for Republicans as Turmoil Mounts in Washington](https://www.nytimes.com/video/us/100000011219687/trump-campaigns-for-republicans-as-turmoil-mounts-in-washington.html) ⭐️ ?/10
-
-Trump Campaigns for Republicans as Turmoil Mounts in Washington
-
-rss · 纽约时报\(The New York Times\) · Oct 19, 05:29
-
----
-
-<a id="item-tech-news-130"></a>
-### [Republicans Barely Mention Trump in Political Ads Ahead of the Midterms](https://www.nytimes.com/2026/10/19/us/politics/trump-midterms-republican-political-ads.html) ⭐️ ?/10
-
-Republicans Barely Mention Trump in Political Ads Ahead of the Midterms
-
-rss · 纽约时报\(The New York Times\) · Oct 19, 20:35
-
----
-
-<a id="item-tech-news-131"></a>
-### [France Imposes Curfews](https://www.nytimes.com/2026/10/19/briefing/france-imposes-curfews.html) ⭐️ ?/10
-
-France Imposes Curfews
-
-rss · 纽约时报\(The New York Times\) · Oct 19, 21:54
-
----
-
-<a id="item-tech-news-132"></a>
-### [France Imposes Curfews in Parts of Paris and Other Cities After Nationwide Rioting](https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html) ⭐️ ?/10
-
-France Imposes Curfews in Parts of Paris and Other Cities After Nationwide Rioting
-
-rss · 纽约时报\(The New York Times\) · Oct 19, 19:25
-
----
-
-<a id="item-tech-news-133"></a>
-### [The French Teen Maimed During School Unrest by Tear Gas Grenade](https://www.nytimes.com/2026/10/19/world/europe/france-protests-violence-police-response.html) ⭐️ ?/10
-
-The French Teen Maimed During School Unrest by Tear Gas Grenade
-
-rss · 纽约时报\(The New York Times\) · Oct 19, 22:20
-
----
-
-<a id="item-tech-news-134"></a>
-### [Why Are There Protests in France?](https://www.nytimes.com/article/france-student-protests-why.html) ⭐️ ?/10
-
-Why Are There Protests in France?
-
-rss · 纽约时报\(The New York Times\) · Oct 19, 18:59
-
----
-
-<a id="item-tech-news-135"></a>
-### [Trump Golf Course Dispute Sparks Clash Between Judge and DOJ](https://www.nytimes.com/2026/10/19/us/politics/trump-washington-golf-course.html) ⭐️ ?/10
-
-Trump Golf Course Dispute Sparks Clash Between Judge and DOJ
-
-rss · 纽约时报\(The New York Times\) · Oct 19, 23:24
-
----
-
-<a id="item-tech-news-136"></a>
-### [Mahmoud Khalil Appeals to Supreme Court to Halt Deportation](https://www.nytimes.com/2026/10/19/us/politics/supreme-court-mahmoud-khalil-deportation.html) ⭐️ ?/10
-
-Mahmoud Khalil Appeals to Supreme Court to Halt Deportation
-
-rss · 纽约时报\(The New York Times\) · Oct 19, 20:31
-
----
-
-<a id="item-tech-news-137"></a>
-### [U.S. Citizen Hospitalized After Being Detained by ICE, His Family Says](https://www.nytimes.com/2026/10/19/us/ice-hospitalization-us-citizen.html) ⭐️ ?/10
-
-U.S. Citizen Hospitalized After Being Detained by ICE, His Family Says
-
-rss · 纽约时报\(The New York Times\) · Oct 19, 18:40
-
----
-
-<a id="item-tech-news-138"></a>
-### [Man Who Died in ICE Custody in Texas Was Denied Medicine, Daughter Says](https://www.nytimes.com/2026/10/19/us/ice-death-laredo-texas-medicine.html) ⭐️ ?/10
-
-Man Who Died in ICE Custody in Texas Was Denied Medicine, Daughter Says
-
-rss · 纽约时报\(The New York Times\) · Oct 20, 00:31
-
----
-
-<a id="item-tech-news-139"></a>
-### [It’s Sliced Cheese on Bread. And It’s Rocking Copenhagen’s World.](https://www.nytimes.com/2026/10/19/dining/copenhagen-denmark-bread-bmo.html) ⭐️ ?/10
-
-It’s Sliced Cheese on Bread. And It’s Rocking Copenhagen’s World.
-
-rss · 纽约时报\(The New York Times\) · Oct 19, 13:51
-
----
-
-<a id="item-tech-news-140"></a>
-### [Latest Climate Report Warns of Major Upheaval to California Way of Life](https://www.nytimes.com/2026/10/19/us/california-climate-change-warning.html) ⭐️ ?/10
-
-Latest Climate Report Warns of Major Upheaval to California Way of Life
-
-rss · 纽约时报\(The New York Times\) · Oct 19, 17:09
-
----
-
-<a id="item-tech-news-141"></a>
-### [The Overlapping Plagues Quietly Devastating American Forests](https://www.nytimes.com/2026/10/19/climate/tree-pandemics-northeast-forests.html) ⭐️ ?/10
-
-The Overlapping Plagues Quietly Devastating American Forests
-
-rss · 纽约时报\(The New York Times\) · Oct 19, 15:55
-
----
-
-<a id="item-tech-news-142"></a>
-### [Bend Residents Want Accountability. Oregon’s Gun Laws Make It Hard.](https://www.nytimes.com/2026/10/19/us/bend-school-shooting-accountability.html) ⭐️ ?/10
-
-Bend Residents Want Accountability. Oregon’s Gun Laws Make It Hard.
-
-rss · 纽约时报\(The New York Times\) · Oct 19, 23:31
-
----
-
-<a id="item-tech-news-143"></a>
-### [How Penélope Cruz Masterminded One of the Most Versatile Careers in Hollywood](https://www.nytimes.com/2026/10/19/magazine/penelope-cruz-acting-career.html) ⭐️ ?/10
-
-How Penélope Cruz Masterminded One of the Most Versatile Careers in Hollywood
-
-rss · 纽约时报\(The New York Times\) · Oct 19, 11:14
-
----
-
-<a id="item-tech-news-144"></a>
-### [Deaths at Danjiri Float Festival Prompt Questions in Japan](https://www.nytimes.com/2026/10/19/world/asia/danjiri-festival-deaths-osaka-japan.html) ⭐️ ?/10
-
-Deaths at Danjiri Float Festival Prompt Questions in Japan
-
-rss · 纽约时报\(The New York Times\) · Oct 19, 21:00
-
----
-
-<a id="item-tech-news-145"></a>
-### [Trump Is Pushing Ukraine to Surrender to Russia, Zelensky Says](https://www.nytimes.com/2026/10/19/world/europe/trump-zelensky-putin-ukraine-war.html) ⭐️ ?/10
-
-Trump Is Pushing Ukraine to Surrender to Russia, Zelensky Says
-
-rss · 纽约时报\(The New York Times\) · Oct 19, 12:39
-
----
-
-<a id="item-tech-news-146"></a>
-### [Russian Satellite Makes a Menacing Approach to Another Craft in Orbit](https://www.nytimes.com/2026/10/19/science/russia-satellite-kosmos-2612.html) ⭐️ ?/10
-
-Russian Satellite Makes a Menacing Approach to Another Craft in Orbit
-
-rss · 纽约时报\(The New York Times\) · Oct 20, 00:24
-
----
-
-<a id="item-tech-news-147"></a>
-### [Applying to High School in New York City Is a Soul-Destroying Nightmare](https://www.nytimes.com/2026/10/19/opinion/high-school-new-york-city-application.html) ⭐️ ?/10
-
-Applying to High School in New York City Is a Soul-Destroying Nightmare
-
-rss · 纽约时报\(The New York Times\) · Oct 20, 00:34
-
----
-
-<a id="item-tech-news-148"></a>
-### [The Republican Party Is a Mess. It Will Emerge Stronger for It.](https://www.nytimes.com/2026/10/19/opinion/republican-party-trump-future.html) ⭐️ ?/10
-
-The Republican Party Is a Mess. It Will Emerge Stronger for It.
-
-rss · 纽约时报\(The New York Times\) · Oct 19, 22:03
-
----
-
-<a id="item-tech-news-149"></a>
-### [As Alberta Holds a Referendum on Separatism, Premier Danielle Smith Has Alienated Both Sides](https://www.nytimes.com/2026/10/19/world/canada/alberta-referendum-danielle-smith.html) ⭐️ ?/10
-
-As Alberta Holds a Referendum on Separatism, Premier Danielle Smith Has Alienated Both Sides
-
-rss · 纽约时报\(The New York Times\) · Oct 19, 18:07
-
----
-
-<a id="item-tech-news-150"></a>
-### [Dream and Valkyries skip national anthem again in WNBA Finals Game 2 despite rulebook requirement](https://www.foxnews.com/outkick-sports/dream-valkyries-skip-national-anthem-wnba-finals-game-2-despite-rulebook-requirement) ⭐️ ?/10
-
-Dream and Valkyries skip national anthem again in WNBA Finals Game 2 despite rulebook requirement
-
-rss · 福克斯新闻\(Fox News\) · Oct 20, 00:45
-
----
-
-<a id="item-tech-news-151"></a>
-### [JD Vance declines to endorse Netanyahu despite Trump&\#x27;s strong backing](https://www.foxnews.com/politics/jd-vance-declines-endorse-netanyahu-despite-trumps-strong-backing) ⭐️ ?/10
-
-JD Vance declines to endorse Netanyahu despite Trump&\#x27;s strong backing
-
-rss · 福克斯新闻\(Fox News\) · Oct 20, 00:45
-
----
-
-<a id="item-tech-news-152"></a>
-### [French soccer icon Emmanuel Petit condemns arson and looting, warns Macron to &\#x27;protect honest citizens&\#x27;](https://www.foxnews.com/outkick-sports/french-soccer-icon-emmanuel-petit-condemns-arson-looting-warns-macron-protect-honest-citizens) ⭐️ ?/10
-
-French soccer icon Emmanuel Petit condemns arson and looting, warns Macron to &\#x27;protect honest citizens&\#x27;
-
-rss · 福克斯新闻\(Fox News\) · Oct 20, 00:43
-
----
-
-<a id="item-tech-news-153"></a>
-### [&\#x27;Office Space&\#x27; star Richard Riehle dead at 78](https://www.foxnews.com/entertainment/office-space-star-richard-riehle-dead-78) ⭐️ ?/10
-
-&\#x27;Office Space&\#x27; star Richard Riehle dead at 78
-
-rss · 福克斯新闻\(Fox News\) · Oct 20, 00:21
-
----
-
-<a id="item-tech-news-154"></a>
-### [One of Major League Baseball&\#x27;s owners just destroyed the league&\#x27;s entire argument for a lockout](https://www.foxnews.com/outkick-sports/major-league-baseball-owner-destroyed-league-argument-lockout) ⭐️ ?/10
-
-One of Major League Baseball&\#x27;s owners just destroyed the league&\#x27;s entire argument for a lockout
-
-rss · 福克斯新闻\(Fox News\) · Oct 20, 00:18
-
----
-
-<a id="item-tech-news-155"></a>
-### [Brandon Miller agrees to $209M extension with Hornets as top draft pick cashes in after controversial past](https://www.foxnews.com/outkick-sports/brandon-miller-agrees-209m-extension-hornets-top-draft-pick-cashes-controversial-past) ⭐️ ?/10
-
-Brandon Miller agrees to $209M extension with Hornets as top draft pick cashes in after controversial past
-
-rss · 福克斯新闻\(Fox News\) · Oct 19, 23:52
-
----
-
-<a id="item-tech-news-156"></a>
-### [LISTEN: Kansas soccer field dispatch call captures mass-casualty response after driver kills boy, man](https://www.foxnews.com/us/listen-kansas-soccer-field-dispatch-call-captures-mass-casualty-response-driver-kills-boy-man) ⭐️ ?/10
-
-LISTEN: Kansas soccer field dispatch call captures mass-casualty response after driver kills boy, man
-
-rss · 福克斯新闻\(Fox News\) · Oct 19, 23:42
-
----
-
-<a id="item-tech-news-157"></a>
-### [Python hunters snag Puerto Rico&\#x27;s largest reticulated python on record after it was spotted strangling pet cat](https://www.foxnews.com/outkick-sports/python-hunters-snag-puerto-ricos-largest-reticulated-python-record-spotted-strangling-pet-cat) ⭐️ ?/10
-
-Python hunters snag Puerto Rico&\#x27;s largest reticulated python on record after it was spotted strangling pet cat
-
-rss · 福克斯新闻\(Fox News\) · Oct 19, 23:35
-
----
-
-<a id="item-tech-news-158"></a>
-### [Lung cancer can grow silently for years, here’s who qualifies for screening](https://www.foxnews.com/health/lung-cancer-grow-silently-years-qualifies-screening) ⭐️ ?/10
-
-Lung cancer can grow silently for years, here’s who qualifies for screening
-
-rss · 福克斯新闻\(Fox News\) · Oct 19, 23:34
-
----
-
-<a id="item-tech-news-159"></a>
-### [Calgary Opera removes singer waving Palestinian flag during opening night curtain call](https://www.foxnews.com/media/calgary-opera-removes-singer-waving-palestinian-flag-opening-night-curtain-call) ⭐️ ?/10
-
-Calgary Opera removes singer waving Palestinian flag during opening night curtain call
-
-rss · 福克斯新闻\(Fox News\) · Oct 19, 23:30
-
----
-
-<a id="item-tech-news-160"></a>
-### [NFL suspends Buffalo Bills safety CJ Gardner-Johnson after grotesque spitting incident](https://www.foxnews.com/outkick-sports/nfl-suspends-buffalo-bills-safety-cj-gardner-johnson-grotesque-spitting-incident) ⭐️ ?/10
-
-NFL suspends Buffalo Bills safety CJ Gardner-Johnson after grotesque spitting incident
-
-rss · 福克斯新闻\(Fox News\) · Oct 19, 23:26
-
----
-
-<a id="item-tech-news-161"></a>
-### [Amanda Seyfried faces harsh criticism as viewers rip her behavior in Elizabeth Holmes documentary](https://www.foxnews.com/entertainment/amanda-seyfried-faces-harsh-criticism-viewers-rip-behavior-elizabeth-holmes-documentary) ⭐️ ?/10
-
-Amanda Seyfried faces harsh criticism as viewers rip her behavior in Elizabeth Holmes documentary
-
-rss · 福克斯新闻\(Fox News\) · Oct 19, 23:22
-
----
-
-<a id="item-tech-news-162"></a>
-### [Veteran CNN anchor Christiane Amanpour announces exit from network, will go off the air next June](https://www.foxnews.com/media/veteran-cnn-anchor-christiane-amanpour-announces-exit-network-go-off-air-next-june) ⭐️ ?/10
-
-Veteran CNN anchor Christiane Amanpour announces exit from network, will go off the air next June
-
-rss · 福克斯新闻\(Fox News\) · Oct 19, 23:00
-
----
-
-<a id="item-tech-news-163"></a>
-### [Kansas man mapped rooftops near Trump speech site, threatened to shoot president: DOJ](https://www.foxnews.com/us/kansas-man-mapped-rooftops-near-trump-speech-site-threatened-shoot-president-doj) ⭐️ ?/10
-
-Kansas man mapped rooftops near Trump speech site, threatened to shoot president: DOJ
-
-rss · 福克斯新闻\(Fox News\) · Oct 19, 22:59
-
----
-
-<a id="item-tech-news-164"></a>
-### [Cause of death released for 3 who perished at Burning Man festival in Nevada](https://www.foxnews.com/travel/cause-death-released-3-who-perished-burning-man-festival-nevada) ⭐️ ?/10
-
-Cause of death released for 3 who perished at Burning Man festival in Nevada
-
-rss · 福克斯新闻\(Fox News\) · Oct 19, 22:51
-
----
-
-<a id="item-tech-news-165"></a>
-### [New Orleans Saints arrive in France with safety top of mind ahead of NFL&\#x27;s first Paris game](https://www.foxnews.com/outkick-sports/new-orleans-saints-arrive-france-safety-top-mind-ahead-nfl-first-paris-game) ⭐️ ?/10
-
-New Orleans Saints arrive in France with safety top of mind ahead of NFL&\#x27;s first Paris game
-
-rss · 福克斯新闻\(Fox News\) · Oct 19, 22:38
-
----
-
-<a id="item-tech-news-166"></a>
-### [Matthew McConaughey divides fans over independent voting plea ahead of midterms](https://www.foxnews.com/entertainment/matthew-mcconaughey-divides-fans-over-independent-voting-plea-ahead-midterms) ⭐️ ?/10
-
-Matthew McConaughey divides fans over independent voting plea ahead of midterms
-
-rss · 福克斯新闻\(Fox News\) · Oct 19, 22:26
-
----
-
-<a id="item-tech-news-167"></a>
-### [Rams lose Davante Adams for 6-10 weeks after receiver ruptures his hamstring, adding to team&\#x27;s injury woes](https://www.foxnews.com/outkick-sports/rams-lose-davante-adams-6-10-weeks-receiver-ruptures-hamstring-adding-teams-injury-woes) ⭐️ ?/10
-
-Rams lose Davante Adams for 6-10 weeks after receiver ruptures his hamstring, adding to team&\#x27;s injury woes
-
-rss · 福克斯新闻\(Fox News\) · Oct 19, 22:24
-
----
-
-<a id="item-tech-news-168"></a>
-### [Beleaguered Macron cites US-Iran war as factor in protests amid Trump, Vance criticism](https://www.foxnews.com/world/beleaguered-macron-cites-us-iran-war-factor-protests-amid-trump-vance-criticism) ⭐️ ?/10
-
-Beleaguered Macron cites US-Iran war as factor in protests amid Trump, Vance criticism
-
-rss · 福克斯新闻\(Fox News\) · Oct 19, 22:02
-
----
-
-<a id="item-tech-news-169"></a>
-### [&\#x27;The View&\#x27; co-hosts defend El-Sayed comparing himself to JFK over Muslim Brotherhood scrutiny](https://www.foxnews.com/media/view-cohosts-defend-el-sayed-comparing-himself-jfk-muslim-brotherhood-scrutiny) ⭐️ ?/10
-
-&\#x27;The View&\#x27; co-hosts defend El-Sayed comparing himself to JFK over Muslim Brotherhood scrutiny
-
-rss · 福克斯新闻\(Fox News\) · Oct 19, 21:52
-
----
-
-<a id="item-tech-news-170"></a>
-### [The Eagles owe it to Jalen Hurts to address these serious allegations](https://www.foxnews.com/outkick-sports/eagles-owe-jalen-hurts-address-serious-allegations) ⭐️ ?/10
-
-The Eagles owe it to Jalen Hurts to address these serious allegations
-
-rss · 福克斯新闻\(Fox News\) · Oct 19, 21:46
-
----
-
-<a id="item-tech-news-171"></a>
-### [Antonio Brown booked for comedy debut at New England club while facing attempted murder charge](https://www.foxnews.com/outkick-sports/antonio-brown-booked-comedy-debut-new-england-club-facing-attempted-murder-charge) ⭐️ ?/10
-
-Antonio Brown booked for comedy debut at New England club while facing attempted murder charge
-
-rss · 福克斯新闻\(Fox News\) · Oct 19, 21:42
-
----
-
-<a id="item-tech-news-172"></a>
-### [Oregon school officials silent after football player levels opponent carrying American flag](https://www.foxnews.com/outkick-sports/oregon-school-officials-silent-football-player-levels-opponent-carrying-american-flag) ⭐️ ?/10
-
-Oregon school officials silent after football player levels opponent carrying American flag
-
-rss · 福克斯新闻\(Fox News\) · Oct 19, 21:32
-
----
-
-<a id="item-tech-news-173"></a>
-### [Former Biden aide predicts socialists will be sidelined in 2028, &\#x27;Baby gets put in a corner&\#x27;](https://www.foxnews.com/media/former-biden-aide-predicts-socialists-sidelined-2028-baby-gets-put-corner) ⭐️ ?/10
-
-Former Biden aide predicts socialists will be sidelined in 2028, &\#x27;Baby gets put in a corner&\#x27;
-
-rss · 福克斯新闻\(Fox News\) · Oct 19, 21:13
-
----
-
-<a id="item-tech-news-174"></a>
-### [Famed wedding venue of Michael Douglas, others closing for years, leaving brides scrambling](https://www.foxnews.com/travel/michael-douglas-famed-wedding-venue-closing-years-leaving-brides-scrambling) ⭐️ ?/10
-
-Famed wedding venue of Michael Douglas, others closing for years, leaving brides scrambling
-
-rss · 福克斯新闻\(Fox News\) · Oct 19, 21:04
-
----
-
-<a id="item-tech-news-175"></a>
-### [DOJ charges 28 with unlawful voting, other election-related offenses in California](https://abcnews.com/US/doj-charges-28-unlawful-voting-election-related-offenses/story?id=137384589) ⭐️ ?/10
-
-DOJ charges 28 with unlawful voting, other election-related offenses in California
-
-rss · ABC新闻\(American Broadcasting Company\) · Oct 19, 23:23
-
----
-
-<a id="item-tech-news-176"></a>
-### [LIVE:  ABC News Live](https://abcnews.com/video/41463246/) ⭐️ ?/10
-
-LIVE:  ABC News Live
-
-rss · ABC新闻\(American Broadcasting Company\) · Oct 19, 20:07
-
----
-
-<a id="item-tech-news-177"></a>
-### [US citizen injured during ICE detainment in California, officials say](https://abcnews.com/US/us-citizen-injured-ice-detainment-long-beach-california/story?id=137397850) ⭐️ ?/10
-
-US citizen injured during ICE detainment in California, officials say
-
-rss · ABC新闻\(American Broadcasting Company\) · Oct 20, 01:11
-
----
-
-<a id="item-tech-news-178"></a>
-### [Ronaldo suspended for 30 days and fined for walking out on Portugal camp](https://abcnews.com/Sports/wireStory/ronaldo-suspended-30-days-fined-walking-portugal-camp-137395782) ⭐️ ?/10
-
-Ronaldo suspended for 30 days and fined for walking out on Portugal camp
-
-rss · ABC新闻\(American Broadcasting Company\) · Oct 19, 22:24
-
----
-
-<a id="item-tech-news-179"></a>
-### [WATCH:  David Muir reports on the beloved barn owls that have made Manhattan home](https://abcnews.com/video/137396739/) ⭐️ ?/10
-
-WATCH:  David Muir reports on the beloved barn owls that have made Manhattan home
-
-rss · ABC新闻\(American Broadcasting Company\) · Oct 20, 00:39
-
----
-
-<a id="item-tech-news-180"></a>
-### [WATCH:  Teen on how he turned 3D printing idea into a profitable business](https://abcnews.com/video/137392601/) ⭐️ ?/10
-
-WATCH:  Teen on how he turned 3D printing idea into a profitable business
-
-rss · ABC新闻\(American Broadcasting Company\) · Oct 19, 22:13
-
----
-
-<a id="item-tech-news-181"></a>
-### [WATCH:  Is using cash for purchases becoming a thing of the past?](https://abcnews.com/video/137380391/) ⭐️ ?/10
-
-WATCH:  Is using cash for purchases becoming a thing of the past?
-
-rss · ABC新闻\(American Broadcasting Company\) · Oct 19, 18:01
-
----
-
-<a id="item-tech-news-182"></a>
-### [WATCH:  Blind student, guide dog enjoy adventures in Scotland](https://abcnews.com/video/137371314/) ⭐️ ?/10
-
-WATCH:  Blind student, guide dog enjoy adventures in Scotland
-
-rss · ABC新闻\(American Broadcasting Company\) · Oct 19, 08:29
-
----
-
-<a id="item-tech-news-183"></a>
-### [Mahmoud Khalil appeals to Supreme Court to sue Trump admin over free speech](https://abcnews.com/Politics/pro-palestinian-activist-mahmoud-khalil-appeals-supreme-court/story?id=137388888) ⭐️ ?/10
-
-Mahmoud Khalil appeals to Supreme Court to sue Trump admin over free speech
-
-rss · ABC新闻\(American Broadcasting Company\) · Oct 19, 20:43
-
----
-
-<a id="item-tech-news-184"></a>
-### [Iran live updates: Russia says it won&\#x27;t stop cooperating with Iran](https://abcnews.com/International/live-updates/iran-live-updates/?id=137370653) ⭐️ ?/10
-
-Iran live updates: Russia says it won&\#x27;t stop cooperating with Iran
-
-rss · ABC新闻\(American Broadcasting Company\) · Oct 19, 19:18
-
----
-
-<a id="item-tech-news-185"></a>
-### [Shawn Oliver pleads not guilty to OUI after suspending lieutenant governor campaign](https://abcnews.com/International/wireStory/shawn-oliver-pleads-guilty-oui-charge-after-crash-137392161) ⭐️ ?/10
-
-Shawn Oliver pleads not guilty to OUI after suspending lieutenant governor campaign
-
-rss · ABC新闻\(American Broadcasting Company\) · Oct 20, 00:21
-
----
-
-<a id="item-tech-news-186"></a>
-### [Bipartisan group of senators want answers on Starlink disruptions in Ukraine](https://abcnews.com/Politics/bipartisan-group-senators-answers-starlink-disruptions-us-support/story?id=137330556) ⭐️ ?/10
-
-Bipartisan group of senators want answers on Starlink disruptions in Ukraine
-
-rss · ABC新闻\(American Broadcasting Company\) · Oct 19, 13:46
-
----
-
-<a id="item-tech-news-187"></a>
-### [Supreme Court to hear case on race in middle school admissions](https://abcnews.com/US/wireStory/supreme-court-hear-case-race-middle-school-admissions-137393181) ⭐️ ?/10
-
-Supreme Court to hear case on race in middle school admissions
-
-rss · ABC新闻\(American Broadcasting Company\) · Oct 19, 21:05
-
----
-
-<a id="item-tech-news-188"></a>
-### [Curfew imposed in parts of central Paris and other cities after rioting across France](https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-Curfew imposed in parts of central Paris and other cities after rioting across France
-
-rss · BBC\(British Broadcasting Corporation\) · Oct 19, 21:14
-
----
-
-<a id="item-tech-news-189"></a>
-### [Watch: Clean up begins after French riots but police remain](https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-Watch: Clean up begins after French riots but police remain
-
-rss · BBC\(British Broadcasting Corporation\) · Oct 19, 21:30
-
----
-
-<a id="item-tech-news-190"></a>
-### [Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC](https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC
-
-rss · BBC\(British Broadcasting Corporation\) · Oct 19, 20:49
-
----
-
-<a id="item-tech-news-191"></a>
-### [Chancellor rejects calls to raise Capital Gains Tax in Budget](https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-Chancellor rejects calls to raise Capital Gains Tax in Budget
-
-rss · BBC\(British Broadcasting Corporation\) · Oct 20, 01:31
-
----
-
-<a id="item-tech-news-192"></a>
-### [Burnham vows end to &\#x27;rip-off parking charges&\#x27; under new rules](https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-Burnham vows end to &\#x27;rip-off parking charges&\#x27; under new rules
-
-rss · BBC\(British Broadcasting Corporation\) · Oct 19, 21:30
-
----
-
-<a id="item-tech-news-193"></a>
-### [Woman says she &\#x27;closed eyes and tried not to be there&\#x27; during alleged Russell Brand rape](https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-Woman says she &\#x27;closed eyes and tried not to be there&\#x27; during alleged Russell Brand rape
-
-rss · BBC\(British Broadcasting Corporation\) · Oct 19, 18:22
-
----
-
-<a id="item-tech-news-194"></a>
-### [Ukraine says it carried out first drone airlift of wounded soldier from front line](https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-Ukraine says it carried out first drone airlift of wounded soldier from front line
-
-rss · BBC\(British Broadcasting Corporation\) · Oct 19, 20:00
-
----
-
-<a id="item-tech-news-195"></a>
-### [Mission blasts off for Mars to grab a piece of its moon](https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-Mission blasts off for Mars to grab a piece of its moon
-
-rss · BBC\(British Broadcasting Corporation\) · Oct 19, 19:45
-
----
-
-<a id="item-tech-news-196"></a>
-### [Kenya cult leader who told parents to starve children guilty of 191 murders](https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-Kenya cult leader who told parents to starve children guilty of 191 murders
-
-rss · BBC\(British Broadcasting Corporation\) · Oct 19, 17:18
-
----
-
-<a id="item-tech-news-197"></a>
-### [Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation](https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation
-
-rss · BBC\(British Broadcasting Corporation\) · Oct 19, 21:02
-
----
-
-<a id="item-tech-news-198"></a>
-### [Apu returns to The Simpsons with new voice after race row](https://www.bbc.co.uk/news/articles/cw33x6gzgdm0o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-Apu returns to The Simpsons with new voice after race row
-
-rss · BBC\(British Broadcasting Corporation\) · Oct 19, 13:22
-
----
-
-<a id="item-tech-news-199"></a>
-### [Trial hears Robinson &\#x27;intimidated&\#x27; Daily Mail reporters](https://www.bbc.co.uk/news/articles/cry83jz19v26o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-Trial hears Robinson &\#x27;intimidated&\#x27; Daily Mail reporters
-
-rss · BBC\(British Broadcasting Corporation\) · Oct 19, 17:24
-
----
-
-<a id="item-tech-news-200"></a>
-### [US bans DeepSeek AI from government use as tech tension with China continues](https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-US bans DeepSeek AI from government use as tech tension with China continues
-
-rss · BBC\(British Broadcasting Corporation\) · Oct 19, 18:21
-
----
-
-<a id="item-tech-news-201"></a>
-### [Kylie Jenner&\#x27;s debut at Victoria&\#x27;s Secret Fashion Show in $50m bra sparks mixed reaction](https://www.bbc.co.uk/news/articles/cmx2wqwxvyxlo?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-Kylie Jenner&\#x27;s debut at Victoria&\#x27;s Secret Fashion Show in $50m bra sparks mixed reaction
-
-rss · BBC\(British Broadcasting Corporation\) · Oct 19, 13:16
-
----
-
-<a id="item-tech-news-202"></a>
-### [Maddison&\#x27;s magic moment for Spurs - 18 months in the making](https://www.bbc.co.uk/sport/football/articles/cwz0v8le7y3eo?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-Maddison&\#x27;s magic moment for Spurs - 18 months in the making
-
-rss · BBC\(British Broadcasting Corporation\) · Oct 19, 22:35
-
----
-
-<a id="item-tech-news-203"></a>
-### [Ronaldo given 30-day suspension and £215 fine by Portuguese FA](https://www.bbc.co.uk/sport/football/articles/ck9qznlywy8no?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-Ronaldo given 30-day suspension and £215 fine by Portuguese FA
-
-rss · BBC\(British Broadcasting Corporation\) · Oct 19, 21:34
-
----
-
-<a id="item-tech-news-204"></a>
-### [England coach should be English, suggests Fleming](https://www.bbc.co.uk/sport/cricket/articles/cq398r1gxw02o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-England coach should be English, suggests Fleming
-
-rss · BBC\(British Broadcasting Corporation\) · Oct 19, 23:29
-
----
-
-<a id="item-tech-news-205"></a>
-### [Maddison shines on return - Tottenham v Coventry ratings](https://www.bbc.co.uk/sport/football/articles/crx23ndd337wo?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-Maddison shines on return - Tottenham v Coventry ratings
-
-rss · BBC\(British Broadcasting Corporation\) · Oct 19, 21:05
-
----
-
-<a id="item-tech-news-206"></a>
-### [Building Lionesses 2.0 - Wiegman&\#x27;s new challenge awaits](https://www.bbc.co.uk/sport/football/articles/cvze4w57746yo?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-Building Lionesses 2.0 - Wiegman&\#x27;s new challenge awaits
-
-rss · BBC\(British Broadcasting Corporation\) · Oct 19, 20:15
-
----
-
-<a id="item-tech-news-207"></a>
-### [Who has made Troy&\#x27;s Premier League team of the week?](https://www.bbc.co.uk/sport/football/articles/cqgm0zy4d23po?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-Who has made Troy&\#x27;s Premier League team of the week?
-
-rss · BBC\(British Broadcasting Corporation\) · Oct 19, 23:22
-
----
-
-<a id="item-tech-news-208"></a>
-### [Spurs beat Coventry to earn first league win of the season](https://www.bbc.co.uk/sport/football/videos/c9x28pyg05vyo?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-Tottenham Hotspur secured their first Premier League win of the season with a home victory over Coventry City, moving off the bottom of the table. The result marks a significant turning point for Spurs after a winless start to the campaign.
-
-rss · BBC\(British Broadcasting Corporation\) · Oct 19, 21:33
-
-**「Background」** Premier League seasons consist of 38 matches per club, with three points awarded for a win. Teams at the bottom of the table face relegation risk if they fail to secure wins early in the season.
-
-**「Impact」** Tottenham escapes the bottom position in the Premier League standings, providing psychological relief and potentially stabilizing their season. Coventry faces continued pressure as they remain winless away from home against top-flight opposition.
-
----
-
-<a id="item-tech-news-209"></a>
-### [Amelia Earhart researchers leave remote atoll empty-handed after ‘plane debris’ found to be a clump of trees](https://www.theguardian.com/us-news/2026/oct/19/amelia-earhart-purdue-expedition-clump-of-trees-nikumaroro-kiribati) ⭐️ ?/10
-
-Amelia Earhart researchers leave remote atoll empty-handed after ‘plane debris’ found to be a clump of trees
-
-rss · 卫报\(The Guardian\) · Oct 19, 04:43
-
----
-
-<a id="item-tech-news-210"></a>
-### [Helen Haines live updates: independent MP in critical but stable condition as Asio boss warns about ‘violent rhetoric’](https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb) ⭐️ ?/10
-
-Helen Haines live updates: independent MP in critical but stable condition as Asio boss warns about ‘violent rhetoric’
-
-rss · 卫报\(The Guardian\) · Oct 20, 01:40
-
----
-
-<a id="item-tech-news-211"></a>
-### [Beau Lamarre-Condon had surgery after alleged double murder but before disposing of bodies, court told](https://www.theguardian.com/australia-news/2026/oct/20/beau-lamarre-condon-surgery-hospital-after-alleged-double-murder-prior-disposing-bodies-ntwnfb) ⭐️ ?/10
-
-Beau Lamarre-Condon had surgery after alleged double murder but before disposing of bodies, court told
-
-rss · 卫报\(The Guardian\) · Oct 20, 01:38
-
----
-
-<a id="item-tech-news-212"></a>
-### [Brendan Nugent named as driver apprehended over alleged attack on Helen Haines](https://www.theguardian.com/australia-news/2026/oct/20/brendan-nugent-driver-alleged-attack-helen-haines-ntwnfb) ⭐️ ?/10
-
-Brendan Nugent named as driver apprehended over alleged attack on Helen Haines
-
-rss · 卫报\(The Guardian\) · Oct 20, 01:12
-
----
-
-<a id="item-tech-news-213"></a>
-### [NAB to cut 2,500 jobs in massive restructure](https://www.theguardian.com/australia-news/2026/oct/20/nab-bank-restructure-2500-jobs-cuts) ⭐️ ?/10
-
-NAB to cut 2,500 jobs in massive restructure
-
-rss · 卫报\(The Guardian\) · Oct 20, 00:58
-
----
-
-<a id="item-tech-news-214"></a>
-### [‘I don’t want to be known as a hero’: barber who rushed to help Helen Haines praised by PM](https://www.theguardian.com/australia-news/2026/oct/20/i-dont-want-to-be-known-as-a-hero-barber-who-rushed-to-help-helen-haines-praised-by-pm-ntwnfb) ⭐️ ?/10
-
-‘I don’t want to be known as a hero’: barber who rushed to help Helen Haines praised by PM
-
-rss · 卫报\(The Guardian\) · Oct 19, 23:39
-
----
-
-<a id="item-tech-news-215"></a>
-### [Milan luxury shops close as Italy prepares to deploy troops in the city after days of protests](https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe) ⭐️ ?/10
-
-Milan luxury shops close as Italy prepares to deploy troops in the city after days of protests
-
-rss · 卫报\(The Guardian\) · Oct 20, 00:08
-
----
-
-<a id="item-tech-news-216"></a>
-### [Trump borrows from far right to blame unrest in France on immigration](https://www.theguardian.com/us-news/2026/oct/19/trump-france-protests) ⭐️ ?/10
-
-Trump borrows from far right to blame unrest in France on immigration
-
-rss · 卫报\(The Guardian\) · Oct 19, 22:48
-
----
-
-<a id="item-tech-news-217"></a>
-### [French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – as it happened](https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates) ⭐️ ?/10
-
-French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – as it happened
-
-rss · 卫报\(The Guardian\) · Oct 19, 20:34
-
----
-
-<a id="item-tech-news-218"></a>
-### [‘Crucial opportunity to act’ as study finds most of Europe’s wild bee species in decline](https://www.theguardian.com/environment/2026/oct/19/study-europe-wild-bee-species-decline-) ⭐️ ?/10
-
-‘Crucial opportunity to act’ as study finds most of Europe’s wild bee species in decline
-
-rss · 卫报\(The Guardian\) · Oct 19, 19:00
-
----
-
-<a id="item-tech-news-219"></a>
-### [France imposes partial curfews in several cities, including parts of Paris](https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister) ⭐️ ?/10
-
-France imposes partial curfews in several cities, including parts of Paris
-
-rss · 卫报\(The Guardian\) · Oct 19, 18:16
-
----
-
-<a id="item-tech-news-220"></a>
-### [Israeli police detain 10 people in rare raid against West Bank settlers](https://www.theguardian.com/world/2026/oct/19/israeli-police-detain-10-people-in-rare-raid-against-west-bank-settlers) ⭐️ ?/10
-
-Israeli police detain 10 people in rare raid against West Bank settlers
-
-rss · 卫报\(The Guardian\) · Oct 19, 18:05
-
----
-
-<a id="item-tech-news-221"></a>
-### [Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited](https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war) ⭐️ ?/10
-
-Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited
-
-rss · 卫报\(The Guardian\) · Oct 19, 17:15
-
----
-
-<a id="item-tech-news-222"></a>
-### [People scour strait of Hormuz for spilt cargo after Iran attacks container ships](https://www.theguardian.com/world/2026/oct/19/strait-of-hormuz-spilt-cargo-iran-attacks-container-ships) ⭐️ ?/10
-
-People scour strait of Hormuz for spilt cargo after Iran attacks container ships
-
-rss · 卫报\(The Guardian\) · Oct 19, 14:48
-
----
-
-<a id="item-tech-news-223"></a>
-### [Cuts force World Food Programme to end support for half a million Palestinians in Gaza](https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza) ⭐️ ?/10
-
-Cuts force World Food Programme to end support for half a million Palestinians in Gaza
-
-rss · 卫报\(The Guardian\) · Oct 19, 09:54
-
----
-
-<a id="item-tech-news-224"></a>
-### [Andy Burnham outlines new rules to outlaw ‘rip-off’ private parking fines](https://www.theguardian.com/money/2026/oct/19/andy-burnham-new-rules-private-parking-fines-code-of-practice) ⭐️ ?/10
-
-Andy Burnham outlines new rules to outlaw ‘rip-off’ private parking fines
-
-rss · 卫报\(The Guardian\) · Oct 19, 21:30
-
----
-
-<a id="item-tech-news-225"></a>
-### [Burnham urges officials to come up with more radical options for Thames Water](https://www.theguardian.com/politics/2026/oct/19/burnham-urges-officials-radical-options-thames-water-public-control) ⭐️ ?/10
-
-Burnham urges officials to come up with more radical options for Thames Water
-
-rss · 卫报\(The Guardian\) · Oct 19, 18:37
-
----
-
-<a id="item-tech-news-226"></a>
-### [ITV’s exposé of racism and misogyny in Reform? Just a few \(more\) bad apples \| John Crace](https://www.theguardian.com/politics/2026/oct/19/itv-expose-racism-misogyny-reform) ⭐️ ?/10
-
-ITV’s exposé of racism and misogyny in Reform? Just a few \(more\) bad apples \| John Crace
-
-rss · 卫报\(The Guardian\) · Oct 19, 17:42
-
----
-
-<a id="item-tech-news-227"></a>
-### [North Sea strikes could severely disrupt UK fuel supplies, union warns](https://www.theguardian.com/uk-news/2026/oct/19/north-sea-strikes-could-severely-disrupt-uk-fuel-supplies-union-warns) ⭐️ ?/10
-
-North Sea strikes could severely disrupt UK fuel supplies, union warns
-
-rss · 卫报\(The Guardian\) · Oct 19, 17:39
-
----
-
-<a id="item-tech-news-228"></a>
-### [Minister says Mahmood’s migration policy will ‘prolong integration’](https://www.theguardian.com/politics/2026/oct/19/migration-energy-secretary-mahmood-fahnbulleh) ⭐️ ?/10
-
-Minister says Mahmood’s migration policy will ‘prolong integration’
-
-rss · 卫报\(The Guardian\) · Oct 19, 17:35
-
----
-
-<a id="item-tech-news-229"></a>
-### [At Kansas rally, Trump focuses closing midterm message on anti-Muslim racism – US politics live](https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates) ⭐️ ?/10
-
-At Kansas rally, Trump focuses closing midterm message on anti-Muslim racism – US politics live
-
-rss · 卫报\(The Guardian\) · Oct 20, 01:44
-
----
-
-<a id="item-tech-news-230"></a>
-### [Colorado wildlife overpass cut vehicle-animal collisions by 91%, report finds](https://www.theguardian.com/us-news/2026/oct/19/colorado-wildlife-overpass-vehicle-animal-collisions-results) ⭐️ ?/10
-
-Colorado wildlife overpass cut vehicle-animal collisions by 91%, report finds
-
-rss · 卫报\(The Guardian\) · Oct 19, 23:17
-
----
-
-<a id="item-tech-news-231"></a>
-### [New AI tool can predict cancer survival by a single patient selfie, study suggests](https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie) ⭐️ ?/10
-
-New AI tool can predict cancer survival by a single patient selfie, study suggests
-
-rss · 卫报\(The Guardian\) · Oct 19, 22:30
-
----
-
-<a id="item-tech-news-232"></a>
-### [California to receive $6m settlement after 23andMe data breach](https://www.theguardian.com/us-news/2026/oct/19/california-settlement-23andme-data-breach) ⭐️ ?/10
-
-California to receive $6m settlement after 23andMe data breach
-
-rss · 卫报\(The Guardian\) · Oct 19, 21:34
-
----
-
-<a id="item-tech-news-233"></a>
-### [Oregon man who killed school shooter reportedly took part in military drills with Iraq veterans](https://www.theguardian.com/us-news/2026/oct/19/oregon-school-shooter) ⭐️ ?/10
-
-Oregon man who killed school shooter reportedly took part in military drills with Iraq veterans
-
-rss · 卫报\(The Guardian\) · Oct 19, 21:33
-
----
-
-<a id="item-tech-news-234"></a>
-### [US defence stocks tumble as investors bet on Democratic election sweep](https://www.ft.com/content/e73d0106-486b-4382-8ecc-5c96ac44fdff?syn-25a6b1a6=1) ⭐️ ?/10
-
-US defence stocks tumble as investors bet on Democratic election sweep
-
-rss · 金融时报\(Financial Times\) · Oct 19, 13:04
-
----
-
-<a id="item-tech-news-235"></a>
-### [CME plans tungsten futures as demand for weapons rises](https://www.ft.com/content/96d88d61-002d-4b5c-8e0b-4f50577518c5?syn-25a6b1a6=1) ⭐️ ?/10
-
-CME plans tungsten futures as demand for weapons rises
-
-rss · 金融时报\(Financial Times\) · Oct 19, 10:30
-
----
-
-<a id="item-tech-news-236"></a>
-### [China’s villages pay the price for Beijing’s AI ambitions](https://www.ft.com/content/51a0afc0-65f3-4a51-b1af-5c6fb40a313e?syn-25a6b1a6=1) ⭐️ ?/10
-
-China’s villages pay the price for Beijing’s AI ambitions
-
-rss · 金融时报\(Financial Times\) · Oct 20, 00:15
-
----
-
-<a id="item-tech-news-237"></a>
-### [France’s riots expose the impotence of its political class](https://www.ft.com/content/388569e9-3936-4359-8856-48b006587fb7?syn-25a6b1a6=1) ⭐️ ?/10
-
-France’s riots expose the impotence of its political class
-
-rss · 金融时报\(Financial Times\) · Oct 19, 17:07
-
----
-
-<a id="item-tech-news-238"></a>
-### [‘I still do support him’: US voters weigh in on Trump and the midterms](https://www.ft.com/content/d375cde1-ec37-4c5e-87ab-a3a655e879d8?syn-25a6b1a6=1) ⭐️ ?/10
-
-‘I still do support him’: US voters weigh in on Trump and the midterms
-
-rss · 金融时报\(Financial Times\) · Oct 19, 04:00
-
----
-
-<a id="item-tech-news-239"></a>
-### [French bond sell-off intensifies after riots and looting](https://www.ft.com/content/cc7e577a-db7a-4e12-9a42-443696b98ec5?syn-25a6b1a6=1) ⭐️ ?/10
-
-French bond sell-off intensifies after riots and looting
-
-rss · 金融时报\(Financial Times\) · Oct 19, 18:31
-
----
-
-<a id="item-tech-news-240"></a>
-### [Violent protests multiply across Europe](https://www.ft.com/content/d8df36c2-7e8c-4cfb-ad9e-e6e954fea4b9?syn-25a6b1a6=1) ⭐️ ?/10
-
-Violent protests multiply across Europe
-
-rss · 金融时报\(Financial Times\) · Oct 19, 13:50
-
----
-
-<a id="item-tech-news-241"></a>
-### [Trump envoys to hold fresh Ukraine talks as energy crunch looms over midterms](https://www.ft.com/content/581d8a59-b128-4f68-9f34-6c066b36ca5b?syn-25a6b1a6=1) ⭐️ ?/10
-
-Trump envoys to hold fresh Ukraine talks as energy crunch looms over midterms
-
-rss · 金融时报\(Financial Times\) · Oct 20, 00:14
-
----
-
-<a id="item-tech-news-242"></a>
-### [New York pensions chief says private equity firm sought to expense jet use](https://www.ft.com/content/97643fcb-46f8-43dc-b559-c33709f37866?syn-25a6b1a6=1) ⭐️ ?/10
-
-New York pensions chief says private equity firm sought to expense jet use
-
-rss · 金融时报\(Financial Times\) · Oct 19, 21:18
-
----
-
-<a id="item-tech-news-243"></a>
-### [Anthropic and Nscale in talks for second multibillion-dollar deal](https://www.ft.com/content/26a604d8-1a9d-4801-bd73-6ac588b63bdc?syn-25a6b1a6=1) ⭐️ ?/10
-
-Anthropic and Nscale in talks for second multibillion-dollar deal
-
-rss · 金融时报\(Financial Times\) · Oct 19, 22:27
-
----
-
-<a id="item-tech-news-244"></a>
-### [OpenAI employee accused of bugging had links to Saudi royals, prosecutors claim](https://www.ft.com/content/9e10eaa4-ed5e-417b-85c5-b5003b064017?syn-25a6b1a6=1) ⭐️ ?/10
-
-OpenAI employee accused of bugging had links to Saudi royals, prosecutors claim
-
-rss · 金融时报\(Financial Times\) · Oct 19, 21:27
-
----
-
-<a id="item-tech-news-245"></a>
-### [Journalists forced to flee homes after Tommy Robinson shared images of where they lived online, court told](https://www.theguardian.com/uk-news/2026/oct/19/tommy-robinson-harassment-trial-mailonline-journalists-court) ⭐️ ?/10
-
-Journalists forced to flee homes after Tommy Robinson shared images of where they lived online, court told
-
-rss · 观察家报\(The Observer\) · Oct 19, 16:36
-
----
-
-<a id="item-tech-news-246"></a>
-### [Masts removed from bomb-laden WWII ship in Thames in bid to avoid explosion](https://www.theguardian.com/uk-news/2026/oct/19/us-wwii-ship-richard-montgomery-thames-bombs-prevent-explosion) ⭐️ ?/10
-
-Masts removed from bomb-laden WWII ship in Thames in bid to avoid explosion
-
-rss · 观察家报\(The Observer\) · Oct 19, 16:21
-
----
-
-<a id="item-tech-news-247"></a>
-### [No 10: Hegseth ‘wrong’ to say most non-US Nato soldiers didn’t fight in Afghanistan – as it happened](https://www.theguardian.com/politics/live/2026/oct/19/andy-burnham-labour-children-welfare-neets-kemi-badenoch-conservatives-nigel-farage-reform-latest-news-updates) ⭐️ ?/10
-
-No 10: Hegseth ‘wrong’ to say most non-US Nato soldiers didn’t fight in Afghanistan – as it happened
-
-rss · 观察家报\(The Observer\) · Oct 19, 16:18
-
----
-
-<a id="item-tech-news-248"></a>
-### [Farage claim that £5m was reward for Brexit was ‘not press office line’, close aide says](https://www.theguardian.com/politics/2026/oct/19/farage-claim-that-5m-was-reward-for-brexit-was-not-press-office-line-close-aide-says) ⭐️ ?/10
-
-Farage claim that £5m was reward for Brexit was ‘not press office line’, close aide says
-
-rss · 观察家报\(The Observer\) · Oct 19, 16:16
-
----
-
-<a id="item-tech-news-249"></a>
-### [‘Concerning issues’ found at GB power grid by inquiry into cover-up claims](https://www.theguardian.com/business/2026/oct/19/concerning-issues-found-at-gb-power-grid-by-inquiry-into-cover-up-claims) ⭐️ ?/10
-
-‘Concerning issues’ found at GB power grid by inquiry into cover-up claims
-
-rss · 观察家报\(The Observer\) · Oct 19, 16:14
-
----
-
-<a id="item-tech-news-250"></a>
-### [Hegseth wrong to say most non-US Nato forces in Afghanistan did not fight, says No 10](https://www.theguardian.com/us-news/2026/oct/19/pete-hegseth-nato-afghanistan-downing-street) ⭐️ ?/10
-
-Hegseth wrong to say most non-US Nato forces in Afghanistan did not fight, says No 10
-
-rss · 观察家报\(The Observer\) · Oct 19, 14:13
-
----
-
-<a id="item-tech-news-251"></a>
-### [Youth services in parts of England in state of emergency, children’s commissioner says](https://www.theguardian.com/society/2026/oct/19/children-services-state-of-emergency-hardest-places-england) ⭐️ ?/10
-
-Youth services in parts of England in state of emergency, children’s commissioner says
-
-rss · 观察家报\(The Observer\) · Oct 19, 12:11
-
----
-
-<a id="item-tech-news-252"></a>
-### [Burnham urged to launch inquiry into unequal health impacts of air pollution](https://www.theguardian.com/environment/2026/oct/19/andy-burnham-government-inquiry-unequal-health-impacts-air-pollution) ⭐️ ?/10
-
-Burnham urged to launch inquiry into unequal health impacts of air pollution
-
-rss · 观察家报\(The Observer\) · Oct 19, 05:00
-
----
-
-<a id="item-tech-news-253"></a>
-### [‘It’s about persistence’: Cornish devolution no longer a pipe dream as its champion bows out](https://www.theguardian.com/uk-news/2026/oct/19/dick-cole-devolution-cornwall-quitting-mebyon-kernow-party-leader) ⭐️ ?/10
-
-‘It’s about persistence’: Cornish devolution no longer a pipe dream as its champion bows out
-
-rss · 观察家报\(The Observer\) · Oct 19, 05:00
-
----
-
-<a id="item-tech-news-254"></a>
-### [Profit warnings from UK-listed firms at highest level in two years as Iran war drives up costs](https://www.theguardian.com/business/2026/oct/19/profit-warnings-from-uk-listed-firms-at-highest-level-in-two-years-as-iran-war-drives-up-costs) ⭐️ ?/10
-
-Profit warnings from UK-listed firms at highest level in two years as Iran war drives up costs
-
-rss · 观察家报\(The Observer\) · Oct 19, 05:00
-
----
-
-<a id="item-tech-news-255"></a>
-### [Up to 20 maternity units in England may have to shut, NHS leader warns](https://www.theguardian.com/society/2026/oct/19/up-to-20-maternity-units-england-shut-nhs-warning-matthew-hopkins) ⭐️ ?/10
-
-Up to 20 maternity units in England may have to shut, NHS leader warns
-
-rss · 观察家报\(The Observer\) · Oct 19, 05:00
-
----
-
-<a id="item-tech-news-256"></a>
-### [The Canary news website announces closure after ‘vicious campaign against us’](https://www.theguardian.com/media/2026/oct/19/the-canary-leftwing-news-website-closure) ⭐️ ?/10
-
-The Canary news website announces closure after ‘vicious campaign against us’
-
-rss · 观察家报\(The Observer\) · Oct 19, 13:52
-
----
-
-<a id="item-tech-news-257"></a>
-### [AI firm Anthropic to commit 5% of shares to fund for ‘public good’](https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good) ⭐️ ?/10
-
-AI firm Anthropic to commit 5% of shares to fund for ‘public good’
-
-rss · 观察家报\(The Observer\) · Oct 19, 12:51
-
----
-
-<a id="item-tech-news-258"></a>
-### [More than half of UK first-time buyers paying more for mortgage than they did for rent](https://www.theguardian.com/money/2026/oct/19/uk-first-time-buyers-paying-more-mortgage-rent) ⭐️ ?/10
-
-More than half of UK first-time buyers paying more for mortgage than they did for rent
-
-rss · 观察家报\(The Observer\) · Oct 19, 09:10
-
----
-
-<a id="item-tech-news-259"></a>
-### [UK government promises disabled air passengers better safeguards](https://www.theguardian.com/business/2026/oct/19/uk-government-promises-disabled-air-passengers-better-safeguards) ⭐️ ?/10
-
-UK government promises disabled air passengers better safeguards
-
-rss · 观察家报\(The Observer\) · Oct 19, 07:00
-
----
-
-<a id="item-tech-news-260"></a>
-### [Ellie Goulding admits error over promoting diamonds from controversial Australian mine](https://www.theguardian.com/music/2026/oct/19/ellie-goulding-diamonds-australia-argyle-mine) ⭐️ ?/10
-
-Ellie Goulding admits error over promoting diamonds from controversial Australian mine
-
-rss · 观察家报\(The Observer\) · Oct 19, 13:20
-
----
-
-<a id="item-tech-news-261"></a>
-### [Stop ‘cash to trash’ housebuilding in Norfolk Broads, says Labour MP](https://www.theguardian.com/environment/2026/oct/19/stop-cash-for-trash-housebuilding-norfolk-broads-labour-mp-chris-hinchcliffe) ⭐️ ?/10
-
-Stop ‘cash to trash’ housebuilding in Norfolk Broads, says Labour MP
-
-rss · 观察家报\(The Observer\) · Oct 19, 12:20
-
----
-
-<a id="item-tech-news-262"></a>
-### [Seabird numbers bounce back in Solent region after 2022 avian flu wipeout](https://www.theguardian.com/environment/2026/oct/19/seabird-numbers-bounce-back-solent-region-avian-flu-rspb) ⭐️ ?/10
-
-Seabird numbers bounce back in Solent region after 2022 avian flu wipeout
-
-rss · 观察家报\(The Observer\) · Oct 19, 06:00
-
----
-
-<a id="item-tech-news-263"></a>
-### [British people react to Burnham&\#x27;s campaign against ‘headphone dodgers’ on public transport – video](https://www.theguardian.com/uk-news/video/2026/oct/19/british-public-react-to-burnhams-campaign-against-headphone-dodgers-on-public-transport-video) ⭐️ ?/10
-
-British people react to Burnham&\#x27;s campaign against ‘headphone dodgers’ on public transport – video
-
-rss · 观察家报\(The Observer\) · Oct 19, 18:36
-
----
-
-<a id="item-tech-news-264"></a>
-### [Dan Jukes reveals Nigel Farage did not take press office line on £5m gift - video](https://www.theguardian.com/politics/video/2026/oct/19/dan-jukes-reveals-nigel-farage-did-not-take-press-office-line-on-5m-gift-video) ⭐️ ?/10
-
-Dan Jukes reveals Nigel Farage did not take press office line on £5m gift - video
-
-rss · 观察家报\(The Observer\) · Oct 19, 16:32
-
----
-
-<a id="item-tech-news-265"></a>
-### [South Korea’s $1 trillion chip bet to revive left-behind region risks Trump’s ire](https://www.japantimes.co.jp/business/2026/10/20/south-korea-gwangju-chip-plans/) ⭐️ ?/10
-
-South Korea’s $1 trillion chip bet to revive left-behind region risks Trump’s ire
-
-rss · 日本时报\(The Japan Times\) · Oct 20, 01:48
-
----
-
-<a id="item-tech-news-266"></a>
-### [MTR bets $5 billion on a Hong Kong city that doesn’t exist yet](https://www.japantimes.co.jp/business/2026/10/20/hong-kong-city-mtr/) ⭐️ ?/10
-
-MTR bets $5 billion on a Hong Kong city that doesn’t exist yet
-
-rss · 日本时报\(The Japan Times\) · Oct 20, 01:47
-
----
-
-<a id="item-tech-news-267"></a>
-### [Technologies seen at Osaka Expo increasingly being put into practice](https://www.japantimes.co.jp/news/2026/10/20/japan/japan-osaka-expo-legacy-one-year/) ⭐️ ?/10
-
-Technologies seen at Osaka Expo increasingly being put into practice
-
-rss · 日本时报\(The Japan Times\) · Oct 20, 01:31
-
----
-
-<a id="item-tech-news-268"></a>
-### [Palestinian activist Mahmoud Khalil asks U.S. Supreme Court to hear case](https://www.japantimes.co.jp/news/2026/10/20/world/crime-legal/mahmoud-khalil-supreme-court/) ⭐️ ?/10
-
-Palestinian activist Mahmoud Khalil asks U.S. Supreme Court to hear case
-
-rss · 日本时报\(The Japan Times\) · Oct 20, 01:21
-
----
-
-<a id="item-tech-news-269"></a>
-### [Australian lawmaker in critical condition after vehicle attack](https://www.japantimes.co.jp/news/2026/10/20/asia-pacific/politics/australian-lawmaker-vehicle-attack/) ⭐️ ?/10
-
-Australian lawmaker in critical condition after vehicle attack
-
-rss · 日本时报\(The Japan Times\) · Oct 20, 01:05
-
----
-
-<a id="item-tech-news-270"></a>
-### [Houthi attack on Yemen government camp kills over 50, officials say](https://www.japantimes.co.jp/news/2026/10/20/world/houthi-attack-yemen-camp/) ⭐️ ?/10
-
-Houthi attack on Yemen government camp kills over 50, officials say
-
-rss · 日本时报\(The Japan Times\) · Oct 20, 00:58
-
----
-
-<a id="item-tech-news-271"></a>
-### [Zelenskyy says Ukraine got no warning of overnight Russian missile strike](https://www.japantimes.co.jp/news/2026/10/20/world/ukraine-russian-missiles-no-warn/) ⭐️ ?/10
-
-Zelenskyy says Ukraine got no warning of overnight Russian missile strike
-
-rss · 日本时报\(The Japan Times\) · Oct 20, 00:52
-
----
-
-<a id="item-tech-news-272"></a>
-### [Alberta votes on leaving Canada, separatist movement likely to outlast expected defeat](https://www.japantimes.co.jp/news/2026/10/20/world/politics/alberta-referendum-vote/) ⭐️ ?/10
-
-Alberta votes on leaving Canada, separatist movement likely to outlast expected defeat
-
-rss · 日本时报\(The Japan Times\) · Oct 20, 00:38
-
----
-
-<a id="item-tech-news-273"></a>
-### [France imposes curfews in parts of Paris and other cities after riots](https://www.japantimes.co.jp/news/2026/10/20/world/france-curfews-riots/) ⭐️ ?/10
-
-France imposes curfews in parts of Paris and other cities after riots
-
-rss · 日本时报\(The Japan Times\) · Oct 20, 00:37
-
----
-
-<a id="item-tech-news-274"></a>
-### [‘25 Years of You’: Is there such a thing as a ‘good’ stalker?](https://www.japantimes.co.jp/culture/2026/10/20/tv-streaming/25-years-of-you/) ⭐️ ?/10
-
-‘25 Years of You’: Is there such a thing as a ‘good’ stalker?
-
-rss · 日本时报\(The Japan Times\) · Oct 20, 00:00
-
----
-
-<a id="item-tech-news-275"></a>
-### [From Harvard to Tokyo screens, one actor takes the leap](https://www.japantimes.co.jp/culture/2026/10/20/film/meisha-brooks/) ⭐️ ?/10
-
-From Harvard to Tokyo screens, one actor takes the leap
-
-rss · 日本时报\(The Japan Times\) · Oct 19, 23:07
-
----
-
-<a id="item-tech-news-276"></a>
-### [Trump open to trilateral summit with Putin and Xi but wants denuclearization focus](https://www.japantimes.co.jp/news/2026/10/20/world/trump-open-xi-putin-meet/) ⭐️ ?/10
-
-Trump open to trilateral summit with Putin and Xi but wants denuclearization focus
-
-rss · 日本时报\(The Japan Times\) · Oct 19, 22:39
-
----
-
-<a id="item-tech-news-277"></a>
-### [Trump approval falls to record low of 31% as midterms near, poll finds](https://www.japantimes.co.jp/news/2026/10/20/world/politics/trump-approval-rate-lowest/) ⭐️ ?/10
-
-Trump approval falls to record low of 31% as midterms near, poll finds
-
-rss · 日本时报\(The Japan Times\) · Oct 19, 22:09
-
----
-
-<a id="item-tech-news-278"></a>
-### [Japan launches probe in historic bid to collect sample from Mars moon](https://www.japantimes.co.jp/news/2026/10/20/japan/science-health/japan-mars-moon-probe-launch/) ⭐️ ?/10
-
-Japan launches probe in historic bid to collect sample from Mars moon
-
-rss · 日本时报\(The Japan Times\) · Oct 19, 20:00
-
----
-
-<a id="item-tech-news-279"></a>
-### [A millennium ago, \(almost\) everyone in Japan was a poet](https://www.japantimes.co.jp/news/2026/10/20/japan/history/manyoshu-japanese-poetry/) ⭐️ ?/10
-
-A millennium ago, \(almost\) everyone in Japan was a poet
-
-rss · 日本时报\(The Japan Times\) · Oct 19, 15:40
-
----
-
-<a id="item-tech-news-280"></a>
-### [Over 16% of Japanese companies experience data breaches](https://www.japantimes.co.jp/business/2026/10/19/16pct-japan-firms-data-breaches/) ⭐️ ?/10
-
-Over 16% of Japanese companies experience data breaches
-
-rss · 日本时报\(The Japan Times\) · Oct 19, 11:08
-
----
-
-<a id="item-tech-news-281"></a>
-### [Japan to restart accepting foreign workers for meal services at some facilities](https://www.japantimes.co.jp/news/2026/10/19/japan/foreign-workers-meal-services/) ⭐️ ?/10
-
-Japan to restart accepting foreign workers for meal services at some facilities
-
-rss · 日本时报\(The Japan Times\) · Oct 19, 10:22
-
----
-
-<a id="item-tech-news-282"></a>
-### [China reveals advanced nuclear sub was used to test-fire missile](https://www.japantimes.co.jp/news/2026/10/19/asia-pacific/china-nuclear-sub-test-fire/) ⭐️ ?/10
-
-China reveals advanced nuclear sub was used to test-fire missile
-
-rss · 日本时报\(The Japan Times\) · Oct 19, 09:59
-
----
-
-<a id="item-tech-news-283"></a>
-### [New species of sperm whale identified from fossils found in Gunma](https://www.japantimes.co.jp/news/2026/10/19/japan/society/japan-whale-fossils-new-species/) ⭐️ ?/10
-
-New species of sperm whale identified from fossils found in Gunma
-
-rss · 日本时报\(The Japan Times\) · Oct 19, 09:11
-
----
-
-<a id="item-tech-news-284"></a>
-### [Tensions overshadow 70th anniversary of key Japan-Soviet declaration](https://www.japantimes.co.jp/news/2026/10/19/japan/politics/japan-soviet-union-declation-anniversary/) ⭐️ ?/10
-
-Tensions overshadow 70th anniversary of key Japan-Soviet declaration
-
-rss · 日本时报\(The Japan Times\) · Oct 19, 08:44
-
----
-
-<a id="item-tech-news-285"></a>
-### [Sydney’s new $4 billion airport set to open with barely any flights](https://www.japantimes.co.jp/news/2026/10/19/asia-pacific/sydney-new-airport/) ⭐️ ?/10
-
-Sydney’s new $4 billion airport set to open with barely any flights
-
-rss · 日本时报\(The Japan Times\) · Oct 19, 08:37
-
----
-
-<a id="item-tech-news-286"></a>
-### [Cases of consumers disputing personal training contracts rise](https://www.japantimes.co.jp/news/2026/10/19/japan/personal-trainer-contracts/) ⭐️ ?/10
-
-Cases of consumers disputing personal training contracts rise
-
-rss · 日本时报\(The Japan Times\) · Oct 19, 07:52
-
----
-
-<a id="item-tech-news-287"></a>
-### [Fukushima University to undergo overhaul with greater science focus](https://www.japantimes.co.jp/news/2026/10/19/japan/fukushima-university-reorganization/) ⭐️ ?/10
-
-Fukushima University to undergo overhaul with greater science focus
-
-rss · 日本时报\(The Japan Times\) · Oct 19, 07:34
-
----
-
-<a id="item-tech-news-288"></a>
-### [World faces nature reality check at U.N. biodiversity conference](https://www.japantimes.co.jp/environment/2026/10/19/wildlife/un-biodiversity-conference/) ⭐️ ?/10
-
-World faces nature reality check at U.N. biodiversity conference
-
-rss · 日本时报\(The Japan Times\) · Oct 19, 07:33
-
----
-
-<a id="item-tech-news-289"></a>
-### [JICA and the World Bank should put the poor first](https://www.japantimes.co.jp/commentary/2026/10/19/world/poor-first-then-climate/) ⭐️ ?/10
-
-JICA and the World Bank should put the poor first
-
-rss · 日本时报\(The Japan Times\) · Oct 19, 06:56
-
----
-
-<a id="item-tech-news-290"></a>
-### [Asian Para Games officially open in Nagoya](https://www.japantimes.co.jp/sports/2026/10/19/asian-games/asian-para-games-open/) ⭐️ ?/10
-
-Asian Para Games officially open in Nagoya
-
-rss · 日本时报\(The Japan Times\) · Oct 19, 06:45
-
----
-
-<a id="item-tech-news-291"></a>
-### [Why harassment scandals continue engulfing Japan’s local leaders](https://www.japantimes.co.jp/news/2026/10/19/japan/politics/power-harassment-local-chief-election/) ⭐️ ?/10
-
-Why harassment scandals continue engulfing Japan’s local leaders
-
-rss · 日本时报\(The Japan Times\) · Oct 19, 06:40
-
----
-
-<a id="item-tech-news-292"></a>
-### [\[Update 2\] Report on Unauthorized Access to Group Managed Server and Potential Data Leak](https://www.japantimes.co.jp/press/2026/10/19/notice-ransomware-incident-second-report/) ⭐️ ?/10
-
-\[Update 2\] Report on Unauthorized Access to Group Managed Server and Potential Data Leak
-
-rss · 日本时报\(The Japan Times\) · Oct 19, 06:00
-
----
-
-<a id="item-tech-news-293"></a>
-### [LeBron James gears up for another title run at age 41 with 76ers](https://www.japantimes.co.jp/sports/2026/10/19/basketball/nba/lebron-james-title-chase/) ⭐️ ?/10
-
-LeBron James gears up for another title run at age 41 with 76ers
-
-rss · 日本时报\(The Japan Times\) · Oct 19, 05:46
-
----
-
-<a id="item-tech-news-294"></a>
-### [Legacy of Japanese woman’s apple pie store lives on in California](https://www.japantimes.co.jp/news/2026/10/19/japan/society/moms-apple-pie-california/) ⭐️ ?/10
-
-Legacy of Japanese woman’s apple pie store lives on in California
-
-rss · 日本时报\(The Japan Times\) · Oct 19, 05:46
-
----
-
-<a id="item-tech-news-295"></a>
-### [JCS Chair Orders &\#x27;Stern Response&\#x27; to Enemy Provocation after N. Korea Shifts Blame over Tensions](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204975) ⭐️ ?/10
-
-JCS Chair Orders &\#x27;Stern Response&\#x27; to Enemy Provocation after N. Korea Shifts Blame over Tensions
-
-rss · KBS\(Korean Broadcasting System\) · Oct 20, 01:40
-
----
-
-<a id="item-tech-news-296"></a>
-### [US Reaffirms Fulfillment of Conditions Must Precede OPCON Transfer](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204974) ⭐️ ?/10
-
-US Reaffirms Fulfillment of Conditions Must Precede OPCON Transfer
-
-rss · KBS\(Korean Broadcasting System\) · Oct 20, 00:42
-
----
-
-<a id="item-tech-news-297"></a>
-### [Average Gas, Diesel Prices Continue Sliding Tuesday](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204973) ⭐️ ?/10
-
-Average Gas, Diesel Prices Continue Sliding Tuesday
-
-rss · KBS\(Korean Broadcasting System\) · Oct 20, 00:26
-
----
-
-<a id="item-tech-news-298"></a>
-### [KOSPI Opens Down 0.6% Tuesday](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204972) ⭐️ ?/10
-
-KOSPI Opens Down 0.6% Tuesday
-
-rss · KBS\(Korean Broadcasting System\) · Oct 20, 00:14
-
----
-
-<a id="item-tech-news-299"></a>
-### [Trump Uncertain about Meeting with N. Korea&\#x27;s Kim during China Trip](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204971) ⭐️ ?/10
-
-Trump Uncertain about Meeting with N. Korea&\#x27;s Kim during China Trip
-
-rss · KBS\(Korean Broadcasting System\) · Oct 20, 00:00
-
----
-
-<a id="item-tech-news-300"></a>
-### [Kim Yo-jong: N. Korea Mulling Resumption of Loudspeaker Propaganda Broadcasts](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204970) ⭐️ ?/10
-
-Kim Yo-jong: N. Korea Mulling Resumption of Loudspeaker Propaganda Broadcasts
-
-rss · KBS\(Korean Broadcasting System\) · Oct 19, 10:23
-
----
-
-<a id="item-tech-news-301"></a>
-### [KMA Calls on Gov&\#x27;t to Reconsider Revisions to Enforcement Rules for Telemedicine](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204969) ⭐️ ?/10
-
-KMA Calls on Gov&\#x27;t to Reconsider Revisions to Enforcement Rules for Telemedicine
-
-rss · KBS\(Korean Broadcasting System\) · Oct 19, 10:11
-
----
-
-<a id="item-tech-news-302"></a>
-### [Lee: S. Korea Must Regain OPCON from US Swiftly, without Fail](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204968) ⭐️ ?/10
-
-Lee: S. Korea Must Regain OPCON from US Swiftly, without Fail
-
-rss · KBS\(Korean Broadcasting System\) · Oct 19, 10:02
-
----
-
-<a id="item-tech-news-303"></a>
-### [Firefighters Pay Emotional Tribute to Fallen Colleague](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204967) ⭐️ ?/10
-
-Firefighters Pay Emotional Tribute to Fallen Colleague
-
-rss · KBS\(Korean Broadcasting System\) · Oct 19, 09:58
-
----
-
-<a id="item-tech-news-304"></a>
-### [Hollys Coffee: Hacking Attack Compromised Nearly 3 Million Items of Customers’ Personal Info](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204966) ⭐️ ?/10
-
-Hollys Coffee: Hacking Attack Compromised Nearly 3 Million Items of Customers’ Personal Info
-
-rss · KBS\(Korean Broadcasting System\) · Oct 19, 09:52
-
----
-
-<a id="item-tech-news-305"></a>
-### [Rain Forecast for Southern Regions on Tuesday](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204965) ⭐️ ?/10
-
-Rain Forecast for Southern Regions on Tuesday
-
-rss · KBS\(Korean Broadcasting System\) · Oct 19, 09:05
-
----
-
-<a id="item-tech-news-306"></a>
-### [USFK Chief Stirs Sovereignty Controversy in S. Korea with DMZ Remarks](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204964) ⭐️ ?/10
-
-USFK Chief Stirs Sovereignty Controversy in S. Korea with DMZ Remarks
-
-rss · KBS\(Korean Broadcasting System\) · Oct 19, 07:27
-
----
-
-<a id="item-tech-news-307"></a>
-### [Ninth Hanbok Culture Week Begins Monday](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204963) ⭐️ ?/10
-
-Ninth Hanbok Culture Week Begins Monday
-
-rss · KBS\(Korean Broadcasting System\) · Oct 19, 07:24
-
----
-
-<a id="item-tech-news-308"></a>
-### [DP Vows Best Efforts to Ease Public Sentiment over Gyeonggi Governor&\#x27;s Remarks](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204962) ⭐️ ?/10
-
-DP Vows Best Efforts to Ease Public Sentiment over Gyeonggi Governor&\#x27;s Remarks
-
-rss · KBS\(Korean Broadcasting System\) · Oct 19, 07:21
-
----
-
-<a id="item-tech-news-309"></a>
-### [USFK Commander under Fire over Where S. Korea Begins in DMZ](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204961) ⭐️ ?/10
-
-USFK Commander under Fire over Where S. Korea Begins in DMZ
-
-rss · KBS\(Korean Broadcasting System\) · Oct 19, 07:01
-
----
-
-<a id="item-tech-news-310"></a>
-### [KOSPI Up 1.76% Monday](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204960) ⭐️ ?/10
-
-KOSPI Up 1.76% Monday
-
-rss · KBS\(Korean Broadcasting System\) · Oct 19, 06:50
-
----
-
-<a id="item-tech-news-311"></a>
-### [Badminton Star An Se-young Sets All-Time Record with 47th Women’s Singles Title](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204959) ⭐️ ?/10
-
-Badminton Star An Se-young Sets All-Time Record with 47th Women’s Singles Title
-
-rss · KBS\(Korean Broadcasting System\) · Oct 19, 06:48
-
----
-
-<a id="item-tech-news-312"></a>
-### [Army Chief Disagrees with Brunson&\#x27;s Remarks on S. Korean Territory](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204958) ⭐️ ?/10
-
-Army Chief Disagrees with Brunson&\#x27;s Remarks on S. Korean Territory
-
-rss · KBS\(Korean Broadcasting System\) · Oct 19, 06:47
-
----
-
-<a id="item-tech-news-313"></a>
-### [KOSPI Posts Weakest Returns among Key Global Stock Markets in October](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204957) ⭐️ ?/10
-
-KOSPI Posts Weakest Returns among Key Global Stock Markets in October
-
-rss · KBS\(Korean Broadcasting System\) · Oct 19, 06:44
-
----
-
-<a id="item-tech-news-314"></a>
-### [Ruling Party Slams Brunson’s Remark about S. Korea’s Territorial Boundaries](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204956) ⭐️ ?/10
-
-Ruling Party Slams Brunson’s Remark about S. Korea’s Territorial Boundaries
-
-rss · KBS\(Korean Broadcasting System\) · Oct 19, 06:37
-
----
-
-<a id="item-tech-news-315"></a>
-### [Funeral Held for Firefighter Killed in Bucheon Factory Fire](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204955) ⭐️ ?/10
-
-Funeral Held for Firefighter Killed in Bucheon Factory Fire
-
-rss · KBS\(Korean Broadcasting System\) · Oct 19, 06:19
-
----
-
-<a id="item-tech-news-316"></a>
-### [Seoul Prosecution Chief Says He Never Considered Dropping Charges against President](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204954) ⭐️ ?/10
-
-Seoul Prosecution Chief Says He Never Considered Dropping Charges against President
-
-rss · KBS\(Korean Broadcasting System\) · Oct 19, 06:10
-
----
-
-<a id="item-tech-news-317"></a>
-### [Gyeonggi Governor Again Apologizes to Firefighters over ‘Financial Drain’ Remark](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204953) ⭐️ ?/10
-
-Gyeonggi Governor Again Apologizes to Firefighters over ‘Financial Drain’ Remark
-
-rss · KBS\(Korean Broadcasting System\) · Oct 19, 05:50
-
----
-
-<a id="item-tech-news-318"></a>
-### [Police Push to Replace ‘Agency’ with ‘Service’ in English Name](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204952) ⭐️ ?/10
-
-Police Push to Replace ‘Agency’ with ‘Service’ in English Name
-
-rss · KBS\(Korean Broadcasting System\) · Oct 19, 05:26
-
----
-
-<a id="item-tech-news-319"></a>
-### [JMS Cult Leader Sentenced to 33 Years for Additional Sexual Assaults](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204951) ⭐️ ?/10
-
-JMS Cult Leader Sentenced to 33 Years for Additional Sexual Assaults
-
-rss · KBS\(Korean Broadcasting System\) · Oct 19, 05:11
-
----
-
-<a id="item-tech-news-320"></a>
-### [Lee Meets World Bank Chief to Discuss AI, Energy Cooperation](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204950) ⭐️ ?/10
-
-Lee Meets World Bank Chief to Discuss AI, Energy Cooperation
-
-rss · KBS\(Korean Broadcasting System\) · Oct 19, 04:51
-
----
-
-<a id="item-tech-news-321"></a>
-### [IVE to Release New Song ‘Looks Can Kill’ Monday](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204949) ⭐️ ?/10
-
-IVE to Release New Song ‘Looks Can Kill’ Monday
-
-rss · KBS\(Korean Broadcasting System\) · Oct 19, 03:12
-
----
-
-<a id="item-tech-news-322"></a>
-### [Police Yet to Find Evidence of Premeditation in Incheon Stabbing Case](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204948) ⭐️ ?/10
-
-Police Yet to Find Evidence of Premeditation in Incheon Stabbing Case
-
-rss · KBS\(Korean Broadcasting System\) · Oct 19, 02:59
-
----
-
-<a id="item-tech-news-323"></a>
-### [SCIA Chief Vows to End &\#x27;Politicization&\#x27; of Investigations](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204947) ⭐️ ?/10
-
-SCIA Chief Vows to End &\#x27;Politicization&\#x27; of Investigations
-
-rss · KBS\(Korean Broadcasting System\) · Oct 19, 02:32
-
----
-
-<a id="item-tech-news-324"></a>
-### [Finance Minister Projects Mid-3% Growth for S. Korean Economy This Year](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204946) ⭐️ ?/10
-
-Finance Minister Projects Mid-3% Growth for S. Korean Economy This Year
-
-rss · KBS\(Korean Broadcasting System\) · Oct 19, 02:01
-
----
-
-<a id="item-tech-news-325"></a>
-### [EN DIRECT, manifestations du 17 octobre : Laurent Nuñez, venu lundi soir à Marseille, promet au maire davantage de forces de l’ordre pour encadrer la prochaine manifestation prévue samedi](https://www.lemonde.fr/societe/live/2026/10/20/en-direct-manifestations-du-17-octobre-laurent-nunez-venu-lundi-soir-a-marseille-promet-au-maire-davantage-de-forces-de-l-ordre-pour-encadrer-la-prochaine-manifestation-prevue-samedi_6795855_3224.html) ⭐️ ?/10
-
-EN DIRECT, manifestations du 17 octobre : Laurent Nuñez, venu lundi soir à Marseille, promet au maire davantage de forces de l’ordre pour encadrer la prochaine manifestation prévue samedi
-
-rss · 世界报\(Le Monde\) · Oct 20, 00:02
-
----
-
-<a id="item-tech-news-326"></a>
-### [Les violences urbaines du 17 octobre « ont acté la mort du macronisme » avec « rage, colère et peur de l’avenir » : le regard d’une presse étrangère stupéfaite](https://www.lemonde.fr/politique/article/2026/10/19/les-manifestations-du-17-octobre-ont-acte-la-mort-du-macronisme-avec-rage-colere-et-peur-de-l-avenir-le-regard-d-une-presse-internationale-stupefaite-par-les-violences-urbaines_6797555_823448.html) ⭐️ ?/10
-
-Les violences urbaines du 17 octobre « ont acté la mort du macronisme » avec « rage, colère et peur de l’avenir » : le regard d’une presse étrangère stupéfaite
-
-rss · 世界报\(Le Monde\) · Oct 19, 15:52
-
----
-
-<a id="item-tech-news-327"></a>
-### [Contre les violences du 17 octobre, les élus ont appelé à « faire bloc » lors des rassemblements devant les mairies](https://www.lemonde.fr/politique/article/2026/10/19/apres-les-violences-du-17-octobre-les-elus-appellent-a-faire-bloc-lors-du-rassemblement-devant-les-mairies_6797584_823448.html) ⭐️ ?/10
-
-Contre les violences du 17 octobre, les élus ont appelé à « faire bloc » lors des rassemblements devant les mairies
-
-rss · 世界报\(Le Monde\) · Oct 19, 18:58
-
----
-
-<a id="item-tech-news-328"></a>
-### [Le mandat de Giorgia Meloni, des marges italiennes au cœur de la politique européenne](https://www.lemonde.fr/international/article/2026/10/19/le-mandat-de-giorgia-meloni-des-marges-italiennes-au-c-ur-de-la-politique-europeenne_6797578_3210.html) ⭐️ ?/10
-
-Le mandat de Giorgia Meloni, des marges italiennes au cœur de la politique européenne
-
-rss · 世界报\(Le Monde\) · Oct 19, 17:46
-
----
-
-<a id="item-tech-news-329"></a>
-### [Narcobanditisme : journée sous tension au procès de l’assassinat du demi-frère d’Amine Kessaci](https://www.lemonde.fr/societe/article/2026/10/19/narcobanditisme-journee-sous-tension-au-proces-de-l-assassinat-du-demi-frere-d-amine-kessaci_6797619_3224.html) ⭐️ ?/10
-
-Narcobanditisme : journée sous tension au procès de l’assassinat du demi-frère d’Amine Kessaci
-
-rss · 世界报\(Le Monde\) · Oct 19, 21:52
-
----
-
-<a id="item-tech-news-330"></a>
-### [Ramener un petit morceau de Phobos, l’une des deux lunes de Mars, l’objectif de l’audacieuse mission japonaise MMX](https://www.lemonde.fr/sciences/article/2026/10/19/l-audacieuse-mission-japonaise-mmx-part-a-l-abordage-de-phobos-l-une-des-deux-lunes-martiennes_6797485_1650684.html) ⭐️ ?/10
-
-Ramener un petit morceau de Phobos, l’une des deux lunes de Mars, l’objectif de l’audacieuse mission japonaise MMX
-
-rss · 世界报\(Le Monde\) · Oct 19, 04:00
-
----
-
-<a id="item-tech-news-331"></a>
-### [La foisonnante inventivité des chercheurs pour étudier les capacités d’adaptation des espèces](https://www.lemonde.fr/sciences/article/2026/10/19/la-foisonnante-inventivite-des-chercheurs-pour-etudier-les-capacites-d-adaptation-des-especes_6797552_1650684.html) ⭐️ ?/10
-
-La foisonnante inventivité des chercheurs pour étudier les capacités d’adaptation des espèces
-
-rss · 世界报\(Le Monde\) · Oct 19, 15:30
-
----
-
-<a id="item-tech-news-332"></a>
-### [Japan launches mission to explore Mars&\#x27; moons and bring back samples](https://www.france24.com/en/technology/20261020-japan-launches-mission-to-explore-mars-moons-and-bring-back-samples) ⭐️ ?/10
-
-Japan launches mission to explore Mars&\#x27; moons and bring back samples
-
-rss · France 24 · Oct 20, 01:29
-
----
-
-<a id="item-tech-news-333"></a>
-### [Spain floods kill four as torrential rain inundates eastern regions](https://www.france24.com/en/europe/20261019-spain-floods-kill-four-as-torrential-rain-inundates-eastern-regions) ⭐️ ?/10
-
-Spain floods kill four as torrential rain inundates eastern regions
-
-rss · France 24 · Oct 19, 21:39
-
----
-
-<a id="item-tech-news-334"></a>
-### [France tells online marketplaces to crack down on resale of looted items](https://www.france24.com/en/tv-shows/business/20261019-france-tells-online-marketplaces-to-crack-down-on-resale-of-looted-items) ⭐️ ?/10
-
-France tells online marketplaces to crack down on resale of looted items
-
-rss · France 24 · Oct 19, 21:24
-
----
-
-<a id="item-tech-news-335"></a>
-### [Le Pen &\#x27;trying to use these events to push her popularity&\#x27;, expert says](https://www.france24.com/en/tv-shows/a-propos/20261019-le-pen-trying-to-use-these-events-to-push-her-popularity-expert-says) ⭐️ ?/10
-
-Le Pen &\#x27;trying to use these events to push her popularity&\#x27;, expert says
-
-rss · France 24 · Oct 19, 20:54
-
----
-
-<a id="item-tech-news-336"></a>
-### [Le Pen &\#x27;trying to use these events to push her popularity&\#x27;, expert says](https://www.france24.com/en/le-pen-trying-to-use-these-events-to-push-her-popularity-expert-says) ⭐️ ?/10
-
-Le Pen &\#x27;trying to use these events to push her popularity&\#x27;, expert says
-
-rss · France 24 · Oct 19, 20:53
-
----
-
-<a id="item-tech-news-337"></a>
-### [Art crime detective Arthur Brand warns: &\#x27;All museums have been, and will be, victims of theft&\#x27;](https://www.france24.com/en/tv-shows/spotlight/20261019-art-crime-detective-arthur-brand-warns-all-museums-have-been-and-will-be-victims-of-theft) ⭐️ ?/10
-
-Art crime detective Arthur Brand warns: &\#x27;All museums have been, and will be, victims of theft&\#x27;
-
-rss · France 24 · Oct 19, 20:16
-
----
-
-<a id="item-tech-news-338"></a>
-### [France riots: AI photos falsely depict elderly couple ‘stripped and robbed’](https://www.france24.com/en/france-riots-ai-photos-falsely-depict-elderly-couple-stripped-and-robbed-1) ⭐️ ?/10
-
-France riots: AI photos falsely depict elderly couple ‘stripped and robbed’
-
-rss · France 24 · Oct 19, 20:06
-
----
-
-<a id="item-tech-news-339"></a>
-### [France faces reckoning with public order policing after violent protest weekend](https://www.france24.com/en/france/20261019-france-faces-reckoning-public-order-policing-after-violent-protest-weekend) ⭐️ ?/10
-
-France faces reckoning with public order policing after violent protest weekend
-
-rss · France 24 · Oct 19, 19:56
-
----
-
-<a id="item-tech-news-340"></a>
-### [French far right seeks to capitalise on protests with calls for law and order](https://www.france24.com/en/french-far-right-seeks-to-capitalise-on-protests-with-calls-for-law-and-order) ⭐️ ?/10
-
-French far right seeks to capitalise on protests with calls for law and order
-
-rss · France 24 · Oct 19, 19:41
-
----
-
-<a id="item-tech-news-341"></a>
-### [Russia-China-US summit would prolong the war, Kyiv says](https://www.france24.com/en/russia-china-us-summit-would-prolong-the-war-kyiv-says) ⭐️ ?/10
-
-Russia-China-US summit would prolong the war, Kyiv says
-
-rss · France 24 · Oct 19, 19:21
-
----
-
-<a id="item-tech-news-342"></a>
-### [Paris weekend riots raise concerns for tourism industry](https://www.france24.com/en/paris-weekend-riots-raise-concerns-for-tourism-industry) ⭐️ ?/10
-
-Paris weekend riots raise concerns for tourism industry
-
-rss · France 24 · Oct 19, 19:06
-
----
-
-<a id="item-tech-news-343"></a>
-### [Zelensky says Starshield speed limits slowing down frontline response](https://www.france24.com/en/zelensky-says-starshield-speed-limits-slowing-down-frontline-response) ⭐️ ?/10
-
-Zelensky says Starshield speed limits slowing down frontline response
-
-rss · France 24 · Oct 19, 18:45
-
----
-
-<a id="item-tech-news-344"></a>
-### [🔴 France issues curfew for parts of central Paris](https://www.france24.com/en/france/20261019-live-french-pm-lecornu-calls-for-partial-curfews-in-cities-hit-by-riots-and-looting) ⭐️ ?/10
-
-🔴 France issues curfew for parts of central Paris
-
-rss · France 24 · Oct 19, 17:09
-
----
-
-<a id="item-tech-news-345"></a>
-### [France: ‘localised’ curfews announced after weekend of violence](https://www.france24.com/en/france-localised-curfews-announced-after-weekend-scenes-of-violence) ⭐️ ?/10
-
-France: ‘localised’ curfews announced after weekend of violence
-
-rss · France 24 · Oct 19, 16:44
-
----
-
-<a id="item-tech-news-346"></a>
-### [DZ Mafia murder trial set to begin near Marseille](https://www.france24.com/en/video/20261019-dz-mafia-murder-trial-set-to-begin-near-marseille) ⭐️ ?/10
-
-DZ Mafia murder trial set to begin near Marseille
-
-rss · France 24 · Oct 19, 15:58
-
----
-
-<a id="item-tech-news-347"></a>
-### [Ukraine deploys drone to airlift wounded soldier in &\#x27;world-first&\#x27; operation](https://www.france24.com/en/europe/20261019-ukraine-deploys-drone-airlift-wounded-soldier-world-first-operation) ⭐️ ?/10
-
-Ukraine deploys drone to airlift wounded soldier in &\#x27;world-first&\#x27; operation
-
-rss · France 24 · Oct 19, 15:44
-
----
-
-<a id="item-tech-news-348"></a>
-### [France wants curfews in some areas after weekend of riots](https://www.france24.com/en/video/20261019-france-wants-curfews-in-some-areas-after-weekend-of-riots) ⭐️ ?/10
-
-France wants curfews in some areas after weekend of riots
-
-rss · France 24 · Oct 19, 15:37
-
----
-
-<a id="item-tech-news-349"></a>
-### [France protests: Who are the people arrested during the unrest?](https://www.france24.com/en/video/20261019-france-protests-who-are-the-people-arrested-during-the-unrest) ⭐️ ?/10
-
-France protests: Who are the people arrested during the unrest?
-
-rss · France 24 · Oct 19, 15:36
-
----
-
-<a id="item-tech-news-350"></a>
-### [&\#x27;Police weren&\#x27;t overwhelmed by people protesting and marching&\#x27; about education and cost of living](https://www.france24.com/en/video/20261019-police-weren-t-overwhelmed-by-people-protesting-and-marching-about-education-and-cost-of-living) ⭐️ ?/10
-
-&\#x27;Police weren&\#x27;t overwhelmed by people protesting and marching&\#x27; about education and cost of living
-
-rss · France 24 · Oct 19, 14:58
-
----
-
-<a id="item-tech-news-351"></a>
-### [Four soldiers dead, dozens injured in fire at Canada military base](https://www.france24.com/en/video/20261019-four-soldiers-dead-dozens-injured-in-fire-at-canada-military-base) ⭐️ ?/10
-
-Four soldiers dead, dozens injured in fire at Canada military base
-
-rss · France 24 · Oct 19, 14:25
-
----
-
-<a id="item-tech-news-352"></a>
-### [French PM says &\#x27;ultra-left&\#x27; seeking &\#x27;deep unrest&\#x27; ahead of election](https://www.france24.com/en/video/20261019-french-pm-says-ultra-left-seeking-deep-unrest-ahead-of-election) ⭐️ ?/10
-
-French PM says &\#x27;ultra-left&\#x27; seeking &\#x27;deep unrest&\#x27; ahead of election
-
-rss · France 24 · Oct 19, 14:20
-
----
-
-<a id="item-tech-news-353"></a>
-### [Brazil court orders Meta to prove it gives Lula, Bolsonaro campaign content equal treatment](https://www.france24.com/en/americas/20261019-brazil-court-orders-meta-prove-gives-lula-bolsonaro-campaign-content-equal-treatment) ⭐️ ?/10
-
-Brazil court orders Meta to prove it gives Lula, Bolsonaro campaign content equal treatment
-
-rss · France 24 · Oct 19, 14:16
-
----
-
-<a id="item-tech-news-354"></a>
-### [France protests draw global attention: Trump, Vance blame immigration for unrest](https://www.france24.com/en/video/20261019-france-protests-draw-global-attention-trump-vance-blame-immigration-for-unrest) ⭐️ ?/10
-
-France protests draw global attention: Trump, Vance blame immigration for unrest
-
-rss · France 24 · Oct 19, 14:04
-
----
-
-<a id="item-tech-news-355"></a>
-### [Macron kicks off three-day Gulf tour, seeks securing fuel supplies amid crisis](https://www.france24.com/en/video/20261019-macron-kicks-off-three-day-gulf-tour-seeks-securing-fuel-supplies-amid-crisis) ⭐️ ?/10
-
-Macron kicks off three-day Gulf tour, seeks securing fuel supplies amid crisis
-
-rss · France 24 · Oct 19, 14:02
-
----
-
-<a id="item-tech-news-356"></a>
-### [Ukraine-Krieg: Wolodymyr Selenskyj wirft USA Blockade bezahlter Raketenlieferungen vor](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-wirft-usa-blockade-bezahlter-raketenlieferungen-vor-a-59d720ee-7bd4-4715-876d-24107dc630bb#ref=rss) ⭐️ ?/10
-
-Ukraine-Krieg: Wolodymyr Selenskyj wirft USA Blockade bezahlter Raketenlieferungen vor
-
-rss · 明镜周刊\(Der Spiegel\) · Oct 20, 01:11
-
----
-
-<a id="item-tech-news-357"></a>
-### [»Promi Big Brother« 2026: Maurice Dwizak gewinnt Finale vor Axel Schulz](https://www.spiegel.de/kultur/promi-big-brother-2026-maurice-dwizak-gewinnt-finale-vor-axel-schulz-a-83738a6c-5585-452d-a3b4-d9aee62bd747#ref=rss) ⭐️ ?/10
-
-»Promi Big Brother« 2026: Maurice Dwizak gewinnt Finale vor Axel Schulz
-
-rss · 明镜周刊\(Der Spiegel\) · Oct 20, 00:15
-
----
-
-<a id="item-tech-news-358"></a>
-### [Friedrich Merz: Viele Deutsche unterschätzen Bedrohung durch Russland](https://www.spiegel.de/politik/friedrich-merz-viele-deutsche-unterschaetzen-bedrohung-durch-russland-a-d8afabf2-bca4-43db-8dbb-d52eaf5c4acd#ref=rss) ⭐️ ?/10
-
-Friedrich Merz: Viele Deutsche unterschätzen Bedrohung durch Russland
-
-rss · 明镜周刊\(Der Spiegel\) · Oct 19, 23:41
-
----
-
-<a id="item-tech-news-359"></a>
-### [Peter Christian Zinkann: Langjähriger Miele-Chef ist tot](https://www.spiegel.de/wirtschaft/peter-christian-zinkann-langjaehriger-miele-chef-ist-tot-a-e092a512-8bd3-4c5f-904f-4bd7789cc436#ref=rss) ⭐️ ?/10
-
-Peter Christian Zinkann: Langjähriger Miele-Chef ist tot
-
-rss · 明镜周刊\(Der Spiegel\) · Oct 19, 23:06
-
----
-
-<a id="item-tech-news-360"></a>
-### [Iran: Spionageurteile belasten Verhältnis – Botschafter einbestellt](https://www.spiegel.de/ausland/iran-spionageurteile-belasten-verhaeltnis-botschafter-einbestellt-a-143005ed-3ca1-46a7-b862-c612d9e3270f#ref=rss) ⭐️ ?/10
-
-Iran: Spionageurteile belasten Verhältnis – Botschafter einbestellt
-
-rss · 明镜周刊\(Der Spiegel\) · Oct 19, 20:45
-
----
-
-<a id="item-tech-news-361"></a>
-### [Japan: Erfolgreicher Raketenstart für Mission zum Marsmond Phobos](https://www.spiegel.de/wissenschaft/weltall/japan-erfolgreicher-raketenstart-fuer-mission-zum-marsmond-phobos-a-814e2aa3-e5cc-4547-9fb6-39b995617794#ref=rss) ⭐️ ?/10
-
-Japan: Erfolgreicher Raketenstart für Mission zum Marsmond Phobos
-
-rss · 明镜周刊\(Der Spiegel\) · Oct 19, 20:11
-
----
-
-<a id="item-tech-news-362"></a>
-### [Cristiano Ronaldo: Geringe Geldstrafe nach Eklat im Nationalteam](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-geringe-geldstrafe-nach-eklat-im-nationalteam-a-912300d2-bde9-45ae-a198-91557a266b0f#ref=rss) ⭐️ ?/10
-
-Cristiano Ronaldo: Geringe Geldstrafe nach Eklat im Nationalteam
-
-rss · 明镜周刊\(Der Spiegel\) · Oct 19, 19:53
-
----
-
-<a id="item-tech-news-363"></a>
-### [Kenia: Sektenführer wegen Tötung von 191 Menschen schuldig gesprochen](https://www.spiegel.de/ausland/kenia-sektenfuehrer-wegen-toetung-von-191-menschen-schuldig-gesprochen-a-2e81361d-1caa-4d08-9d7e-7250bccbfd6e#ref=rss) ⭐️ ?/10
-
-Kenia: Sektenführer wegen Tötung von 191 Menschen schuldig gesprochen
-
-rss · 明镜周刊\(Der Spiegel\) · Oct 19, 19:40
-
----
-
-<a id="item-tech-news-364"></a>
-### [Berlin: SPD und Grüne stimmen für Koalitionsgespräche mit der Linken](https://www.spiegel.de/politik/deutschland/berlin-spd-stimmt-fuer-koalitionsgespraeche-mit-linke-und-gruenen-a-6a348e5e-b947-4117-93e2-aa98ac8b892a#ref=rss) ⭐️ ?/10
-
-Berlin: SPD und Grüne stimmen für Koalitionsgespräche mit der Linken
-
-rss · 明镜周刊\(Der Spiegel\) · Oct 19, 19:39
-
----
-
-<a id="item-tech-news-365"></a>
-### [Frankreich: Städte verhängen nächtliche Ausgangssperren nach Plünderungen](https://www.spiegel.de/ausland/frankreich-staedte-verhaengen-naechtliche-ausgangssperren-nach-pluenderungen-a-9793648b-83d2-4067-a54a-8d7469b117ce#ref=rss) ⭐️ ?/10
-
-Frankreich: Städte verhängen nächtliche Ausgangssperren nach Plünderungen
-
-rss · 明镜周刊\(Der Spiegel\) · Oct 19, 19:29
-
----
-
-<a id="item-tech-news-366"></a>
-### [Nvidia: Bundesregierung und Konzernchef Huang besiegeln KI-Kooperation](https://www.spiegel.de/wirtschaft/unternehmen/nvidia-bundesregierung-und-konzernchef-huang-besiegeln-ki-kooperation-a-292aff8c-c1b9-414e-96f2-14c1d29b7f72#ref=rss) ⭐️ ?/10
-
-Nvidia: Bundesregierung und Konzernchef Huang besiegeln KI-Kooperation
-
-rss · 明镜周刊\(Der Spiegel\) · Oct 19, 19:29
-
----
-
-<a id="item-tech-news-367"></a>
-### [Armin Meiwes: »Kannibale von Rotenburg« bleibt vorerst im Gefängnis](https://www.spiegel.de/panorama/justiz/armin-meiwes-kannibale-von-rothenburg-bleibt-vorerst-im-gefaengnis-a-0c93b177-5ff9-4fd6-b021-f28f01758e34#ref=rss) ⭐️ ?/10
-
-Armin Meiwes: »Kannibale von Rotenburg« bleibt vorerst im Gefängnis
-
-rss · 明镜周刊\(Der Spiegel\) · Oct 19, 18:19
-
----
-
-<a id="item-tech-news-368"></a>
-### [Christiane Amanpour: CNN-Chefkorrespondentin geht nach 43 Jahren](https://www.spiegel.de/panorama/leute/christiane-amanpour-cnn-chefkorrespondentin-geht-nach-43-jahren-a-30597d9f-28df-4edb-a1a8-c437dc702d35#ref=rss) ⭐️ ?/10
-
-Christiane Amanpour: CNN-Chefkorrespondentin geht nach 43 Jahren
-
-rss · 明镜周刊\(Der Spiegel\) · Oct 19, 18:18
-
----
-
-<a id="item-tech-news-369"></a>
-### [Berlin: Warum die Vergesellschaftung wohl scheitern wird](https://www.spiegel.de/wirtschaft/soziales/warum-die-vergesellschaftung-in-berlin-wohl-scheitern-wird-a-793bc493-303b-4f0e-aa89-94be3ff6e351#ref=rss) ⭐️ ?/10
-
-Berlin: Warum die Vergesellschaftung wohl scheitern wird
-
-rss · 明镜周刊\(Der Spiegel\) · Oct 19, 18:06
-
----
-
-<a id="item-tech-news-370"></a>
-### [Kevin Dorow: Staatsanwaltschaft klagt AfD-Politiker wegen NS-Parole an](https://www.spiegel.de/politik/deutschland/kevin-dorow-staatsanwaltschaft-klagt-afd-politiker-wegen-ns-parole-an-a-01739e4f-e274-4dec-a236-698d910e05a7#ref=rss) ⭐️ ?/10
-
-Kevin Dorow: Staatsanwaltschaft klagt AfD-Politiker wegen NS-Parole an
-
-rss · 明镜周刊\(Der Spiegel\) · Oct 19, 18:02
-
----
-
-<a id="item-tech-news-371"></a>
-### [NFL: Jalen Hurts erleidet Thrombose und beidseitige Lungenembolie](https://www.spiegel.de/sport/american-football/nfl-jalen-hurts-erleidet-thrombose-und-beidseitige-lungenembolie-a-f7d56417-860d-4897-94af-53057313cfc5#ref=rss) ⭐️ ?/10
-
-NFL: Jalen Hurts erleidet Thrombose und beidseitige Lungenembolie
-
-rss · 明镜周刊\(Der Spiegel\) · Oct 19, 18:01
-
----
-
-<a id="item-tech-news-372"></a>
-### [VW-Krise: Warum ein Bruch mit der IG Metall riskant wäre](https://www.spiegel.de/wirtschaft/unternehmen/vw-krise-warum-ein-bruch-mit-der-ig-metall-riskant-waere-a-7d01239f-4651-465b-9de3-a0238ed7da1b#ref=rss) ⭐️ ?/10
-
-VW-Krise: Warum ein Bruch mit der IG Metall riskant wäre
-
-rss · 明镜周刊\(Der Spiegel\) · Oct 19, 17:15
-
----
-
-<a id="item-tech-news-373"></a>
-### [Bulgarien: Angriff auf Starlink-Antennen – Haftbefehl gegen Deutsche erlassen](https://www.spiegel.de/panorama/justiz/bulgarien-angriff-auf-starlink-antennen-haftbefehl-gegen-deutsche-erlassen-a-a87afb25-0598-44ed-9e6b-6bf567bc3ad3#ref=rss) ⭐️ ?/10
-
-Bulgarien: Angriff auf Starlink-Antennen – Haftbefehl gegen Deutsche erlassen
-
-rss · 明镜周刊\(Der Spiegel\) · Oct 19, 17:08
-
----
-
-<a id="item-tech-news-374"></a>
-### [Bärbel Bas&\#x27; Rücktritt: Christian von Stetten \(CDU\) verteidigt sich gegen SPD-Kritik](https://www.spiegel.de/politik/deutschland/baerbel-bas-ruecktritt-christian-von-stetten-cdu-verteidigt-sich-gegen-spd-kritik-a-d2f4ece8-aaf9-4483-9ad2-ffdfa8913033#ref=rss) ⭐️ ?/10
-
-Bärbel Bas&\#x27; Rücktritt: Christian von Stetten \(CDU\) verteidigt sich gegen SPD-Kritik
-
-rss · 明镜周刊\(Der Spiegel\) · Oct 19, 16:34
-
----
-
-<a id="item-tech-news-375"></a>
-### [Prinzessin Amalia der Niederlande bekommt eine kalte Dusche – das ist der Grund](https://www.spiegel.de/panorama/leute/prinzessin-amalia-der-niederlande-bekommt-eine-kalte-dusche-das-ist-der-grund-a-fdf0b319-a645-4697-94fd-695b0be7c3ac#ref=rss) ⭐️ ?/10
-
-Prinzessin Amalia der Niederlande bekommt eine kalte Dusche – das ist der Grund
-
-rss · 明镜周刊\(Der Spiegel\) · Oct 19, 15:45
-
----
-
-<a id="item-tech-news-376"></a>
-### [Junge Union: Deutschlandtag in Bonn - Dieses Banner ist eine Entgleisung](https://www.spiegel.de/politik/deutschland/jungen-union-deutschlandtag-in-bonn-dieses-banner-ist-eine-entgleisung-a-3c507f74-7b95-4915-b1e0-8545d39c1649#ref=rss) ⭐️ ?/10
-
-Junge Union: Deutschlandtag in Bonn - Dieses Banner ist eine Entgleisung
-
-rss · 明镜周刊\(Der Spiegel\) · Oct 19, 15:43
-
----
-
-<a id="item-tech-news-377"></a>
-### [News des Tages: Mögliches Linksbündnis in Berlin, Krawalle in Frankreich, Natur in der Krise](https://www.spiegel.de/politik/deutschland/news-des-tages-moegliches-linksbuendnis-in-berlin-belastet-koalition-im-bund-krawalle-in-frankreich-natur-in-der-krise-a-0476abe9-47fd-4ebc-ae5a-27c59d902865#ref=rss) ⭐️ ?/10
-
-News des Tages: Mögliches Linksbündnis in Berlin, Krawalle in Frankreich, Natur in der Krise
-
-rss · 明镜周刊\(Der Spiegel\) · Oct 19, 15:43
-
----
-
-<a id="item-tech-news-378"></a>
-### [Verden in Niedersachsen: Hebamme muss nach tödlicher Hausgeburt drei Jahre in Haft](https://www.spiegel.de/panorama/justiz/verden-in-niedersachsen-hebamme-muss-nach-toedlicher-hausgeburt-drei-jahre-in-haft-a-a1ff6a14-7e59-4de3-b4e5-7c0a7b0bfdcc#ref=rss) ⭐️ ?/10
-
-Verden in Niedersachsen: Hebamme muss nach tödlicher Hausgeburt drei Jahre in Haft
-
-rss · 明镜周刊\(Der Spiegel\) · Oct 19, 15:35
-
----
-
-<a id="item-tech-news-379"></a>
-### [Donald Trump: Meta entschuldigt sich für Sperrung von »No Kings«-Instagram-Account](https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-meta-entschuldigt-sich-fuer-sperrung-von-no-kings-instagram-account-a-c8078aa0-5e96-460d-81b7-58e85c9e1437#ref=rss) ⭐️ ?/10
-
-Donald Trump: Meta entschuldigt sich für Sperrung von »No Kings«-Instagram-Account
-
-rss · 明镜周刊\(Der Spiegel\) · Oct 19, 15:32
-
----
-
-<a id="item-tech-news-380"></a>
-### [Deutschland: Wie Vermögen, Bildung und Herkunft die Ungleichheit prägen](https://www.spiegel.de/wirtschaft/soziales/deutschland-wie-vermoegen-bildung-und-herkunft-die-ungleichheit-praegen-a-b2bf973b-3ff5-48ea-98d1-1f104c45bd0c#ref=rss) ⭐️ ?/10
-
-Deutschland: Wie Vermögen, Bildung und Herkunft die Ungleichheit prägen
-
-rss · 明镜周刊\(Der Spiegel\) · Oct 19, 15:15
-
----
-
-<a id="item-tech-news-381"></a>
-### [Stade: Tochter von Opfer übernimmt Mutter-Kind-Haus](https://www.spiegel.de/panorama/stade-tochter-von-opfer-uebernimmt-mutter-kind-haus-a-4ad6b0f9-d6a3-487e-bc4a-53db3b2a1ac8#ref=rss) ⭐️ ?/10
-
-Stade: Tochter von Opfer übernimmt Mutter-Kind-Haus
-
-rss · 明镜周刊\(Der Spiegel\) · Oct 19, 15:00
-
----
-
-<a id="item-tech-news-382"></a>
-### [Rob Jetten: Niederländischer Regierungschef und sein Partner werden Väter](https://www.spiegel.de/ausland/rob-jetten-niederlaendischer-regierungschef-und-sein-partner-werden-vaeter-a-f94388b1-f892-4af8-990b-34d87b1e8ca3#ref=rss) ⭐️ ?/10
-
-Rob Jetten: Niederländischer Regierungschef und sein Partner werden Väter
-
-rss · 明镜周刊\(Der Spiegel\) · Oct 19, 14:46
-
----
-
-<a id="item-tech-news-383"></a>
-### [TSV 1860 München: Warum der Club trotz der Niederlage gegen den FC Bayern II vor Euphorie sprüht](https://www.spiegel.de/sport/fussball/tsv-1860-muenchen-warum-der-club-trotz-der-niederlage-gegen-den-fc-bayern-ii-vor-euphorie-sprueht-a-f7ce8068-453f-4731-8d25-460cd9bcba2c#ref=rss) ⭐️ ?/10
-
-TSV 1860 München: Warum der Club trotz der Niederlage gegen den FC Bayern II vor Euphorie sprüht
-
-rss · 明镜周刊\(Der Spiegel\) · Oct 19, 14:39
-
----
-
-<a id="item-tech-news-384"></a>
-### [Olfen: Messerattacke in Seniorenheim – Verletzte Frauen außer Lebensgefahr](https://www.spiegel.de/panorama/justiz/olfen-messerattacke-in-seniorenheim-verletzte-frauen-ausser-lebensgefahr-a-9e7c29bb-64b4-493b-b579-7c59a33071e5#ref=rss) ⭐️ ?/10
-
-Olfen: Messerattacke in Seniorenheim – Verletzte Frauen außer Lebensgefahr
-
-rss · 明镜周刊\(Der Spiegel\) · Oct 19, 14:28
-
----
-
-<a id="item-tech-news-385"></a>
-### [Zittern um Rentenreform: Was die „Rente mit 63“ so brisant macht](https://www.faz.net/aktuell/wirtschaft/arm-und-reich/rente-mit-63-was-die-abschlagsfreiheit-kostet-und-warum-sie-die-koalition-spaltet-201601670.html) ⭐️ ?/10
-
-Zittern um Rentenreform: Was die „Rente mit 63“ so brisant macht
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 20:12
-
----
-
-<a id="item-tech-news-386"></a>
-### [Huang zu Merz: „Gib Deutschland eine Chance\!“](https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-chef-huang-zu-merz-gib-deutschland-eine-chance-201603218.html) ⭐️ ?/10
-
-Huang zu Merz: „Gib Deutschland eine Chance\!“
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 19:07
-
----
-
-<a id="item-tech-news-387"></a>
-### [Rot-Rot-Grün: Berliner Grüne stimmen für Koalitionsverhandlungen](https://www.faz.net/aktuell/politik/wahl-in-berlin/berliner-gruene-stimmen-fuer-koalitionsverhandlungen-mit-spd-und-linke-201603305.html) ⭐️ ?/10
-
-Rot-Rot-Grün: Berliner Grüne stimmen für Koalitionsverhandlungen
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 20:06
-
----
-
-<a id="item-tech-news-388"></a>
-### [„Hart aber fair“: Leben deutsche Beamte wirklich länger?](https://www.faz.net/aktuell/feuilleton/medien-und-film/talkshow/wie-bei-hart-aber-fair-ueber-deutsche-beamte-diskutiert-wird-201603418.html) ⭐️ ?/10
-
-„Hart aber fair“: Leben deutsche Beamte wirklich länger?
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 23:53
-
----
-
-<a id="item-tech-news-389"></a>
-### [Verdreckte Innenstädte: „Sonst macht es ja keiner“](https://www.faz.net/aktuell/gesellschaft/menschen/warum-ein-unternehmer-nachts-frankfurt-putzt-accg-201262475.html) ⭐️ ?/10
-
-Verdreckte Innenstädte: „Sonst macht es ja keiner“
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 12:10
-
----
-
-<a id="item-tech-news-390"></a>
-### [Arrest warrants issued for two Germans over Starlink sabotage in Bulgaria](https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-haftbefehl-gegen-zwei-deutsche-wegen-starlink-sabotage-faz-110683325.html) ⭐️ ?/10
-
-According to a liveblog by the Frankfurter Allgemeine Zeitung, arrest warrants have been issued against two German nationals suspected of setting fire to Starlink satellite antennas in Bulgaria. The report indicates that President Volodymyr Zelensky stated Ukraine was not warned in advance of the attacks. Concurrently, Russian President Vladimir Putin has proposed a three-way summit involving US President Donald Trump and Chinese President Xi Jinping.
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 17:28
-
-**「Background」** Starlink is a satellite internet constellation operated by SpaceX, providing critical communications infrastructure in conflict zones like Ukraine. Sabotage of such ground stations is a known tactic in modern warfare to disrupt military and civilian connectivity.
-
-**「Impact」** The issuance of arrest warrants marks a legal escalation against individuals allegedly targeting critical Western-supplied infrastructure in a NATO partner state. It highlights the ongoing security risks to Starlink operations along the Ukrainian border.
-
----
-
-<a id="item-tech-news-391"></a>
-### [Vor der Steuerreform: Schnell noch Geld sparen](https://www.faz.net/aktuell/finanzen/steuerreform-2026-sieben-tipps-wie-sie-jetzt-noch-geld-sparen-accg-201340787.html) ⭐️ ?/10
-
-Vor der Steuerreform: Schnell noch Geld sparen
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 03:38
-
----
-
-<a id="item-tech-news-392"></a>
-### [Streit mit Selenskyj: Wird Trumps Torheit wieder Normalmaß annehmen?](https://www.faz.net/aktuell/politik/ausland/trump-staerkt-putin-und-laesst-die-ukraine-im-stich-201602176.html) ⭐️ ?/10
-
-Streit mit Selenskyj: Wird Trumps Torheit wieder Normalmaß annehmen?
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 16:39
-
----
-
-<a id="item-tech-news-393"></a>
-### [Berliner Sondierung: Deutschland ist keine parteipolitische Strafanstalt](https://www.faz.net/aktuell/politik/inland/deutschland-ist-keine-parteipolitische-strafanstalt-201601975.html) ⭐️ ?/10
-
-Berliner Sondierung: Deutschland ist keine parteipolitische Strafanstalt
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 16:20
-
----
-
-<a id="item-tech-news-394"></a>
-### [Insulinfabrik: Sanofi setzt auf Frankfurt dank üppiger Staatshilfe](https://www.faz.net/aktuell/wirtschaft/unternehmen/sanofi-investiert-in-hoechst-ein-erfolg-mit-scheckbuch-201602035.html) ⭐️ ?/10
-
-Insulinfabrik: Sanofi setzt auf Frankfurt dank üppiger Staatshilfe
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 13:36
-
----
-
-<a id="item-tech-news-395"></a>
-### [Kunstmesse Art Basel: Sammler, kommst du nach Paris](https://www.faz.net/aktuell/feuilleton/kunstmarkt/krawalle-in-paris-was-wird-aus-der-kunstmesse-art-basel-paris-201601707.html) ⭐️ ?/10
-
-Kunstmesse Art Basel: Sammler, kommst du nach Paris
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 11:33
-
----
-
-<a id="item-tech-news-396"></a>
-### [Unruhen: Die gescheiterte Integration in Frankreich](https://www.faz.net/aktuell/politik/ausland/die-unruhen-in-frankreich-sind-kein-zufall-die-integration-ist-gescheitert-201599861.html) ⭐️ ?/10
-
-Unruhen: Die gescheiterte Integration in Frankreich
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 11:26
-
----
-
-<a id="item-tech-news-397"></a>
-### [Neuer Beatles-Mix: Als stünden John und Paul direkt neben uns](https://www.faz.net/aktuell/rhein-main/kultur/neuer-beatles-mix-rubber-soul-als-stuenden-john-und-paul-direkt-neben-uns-201307697.html) ⭐️ ?/10
-
-Neuer Beatles-Mix: Als stünden John und Paul direkt neben uns
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 10:51
-
----
-
-<a id="item-tech-news-398"></a>
-### [Abhängigkeit von Musk: Ein europäisches Starlink wäre möglich – doch es fehlt der Wille](https://www.faz.net/aktuell/wirtschaft/starlink-vs-stuttgart-21-europas-strategische-abhaengigkeit-von-elon-musk-201599235.html) ⭐️ ?/10
-
-Abhängigkeit von Musk: Ein europäisches Starlink wäre möglich – doch es fehlt der Wille
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 10:40
-
----
-
-<a id="item-tech-news-399"></a>
-### [Krise der „Lilien“: Der zweiten Liga nicht würdig](https://www.faz.net/aktuell/sport/rhein-main-sport/darmstadt-98/sv-darmstadt-98-und-florian-kohfeldt-der-zweiten-liga-nicht-wuerdig-201601249.html) ⭐️ ?/10
-
-Krise der „Lilien“: Der zweiten Liga nicht würdig
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 09:36
-
----
-
-<a id="item-tech-news-400"></a>
-### [Koalition: Ein Fuß über dem Abgrund](https://www.faz.net/aktuell/politik/inland/warum-merz-und-die-koalition-mit-einem-fuss-ueber-dem-abgrund-stehen-201597755.html) ⭐️ ?/10
-
-Koalition: Ein Fuß über dem Abgrund
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 08:26
-
----
-
-<a id="item-tech-news-401"></a>
-### [SPD-Frauen: Wer ist hier sexistisch?](https://www.faz.net/aktuell/politik/inland/verhalten-der-spd-frauen-wer-ist-hier-sexistisch-201598167.html) ⭐️ ?/10
-
-SPD-Frauen: Wer ist hier sexistisch?
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 08:03
-
----
-
-<a id="item-tech-news-402"></a>
-### [Ballon D’or: Ist Harry Kane der beste Fußballspieler der Welt?](https://www.faz.net/aktuell/sport/fussball/bundesliga/warum-harry-kane-vom-fc-bayern-muenchen-den-ballon-d-or-verdient-haette-201597957.html) ⭐️ ?/10
-
-Ballon D’or: Ist Harry Kane der beste Fußballspieler der Welt?
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 06:09
-
----
-
-<a id="item-tech-news-403"></a>
-### [Gesundheitsversorgung: Kassenärzte warnen vor längeren Wartezeiten auf Arzttermine](https://www.faz.net/aktuell/gesellschaft/gesundheit/kassenaerzte-warnen-vor-laengeren-wartezeiten-auf-arzttermine-accg-201603583.html) ⭐️ ?/10
-
-Gesundheitsversorgung: Kassenärzte warnen vor längeren Wartezeiten auf Arzttermine
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 00:21
-
----
-
-<a id="item-tech-news-404"></a>
-### [Neue Exportregeln: China will das Ausland von neuer KI- und Solartechnik abschneiden](https://www.faz.net/aktuell/wirtschaft/china-beschraenkt-export-von-ki-solartechnik-und-drohnen-201602046.html) ⭐️ ?/10
-
-Neue Exportregeln: China will das Ausland von neuer KI- und Solartechnik abschneiden
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 15:06
-
----
-
-<a id="item-tech-news-405"></a>
-### [Gemeinsame Mission: Japan und Deutschland starten zu den Marsmonden](https://www.faz.net/aktuell/wirtschaft/jaxa-startet-mmx-mission-dlr-rover-idefix-soll-phobos-erkunden-accg-201601818.html) ⭐️ ?/10
-
-Gemeinsame Mission: Japan und Deutschland starten zu den Marsmonden
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 11:34
-
----
-
-<a id="item-tech-news-406"></a>
-### [Nach 43 Jahren: Starreporterin Christiane Amanpour verlässt CNN](https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/christiane-amanpour-verlaesst-cnn-nach-43-jahren-201603470.html) ⭐️ ?/10
-
-Nach 43 Jahren: Starreporterin Christiane Amanpour verlässt CNN
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 21:26
-
----
-
-<a id="item-tech-news-407"></a>
-### [Gewalt in Frankreich: „Es herrschte die Absicht zu zerstören, zu zerschlagen, zu töten“](https://www.faz.net/aktuell/politik/ausland/nach-ausschreitungen-in-frankreich-steht-macron-in-der-kritik-201599958.html) ⭐️ ?/10
-
-Gewalt in Frankreich: „Es herrschte die Absicht zu zerstören, zu zerschlagen, zu töten“
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 13:31
-
----
-
-<a id="item-tech-news-408"></a>
-### [Trauer in Gütersloh: Langjähriger Miele-Chef Peter Christian Zinkann ist tot](https://www.faz.net/aktuell/wirtschaft/unternehmen/peter-christian-zinkann-langjaehriger-miele-chef-im-alter-von-98-jahren-gestorben-201603371.html) ⭐️ ?/10
-
-Trauer in Gütersloh: Langjähriger Miele-Chef Peter Christian Zinkann ist tot
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 19:47
-
----
-
-<a id="item-tech-news-409"></a>
-### [Südtirol: Eltern lassen Teenager in den Alpen zurück – von Bergwacht gerettet](https://www.faz.net/aktuell/gesellschaft/eltern-schon-umgekehrt-unterkuehlte-teenager-in-suedtirol-gerettet-201602013.html) ⭐️ ?/10
-
-Südtirol: Eltern lassen Teenager in den Alpen zurück – von Bergwacht gerettet
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 13:42
-
----
-
-<a id="item-tech-news-410"></a>
-### [Kate Zambrenos „Schaum“: Bilder einer Lebensausstellung](https://www.faz.net/aktuell/feuilleton/buecher/literatur/frankfurter-buchmesse-2026-schaum-von-kate-zambreno-201253288.html) ⭐️ ?/10
-
-Kate Zambrenos „Schaum“: Bilder einer Lebensausstellung
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 20:17
-
----
-
-<a id="item-tech-news-411"></a>
-### [Film „Schattenkrieger“: Wer Russland retten will, muss der Ukraine zum Sieg verhelfen](https://www.faz.net/aktuell/feuilleton/medien-und-film/fernsehfilm/fernsehfilm-schattenkrieger-russen-die-der-ukraine-helfen-201602371.html) ⭐️ ?/10
-
-Film „Schattenkrieger“: Wer Russland retten will, muss der Ukraine zum Sieg verhelfen
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 16:38
-
----
-
-<a id="item-tech-news-412"></a>
-### [Lust in der Beziehung: „Ich dachte: Das ist ein Mann, der muss doch auch wollen\!“](https://www.faz.net/aktuell/besser-leben/liebe/lust-in-der-beziehung-wenn-sie-oefter-sex-will-als-er-accg-201226116.html) ⭐️ ?/10
-
-Lust in der Beziehung: „Ich dachte: Das ist ein Mann, der muss doch auch wollen\!“
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 06:32
-
----
-
-<a id="item-tech-news-413"></a>
-### [„Weg zum Triathlon“: Wie sinnvoll ist eine Sportuhr?](https://www.faz.net/aktuell/sport/sport-tipps/mein-weg-zum-triathlon-wie-sinnvoll-ist-eine-sportuhr-accg-201311906.html) ⭐️ ?/10
-
-„Weg zum Triathlon“: Wie sinnvoll ist eine Sportuhr?
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 10:16
-
----
-
-<a id="item-tech-news-414"></a>
-### [F.A.Z. Exklusiv: Satellitendaten zeigen Russlands gefährliches Agieren an der Ostsee](https://www.faz.net/aktuell/politik/ukraine/iceye-satelliten-wie-russland-im-ostseeraum-aufruestet-accg-201313358.html) ⭐️ ?/10
-
-F.A.Z. Exklusiv: Satellitendaten zeigen Russlands gefährliches Agieren an der Ostsee
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 04:58
-
----
-
-<a id="item-tech-news-415"></a>
-### [Anschlag in Australien: Abgeordnete lebensgefährlich verletzt](https://www.faz.net/video/anschlag-in-australien-auto-faehrt-in-abgeordnete-201602941.html) ⭐️ ?/10
-
-Anschlag in Australien: Abgeordnete lebensgefährlich verletzt
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 14:55
-
----
-
-<a id="item-tech-news-416"></a>
-### [„Victoria’s Secret“-Show: Kylie Jenner gibt Debüt im Fantasy-Bra](https://www.faz.net/video/kylie-jenner-gibt-victorias-secret-debuet-201602592.html) ⭐️ ?/10
-
-„Victoria’s Secret“-Show: Kylie Jenner gibt Debüt im Fantasy-Bra
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 14:01
-
----
-
-<a id="item-tech-news-417"></a>
-### [Unmut über steigende Kosten: Krawalle bei Protesten auch in Italien](https://www.faz.net/video/krawalle-bei-protesten-auch-in-italien-201602041.html) ⭐️ ?/10
-
-Unmut über steigende Kosten: Krawalle bei Protesten auch in Italien
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 12:40
-
----
-
-<a id="item-tech-news-418"></a>
-### [F.A.Z. Podcast für Deutschland: Merz&\#x27; Triumph in Brüssel: „Das Verbrenner-Aus ist Geschichte“](https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/f-a-z-podcast-das-verbrenner-aus-ist-geschichte-201602315.html) ⭐️ ?/10
-
-F.A.Z. Podcast für Deutschland: Merz&\#x27; Triumph in Brüssel: „Das Verbrenner-Aus ist Geschichte“
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 15:12
-
----
-
-<a id="item-tech-news-419"></a>
-### [Rhein-Main-Feierabendbriefing: Lufthansa: Der letzte Flug der A340-600](https://www.faz.net/podcasts/rhein-main-feierabendbriefing/lufthansa-er-letzte-flug-der-a340-600-201602907.html) ⭐️ ?/10
-
-Rhein-Main-Feierabendbriefing: Lufthansa: Der letzte Flug der A340-600
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 15:05
-
----
-
-<a id="item-tech-news-420"></a>
-### [F.A.Z. Frühdenker: Stimmen SPD und Grüne für Koalitionsgespräche mit der Linken?](https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/stimmen-spd-und-gruene-fuer-koalitionsgespraeche-mit-der-linken-faz-fruehdenker-201599302.html) ⭐️ ?/10
-
-F.A.Z. Frühdenker: Stimmen SPD und Grüne für Koalitionsgespräche mit der Linken?
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 03:58
-
----
-
-<a id="item-tech-news-421"></a>
-### [Deutschland Liveblog: Grüne und SPD stimmen für Koalitionsverhandlungen mit Linken in Berlin](https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-gruene-und-spd-stimmen-fuer-koalitionsverhandlungen-mit-linken-in-berlin-faz-110093143.html) ⭐️ ?/10
-
-Deutschland Liveblog: Grüne und SPD stimmen für Koalitionsverhandlungen mit Linken in Berlin
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 19:23
-
----
-
-<a id="item-tech-news-422"></a>
-### [Vergangenheitsbewältigung: Versöhnt ist Nordirland noch lange nicht](https://www.faz.net/aktuell/politik/ausland/nordirland-neues-gesetz-soll-versoehnung-nach-den-troubles-foerdern-201529346.html) ⭐️ ?/10
-
-Vergangenheitsbewältigung: Versöhnt ist Nordirland noch lange nicht
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 19:19
-
----
-
-<a id="item-tech-news-423"></a>
-### [Starlink-Beschränkungen: Warum Satelliteninternet für die Ukraine so wichtig ist](https://www.faz.net/aktuell/politik/ukraine/starlink-und-starshield-warum-die-ukraine-so-abhaengig-von-musks-internet-ist-201601789.html) ⭐️ ?/10
-
-Starlink-Beschränkungen: Warum Satelliteninternet für die Ukraine so wichtig ist
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 16:38
-
----
-
-<a id="item-tech-news-424"></a>
-### [Jugend-Konferenz: Was macht eigentlich die Klimabewegung?](https://www.faz.net/aktuell/politik/inland/wo-ist-die-deutsche-klimabewegung-hin-201599670.html) ⭐️ ?/10
-
-Jugend-Konferenz: Was macht eigentlich die Klimabewegung?
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 16:08
-
----
-
-<a id="item-tech-news-425"></a>
-### [Tanken mit Kraftstoff E20: Biosprit soll gegen hohe Ölpreise helfen](https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/e20-biokraftstoff-soll-tanken-guenstiger-machen-201601570.html) ⭐️ ?/10
-
-Tanken mit Kraftstoff E20: Biosprit soll gegen hohe Ölpreise helfen
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 17:02
-
----
-
-<a id="item-tech-news-426"></a>
-### [Prognose: Die Kfz-Versicherung wird abermals etwas teurer](https://www.faz.net/aktuell/wirtschaft/auto-verkehr/kfz-versicherung-2026-praemien-steigen-weiter-aber-langsamer-201601979.html) ⭐️ ?/10
-
-Prognose: Die Kfz-Versicherung wird abermals etwas teurer
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 14:20
-
----
-
-<a id="item-tech-news-427"></a>
-### [Wohnungen Enteignen?: Um diesen Paragraphen dreht sich in Berlin jetzt alles](https://www.faz.net/aktuell/wirtschaft/enteignung-von-vonovia-unter-rot-gruen-rot-um-diesen-paragraphen-dreht-sich-alles-201602062.html) ⭐️ ?/10
-
-Wohnungen Enteignen?: Um diesen Paragraphen dreht sich in Berlin jetzt alles
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 13:14
-
----
-
-<a id="item-tech-news-428"></a>
-### [EU-Regeln: Streit über Satellitentelefonie: Warum die USA Europa drohen](https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/streit-ueber-frequenzen-fuer-satellitentelefonie-accg-201601849.html) ⭐️ ?/10
-
-EU-Regeln: Streit über Satellitentelefonie: Warum die USA Europa drohen
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 12:27
-
----
-
-<a id="item-tech-news-429"></a>
-### [France debates responsibility for recent unrest](https://www.faz.net/aktuell/feuilleton/debatten/frankreich-streitet-ueber-ursachen-und-urheber-der-gewaltexzesse-201602180.html) ⭐️ ?/10
-
-Following recent violent disturbances, France is engaged in a public debate over who is responsible for the destruction. While some parties hold security forces accountable for the unrest, others are justifying the protests, a stance that even includes prominent intellectuals. The conflict highlights a deep division in how the causes and perpetrators of the weekend&\#x27;s violence are being perceived.
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 14:43
-
-**「Background」** France has a long history of social movements and protests, often leading to debates about civil disorder and state response. Public discourse frequently shifts between blaming law enforcement tactics and validating the grievances of protesters.
-
-**「Impact」** This debate polarizes public opinion and influences political accountability regarding civil order. It may affect future policy discussions on policing and protest rights in France.
-
----
-
-<a id="item-tech-news-430"></a>
-### [US-Midterms: Der Kandidat, der zufällig Muslim ist](https://www.faz.net/aktuell/politik/usa-unter-trump/midterms-2026-abdul-el-sayed-das-experiment-in-michigan-201323271.html) ⭐️ ?/10
-
-US-Midterms: Der Kandidat, der zufällig Muslim ist
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 14:32
-
----
-
-<a id="item-tech-news-431"></a>
-### [Nachts in der Notaufnahme: „Der schiebt gerade miese Paranoia“](https://www.faz.net/aktuell/rhein-main/frankfurt/gewalt-und-verbale-attacken-eine-nacht-in-hessens-groesster-notaufnahme-accg-201206134.html) ⭐️ ?/10
-
-Nachts in der Notaufnahme: „Der schiebt gerade miese Paranoia“
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 12:30
-
----
-
-<a id="item-tech-news-432"></a>
-### [Hohes Marktpotential: Auch das gute alte Gold soll digital werden](https://www.faz.net/aktuell/finanzen/finanzmarkt/digitales-gold-world-gold-council-sieht-marktpotenzial-von-700-milliarden-euro-201601341.html) ⭐️ ?/10
-
-Hohes Marktpotential: Auch das gute alte Gold soll digital werden
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 16:00
-
----
-
-<a id="item-tech-news-433"></a>
-### [Vonovia shares fall 40% amid Berlin expropriation fears](https://www.faz.net/aktuell/finanzen/finanzmarkt/vonovia-aktie-auf-rekordtief-berliner-enteignungsplaene-belasten-accg-201601764.html) ⭐️ ?/10
-
-Vonovia&\#x27;s share price has dropped 40 percent as investors fear the political impact of proposed Berlin rent-expropriation legislation, often referred to as the &quot;Lex Vonovia.&quot; The city&\#x27;s real-estate portfolio includes 138,000 apartments currently valued at 23.5 billion euros in the company&\#x27;s balance sheet. Anticipating compensation from the expected new coalition for expropriated units, policymakers are considering a maximum payout of 16 billion euros, creating a significant valuation gap and market uncertainty.
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 11:58
-
-**「Background」** Berlin&\#x27;s governing coalition is planning legislation that would allow the expropriation of large residential properties, primarily targeting Vonovia&\#x27;s holdings. Political debates around these plans have created market anxiety, as the proposed compensation ceiling falls well below current accounting valuations, raising questions about potential financial losses for the company.
-
-**「Impact」** The proposed compensation ceiling of 16 billion euros creates a substantial gap compared to the current book value of 23.5 billion euros for Berlin properties, potentially triggering significant write-downs for Vonovia. This political uncertainty is the primary driver behind the 40 percent decline in the company&\#x27;s share price.
-
----
-
-<a id="item-tech-news-434"></a>
-### [gefördertes Depot: Vermögensbildung schon für Babys](https://www.faz.net/aktuell/finanzen/zukunftsdepot-oesterreich-plant-steuerfreies-depot-fuer-kinder-accg-201598145.html) ⭐️ ?/10
-
-gefördertes Depot: Vermögensbildung schon für Babys
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 08:24
-
----
-
-<a id="item-tech-news-435"></a>
-### [„Die Holländerinnen“ in Berlin: Relikte einer langen Reise](https://www.faz.net/aktuell/feuilleton/musik-und-buehne/theater/die-hollaenderinnen-am-deutschen-theater-in-berlin-201599973.html) ⭐️ ?/10
-
-„Die Holländerinnen“ in Berlin: Relikte einer langen Reise
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 17:29
-
----
-
-<a id="item-tech-news-436"></a>
-### [Rundfunkbeitrag: ÖRR-Beitragsservice macht großen Datenabgleich](https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/oerr-beitragsservice-macht-grossen-meldedatenabgleich-201602991.html) ⭐️ ?/10
-
-Rundfunkbeitrag: ÖRR-Beitragsservice macht großen Datenabgleich
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 15:43
-
----
-
-<a id="item-tech-news-437"></a>
-### [„Rubber Soul“-Neuauflage: Als die Beatles lernten, „ich“ zu sagen](https://www.faz.net/aktuell/feuilleton/musik-und-buehne/album/beatles-zum-kaufen-neuausgabe-von-rubber-soul-201596654.html) ⭐️ ?/10
-
-„Rubber Soul“-Neuauflage: Als die Beatles lernten, „ich“ zu sagen
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 15:33
-
----
-
-<a id="item-tech-news-438"></a>
-### [Deutsches Jazzfest: Ohne ideologische Beweislast](https://www.faz.net/aktuell/feuilleton/musik-und-buehne/konzert/deutsches-jazzfestival-in-frankfurt-2026-201528192.html) ⭐️ ?/10
-
-Deutsches Jazzfest: Ohne ideologische Beweislast
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 14:59
-
----
-
-<a id="item-tech-news-439"></a>
-### [künstliche intelligenz: Wer braucht noch Berufsanfänger?](https://www.faz.net/aktuell/karriere-hochschule/hoersaal/wie-veraendert-ki-den-arbeitsmarkt-fuer-junge-akademiker-201309192.html) ⭐️ ?/10
-
-künstliche intelligenz: Wer braucht noch Berufsanfänger?
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 15:14
-
----
-
-<a id="item-tech-news-440"></a>
-### [Lage der Soziologie: Die Gesellschaft passt in keine Badewanne](https://www.faz.net/aktuell/karriere-hochschule/hoersaal/zur-lage-der-soziologie-replik-auf-juergen-gerhards-und-joerg-roessel-accg-201298979.html) ⭐️ ?/10
-
-Lage der Soziologie: Die Gesellschaft passt in keine Badewanne
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 07:43
-
----
-
-<a id="item-tech-news-441"></a>
-### [Nach Abreise-Eklat: Ronaldo kommt mit einer milden Strafe davon](https://www.faz.net/aktuell/sport/fussball/cristiano-ronaldo-nur-255-euro-strafe-nach-trainingscamp-eklat-201603317.html) ⭐️ ?/10
-
-Nach Abreise-Eklat: Ronaldo kommt mit einer milden Strafe davon
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 19:18
-
----
-
-<a id="item-tech-news-442"></a>
-### [NHL-Profis wollen weg: Warum wollen die US-Stars Kanada verlassen?](https://www.faz.net/aktuell/sport/mehr-sport/nhl-warum-wollen-die-us-stars-kanada-verlassen-201602280.html) ⭐️ ?/10
-
-NHL-Profis wollen weg: Warum wollen die US-Stars Kanada verlassen?
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 16:58
-
----
-
-<a id="item-tech-news-443"></a>
-### [Missbrauch im Turnen: „Wer keine Unruhe stiftet, wird auch nichts verändern“](https://www.faz.net/aktuell/sport/mehr-sport/us-richterin-rosemarie-aquilina-verfolgt-sexuellen-missbrauch-im-turnen-201598435.html) ⭐️ ?/10
-
-Missbrauch im Turnen: „Wer keine Unruhe stiftet, wird auch nichts verändern“
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 14:22
-
----
-
-<a id="item-tech-news-444"></a>
-### [EM-Zweite Kaufmann: Je größer die Bühne, desto stärker spielt sie auf](https://www.faz.net/aktuell/sport/mehr-sport/annett-kaufmann-bei-der-tischtennis-em-eine-fuer-die-grosse-buehne-201602027.html) ⭐️ ?/10
-
-EM-Zweite Kaufmann: Je größer die Bühne, desto stärker spielt sie auf
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 13:17
-
----
-
-<a id="item-tech-news-445"></a>
-### [Gesundheitliche Probleme: Ralph Siegel sagt Termin ab](https://www.faz.net/aktuell/gesellschaft/menschen/ralph-siegel-sagt-termin-ab-erneute-gesundheitsprobleme-201603226.html) ⭐️ ?/10
-
-Gesundheitliche Probleme: Ralph Siegel sagt Termin ab
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 17:34
-
----
-
-<a id="item-tech-news-446"></a>
-### [Cold Case vor Aufklärung: Kerstin Lee Langley wurde offenbar erwürgt](https://www.faz.net/aktuell/gesellschaft/kriminalitaet/cold-case-kerstin-lee-langley-gestaendnis-bringt-durchbruch-201602524.html) ⭐️ ?/10
-
-Cold Case vor Aufklärung: Kerstin Lee Langley wurde offenbar erwürgt
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 15:24
-
----
-
-<a id="item-tech-news-447"></a>
-### [Mit Hilfe von Leihmutter: Niederländischer Ministerpräsident und sein Verlobter bekommen ein Baby](https://www.faz.net/aktuell/gesellschaft/menschen/rob-jetten-wird-vater-niederlands-premier-erwartet-baby-von-leihmutter-201602692.html) ⭐️ ?/10
-
-Mit Hilfe von Leihmutter: Niederländischer Ministerpräsident und sein Verlobter bekommen ein Baby
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 15:00
-
----
-
-<a id="item-tech-news-448"></a>
-### [Regenflut in Spanien: Mehr als 700 Liter pro Quadratmeter](https://www.faz.net/aktuell/gesellschaft/ungluecke/regenflut-in-teilen-spaniens-hoechste-alarmstufe-ausgerufen-accg-201601267.html) ⭐️ ?/10
-
-Regenflut in Spanien: Mehr als 700 Liter pro Quadratmeter
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 13:19
-
----
-
-<a id="item-tech-news-449"></a>
-### [New Balance 530: Ein Retro-Laufschuh wird zum Herbstliebling](https://www.faz.net/aktuell/besser-leben/stil/new-balance-530-der-retro-laufschuh-als-herbstliebling-201297375.html) ⭐️ ?/10
-
-New Balance 530: Ein Retro-Laufschuh wird zum Herbstliebling
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 15:11
-
----
-
-<a id="item-tech-news-450"></a>
-### [„Zwischen Ruhm und Ehre“: Größenwahn und Selbstzweifel](https://www.faz.net/aktuell/rhein-main/kultur/darmstadt-revue-am-staatstheater-erzaehlt-leben-von-andrea-petkovic-201598053.html) ⭐️ ?/10
-
-„Zwischen Ruhm und Ehre“: Größenwahn und Selbstzweifel
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 17:05
-
----
-
-<a id="item-tech-news-451"></a>
-### [„verkehrte Welt“: Warum ein Spielplatz wegen der Drogenszene verlegt werden soll](https://www.faz.net/aktuell/rhein-main/region-und-hessen/darmstadt-spielplatz-im-herrngarten-soll-wegen-der-drogenszene-verlegt-werden-201602299.html) ⭐️ ?/10
-
-„verkehrte Welt“: Warum ein Spielplatz wegen der Drogenszene verlegt werden soll
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 16:22
-
----
-
-<a id="item-tech-news-452"></a>
-### [Nach Vorwürfen: Gremmels verteidigt Frankfurter Uniklinik](https://www.faz.net/aktuell/rhein-main/frankfurt/hessen-gremmels-nimmt-frankfurter-uniklinik-gegen-vorwuerfe-in-schutz-201602042.html) ⭐️ ?/10
-
-Nach Vorwürfen: Gremmels verteidigt Frankfurter Uniklinik
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 15:54
-
----
-
-<a id="item-tech-news-453"></a>
-### [Friedberg: Patientin greift Arzt in Notaufnahme an](https://www.faz.net/aktuell/rhein-main/region-und-hessen/hessen-patientin-greift-arzt-in-friedberger-krankenhaus-an-201603117.html) ⭐️ ?/10
-
-Friedberg: Patientin greift Arzt in Notaufnahme an
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 15:45
-
----
-
-<a id="item-tech-news-454"></a>
-### [BMW M440d Im Test: Offenbar alternativlos](https://www.faz.net/aktuell/technik-motor/motor/offenbar-alternativlos-bmw-m440d-xdrive-im-test-accg-201296605.html) ⭐️ ?/10
-
-BMW M440d Im Test: Offenbar alternativlos
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 12:44
-
----
-
-<a id="item-tech-news-455"></a>
-### [Made in Germany: Kühle KI und heiße Grills](https://www.faz.net/aktuell/technik-motor/technik/made-in-germany-drei-beispiele-fuer-deutsche-spitzentechnologie-accg-201252145.html) ⭐️ ?/10
-
-Made in Germany: Kühle KI und heiße Grills
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 07:52
-
----
-
-<a id="item-tech-news-456"></a>
-### [Wissen im Internet: Welche Zukunft haben Lexika im Netz?](https://www.faz.net/aktuell/wissen/forschung-politik/eine-tagung-zur-verlaesslichkeit-von-wissen-im-internet-accg-201283014.html) ⭐️ ?/10
-
-Wissen im Internet: Welche Zukunft haben Lexika im Netz?
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 12:43
-
----
-
-<a id="item-tech-news-457"></a>
-### [Arbeitsbelastung: Wie Exoskelette Rücken und Schultern entlasten](https://www.faz.net/aktuell/wissen/leben-gene/exoskelett-im-job-wie-sie-funktionieren-und-wann-sie-sinnvoll-sind-accg-201259700.html) ⭐️ ?/10
-
-Arbeitsbelastung: Wie Exoskelette Rücken und Schultern entlasten
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 07:53
-
----
-
-<a id="item-tech-news-458"></a>
-### [Immobilien vor Gericht: Womit ein Mieter die Eigenbedarfskündigung seiner Wohnung aufhalten kann](https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/mieten-vermieten/eigenbedarfskuendigung-mieter-wehrt-sich-mit-attest-accg-201222178.html) ⭐️ ?/10
-
-Immobilien vor Gericht: Womit ein Mieter die Eigenbedarfskündigung seiner Wohnung aufhalten kann
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 04:54
-
----
-
-<a id="item-tech-news-459"></a>
-### [Preisabsprachen: Wie bekommt man bei Skipässen Geld zurück?](https://www.faz.net/aktuell/reise/dolomiti-superski-wie-bekommen-skifahrer-geld-zurueck-accg-201316364.html) ⭐️ ?/10
-
-Preisabsprachen: Wie bekommt man bei Skipässen Geld zurück?
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 12:16
-
----
-
-<a id="item-tech-news-460"></a>
-### [In Paris: Spektakuläre Werke von Claude Monet kommen zur Auktion](https://www.faz.net/aktuell/feuilleton/kunstmarkt/auktionen-spekakulaere-werke-von-monet-bei-christie-s-und-sotheby-s-in-paris-accg-201314084.html) ⭐️ ?/10
-
-In Paris: Spektakuläre Werke von Claude Monet kommen zur Auktion
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 07:27
-
----
-
-<a id="item-tech-news-461"></a>
-### [Literaturrätsel im Oktober: Sieben Fragen, ein Lösungswort](https://www.faz.net/aktuell/feuilleton/buecher/literatur-raetsel/literaturraetsel-von-juergen-kaube-im-oktober-2026-201341024.html) ⭐️ ?/10
-
-Literaturrätsel im Oktober: Sieben Fragen, ein Lösungswort
-
-rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 19, 07:39
-
----
-
-<a id="item-tech-news-462"></a>
-### [Большинство стран Евросоюза не поддерживают инициативу Финляндии прекратить во в](https://telegram.me/tass_agency/401145) ⭐️ ?/10
-
-Большинство стран Евросоюза не поддерживают инициативу Финляндии прекратить во в
-
-telegram · tass\_agency · Oct 19, 19:21
-
----
-
-<a id="item-tech-news-463"></a>
-### [Lake Braies, the pearl of the Dolomites.](https://telegram.me/nature/20520) ⭐️ ?/10
-
-Lake Braies, the pearl of the Dolomites.
-
-telegram · nature · Oct 19, 08:32
-
----
-
-<a id="item-tech-news-464"></a>
-### [The Table Mountains, or Tepuis, rise up in Venezuela&\#x27;s Canaima National Park.](https://telegram.me/nature/20521) ⭐️ ?/10
-
-The Table Mountains, or Tepuis, rise up in Venezuela&\#x27;s Canaima National Park.
-
-telegram · nature · Oct 19, 11:34
-
----
-
-<a id="item-tech-news-465"></a>
-### [Pallas&\#x27;s cats never get boring.](https://telegram.me/nature/20522) ⭐️ ?/10
-
-Pallas&\#x27;s cats never get boring.
-
-telegram · nature · Oct 19, 13:31
-
----
-
-<a id="item-tech-news-466"></a>
-### [Leopard reproduction is extremely slow, in 80% of cases, females give birth to 1](https://telegram.me/nature/20523) ⭐️ ?/10
-
-Leopard reproduction is extremely slow, in 80% of cases, females give birth to 1
-
-telegram · nature · Oct 19, 15:35
-
----
-
-<a id="item-tech-news-467"></a>
-### [Curious one.](https://telegram.me/nature/20524) ⭐️ ?/10
-
-Curious one.
-
-telegram · nature · Oct 19, 17:30
-
----
-
-<a id="item-tech-news-468"></a>
-### [One of the most unusual sea caves, the Blue Grotto in Italy.](https://telegram.me/nature/20525) ⭐️ ?/10
-
-One of the most unusual sea caves, the Blue Grotto in Italy.
-
-telegram · nature · Oct 19, 19:36
-
----
-
-<a id="item-tech-news-469"></a>
-### [⚛️ Google Just Reduced a Critical Quantum Computing Error by 40 TIMES Quantum co](https://doi.org/10.1126/science.aee7961) ⭐️ ?/10
-
-⚛️ Google Just Reduced a Critical Quantum Computing Error by 40 TIMES Quantum co
-
-telegram · science · Oct 19, 07:00
-
----
-
-## Financial News
-
-<a id="item-finance-news-1"></a>
-### [Ebola cases in Kenya highlight US failures amid Trump cuts to key services](https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine) ⭐️ 8.0/10
-
-Ebola cases have emerged in Kenya amid a severe regional outbreak, with the article linking the situation to US funding cuts, WHO withdrawal, and travel restrictions.
-
-rss · 卫报\(The Guardian\) · Oct 19, 14:11
-
-**Tags**: `#Global Health`, `#US Foreign Policy`, `#Ebola Outbreak`, `#WHO`, `#International Aid`
-
----
-
-<a id="item-finance-news-2"></a>
-### [02版 -  何立峰与俄罗斯副总理切尔内申科共同主持召开中俄总理定期会晤委员会第三十次会议](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186707.html) ⭐️ 7.0/10
-
-Chinese and Russian deputy prime ministers co-chaired the 30th Sino-Russian Prime Minister Regular Meeting, emphasizing continued trade growth, traditional sector cooperation, and expansion into green and digital economies.
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
-**Tags**: `#Sino-Russian relations`, `#trade policy`, `#diplomatic summit`, `#economic cooperation`
-
----
-
-<a id="item-finance-news-3"></a>
-### [China’s economy grows faster than forecast after AI boom boosts exports](https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports) ⭐️ 7.0/10
-
-China’s Q3 GDP grew 4.5% year-on-year, exceeding expectations, with strong factory output and exports linked to AI demand lifting growth faster than consumer spending.
-
-rss · 卫报\(The Guardian\) · Oct 19, 09:27
-
-**Tags**: `#GDP growth`, `#China economy`, `#exports`, `#industrial output`, `#AI impact`
-
----
-
-<a id="item-finance-news-4"></a>
-### [L’administration présente ses scénarios de réforme pour la fonction publique : « On est vraiment dans une situation d’urgence »](https://www.lemonde.fr/politique/article/2026/10/19/l-administration-presente-ses-scenarios-de-reforme-pour-la-fonction-publique-on-est-vraiment-dans-une-situation-d-urgence_6797543_823448.html) ⭐️ 7.0/10
-
-French authorities have unveiled scenarios for civil service reform following a strategic review, describing the current situation as urgent.
-
-rss · 世界报\(Le Monde\) · Oct 19, 14:30
-
-**Tags**: `#French politics`, `#civil service reform`, `#public sector policy`, `#government administration`
-
----
-
-<a id="item-finance-news-5"></a>
-### [I have a condition people are too embarrassed to talk about](https://www.bbc.co.uk/news/articles/c9vgr43l7pdpo?at_medium=RSS&amp;at_campaign=rss) ⭐️ 1.0/10
-
-BBC feature sharing personal experiences of women with lichen sclerosus.
-
-rss · BBC\(British Broadcasting Corporation\) · Oct 19, 23:11
-
-**Tags**: `#health`, `#personal stories`, `#patient experience`
-
----
-
-<a id="item-finance-news-6"></a>
-### [Le nombre de morts sur les routes de France métropolitaine recule de 5 % sur un an](https://www.lemonde.fr/societe/article/2026/10/20/le-nombre-de-morts-sur-les-routes-de-france-metropolitaine-recule-de-5-sur-un-an_6797685_3224.html) ⭐️ 0.0/10
-
-Road deaths in metropolitan France fell 5% year-over-year in September, while serious injuries rose 15%, according to traffic safety data.
-
-rss · 世界报\(Le Monde\) · Oct 19, 23:27
-
-**Tags**: `#road safety`, `#public statistics`, `#France`, `#non-financial news`
-
----
-
-<a id="item-finance-news-7"></a>
 ### [02版 -  从“中国项目”到“全球经验”](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186708.html) ⭐️ ?/10
 
 02版 -  从“中国项目”到“全球经验”
@@ -4928,98 +1216,16 @@ rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
 
 ---
 
-<a id="item-finance-news-8"></a>
-### [02版 -  第170次中老缅泰湄公河联合巡逻执法行动正式启动](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186711.html) ⭐️ ?/10
+<a id="item-tech-news-63"></a>
+### [02版 - 中俄人文合作委员会第二十七次会议召开 谌贻琴与戈利科娃共同主持](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186709.html) ⭐️ ?/10
 
-02版 -  第170次中老缅泰湄公河联合巡逻执法行动正式启动
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
----
-
-<a id="item-finance-news-9"></a>
-### [&\#x27;Our worst nightmare&\#x27;: Threats to Australian politicians were rising before MP hit by car](https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-&\#x27;Our worst nightmare&\#x27;: Threats to Australian politicians were rising before MP hit by car
-
-rss · BBC\(British Broadcasting Corporation\) · Oct 20, 01:24
-
----
-
-<a id="item-finance-news-10"></a>
-### [&\#x27;The French correction&\#x27; and &\#x27;Labour cuts £2bn from Army&\#x27;](https://www.bbc.co.uk/news/articles/c6r7y0vkz2yno?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
-
-&\#x27;The French correction&\#x27; and &\#x27;Labour cuts £2bn from Army&\#x27;
-
-rss · BBC\(British Broadcasting Corporation\) · Oct 19, 23:35
-
----
-
-<a id="item-finance-news-11"></a>
-### [Dans une Allemagne en crise, le nombre de créations de start-up atteint un record](https://www.lemonde.fr/economie/article/2026/10/19/dans-une-allemagne-en-crise-le-nombre-de-creations-de-start-up-atteint-un-record_6797550_3234.html) ⭐️ ?/10
-
-Dans une Allemagne en crise, le nombre de créations de start-up atteint un record
-
-rss · 世界报\(Le Monde\) · Oct 19, 15:30
-
----
-
-## AI Creator Radar
-
-<a id="item-ai-creator-1"></a>
-### [GLM-5.1 Has ~Astra Level CoT Control](https://www.lesswrong.com/posts/q3pckKRxRXWBthbKb/glm-5-1-has-astra-level-cot-control) ⭐️ 7.0/10
-
-An analysis of GLM-5.1 and other models on CoT control, finding GLM excels at controlling chain-of-thought while Kimi and DeepSeek perform poorly, with implications for potential monitor evasion.
-
-rss · LessWrong AI风险社区 · Oct 19, 21:29
-
-**Tags**: `#Chain-of-Thought Control`, `#GLM-5.1`, `#AI Safety`, `#Model Evaluation`, `#Monitor Evasion`
-
----
-
-<a id="item-ai-creator-2"></a>
-### [07版 -  暖心服务送到老人身边（大数据观察）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186732.html) ⭐️ 3.0/10
-
-人民日报报道湖北推进县乡村三级养老服务网络建设，解决失能和高龄老人照护难题。
+02版 - 中俄人文合作委员会第二十七次会议召开 谌贻琴与戈利科娃共同主持
 
 rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
 
-**Tags**: `#养老政策`, `#公共服务`, `#地方实践`, `#民生保障`
-
 ---
 
-<a id="item-ai-creator-3"></a>
-### [05版 -  菜单里藏着教育智慧（纵横）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186728.html) ⭐️ 2.0/10
-
-A newspaper opinion piece about how allowing students to vote on school cafeteria menus reflects educational wisdom and governance innovation.
-
-rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
-
-**Tags**: `#education`, `#school administration`, `#student participation`
-
----
-
-<a id="item-ai-creator-4"></a>
-### [Les rapatriés d’Indochine obtiennent reconnaissance et réparation de la France, soixante-dix ans après](https://www.lemonde.fr/politique/article/2026/10/20/les-rapatries-d-indochine-obtiennent-reconnaissance-et-reparation-de-la-france-soixante-dix-ans-apres_6797718_823448.html) ⭐️ 1.0/10
-
-La France accorde enfin reconnaissance et réparations aux rapatriés d&\#x27;Indochine, soixante-dix ans après leur retour.
-
-rss · 世界报\(Le Monde\) · Oct 20, 00:00
-
-**Tags**: `#politique française`, `#histoire coloniale`, `#réparations`
-
----
-
-<a id="item-ai-creator-5"></a>
-### [What do the other 80 percent mean?](https://www.lesswrong.com/posts/Bzk4g9KvRWr8GPr6F/what-do-the-other-80-percent-mean) ⭐️ ?/10
-
-What do the other 80 percent mean?
-
-rss · LessWrong AI风险社区 · Oct 19, 23:05
-
----
-
-<a id="item-ai-creator-6"></a>
+<a id="item-tech-news-64"></a>
 ### [02版 -  刘海星会见塞舌尔联合塞舌尔党副主席、政府卫生部长范尼](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186710.html) ⭐️ ?/10
 
 02版 -  刘海星会见塞舌尔联合塞舌尔党副主席、政府卫生部长范尼
@@ -5028,75 +1234,4067 @@ rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
 
 ---
 
-<a id="item-ai-creator-7"></a>
-### [05版 -  “在平时多做过细的群众工作”（大家谈·认识基层  深入基层  服务基层⑩）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186729.html) ⭐️ ?/10
+<a id="item-tech-news-65"></a>
+### [02版 -  第170次中老缅泰湄公河联合巡逻执法行动正式启动](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186711.html) ⭐️ ?/10
 
-05版 -  “在平时多做过细的群众工作”（大家谈·认识基层  深入基层  服务基层⑩）
+02版 -  第170次中老缅泰湄公河联合巡逻执法行动正式启动
 
 rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
 
 ---
 
-<a id="item-ai-creator-8"></a>
-### [Au Mali, plus de quarante civils tués par des hommes armés dans la région de Ménaka, selon des sources locales](https://www.lemonde.fr/afrique/article/2026/10/20/au-mali-plus-d-une-quarantaine-de-civils-tues-par-des-hommes-armes-dans-la-region-de-menaka-selon-des-sources-locales_6797751_3212.html) ⭐️ ?/10
+<a id="item-tech-news-66"></a>
+### [03版 -  推动经济平稳运行、高质量发展积极因素累积增多（权威发布）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186712.html) ⭐️ ?/10
 
-Au Mali, plus de quarante civils tués par des hommes armés dans la région de Ménaka, selon des sources locales
+03版 -  推动经济平稳运行、高质量发展积极因素累积增多（权威发布）
 
-rss · 世界报\(Le Monde\) · Oct 20, 00:24
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-67"></a>
+### [03版 -  努力完成全年目标任务（快评）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186713.html) ⭐️ ?/10
+
+03版 -  努力完成全年目标任务（快评）
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-68"></a>
+### [03版 -  把科技创新势能转化为商贸发展动能（权威发布）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186714.html) ⭐️ ?/10
+
+03版 -  把科技创新势能转化为商贸发展动能（权威发布）
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-69"></a>
+### [03版 -  历经8代选育，耐盐碱稻亩产超500公斤（秋收进行时·不一样的水稻品种）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186715.html) ⭐️ ?/10
+
+03版 -  历经8代选育，耐盐碱稻亩产超500公斤（秋收进行时·不一样的水稻品种）
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-70"></a>
+### [03版 -  2026金融街论坛年会在京开幕](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186716.html) ⭐️ ?/10
+
+03版 -  2026金融街论坛年会在京开幕
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-71"></a>
+### [04版 -  一纸“万万火急”电令，被年轻人唱响（文物里的长征故事）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186717.html) ⭐️ ?/10
+
+04版 -  一纸“万万火急”电令，被年轻人唱响（文物里的长征故事）
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-72"></a>
+### [04版 -  让红色精神永放光芒（专家点评）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186718.html) ⭐️ ?/10
+
+04版 -  让红色精神永放光芒（专家点评）
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-73"></a>
+### [04版 -  “何以中国·当惊世界殊”网络主题宣传活动在湖北宜昌举行](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186719.html) ⭐️ ?/10
+
+04版 -  “何以中国·当惊世界殊”网络主题宣传活动在湖北宜昌举行
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-74"></a>
+### [04版 -  中央档案馆向社会集中开放一批长征专题档案](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186720.html) ⭐️ ?/10
+
+04版 -  中央档案馆向社会集中开放一批长征专题档案
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-75"></a>
+### [04版 -  舞步踏一起  生活在一起（铸牢共同体  中华一家亲）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186721.html) ⭐️ ?/10
+
+04版 -  舞步踏一起  生活在一起（铸牢共同体  中华一家亲）
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-76"></a>
+### [04版 -  弘扬伟大长征精神  走好今天的长征路](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186722.html) ⭐️ ?/10
+
+04版 -  弘扬伟大长征精神  走好今天的长征路
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-77"></a>
+### [04版 -  一版责编：杨  旭  张帅祯  赵川博 二版责编：韩晓明  姜  波  关皓宇 三版责编：林  琳  祁嘉润  张安宇 四版责编：袁振喜  韩春瑶  刘静文](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186723.html) ⭐️ ?/10
+
+04版 -  一版责编：杨  旭  张帅祯  赵川博 二版责编：韩晓明  姜  波  关皓宇 三版责编：林  琳  祁嘉润  张安宇 四版责编：袁振喜  韩春瑶  刘静文
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-78"></a>
+### [05版 -  无名与有名（评论员观察）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186724.html) ⭐️ ?/10
+
+05版 -  无名与有名（评论员观察）
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-79"></a>
+### [05版 -  让智能经济更好激发新动能（人民时评）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186725.html) ⭐️ ?/10
+
+05版 -  让智能经济更好激发新动能（人民时评）
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-80"></a>
+### [05版 -  “重病轻治”的创新之道（微观）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186726.html) ⭐️ ?/10
+
+05版 -  “重病轻治”的创新之道（微观）
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-81"></a>
+### [05版 -  图片报道](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186727.html) ⭐️ ?/10
+
+05版 -  图片报道
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-82"></a>
+### [05版 -  菜单里藏着教育智慧（纵横）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186728.html) ⭐️ ?/10
+
+05版 -  菜单里藏着教育智慧（纵横）
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-83"></a>
+### [People&\#x27;s Daily editorial on grassroots mass work](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186729.html) ⭐️ ?/10
+
+The People&\#x27;s Daily published a 05-section editorial series on October 20, 2026, emphasizing the importance of doing meticulous mass work during ordinary times to build lasting public trust. The column features three contributions from local readers across Zhejiang, Shandong, and Sichuan provinces, illustrating practical approaches for grassroots cadres. Key themes include maintaining sensitivity to community risks while remaining emotionally resilient, actively seeking input from residents during policy implementation, and paying attention to small details that prevent larger failures.
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+**「Background」** This article is part of an ongoing discussion series titled &quot;Understanding Grassroots, Going Deep into Grassroots, Serving Grassroots \(Part 10\)&quot; in the People&\#x27;s Daily. The editorial references Xi Jinping&\#x27;s writings in &quot;Zhi Jiang Xin Yu,&quot; which emphasizes that true public recognition and trust come from consistent, careful attention to people&\#x27;s needs during everyday work rather than only during emergencies.
+
+**「Impact」** The editorial provides guiding principles for Chinese grassroots cadres on balancing responsiveness to public concerns with personal resilience and detailed attention to preventive maintenance in community services.
+
+---
+
+<a id="item-tech-news-84"></a>
+### [People&\#x27;s Daily October 20, 2026: Page 5 Editorial Staff List](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186730.html) ⭐️ ?/10
+
+On October 20, 2026, People&\#x27;s Daily published its fifth page, a section primarily consisting of editorial administration rather than feature reporting. The listed editorial editors for this page are Li Haoran, Peng Fei, and Li Tielin, who are responsible for curating the content in that section. Readers can submit correspondence to the section email rmrbpl@peopledaily.cn, and the article is identified by paper article ID 30186730 on the People&\#x27;s Daily digital platform.
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+**「Background」** People&\#x27;s Daily is the official newspaper of the Central Committee of the Communist Party of China, with its digital edition hosted on people.com.cn. Chinese daily newspapers typically divide content across multiple numbered pages, each overseen by designated editorial staff responsible for specific sections or topics.
+
+**「Impact」** This entry serves as an internal editorial attribution record for the newspaper&\#x27;s fifth page and does not announce any policy change, technical release, or substantive news event.
+
+---
+
+<a id="item-tech-news-85"></a>
+### [06版 -  深入学习贯彻习近平文化思想，筑牢强国建设、民族复兴的文化根基](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186731.html) ⭐️ ?/10
+
+06版 -  深入学习贯彻习近平文化思想，筑牢强国建设、民族复兴的文化根基
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-86"></a>
+### [Hubei Builds Three-Tier Elderly Care Network](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186732.html) ⭐️ ?/10
+
+Hubei province has established a county-township-village three-tier elderly care service network to address challenges such as caring for bedridden elders and supporting solo-living seniors. The county-level centers focus on standardized training, guidance, and centralized care; township-level centers serve as regional hubs offering respite care and professional support; and community-level stations deliver daily services like meals and emergency response directly to seniors&\#x27; homes. Wuhan&\#x27;s Jianghan District illustrates this model with 174,000 registered elderly residents \(33.2% of the population\), operating one district care center, 11 sub-district centers, and 90 community stations. A 24-hour smart dispatch platform now handles emergency calls from elderly residents, with over 11,000 solo-living elderly in Wuhan equipped with emergency call devices and sensors since last year.
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+**「Background」** China faces a rapidly aging population, with the &quot;15th Five-Year Plan&quot; calling for improved county-township-village three-tier elderly care networks. The Ministry of Civil Affairs issued guidelines this year to standardize these grassroots care systems, aiming to provide accessible,普惠 \(inclusive\) elderly care services across urban and rural areas.
+
+**「Impact」** Families in Hubei now have access to subsidized respite care \(e.g., 170 yuan/day for moderate disability care versus 240 yuan/day institutional rates\), reducing caregiver burden and enabling critical medical procedures. County-level training programs are creating career pathways for younger workers like 23-year-old caregiver Yang Yi, who now trains 15 care specialists per month at the sub-district level.
+
+---
+
+<a id="item-tech-news-87"></a>
+### [07版 -  三级联动，让老年生活更安心（编辑手记）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186733.html) ⭐️ ?/10
+
+07版 -  三级联动，让老年生活更安心（编辑手记）
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-88"></a>
+### [07版 -  领证更便利  服务更贴心](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186734.html) ⭐️ ?/10
+
+07版 -  领证更便利  服务更贴心
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-89"></a>
+### [07版 -  第五届中国报业创新发展大会举办](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186735.html) ⭐️ ?/10
+
+07版 -  第五届中国报业创新发展大会举办
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-90"></a>
+### [07版 -  红旗漫卷处  山乡启新程（赓续长征精神  奋进复兴征程）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186736.html) ⭐️ ?/10
+
+07版 -  红旗漫卷处  山乡启新程（赓续长征精神  奋进复兴征程）
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-91"></a>
+### [07版 -  同心铸辉煌  奋进新征程](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186737.html) ⭐️ ?/10
+
+07版 -  同心铸辉煌  奋进新征程
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-92"></a>
+### [07版 -  以高质量金融服务支撑国际科技创新中心建设](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186738.html) ⭐️ ?/10
+
+07版 -  以高质量金融服务支撑国际科技创新中心建设
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-93"></a>
+### [07版 -  本版责编　纪雅林  张伟昊  翟钦奇](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186739.html) ⭐️ ?/10
+
+07版 -  本版责编　纪雅林  张伟昊  翟钦奇
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-94"></a>
+### [08版 -  守护红色记忆  传承长征精神](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186740.html) ⭐️ ?/10
+
+08版 -  守护红色记忆  传承长征精神
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-95"></a>
+### [08版 -  用一碗热汤温暖城市“奔跑者”（一线行走）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186741.html) ⭐️ ?/10
+
+08版 -  用一碗热汤温暖城市“奔跑者”（一线行走）
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-96"></a>
+### [08版 -  《长征专题书目（一九三六—二〇二六）》出版发行](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186742.html) ⭐️ ?/10
+
+08版 -  《长征专题书目（一九三六—二〇二六）》出版发行
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-97"></a>
+### [08版 -  图片报道](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186743.html) ⭐️ ?/10
+
+08版 -  图片报道
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-98"></a>
+### [08版 -  把群众身边小事一件件办实](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186744.html) ⭐️ ?/10
+
+08版 -  把群众身边小事一件件办实
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-99"></a>
+### [08版 -  自然资源部原党组成员，国家林草局原党组书记、局长张建龙严重违纪违法被开除党籍](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186745.html) ⭐️ ?/10
+
+08版 -  自然资源部原党组成员，国家林草局原党组书记、局长张建龙严重违纪违法被开除党籍
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-100"></a>
+### [08版 -  社保基金会原党组成员、副理事长王文灵严重违纪违法被开除党籍和公职](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186746.html) ⭐️ ?/10
+
+08版 -  社保基金会原党组成员、副理事长王文灵严重违纪违法被开除党籍和公职
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-101"></a>
+### [08版 -  中国人保原党委委员、副总裁俞小平严重违纪违法被开除党籍](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186747.html) ⭐️ ?/10
+
+08版 -  中国人保原党委委员、副总裁俞小平严重违纪违法被开除党籍
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-102"></a>
+### [08版 -  本版责编：苏显龙  赵晓曦  李佩阳](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186748.html) ⭐️ ?/10
+
+08版 -  本版责编：苏显龙  赵晓曦  李佩阳
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-103"></a>
+### [09版 -  从万里长征走向伟大复兴（深入学习贯彻习近平新时代中国特色社会主义思想）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186749.html) ⭐️ ?/10
+
+09版 -  从万里长征走向伟大复兴（深入学习贯彻习近平新时代中国特色社会主义思想）
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-104"></a>
+### [09版 -  统筹基层工作的“跳进去”与“领出来”（思想纵横）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186750.html) ⭐️ ?/10
+
+09版 -  统筹基层工作的“跳进去”与“领出来”（思想纵横）
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-105"></a>
+### [09版 -  把握发展普惠托育和托幼一体化服务的着力点（有的放矢）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186751.html) ⭐️ ?/10
+
+09版 -  把握发展普惠托育和托幼一体化服务的着力点（有的放矢）
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-106"></a>
+### [10版 -  聚焦需求，AI赋能新型工业化](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186752.html) ⭐️ ?/10
+
+10版 -  聚焦需求，AI赋能新型工业化
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-107"></a>
+### [10版 -  汇聚工商界力量  共建亚太共同体](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186753.html) ⭐️ ?/10
+
+10版 -  汇聚工商界力量  共建亚太共同体
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-108"></a>
+### [10版 -  减脂餐的“洋食材”成土特产（财米油盐）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186754.html) ⭐️ ?/10
+
+10版 -  减脂餐的“洋食材”成土特产（财米油盐）
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-109"></a>
+### [10版 -  图片报道](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186755.html) ⭐️ ?/10
+
+10版 -  图片报道
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-110"></a>
+### [10版 -  让中医药更加自信地走向世界](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186756.html) ⭐️ ?/10
+
+10版 -  让中医药更加自信地走向世界
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-111"></a>
+### [10版 -  “千户万灯”点亮千企万家](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186757.html) ⭐️ ?/10
+
+10版 -  “千户万灯”点亮千企万家
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-112"></a>
+### [10版 -  本版责编：吕钟正  吴  凯  韩文榕](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186758.html) ⭐️ ?/10
+
+10版 -  本版责编：吕钟正  吴  凯  韩文榕
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-113"></a>
+### [11版 -  AI+教育，“加”什么，如何“加”（教育优质均衡发展·四问“人工智能+教育”④）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186604.html) ⭐️ ?/10
+
+11版 -  AI+教育，“加”什么，如何“加”（教育优质均衡发展·四问“人工智能+教育”④）
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-114"></a>
+### [11版 -  搭建通往教育公平的“AI管道”（编辑手记）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186605.html) ⭐️ ?/10
+
+11版 -  搭建通往教育公平的“AI管道”（编辑手记）
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-115"></a>
+### [11版 -  保护文化遗产  推动文明对话](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186606.html) ⭐️ ?/10
+
+11版 -  保护文化遗产  推动文明对话
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-116"></a>
+### [11版 -  ‍‍2026中国景德镇国际陶瓷博览会开幕](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186607.html) ⭐️ ?/10
+
+11版 -  ‍‍2026中国景德镇国际陶瓷博览会开幕
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-117"></a>
+### [11版 -  阿佤山乡满目新](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186608.html) ⭐️ ?/10
+
+11版 -  阿佤山乡满目新
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-118"></a>
+### [11版 -  中国气象学会年会在兰州开幕](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186609.html) ⭐️ ?/10
+
+11版 -  中国气象学会年会在兰州开幕
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-119"></a>
+### [11版 -  本版责编：肖  遥  董映雪  银  燕](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186610.html) ⭐️ ?/10
+
+11版 -  本版责编：肖  遥  董映雪  银  燕
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-120"></a>
+### [12版 -  广告](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186611.html) ⭐️ ?/10
+
+12版 -  广告
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-121"></a>
+### [13版 -  一山揽胜景  烟火暖千家（美丽中国·世界自然遗产这样保护）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186612.html) ⭐️ ?/10
+
+13版 -  一山揽胜景  烟火暖千家（美丽中国·世界自然遗产这样保护）
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-122"></a>
+### [13版 -  河流源头如何确定](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186613.html) ⭐️ ?/10
+
+13版 -  河流源头如何确定
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-123"></a>
+### [13版 -  海南开展秋季迁徙鸟类调查](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186614.html) ⭐️ ?/10
+
+13版 -  海南开展秋季迁徙鸟类调查
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-124"></a>
+### [13版 -  去年我国渔业资源与水域生态环境状况保持稳定](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186615.html) ⭐️ ?/10
+
+13版 -  去年我国渔业资源与水域生态环境状况保持稳定
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-125"></a>
+### [13版 -  图片报道](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186616.html) ⭐️ ?/10
+
+13版 -  图片报道
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-126"></a>
+### [13版 -  广东印发实施碧带建设规划](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186617.html) ⭐️ ?/10
+
+13版 -  广东印发实施碧带建设规划
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-127"></a>
+### [13版 -  屋顶晒出“阳光存折”  绿能释放发展活力](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186618.html) ⭐️ ?/10
+
+13版 -  屋顶晒出“阳光存折”  绿能释放发展活力
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-128"></a>
+### [13版 -  本版责编：张  晔  杨笑雨  付明丽](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186619.html) ⭐️ ?/10
+
+13版 -  本版责编：张  晔  杨笑雨  付明丽
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-129"></a>
+### [14版 -  “我愿意一直拼下去”（聚焦亚残运会）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186620.html) ⭐️ ?/10
+
+14版 -  “我愿意一直拼下去”（聚焦亚残运会）
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-130"></a>
+### [14版 -  听声辨位，盲人足球赛也精彩（秒懂）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186621.html) ⭐️ ?/10
+
+14版 -  听声辨位，盲人足球赛也精彩（秒懂）
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-131"></a>
+### [14版 -  一路追风一路歌](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186622.html) ⭐️ ?/10
+
+14版 -  一路追风一路歌
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-132"></a>
+### [14版 -  家门口老粮站，健身好去处](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186623.html) ⭐️ ?/10
+
+14版 -  家门口老粮站，健身好去处
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-133"></a>
+### [14版 -  “张雪机车”车手获年度车手亚军](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186624.html) ⭐️ ?/10
+
+14版 -  “张雪机车”车手获年度车手亚军
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-134"></a>
+### [14版 -  2026北马男子赛会纪录大幅刷新](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186625.html) ⭐️ ?/10
+
+14版 -  2026北马男子赛会纪录大幅刷新
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-135"></a>
+### [14版 -  2026全国围棋行业职工大赛举行](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186626.html) ⭐️ ?/10
+
+14版 -  2026全国围棋行业职工大赛举行
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-136"></a>
+### [14版 -  全国群众公开水域游泳系列赛元荡湖站开赛](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186627.html) ⭐️ ?/10
+
+14版 -  全国群众公开水域游泳系列赛元荡湖站开赛
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-137"></a>
+### [14版 -  独臂少年的篮球梦](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186628.html) ⭐️ ?/10
+
+14版 -  独臂少年的篮球梦
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-138"></a>
+### [14版 -  “援青杯”足球邀请赛在青海举行](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186629.html) ⭐️ ?/10
+
+14版 -  “援青杯”足球邀请赛在青海举行
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-139"></a>
+### [14版 -  本版责编：巩育华  史  哲  高  佶](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186630.html) ⭐️ ?/10
+
+14版 -  本版责编：巩育华  史  哲  高  佶
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-140"></a>
+### [15版 -  一些国家持续探索如何遏制食物浪费（国际视点）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186631.html) ⭐️ ?/10
+
+15版 -  一些国家持续探索如何遏制食物浪费（国际视点）
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-141"></a>
+### [15版 -  从并蒂莲到机器狗，感受中国好物（环球走笔）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186632.html) ⭐️ ?/10
+
+15版 -  从并蒂莲到机器狗，感受中国好物（环球走笔）
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-142"></a>
+### [15版 -  环球扫描](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186633.html) ⭐️ ?/10
+
+15版 -  环球扫描
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-143"></a>
+### [15版 -  尼泊尔努力挖掘经济潜能](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186634.html) ⭐️ ?/10
+
+15版 -  尼泊尔努力挖掘经济潜能
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-144"></a>
+### [15版 -  欧洲多地发生抗议示威活动](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186635.html) ⭐️ ?/10
+
+15版 -  欧洲多地发生抗议示威活动
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-145"></a>
+### [15版 -  本版责编：邹志鹏  张慧中  褚  君](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186636.html) ⭐️ ?/10
+
+15版 -  本版责编：邹志鹏  张慧中  褚  君
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-146"></a>
+### [16版 -  广告](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186637.html) ⭐️ ?/10
+
+16版 -  广告
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-147"></a>
+### [17版 -  长征精神 全人类的共同财富（权威论坛）](http://paper.people.com.cn/rmrb/pc/content/202610/20/content_30186638.html) ⭐️ ?/10
+
+17版 -  长征精神 全人类的共同财富（权威论坛）
+
+rss · 人民日报\(People&\#x27;s Daily\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-148"></a>
+### [A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal.](https://www.nytimes.com/2026/10/20/us/politics/julio-herrera-pardon-alina-habba.html) ⭐️ ?/10
+
+A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal.
+
+rss · 纽约时报\(The New York Times\) · Oct 20, 22:45
+
+---
+
+<a id="item-tech-news-149"></a>
+### [In Texas’ Senate Race, Paxton and Talarico Converge on Key Battleground](https://www.nytimes.com/2026/10/20/us/paxton-talarico-fort-worth-tarrant-county-texas.html) ⭐️ ?/10
+
+In Texas’ Senate Race, Paxton and Talarico Converge on Key Battleground
+
+rss · 纽约时报\(The New York Times\) · Oct 20, 22:32
+
+---
+
+<a id="item-tech-news-150"></a>
+### [Trump Announces Plans to Spend Another $100 Million by Election Day](https://www.nytimes.com/2026/10/20/briefing/trump-midterm-spending.html) ⭐️ ?/10
+
+Trump Announces Plans to Spend Another $100 Million by Election Day
+
+rss · 纽约时报\(The New York Times\) · Oct 20, 21:56
+
+---
+
+<a id="item-tech-news-151"></a>
+### [A ‘Doom Loop’ Threatens France as Populism Confronts Markets](https://www.nytimes.com/2026/10/20/business/france-protests-bond-markets.html) ⭐️ ?/10
+
+A ‘Doom Loop’ Threatens France as Populism Confronts Markets
+
+rss · 纽约时报\(The New York Times\) · Oct 20, 14:24
+
+---
+
+<a id="item-tech-news-152"></a>
+### [Student Protesters in France Have a Strange New Slogan. What Does It Mean?](https://www.nytimes.com/2026/10/20/world/europe/france-student-protests-slogan.html) ⭐️ ?/10
+
+Student Protesters in France Have a Strange New Slogan. What Does It Mean?
+
+rss · 纽约时报\(The New York Times\) · Oct 20, 21:21
+
+---
+
+<a id="item-tech-news-153"></a>
+### [Heading to France? Amid Recent Unrest, Here’s What to Know](https://www.nytimes.com/2026/10/20/travel/france-travel-riots.html) ⭐️ ?/10
+
+Heading to France? Amid Recent Unrest, Here’s What to Know
+
+rss · 纽约时报\(The New York Times\) · Oct 20, 17:45
+
+---
+
+<a id="item-tech-news-154"></a>
+### [Art Basel Paris Preview Draws Interest Despite Protests](https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html) ⭐️ ?/10
+
+Art Basel Paris Preview Draws Interest Despite Protests
+
+rss · 纽约时报\(The New York Times\) · Oct 20, 22:15
+
+---
+
+<a id="item-tech-news-155"></a>
+### [Why Zelensky Took the Gloves Off This Time With Trump](https://www.nytimes.com/2026/10/20/world/europe/ukraine-war-zelensky-trump.html) ⭐️ ?/10
+
+Why Zelensky Took the Gloves Off This Time With Trump
+
+rss · 纽约时报\(The New York Times\) · Oct 20, 20:39
+
+---
+
+<a id="item-tech-news-156"></a>
+### [Trump Says He Asked Putin to Release an American Jailed in Russia](https://www.nytimes.com/2026/10/20/us/politics/trump-russia-prisoner-stephen-hubbard.html) ⭐️ ?/10
+
+Trump Says He Asked Putin to Release an American Jailed in Russia
+
+rss · 纽约时报\(The New York Times\) · Oct 20, 20:47
+
+---
+
+<a id="item-tech-news-157"></a>
+### [Trump Pushes to Evict White House Press Corps](https://www.nytimes.com/2026/10/20/us/politics/trump-white-house-media.html) ⭐️ ?/10
+
+Trump Pushes to Evict White House Press Corps
+
+rss · 纽约时报\(The New York Times\) · Oct 20, 20:59
+
+---
+
+<a id="item-tech-news-158"></a>
+### [Houdini Died on Halloween 100 Years Ago. Some Still Question How.](https://www.nytimes.com/2026/10/20/arts/houdini-death-mystery.html) ⭐️ ?/10
+
+Houdini Died on Halloween 100 Years Ago. Some Still Question How.
+
+rss · 纽约时报\(The New York Times\) · Oct 20, 19:03
+
+---
+
+<a id="item-tech-news-159"></a>
+### [Kate Middleton brings back Princess Diana&\#x27;s famous tiara for glamorous night alongside Prince William](https://www.foxnews.com/entertainment/kate-middleton-brings-back-princess-diana-famous-tiara-glamorous-night-prince-william) ⭐️ ?/10
+
+Kate Middleton brings back Princess Diana&\#x27;s famous tiara for glamorous night alongside Prince William
+
+rss · 福克斯新闻\(Fox News\) · Oct 20, 22:12
+
+---
+
+<a id="item-tech-news-160"></a>
+### [Vacation spot slapped with US travel warning over crime, sexual assaults and kidnappings](https://www.foxnews.com/travel/vacation-spot-slapped-us-travel-warning-over-crime-sexual-assaults-kidnappings) ⭐️ ?/10
+
+Vacation spot slapped with US travel warning over crime, sexual assaults and kidnappings
+
+rss · 福克斯新闻\(Fox News\) · Oct 20, 22:12
+
+---
+
+<a id="item-tech-news-161"></a>
+### [Carmelo Anthony says LeBron James and 76ers can be &\#x27;problem for everyone,&\#x27; including reigning-champion Knicks](https://www.foxnews.com/outkick-sports/carmelo-anthony-says-lebron-james-76ers-problem-everyone-including-reigning-champion-knicks) ⭐️ ?/10
+
+Carmelo Anthony says LeBron James and 76ers can be &\#x27;problem for everyone,&\#x27; including reigning-champion Knicks
+
+rss · 福克斯新闻\(Fox News\) · Oct 20, 22:10
+
+---
+
+<a id="item-tech-news-162"></a>
+### [Judge Trump called a ‘lunatic’ abruptly backs off demand after showdown with DOJ No. 3](https://www.foxnews.com/politics/judge-trump-called-lunatic-abruptly-backs-off-demand-showdown-doj-3) ⭐️ ?/10
+
+Judge Trump called a ‘lunatic’ abruptly backs off demand after showdown with DOJ No. 3
+
+rss · 福克斯新闻\(Fox News\) · Oct 20, 22:08
+
+---
+
+<a id="item-tech-news-163"></a>
+### [Amy Schumer shares swimsuit photos from Caribbean getaway nearly a year after 50-pound weight-loss reveal](https://www.foxnews.com/entertainment/amy-schumer-shares-swimsuit-photos-caribbean-getaway-nearly-year-after-50-pound-weight-loss-reveal) ⭐️ ?/10
+
+Amy Schumer shares swimsuit photos from Caribbean getaway nearly a year after 50-pound weight-loss reveal
+
+rss · 福克斯新闻\(Fox News\) · Oct 20, 22:07
+
+---
+
+<a id="item-tech-news-164"></a>
+### [Common disorder linked to 70% higher death rate, but medication may offer protection](https://www.foxnews.com/health/common-disorder-linked-70-higher-death-rate-medication-may-offer-protection) ⭐️ ?/10
+
+Common disorder linked to 70% higher death rate, but medication may offer protection
+
+rss · 福克斯新闻\(Fox News\) · Oct 20, 22:05
+
+---
+
+<a id="item-tech-news-165"></a>
+### [Commanders star wide receiver Terry McLaurin out for season with patellar tendon injury, coach says](https://www.foxnews.com/outkick-sports/commanders-star-wide-receiver-terry-mclaurin-out-season-patellar-tendon-injury-coach-says) ⭐️ ?/10
+
+Commanders star wide receiver Terry McLaurin out for season with patellar tendon injury, coach says
+
+rss · 福克斯新闻\(Fox News\) · Oct 20, 21:45
+
+---
+
+<a id="item-tech-news-166"></a>
+### [Washington Post columnist reinstated after being fired over Charlie Kirk posts gloats about receiving back pay](https://www.foxnews.com/media/washington-post-columnist-reinstated-after-fired-charlie-kirk-posts-gloats-receiving-back-pay) ⭐️ ?/10
+
+Washington Post columnist reinstated after being fired over Charlie Kirk posts gloats about receiving back pay
+
+rss · 福克斯新闻\(Fox News\) · Oct 20, 21:29
+
+---
+
+<a id="item-tech-news-167"></a>
+### [Trump says Ilhan Omar could go to jail or be deported, calls her ‘a disgrace to our country’](https://www.foxnews.com/politics/trump-says-ilhan-omar-could-go-jail-deported-calls-her-a-disgrace-our-country) ⭐️ ?/10
+
+Trump says Ilhan Omar could go to jail or be deported, calls her ‘a disgrace to our country’
+
+rss · 福克斯新闻\(Fox News\) · Oct 20, 21:11
+
+---
+
+<a id="item-tech-news-168"></a>
+### [NFL VP says league is &\#x27;vigilant&\#x27; about security for France matchup, remains confident in plans](https://www.foxnews.com/outkick-sports/nfl-vp-says-league-vigilant-security-france-matchup-remains-confident-plans) ⭐️ ?/10
+
+NFL VP says league is &\#x27;vigilant&\#x27; about security for France matchup, remains confident in plans
+
+rss · 福克斯新闻\(Fox News\) · Oct 20, 21:03
+
+---
+
+<a id="item-tech-news-169"></a>
+### [Jay Z&\#x27;s past political statements won&\#x27;t help perception of NFL politicizing Super Bowl halftime](https://www.foxnews.com/outkick-sports/jay-z-past-political-statements-wont-help-perception-nfl-politicizing-super-bowl-halftime) ⭐️ ?/10
+
+Jay Z&\#x27;s past political statements won&\#x27;t help perception of NFL politicizing Super Bowl halftime
+
+rss · 福克斯新闻\(Fox News\) · Oct 20, 21:03
+
+---
+
+<a id="item-tech-news-170"></a>
+### [Mel Brooks, 100, asked ‘Spaceballs’ team to film his scenes first due to age](https://www.foxnews.com/entertainment/mel-brooks-100-asked-spaceballs-team-film-scenes-first-due-age) ⭐️ ?/10
+
+Mel Brooks, 100, asked ‘Spaceballs’ team to film his scenes first due to age
+
+rss · 福克斯新闻\(Fox News\) · Oct 20, 21:01
+
+---
+
+<a id="item-tech-news-171"></a>
+### [Irish rock legends U2 get the nod to perform during the NFL&\#x27;s Thanksgiving Eve halftime show](https://www.foxnews.com/outkick-sports/irish-rock-legends-u2-nod-perform-nfl-thanksgiving-eve-halftime-show) ⭐️ ?/10
+
+Irish rock legends U2 get the nod to perform during the NFL&\#x27;s Thanksgiving Eve halftime show
+
+rss · 福克斯新闻\(Fox News\) · Oct 20, 20:59
+
+---
+
+<a id="item-tech-news-172"></a>
+### [Crest 3D Whitestrips are on sale for $35 on Amazon — their lowest price since January](https://www.foxnews.com/deals/crest-whitestrips-teeth-whitening-kit-amazon-deal) ⭐️ ?/10
+
+Crest 3D Whitestrips are on sale for $35 on Amazon — their lowest price since January
+
+rss · 福克斯新闻\(Fox News\) · Oct 20, 20:58
+
+---
+
+<a id="item-tech-news-173"></a>
+### [Disabled Canadian man says hospital repeatedly offered assisted death as he fought for care to stay alive](https://www.foxnews.com/media/disabled-canadian-man-says-hospital-repeatedly-offered-assisted-death-fought-care-stay-alive) ⭐️ ?/10
+
+Disabled Canadian man says hospital repeatedly offered assisted death as he fought for care to stay alive
+
+rss · 福克斯新闻\(Fox News\) · Oct 20, 20:50
+
+---
+
+<a id="item-tech-news-174"></a>
+### [MLB player will become World Series champion regardless of Brewers-Rays outcome](https://www.foxnews.com/outkick-sports/mlb-player-become-world-series-champion-regardless-brewers-rays-outcome) ⭐️ ?/10
+
+MLB player will become World Series champion regardless of Brewers-Rays outcome
+
+rss · 福克斯新闻\(Fox News\) · Oct 20, 20:34
+
+---
+
+<a id="item-tech-news-175"></a>
+### [Reporter’s Notebook: A Democratic majority could expose the limits of the progressive agenda](https://www.foxnews.com/politics/reporters-notebook-democratic-majority-expose-limits-progressive-agenda) ⭐️ ?/10
+
+Reporter’s Notebook: A Democratic majority could expose the limits of the progressive agenda
+
+rss · 福克斯新闻\(Fox News\) · Oct 20, 20:25
+
+---
+
+<a id="item-tech-news-176"></a>
+### [Former Disney star Erik von Detten sued for elder abuse after couple poured $2.1M retirement savings into gold](https://www.foxnews.com/entertainment/former-disney-star-erik-von-detten-sued-elder-abuse-after-couple-poured-2-1m-retirement-savings-gold) ⭐️ ?/10
+
+Former Disney star Erik von Detten sued for elder abuse after couple poured $2.1M retirement savings into gold
+
+rss · 福克斯新闻\(Fox News\) · Oct 20, 20:13
+
+---
+
+<a id="item-tech-news-177"></a>
+### [Ilhan Omar&\#x27;s daughters show up at scene of DC raid as rumors swirl about embattled rep&\#x27;s whereabouts](https://www.foxnews.com/politics/ilhan-omars-daughters-shows-up-scene-dc-raid-rumors-swirl-embattled-reps-whereabouts) ⭐️ ?/10
+
+Ilhan Omar&\#x27;s daughters show up at scene of DC raid as rumors swirl about embattled rep&\#x27;s whereabouts
+
+rss · 福克斯新闻\(Fox News\) · Oct 20, 20:08
+
+---
+
+<a id="item-tech-news-178"></a>
+### [Forty-five percent of college students say violence can be justified to stop hate speech, poll finds](https://www.foxnews.com/media/forty-five-percent-college-students-say-violence-can-justified-stop-hate-speech-poll-finds) ⭐️ ?/10
+
+Forty-five percent of college students say violence can be justified to stop hate speech, poll finds
+
+rss · 福克斯新闻\(Fox News\) · Oct 20, 20:05
+
+---
+
+<a id="item-tech-news-179"></a>
+### [Urban Meyer joins Dan Dakich, gushes about new Florida head coach Jon Sumrall: &\#x27;I love that guy&\#x27;](https://www.foxnews.com/outkick-sports/urban-meyer-joins-dan-dakich-gushes-new-florida-head-coach-jon-sumrall-love-that-guy) ⭐️ ?/10
+
+Urban Meyer joins Dan Dakich, gushes about new Florida head coach Jon Sumrall: &\#x27;I love that guy&\#x27;
+
+rss · 福克斯新闻\(Fox News\) · Oct 20, 20:05
+
+---
+
+<a id="item-tech-news-180"></a>
+### [Reporter&\#x27;s Notebook: France braces for more unrest after parts of Paris spun out of control](https://www.foxnews.com/world/reporters-notebook-france-braces-more-unrest-after-parts-paris-spun-out-control) ⭐️ ?/10
+
+Reporter&\#x27;s Notebook: France braces for more unrest after parts of Paris spun out of control
+
+rss · 福克斯新闻\(Fox News\) · Oct 20, 19:57
+
+---
+
+<a id="item-tech-news-181"></a>
+### [El-Sayed says Trump&\#x27;s attacks on his faith are to distract from pain he&\#x27;s causing](https://abcnews.com/Politics/abdul-el-sayed-trumps-attacks-faith-meant-distract/story?id=137382911) ⭐️ ?/10
+
+El-Sayed says Trump&\#x27;s attacks on his faith are to distract from pain he&\#x27;s causing
+
+rss · ABC新闻\(American Broadcasting Company\) · Oct 20, 19:21
+
+---
+
+<a id="item-tech-news-182"></a>
+### [LIVE:  ABC News Live](https://abcnews.com/video/41463246/) ⭐️ ?/10
+
+LIVE:  ABC News Live
+
+rss · ABC新闻\(American Broadcasting Company\) · Oct 20, 19:12
+
+---
+
+<a id="item-tech-news-183"></a>
+### [American Airlines flight blows tire while landing at Chicago O&\#x27;Hare: FAA](https://abcnews.com/US/american-airlines-flight-blows-tire-landing-chicago-ohare/story?id=137428455) ⭐️ ?/10
+
+American Airlines flight blows tire while landing at Chicago O&\#x27;Hare: FAA
+
+rss · ABC新闻\(American Broadcasting Company\) · Oct 20, 22:53
+
+---
+
+<a id="item-tech-news-184"></a>
+### [Man arrested for alleged threats to shoot President Trump at Kansas rally](https://abcnews.com/Politics/man-arrested-alleged-threats-shoot-president-trump-kansas/story?id=137412221) ⭐️ ?/10
+
+Man arrested for alleged threats to shoot President Trump at Kansas rally
+
+rss · ABC新闻\(American Broadcasting Company\) · Oct 20, 16:38
+
+---
+
+<a id="item-tech-news-185"></a>
+### [WATCH:  Funding cuts forcing World Food Program to reduce lifesaving aid in Gaza](https://abcnews.com/video/137411132/) ⭐️ ?/10
+
+WATCH:  Funding cuts forcing World Food Program to reduce lifesaving aid in Gaza
+
+rss · ABC新闻\(American Broadcasting Company\) · Oct 20, 13:39
+
+---
+
+<a id="item-tech-news-186"></a>
+### [WATCH:  Trump says what Russia is doing to Ukraine is &\#x27;fine&\#x27;](https://abcnews.com/video/137418640/) ⭐️ ?/10
+
+WATCH:  Trump says what Russia is doing to Ukraine is &\#x27;fine&\#x27;
+
+rss · ABC新闻\(American Broadcasting Company\) · Oct 20, 21:33
+
+---
+
+<a id="item-tech-news-187"></a>
+### [WATCH:  Wirecutter shares top picks after 15 years of product testing](https://abcnews.com/video/137411425/) ⭐️ ?/10
+
+WATCH:  Wirecutter shares top picks after 15 years of product testing
+
+rss · ABC新闻\(American Broadcasting Company\) · Oct 20, 14:09
+
+---
+
+<a id="item-tech-news-188"></a>
+### [WATCH:  Study shows Gulf oil spill&\#x27;s lasting damage](https://abcnews.com/video/137404541/) ⭐️ ?/10
+
+WATCH:  Study shows Gulf oil spill&\#x27;s lasting damage
+
+rss · ABC新闻\(American Broadcasting Company\) · Oct 20, 10:08
+
+---
+
+<a id="item-tech-news-189"></a>
+### [WATCH:  Trump announces fuel relief for farmers](https://abcnews.com/video/137404366/) ⭐️ ?/10
+
+WATCH:  Trump announces fuel relief for farmers
+
+rss · ABC新闻\(American Broadcasting Company\) · Oct 20, 08:25
+
+---
+
+<a id="item-tech-news-190"></a>
+### [WATCH:  David Muir reports on the beloved barn owls that have made Manhattan home](https://abcnews.com/video/137396739/) ⭐️ ?/10
+
+WATCH:  David Muir reports on the beloved barn owls that have made Manhattan home
+
+rss · ABC新闻\(American Broadcasting Company\) · Oct 20, 00:39
+
+---
+
+<a id="item-tech-news-191"></a>
+### [Trump attacks Democratic challenger Hamilton at Kansas rally as Senate race tightens](https://abcnews.com/Politics/trump-attacks-democratic-challenger-adam-hamilton-kansas-rally/story?id=137404084) ⭐️ ?/10
+
+Trump attacks Democratic challenger Hamilton at Kansas rally as Senate race tightens
+
+rss · ABC新闻\(American Broadcasting Company\) · Oct 20, 17:59
+
+---
+
+<a id="item-tech-news-192"></a>
+### [Some older siblings left raising family members after parents&\#x27; deportation: Advocates](https://abcnews.com/US/older-siblings-left-raising-younger-family-members-after/story?id=137303121) ⭐️ ?/10
+
+Some older siblings left raising family members after parents&\#x27; deportation: Advocates
+
+rss · ABC新闻\(American Broadcasting Company\) · Oct 20, 14:37
+
+---
+
+<a id="item-tech-news-193"></a>
+### [Amy Acton campaign slams Ramaswamy over controversial ad featuring estranged mother](https://abcnews.com/Politics/amy-acton-campaign-slams-ramaswamy-controversial-ad-featuring/story?id=137421475) ⭐️ ?/10
+
+Amy Acton campaign slams Ramaswamy over controversial ad featuring estranged mother
+
+rss · ABC新闻\(American Broadcasting Company\) · Oct 20, 22:42
+
+---
+
+<a id="item-tech-news-194"></a>
+### [NJ food importer files lawsuit challenging Trump&\#x27;s 50% tariffs on Canadian goods](https://abcnews.com/US/wireStory/new-jersey-food-importer-files-lawsuit-challenging-trumps-137425192) ⭐️ ?/10
+
+NJ food importer files lawsuit challenging Trump&\#x27;s 50% tariffs on Canadian goods
+
+rss · ABC新闻\(American Broadcasting Company\) · Oct 20, 20:41
+
+---
+
+<a id="item-tech-news-195"></a>
+### [WATCH:  DHS: Ukrainians Retain Protection Pending TPS Decision](https://abcnews.com/video/137423137/) ⭐️ ?/10
+
+WATCH:  DHS: Ukrainians Retain Protection Pending TPS Decision
+
+rss · ABC新闻\(American Broadcasting Company\) · Oct 20, 20:39
+
+---
+
+<a id="item-tech-news-196"></a>
+### [Some changes are coming for Medicare as open enrollment begins](https://abcnews.com/Health/medicare-plans-open-enrollment-begins/story?id=137374397) ⭐️ ?/10
+
+Some changes are coming for Medicare as open enrollment begins
+
+rss · ABC新闻\(American Broadcasting Company\) · Oct 20, 13:41
+
+---
+
+<a id="item-tech-news-197"></a>
+### [About 6 in 10 Americans confident election will be conducted fairly, accurately: Poll](https://abcnews.com/Politics/6-10-americans-confident-election-conducted-fairly-accurately/story?id=137385192) ⭐️ ?/10
+
+About 6 in 10 Americans confident election will be conducted fairly, accurately: Poll
+
+rss · ABC新闻\(American Broadcasting Company\) · Oct 20, 10:55
+
+---
+
+<a id="item-tech-news-198"></a>
+### [Rubio and Jaishankar hold talks in Mumbai as US and India aim to finalize trade deal](https://abcnews.com/International/wireStory/rubio-jaishankar-hold-talks-mumbai-us-india-aim-137406921) ⭐️ ?/10
+
+Rubio and Jaishankar hold talks in Mumbai as US and India aim to finalize trade deal
+
+rss · ABC新闻\(American Broadcasting Company\) · Oct 20, 13:30
+
+---
+
+<a id="item-tech-news-199"></a>
+### [Triumphal Arch final plans submitted to National Capital Planning Commission](https://abcnews.com/Politics/triumphal-arch-final-plans-submitted-interior-department-national/story?id=137392598) ⭐️ ?/10
+
+Triumphal Arch final plans submitted to National Capital Planning Commission
+
+rss · ABC新闻\(American Broadcasting Company\) · Oct 20, 10:38
+
+---
+
+<a id="item-tech-news-200"></a>
+### [Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident](https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 18:32
+
+---
+
+<a id="item-tech-news-201"></a>
+### [Zelensky says US intelligence sharing &\#x27;works now&\#x27; after talks with Trump envoy in Oslo](https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+Zelensky says US intelligence sharing &\#x27;works now&\#x27; after talks with Trump envoy in Oslo
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 21:27
+
+---
+
+<a id="item-tech-news-202"></a>
+### [Government failings allowed Covid &\#x27;to spread like wildfire&\#x27; in care homes, inquiry finds](https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+Government failings allowed Covid &\#x27;to spread like wildfire&\#x27; in care homes, inquiry finds
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 15:32
+
+---
+
+<a id="item-tech-news-203"></a>
+### [BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close](https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 13:10
+
+---
+
+<a id="item-tech-news-204"></a>
+### [King praises Strait of Hormuz peace efforts at glittering banquet](https://www.bbc.co.uk/news/articles/c8040qgryqd3o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+King praises Strait of Hormuz peace efforts at glittering banquet
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 21:10
+
+---
+
+<a id="item-tech-news-205"></a>
+### [Elon Musk says Tesla-SpaceX merger being considered](https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+Elon Musk says Tesla-SpaceX merger being considered
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 22:43
+
+---
+
+<a id="item-tech-news-206"></a>
+### [Tory MP questions government advisor&\#x27;s position after wife&\#x27;s Palestine Action post](https://www.bbc.co.uk/news/articles/cke8r0me3y9vo?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+Tory MP questions government advisor&\#x27;s position after wife&\#x27;s Palestine Action post
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 22:29
+
+---
+
+<a id="item-tech-news-207"></a>
+### [Schools should recognise antisemitism as distinct form of harm, review says](https://www.bbc.co.uk/news/articles/c623d7z1rxg5o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+Schools should recognise antisemitism as distinct form of harm, review says
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 18:52
+
+---
+
+<a id="item-tech-news-208"></a>
+### [Woman says she &\#x27;couldn&\#x27;t speak or breathe&\#x27; during alleged rape by Russell Brand](https://www.bbc.co.uk/news/articles/ck240rr10jdqo?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+Woman says she &\#x27;couldn&\#x27;t speak or breathe&\#x27; during alleged rape by Russell Brand
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 16:02
+
+---
+
+<a id="item-tech-news-209"></a>
+### [UK government to make Jackdaw gas field announcement](https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+UK government to make Jackdaw gas field announcement
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 17:33
+
+---
+
+<a id="item-tech-news-210"></a>
+### [Audit regulator looking into Manchester City accounting](https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+Audit regulator looking into Manchester City accounting
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 20:56
+
+---
+
+<a id="item-tech-news-211"></a>
+### [60 years on: The Aberfan disaster through the eyes of those who survived](https://www.bbc.co.uk/news/articles/cr9dzpx2xl0lo?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+60 years on: The Aberfan disaster through the eyes of those who survived
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 21:54
+
+---
+
+<a id="item-tech-news-212"></a>
+### [Trump and Zelensky appear at loggerheads despite Oslo optimism](https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+Trump and Zelensky appear at loggerheads despite Oslo optimism
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 20:00
+
+---
+
+<a id="item-tech-news-213"></a>
+### [Watch: Why does Prince Harry want to &\#x27;work it out&\#x27; with his father and brother?](https://www.bbc.co.uk/news/videos/cm0e0z7dwrd9o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+Watch: Why does Prince Harry want to &\#x27;work it out&\#x27; with his father and brother?
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 18:40
+
+---
+
+<a id="item-tech-news-214"></a>
+### [No &\#x27;protective ring&\#x27; and visiting rules too strict - key points from Covid report on care homes](https://www.bbc.co.uk/news/articles/crje5dke7vgqo?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+No &\#x27;protective ring&\#x27; and visiting rules too strict - key points from Covid report on care homes
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 12:16
+
+---
+
+<a id="item-tech-news-215"></a>
+### [Teenagers tell BBC of their hopes and fears as they prepare to start work](https://www.bbc.co.uk/news/videos/cm93z0w7weeno?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+Teenagers tell BBC of their hopes and fears as they prepare to start work
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 16:28
+
+---
+
+<a id="item-tech-news-216"></a>
+### [Katie Razzall: BBC closures make business sense, but far more savings are needed](https://www.bbc.co.uk/news/articles/c63eln34yle3o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+Katie Razzall: BBC closures make business sense, but far more savings are needed
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 15:14
+
+---
+
+<a id="item-tech-news-217"></a>
+### [North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?](https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 11:45
+
+---
+
+<a id="item-tech-news-218"></a>
+### [Harry says he wants to &\#x27;reconcile&\#x27; with his family](https://www.bbc.co.uk/news/articles/cry4xj79zxd1o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+Harry says he wants to &\#x27;reconcile&\#x27; with his family
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 15:49
+
+---
+
+<a id="item-tech-news-219"></a>
+### [Man charged with attack on Australia MP to face court](https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+Man charged with attack on Australia MP to face court
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 11:25
+
+---
+
+<a id="item-tech-news-220"></a>
+### [Immersive Beatles museum described as &\#x27;like Graceland or Dollywood&\#x27; to open in 2028](https://www.bbc.co.uk/news/articles/cr3wv555ew6lo?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+Immersive Beatles museum described as &\#x27;like Graceland or Dollywood&\#x27; to open in 2028
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 14:58
+
+---
+
+<a id="item-tech-news-221"></a>
+### [Second Labour MP suspended over Covid loan repayments](https://www.bbc.co.uk/news/articles/cqgkvnp0lkv5o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+Second Labour MP suspended over Covid loan repayments
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 21:20
+
+---
+
+<a id="item-tech-news-222"></a>
+### [Student who stabbed housemate 30 times admits murder](https://www.bbc.co.uk/news/articles/ckq6n55l23rlo?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+Student who stabbed housemate 30 times admits murder
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 14:35
+
+---
+
+<a id="item-tech-news-223"></a>
+### [UK to deploy jets to defend Saudi Arabia from Houthi attacks](https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+UK to deploy jets to defend Saudi Arabia from Houthi attacks
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 13:54
+
+---
+
+<a id="item-tech-news-224"></a>
+### [Marseille braces for more unrest after protests give way to &\#x27;apocalyptic&\#x27; disorder](https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+Marseille braces for more unrest after protests give way to &\#x27;apocalyptic&\#x27; disorder
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 12:08
+
+---
+
+<a id="item-tech-news-225"></a>
+### [The night &\#x27;ruthless&\#x27; Ngumoha came of age for Liverpool](https://www.bbc.co.uk/sport/football/articles/ck0e0zydv33go?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+The night &\#x27;ruthless&\#x27; Ngumoha came of age for Liverpool
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 22:56
+
+---
+
+<a id="item-tech-news-226"></a>
+### [No Haaland, no problem - can Foden be Man City&\#x27;s alternative goalscorer?](https://www.bbc.co.uk/sport/football/articles/cqx2vjdnwkyyo?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+No Haaland, no problem - can Foden be Man City&\#x27;s alternative goalscorer?
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 22:35
+
+---
+
+<a id="item-tech-news-227"></a>
+### [Sloppy England start winter with Pakistan defeat](https://www.bbc.co.uk/sport/cricket/articles/c962ylv3l334o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+Sloppy England start winter with Pakistan defeat
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 16:13
+
+---
+
+<a id="item-tech-news-228"></a>
+### [Carrick wants more clean sheets to turn season around](https://www.bbc.co.uk/sport/football/articles/cje362v35175o?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+Carrick wants more clean sheets to turn season around
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 21:27
+
+---
+
+<a id="item-tech-news-229"></a>
+### [Allen considers retirement after NI Open exit](https://www.bbc.co.uk/sport/snooker/articles/cmn8w3zl0z4po?at_medium=RSS&amp;at_campaign=rss) ⭐️ ?/10
+
+Allen considers retirement after NI Open exit
+
+rss · BBC\(British Broadcasting Corporation\) · Oct 20, 15:55
+
+---
+
+<a id="item-tech-news-230"></a>
+### [RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau](https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau) ⭐️ ?/10
+
+RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau
+
+rss · 卫报\(The Guardian\) · Oct 20, 19:18
+
+---
+
+<a id="item-tech-news-231"></a>
+### [Alberta voters overwhelmingly reject plan to leave Canada in referendum](https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum) ⭐️ ?/10
+
+Alberta voters overwhelmingly reject plan to leave Canada in referendum
+
+rss · 卫报\(The Guardian\) · Oct 20, 16:24
+
+---
+
+<a id="item-tech-news-232"></a>
+### [‘Bad decisions’: Man convicted for taking Peachy the flamingo from Las Vegas hotel](https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel) ⭐️ ?/10
+
+‘Bad decisions’: Man convicted for taking Peachy the flamingo from Las Vegas hotel
+
+rss · 卫报\(The Guardian\) · Oct 20, 16:11
+
+---
+
+<a id="item-tech-news-233"></a>
+### [Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff](https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff) ⭐️ ?/10
+
+Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff
+
+rss · 卫报\(The Guardian\) · Oct 20, 15:41
+
+---
+
+<a id="item-tech-news-234"></a>
+### [Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds](https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study) ⭐️ ?/10
+
+Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds
+
+rss · 卫报\(The Guardian\) · Oct 20, 12:00
+
+---
+
+<a id="item-tech-news-235"></a>
+### [Helen Haines live updates: Police are charging ‘almost one individual every week’ for targeting politicians, MP critical after surgery to save second leg](https://www.theguardian.com/australia-news/live/2026/oct/21/helen-haines-independent-mp-alleged-attack-wangaratta-vigils-court-ntwnfb) ⭐️ ?/10
+
+Helen Haines live updates: Police are charging ‘almost one individual every week’ for targeting politicians, MP critical after surgery to save second leg
+
+rss · 卫报\(The Guardian\) · Oct 20, 22:47
+
+---
+
+<a id="item-tech-news-236"></a>
+### [Helen Haines loses leg as surgeons fight to save the other after alleged attack in Wangaratta](https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb) ⭐️ ?/10
+
+Helen Haines loses leg as surgeons fight to save the other after alleged attack in Wangaratta
+
+rss · 卫报\(The Guardian\) · Oct 20, 10:37
+
+---
+
+<a id="item-tech-news-237"></a>
+### [Brendan Nugent’s family say Helen Haines has been their friend for more than 20 years](https://www.theguardian.com/australia-news/2026/oct/20/brendan-nugent-driver-alleged-attack-helen-haines-ntwnfb) ⭐️ ?/10
+
+Brendan Nugent’s family say Helen Haines has been their friend for more than 20 years
+
+rss · 卫报\(The Guardian\) · Oct 20, 10:37
+
+---
+
+<a id="item-tech-news-238"></a>
+### [Brendan Nugent facing three charges over alleged attack on MP Helen Haines](https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-alleged-attacker-brendan-nugent-charged-ntwnfb) ⭐️ ?/10
+
+Brendan Nugent facing three charges over alleged attack on MP Helen Haines
+
+rss · 卫报\(The Guardian\) · Oct 20, 09:18
+
+---
+
+<a id="item-tech-news-239"></a>
+### [PM calls alleged car attack on Helen Haines a deliberate act](https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb) ⭐️ ?/10
+
+Prime Minister Anthony Albanese stated that the alleged attack on Independent MP Helen Haines in Wangaratta was a deliberate act, noting the driver performed a U-turn to return to her after passing while she was at her car boot. The Human Rights Commission condemned the incident, asserting that &quot;violence has no place in our society.&quot; Haines was critically injured in the incident and subsequently transported to a Melbourne hospital.
+
+rss · 卫报\(The Guardian\) · Oct 20, 06:30
+
+**「Background」** Helen Haines is the Independent member for Wannon in Victoria&\#x27;s lower house. The incident occurred in Wangaratta, prompting widespread condemnation from politicians across the spectrum.
+
+**「Impact」** The characterization of the event as a deliberate attack by the Prime Minister intensifies political and legal scrutiny of the incident. It underscores security concerns for politicians engaging in public duties outside parliamentary settings.
+
+---
+
+<a id="item-tech-news-240"></a>
+### [Italy Deploys 500 Troops to Milan Amid Protests and Looting](https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe) ⭐️ ?/10
+
+Italy’s government, led by Prime Minister Giorgia Meloni, is deploying 500 soldiers to Milan following days of protests against the cost of living that escalated into clashes with police, vandalism, and looting. The government plans to swiftly approve tougher security measures, including extending preventive detention for minors, cracking down on youth gangs, and banning gatherings deemed a threat to public order. Further demonstrations are expected on Saturday. This move comes as France also announces the deployment of military forces in response to similar unrest.
+
+rss · 卫报\(The Guardian\) · Oct 20, 21:24
+
+**「Background」** Recent months have seen a wave of protests across several European countries, including France, Spain, and Portugal, primarily driven by economic pressures and the rising cost of living. These demonstrations have sometimes turned violent, prompting governments to consider or implement enhanced security responses.
+
+**「Impact」** The deployment of troops and proposed legislative changes will directly affect public order management and civil liberties in Milan, setting a precedent for how Italy addresses urban unrest. It may also influence similar security debates in other European nations facing comparable protest movements.
+
+---
+
+<a id="item-tech-news-241"></a>
+### [US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy](https://www.theguardian.com/world/2026/oct/20/us-has-resumed-sharing-intelligence-with-ukraine-about-russian-strikes-says-zelenskyy) ⭐️ ?/10
+
+US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy
+
+rss · 卫报\(The Guardian\) · Oct 20, 19:32
+
+---
+
+<a id="item-tech-news-242"></a>
+### [Nato increases Black Sea deployment amid escalating deadly Russian attacks](https://www.theguardian.com/world/2026/oct/20/nato-black-sea-deployment-escalating-russian-attacks-ships) ⭐️ ?/10
+
+Nato increases Black Sea deployment amid escalating deadly Russian attacks
+
+rss · 卫报\(The Guardian\) · Oct 20, 17:43
+
+---
+
+<a id="item-tech-news-243"></a>
+### [Zelenskyy praises intelligence on missile strikes during Oslo visit](https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates) ⭐️ ?/10
+
+Ukrainian President Volodymyr Zelenskyy stated that intelligence regarding missile strikes is now effective, following talks with US envoys focused on security guarantees. During a visit to Oslo, he also met with Norwegian Prime Minister Jonas Gahr Støre, Finnish President Alexander Stubb, and Norway&\#x27;s King Haakon. Zelenskyy expressed hope to receive Russia&\#x27;s response to the discussed security measures the following day.
+
+rss · 卫报\(The Guardian\) · Oct 20, 17:41
+
+**「Background」** Ukraine has faced sustained missile and drone attacks from Russia throughout the ongoing war, making intelligence sharing and early warning systems critical for civilian and military defense. Security guarantees from Western allies, particularly the US, remain a central diplomatic priority for Kyiv as it seeks long-term protection against future aggression.
+
+**「Impact」** Improved intelligence on missile strikes can reduce casualties and infrastructure damage in Ukraine, strengthening its defensive capability. The discussions in Oslo highlight continued Nordic and transatlantic support for Ukraine&\#x27;s security architecture.
+
+---
+
+<a id="item-tech-news-244"></a>
+### [Republicans push back on Donald Trump’s wavering support for Ukraine](https://www.theguardian.com/us-news/2026/oct/20/republicans-push-back-trump-ukraine-russia) ⭐️ ?/10
+
+Republicans push back on Donald Trump’s wavering support for Ukraine
+
+rss · 卫报\(The Guardian\) · Oct 20, 17:32
+
+---
+
+<a id="item-tech-news-245"></a>
+### [UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks](https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks) ⭐️ ?/10
+
+UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks
+
+rss · 卫报\(The Guardian\) · Oct 20, 18:30
+
+---
+
+<a id="item-tech-news-246"></a>
+### [Billionaire Mukesh Ambani launches India’s biggest-ever IPO](https://www.theguardian.com/business/2026/oct/20/mukesh-ambani-jio-platforms-ipo-india-stock-market) ⭐️ ?/10
+
+Billionaire Mukesh Ambani launches India’s biggest-ever IPO
+
+rss · 卫报\(The Guardian\) · Oct 20, 09:53
+
+---
+
+<a id="item-tech-news-247"></a>
+### [She was harassed for crude remarks about Modi at a Cockroach protest. Now she can’t leave home](https://www.theguardian.com/world/2026/oct/19/this-is-india-student-protests-abuse-modi-cockroach-protests) ⭐️ ?/10
+
+She was harassed for crude remarks about Modi at a Cockroach protest. Now she can’t leave home
+
+rss · 卫报\(The Guardian\) · Oct 20, 06:30
+
+---
+
+<a id="item-tech-news-248"></a>
+### [Myanmar’s ousted leader Aung San Suu Kyi seen in rare photos after receiving gift from King Charles](https://www.theguardian.com/world/2026/oct/20/myanmar-aung-san-suu-kyi-rare-photos-gift-king-charles) ⭐️ ?/10
+
+Myanmar’s ousted leader Aung San Suu Kyi seen in rare photos after receiving gift from King Charles
+
+rss · 卫报\(The Guardian\) · Oct 20, 05:07
+
+---
+
+<a id="item-tech-news-249"></a>
+### [Senior Reform official cast doubt over legality of huge donations](https://www.theguardian.com/politics/2026/oct/20/senior-reform-official-cast-doubt-legality-huge-donations-james-orr) ⭐️ ?/10
+
+Senior Reform official cast doubt over legality of huge donations
+
+rss · 卫报\(The Guardian\) · Oct 20, 18:40
+
+---
+
+<a id="item-tech-news-250"></a>
+### [Andy Burnham faces climate revolt after approval of North Sea gas drilling](https://www.theguardian.com/environment/2026/oct/20/jackdaw-north-sea-gas-field-to-get-go-ahead-in-blow-to-climate-campaigners) ⭐️ ?/10
+
+Andy Burnham faces climate revolt after approval of North Sea gas drilling
+
+rss · 卫报\(The Guardian\) · Oct 20, 18:24
+
+---
+
+<a id="item-tech-news-251"></a>
+### [Russell Brand told woman to ‘clear up the mess you’ve made’ after alleged rape, court hears](https://www.theguardian.com/uk-news/2026/oct/20/russell-brand-told-woman-to-clear-up-mess-after-alleged-rape-court-hears) ⭐️ ?/10
+
+Russell Brand told woman to ‘clear up the mess you’ve made’ after alleged rape, court hears
+
+rss · 卫报\(The Guardian\) · Oct 20, 18:22
+
+---
+
+<a id="item-tech-news-252"></a>
+### [Baby who died from meningitis may have been saved if tested sooner, inquest finds](https://www.theguardian.com/society/2026/oct/20/baby-who-died-from-meningitis-may-have-been-saved-if-tested-sooner-inquest-finds) ⭐️ ?/10
+
+Baby who died from meningitis may have been saved if tested sooner, inquest finds
+
+rss · 卫报\(The Guardian\) · Oct 20, 17:37
+
+---
+
+<a id="item-tech-news-253"></a>
+### [‘I’ll make you famous’: court hears recording of Tommy Robinson threat to Daily Mail editor](https://www.theguardian.com/uk-news/2026/oct/20/tommy-robinson-threatened-families-mail-journalists-famous-court-hears) ⭐️ ?/10
+
+‘I’ll make you famous’: court hears recording of Tommy Robinson threat to Daily Mail editor
+
+rss · 卫报\(The Guardian\) · Oct 20, 17:16
+
+---
+
+<a id="item-tech-news-254"></a>
+### [Trump says he will have spent $400m to support Republicans in midterms – US politics live](https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates) ⭐️ ?/10
+
+Trump says he will have spent $400m to support Republicans in midterms – US politics live
+
+rss · 卫报\(The Guardian\) · Oct 20, 22:40
+
+---
+
+<a id="item-tech-news-255"></a>
+### [Michael Bloomberg spends $80m on Democrats as Trump moves $400m to Republican candidates](https://www.theguardian.com/us-news/2026/oct/20/michael-bloomberg-donation-democrats-midterms) ⭐️ ?/10
+
+Michael Bloomberg spends $80m on Democrats as Trump moves $400m to Republican candidates
+
+rss · 卫报\(The Guardian\) · Oct 20, 22:07
+
+---
+
+<a id="item-tech-news-256"></a>
+### [You Can See Everything mania lifts viewership for The Dropout by 186%](https://www.theguardian.com/film/2026/oct/20/you-can-see-everything-dropout-viewership) ⭐️ ?/10
+
+You Can See Everything mania lifts viewership for The Dropout by 186%
+
+rss · 卫报\(The Guardian\) · Oct 20, 21:16
+
+---
+
+<a id="item-tech-news-257"></a>
+### [Kyle Kennedy, granddaughter of Robert F Kennedy, dies aged 42](https://www.theguardian.com/us-news/2026/oct/20/kyle-kennedy-dead-rfk) ⭐️ ?/10
+
+Kyle Kennedy, granddaughter of Robert F Kennedy, dies aged 42
+
+rss · 卫报\(The Guardian\) · Oct 20, 20:55
+
+---
+
+<a id="item-tech-news-258"></a>
+### [Trump suggests he could be ‘arbitrator’ in DoJ anti-fraud whistleblower scheme](https://www.theguardian.com/us-news/2026/oct/20/trump-doj-anti-fraud-tip) ⭐️ ?/10
+
+Trump suggests he could be ‘arbitrator’ in DoJ anti-fraud whistleblower scheme
+
+rss · 卫报\(The Guardian\) · Oct 20, 20:36
+
+---
+
+<a id="item-tech-news-259"></a>
+### [SpaceX and Tesla boards are exploring potential merger](https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37?syn-25a6b1a6=1) ⭐️ ?/10
+
+SpaceX and Tesla boards are exploring potential merger
+
+rss · 金融时报\(Financial Times\) · Oct 20, 21:56
+
+---
+
+<a id="item-tech-news-260"></a>
+### [AI debt worries spark surge in default insurance trading](https://www.ft.com/content/6dd31584-064c-4015-bf5d-e5747799ccd5?syn-25a6b1a6=1) ⭐️ ?/10
+
+AI debt worries spark surge in default insurance trading
+
+rss · 金融时报\(Financial Times\) · Oct 20, 04:00
+
+---
+
+<a id="item-tech-news-261"></a>
+### [Who are the Black Bloc?](https://www.ft.com/content/f97755f2-8b07-47bf-9c14-7963a701c9c3?syn-25a6b1a6=1) ⭐️ ?/10
+
+Who are the Black Bloc?
+
+rss · 金融时报\(Financial Times\) · Oct 20, 18:15
+
+---
+
+<a id="item-tech-news-262"></a>
+### [Putin’s American friends](https://www.ft.com/content/f2261796-20d1-4c90-ab3e-246d4aff504f?syn-25a6b1a6=1) ⭐️ ?/10
+
+Putin’s American friends
+
+rss · 金融时报\(Financial Times\) · Oct 20, 10:26
+
+---
+
+<a id="item-tech-news-263"></a>
+### [The unlikely winners from Trump’s Iran war](https://www.ft.com/content/cfa976d5-e320-4ee8-8c86-84733471a4a1?syn-25a6b1a6=1) ⭐️ ?/10
+
+The unlikely winners from Trump’s Iran war
+
+rss · 金融时报\(Financial Times\) · Oct 20, 04:00
+
+---
+
+<a id="item-tech-news-264"></a>
+### [Finnish president hails progress in talks about ending Russia’s war in Ukraine](https://www.ft.com/content/a068036c-a752-4267-9a2f-a95190ef619f?syn-25a6b1a6=1) ⭐️ ?/10
+
+Finnish president hails progress in talks about ending Russia’s war in Ukraine
+
+rss · 金融时报\(Financial Times\) · Oct 20, 21:30
+
+---
+
+<a id="item-tech-news-265"></a>
+### [UAE official emerges as late contender to lead UN](https://www.ft.com/content/765cb887-05da-4971-9f28-bcf5430f09ac?syn-25a6b1a6=1) ⭐️ ?/10
+
+UAE official emerges as late contender to lead UN
+
+rss · 金融时报\(Financial Times\) · Oct 20, 18:32
+
+---
+
+<a id="item-tech-news-266"></a>
+### [Netflix gives downbeat outlook as streaming hits dry up](https://www.ft.com/content/1b5d97dc-535a-42d9-ac0e-2c00e91c0aed?syn-25a6b1a6=1) ⭐️ ?/10
+
+Netflix gives downbeat outlook as streaming hits dry up
+
+rss · 金融时报\(Financial Times\) · Oct 20, 20:32
+
+---
+
+<a id="item-tech-news-267"></a>
+### [Boeing wins approval for Max 10 jet in boost for turnaround efforts](https://www.ft.com/content/0e99c2bc-873c-4d2d-b5c9-a0876faeb9ed?syn-25a6b1a6=1) ⭐️ ?/10
+
+Boeing wins approval for Max 10 jet in boost for turnaround efforts
+
+rss · 金融时报\(Financial Times\) · Oct 20, 20:43
+
+---
+
+<a id="item-tech-news-268"></a>
+### [Report: Schools in England must treat antisemitism as distinct harm](https://www.theguardian.com/news/2026/oct/20/schools-in-england-must-recognise-antisemitism-as-distinct-category-of-harm-report-says) ⭐️ ?/10
+
+An independent government-commissioned review led by former Ofsted chief inspector Sir David Bell recommends that schools and colleges in England formally recognise antisemitism as a distinct category of harm. The report found that three out of five Jewish students said they had experienced prejudice, with many instances going unreported or unchallenged by both students and teachers. The UK government is expected to accept these recommendations, which call for a tougher institutional stance against antisemitism in the education sector.
+
+rss · 观察家报\(The Observer\) · Oct 20, 20:42
+
+**「Background」** Sir David Bell previously served as chief inspector of Ofsted and was commissioned by the government to conduct this independent review of antisemitism in English schools. Antisemitism is a form of prejudice or discrimination against Jewish people, and educational institutions in England are required to promote British values and ensure student safety, including protection from bullying and hate crime.
+
+**「Impact」** Schools and colleges in England will likely face new expectations to identify, record, and address antisemitism as a specific category of harm rather than subsuming it under broader equality or bullying frameworks. Jewish students, who according to the review represent a significant portion of those affected, may benefit from more consistent reporting and intervention.
+
+---
+
+<a id="item-tech-news-269"></a>
+### [Two men re-arrested on suspicion of aiding Iran over RAF Fairford incident](https://www.theguardian.com/uk-news/2026/oct/20/two-men-re-arrested-on-suspicion-of-aiding-iran-over-raf-fairford-incident) ⭐️ ?/10
+
+Two men re-arrested on suspicion of aiding Iran over RAF Fairford incident
+
+rss · 观察家报\(The Observer\) · Oct 20, 17:54
+
+---
+
+<a id="item-tech-news-270"></a>
+### [NatWest ends remote-first policy for UK staff in 2027](https://www.theguardian.com/business/2026/oct/20/natwest-staff-back-two-days-a-week-policy) ⭐️ ?/10
+
+NatWest is ending its remote-first policy and requiring all approximately 40,000 UK employees to attend the office at least two days per week starting in February 2027. The change affects roughly 13,000 staff members who previously worked under a mandate that only required them to be present two days a month. The banking group, which operates under the Royal Bank of Scotland, NatWest, Ulster Bank, and Coutts brands, has drawn sharp criticism from its staff union over the reversal.
+
+rss · 观察家报\(The Observer\) · Oct 20, 16:45
+
+**「Background」** During the pandemic era, many UK financial institutions adopted remote-first or hybrid working models to accommodate staff safety concerns and changing operational needs. These policies often reduced mandatory office attendance to minimal levels, with some roles requiring only occasional in-person presence.
+
+**「Impact」** The policy shift will directly affect 13,000 UK employees who must now significantly increase their commute and in-office time. Union opposition suggests potential workplace tensions and possible operational disruption during the transition period.
+
+---
+
+<a id="item-tech-news-271"></a>
+### [UK government failures led to Covid spreading ‘like wildfire’ in care homes, inquiry finds](https://www.theguardian.com/uk-news/2026/oct/20/uk-government-failures-led-to-covid-spreading-like-wildfire-in-care-homes-inquiry-finds) ⭐️ ?/10
+
+UK government failures led to Covid spreading ‘like wildfire’ in care homes, inquiry finds
+
+rss · 观察家报\(The Observer\) · Oct 20, 11:00
+
+---
+
+<a id="item-tech-news-272"></a>
+### [Thames Water creditors secure former Labour minister to drive rescue deal](https://www.theguardian.com/business/2026/oct/20/thames-water-creditors-former-labour-minister-john-hutton-rescue-deal) ⭐️ ?/10
+
+Thames Water creditors secure former Labour minister to drive rescue deal
+
+rss · 观察家报\(The Observer\) · Oct 20, 10:49
+
+---
+
+<a id="item-tech-news-273"></a>
+### [Ex-Greens co-leader urges council groups to reject Zionism policy](https://www.theguardian.com/politics/2026/oct/20/greens-adrian-ramsay-council-groups-reject-zionism-racism-policy) ⭐️ ?/10
+
+Ex-Greens co-leader urges council groups to reject Zionism policy
+
+rss · 观察家报\(The Observer\) · Oct 20, 08:55
+
+---
+
+<a id="item-tech-news-274"></a>
+### [Surprise drop in UK unemployment to 4.7% as John Healey’s first budget looms](https://www.theguardian.com/business/2026/oct/20/uk-unemployment-rate-surprise-drop) ⭐️ ?/10
+
+Surprise drop in UK unemployment to 4.7% as John Healey’s first budget looms
+
+rss · 观察家报\(The Observer\) · Oct 20, 08:39
+
+---
+
+<a id="item-tech-news-275"></a>
+### [Healey to reject calls to raise capital gains tax in budget](https://www.theguardian.com/uk-news/2026/oct/20/john-healey-no-capital-gains-tax-rise-budget) ⭐️ ?/10
+
+Healey to reject calls to raise capital gains tax in budget
+
+rss · 观察家报\(The Observer\) · Oct 20, 07:27
+
+---
+
+<a id="item-tech-news-276"></a>
+### [What does the UK’s approval of the Jackdaw gasfield mean?](https://www.theguardian.com/business/2026/oct/20/what-does-the-approval-of-the-jackdaw-gasfield-mean) ⭐️ ?/10
+
+What does the UK’s approval of the Jackdaw gasfield mean?
+
+rss · 观察家报\(The Observer\) · Oct 20, 18:58
+
+---
+
+<a id="item-tech-news-277"></a>
+### [‘Superficial damp squib’: Covid inquiry recommendations fail to impress bereaved families](https://www.theguardian.com/uk-news/2026/oct/20/covid-inquiry-recommendations-fail-to-impress-bereaved-families) ⭐️ ?/10
+
+‘Superficial damp squib’: Covid inquiry recommendations fail to impress bereaved families
+
+rss · 观察家报\(The Observer\) · Oct 20, 17:15
+
+---
+
+<a id="item-tech-news-278"></a>
+### [Who exactly will be affected by the UK review of benefits for young people?](https://www.theguardian.com/society/2026/oct/20/neets-explainer-alan-milburn-young-people-work) ⭐️ ?/10
+
+Who exactly will be affected by the UK review of benefits for young people?
+
+rss · 观察家报\(The Observer\) · Oct 20, 06:00
+
+---
+
+<a id="item-tech-news-279"></a>
+### [‘These risks are real’: the threat of AI bioweapons – podcast](https://www.theguardian.com/science/audio/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-podcast) ⭐️ ?/10
+
+‘These risks are real’: the threat of AI bioweapons – podcast
+
+rss · 观察家报\(The Observer\) · Oct 20, 04:00
+
+---
+
+<a id="item-tech-news-280"></a>
+### [Why terrorism laws stopped Sally Rooney selling books in the UK – podcast](https://www.theguardian.com/news/audio/2026/oct/20/why-terrorism-laws-stopped-sally-rooney-selling-books-in-the-uk-podcast) ⭐️ ?/10
+
+Why terrorism laws stopped Sally Rooney selling books in the UK – podcast
+
+rss · 观察家报\(The Observer\) · Oct 20, 02:00
+
+---
+
+<a id="item-tech-news-281"></a>
+### [‘Too big to not fail’: Google outage exposes UK reliance on a handful of cloud providers](https://www.theguardian.com/uk-news/2026/oct/20/power-outage-google-datacentre-london-widespread-disruption) ⭐️ ?/10
+
+‘Too big to not fail’: Google outage exposes UK reliance on a handful of cloud providers
+
+rss · 观察家报\(The Observer\) · Oct 20, 16:50
+
+---
+
+<a id="item-tech-news-282"></a>
+### [Ban ‘intrusive’ cameras in England’s mental health wards, say bereaved families](https://www.theguardian.com/society/2026/oct/20/ban-intrusive-cameras-mental-health-wards-england-bereaved-families) ⭐️ ?/10
+
+Ban ‘intrusive’ cameras in England’s mental health wards, say bereaved families
+
+rss · 观察家报\(The Observer\) · Oct 20, 15:32
+
+---
+
+<a id="item-tech-news-283"></a>
+### [Public support for founding principles of NHS is falling across UK population](https://www.theguardian.com/society/2026/oct/20/public-support-founding-principles-nhs-falling-across-uk-population) ⭐️ ?/10
+
+Public support for founding principles of NHS is falling across UK population
+
+rss · 观察家报\(The Observer\) · Oct 20, 05:00
+
+---
+
+<a id="item-tech-news-284"></a>
+### [Paddy Power owner blames tax rises for plan to shed up to 1,400 jobs](https://www.theguardian.com/society/2026/oct/20/paddy-power-owner-flutter-tax-rises-jobs-cuts-gambling) ⭐️ ?/10
+
+Paddy Power owner blames tax rises for plan to shed up to 1,400 jobs
+
+rss · 观察家报\(The Observer\) · Oct 20, 14:24
+
+---
+
+<a id="item-tech-news-285"></a>
+### [Google cloud failure hits millions as UK courts and banks knocked offline](https://www.theguardian.com/business/2026/oct/20/revolut-down-app-cards-service-disruption) ⭐️ ?/10
+
+Google cloud failure hits millions as UK courts and banks knocked offline
+
+rss · 观察家报\(The Observer\) · Oct 20, 09:45
+
+---
+
+<a id="item-tech-news-286"></a>
+### [‘No real sense of appeal’: Vinted sellers complain of unfair account ‘bans’](https://www.theguardian.com/money/2026/oct/20/vinted-sellers-banned-sales) ⭐️ ?/10
+
+‘No real sense of appeal’: Vinted sellers complain of unfair account ‘bans’
+
+rss · 观察家报\(The Observer\) · Oct 20, 06:00
+
+---
+
+<a id="item-tech-news-287"></a>
+### [Whale in Wales: amateur photographer captures stunning footage - video](https://www.theguardian.com/environment/video/2026/oct/20/whale-in-wales-amateur-photographer-captures-stunning-footage-video) ⭐️ ?/10
+
+Whale in Wales: amateur photographer captures stunning footage - video
+
+rss · 观察家报\(The Observer\) · Oct 20, 13:51
+
+---
+
+<a id="item-tech-news-288"></a>
+### [Vast Beatles museum, hailed as ‘extraordinary’ by Paul McCartney, to open in Liverpool in 2028](https://www.theguardian.com/music/2026/oct/20/vast-beatles-museum-hailed-as-extraordinary-by-paul-mccartney-to-open-in-liverpool-in-2028) ⭐️ ?/10
+
+Vast Beatles museum, hailed as ‘extraordinary’ by Paul McCartney, to open in Liverpool in 2028
+
+rss · 观察家报\(The Observer\) · Oct 20, 15:00
+
+---
+
+<a id="item-tech-news-289"></a>
+### [Getting Ziggy with it: David Bowie’s alter egos inspire dance show that will transform his songs](https://www.theguardian.com/stage/2026/oct/20/david-bowie-dance-marcos-morau) ⭐️ ?/10
+
+Getting Ziggy with it: David Bowie’s alter egos inspire dance show that will transform his songs
+
+rss · 观察家报\(The Observer\) · Oct 20, 07:30
+
+---
+
+<a id="item-tech-news-290"></a>
+### [Get crafty with Halloween treats, the Japanese way](https://www.japantimes.co.jp/life/2026/10/21/language/halloween-treats-language-japanese/) ⭐️ ?/10
+
+Get crafty with Halloween treats, the Japanese way
+
+rss · 日本时报\(The Japan Times\) · Oct 20, 17:49
+
+---
+
+<a id="item-tech-news-291"></a>
+### [As France erupts, Europe’s far right gains from fuel-price anger ahead of elections](https://www.japantimes.co.jp/news/2026/10/20/world/politics/europe-far-right-preelection-gains/) ⭐️ ?/10
+
+As France erupts, Europe’s far right gains from fuel-price anger ahead of elections
+
+rss · 日本时报\(The Japan Times\) · Oct 20, 11:17
+
+---
+
+<a id="item-tech-news-292"></a>
+### [Chinese AI tool used in cyberattacks on Japanese companies, investigation finds](https://www.japantimes.co.jp/news/2026/10/20/japan/china-ai-cyberattacks/) ⭐️ ?/10
+
+Chinese AI tool used in cyberattacks on Japanese companies, investigation finds
+
+rss · 日本时报\(The Japan Times\) · Oct 20, 07:09
+
+---
+
+<a id="item-tech-news-293"></a>
+### [China’s panda diplomacy is losing its charm](https://www.japantimes.co.jp/commentary/2026/10/20/world/chinas-panda-diplomacy/) ⭐️ ?/10
+
+China’s panda diplomacy is losing its charm
+
+rss · 日本时报\(The Japan Times\) · Oct 20, 06:58
+
+---
+
+<a id="item-tech-news-294"></a>
+### [Politics of the potato front and center for Japan’s new agriculture minister](https://www.japantimes.co.jp/news/2026/10/20/japan/politics/agriculture-minister-potatoes/) ⭐️ ?/10
+
+Politics of the potato front and center for Japan’s new agriculture minister
+
+rss · 日本时报\(The Japan Times\) · Oct 20, 06:56
+
+---
+
+<a id="item-tech-news-295"></a>
+### [Former truck driver gets seven-year sentence for killing six in expressway crash](https://www.japantimes.co.jp/news/2026/10/20/japan/crime-legal/truck-driver-seven-years/) ⭐️ ?/10
+
+Former truck driver gets seven-year sentence for killing six in expressway crash
+
+rss · 日本时报\(The Japan Times\) · Oct 20, 06:55
+
+---
+
+<a id="item-tech-news-296"></a>
+### [Under pledge to U.S., Japan’s chip investment divided between home and abroad](https://www.japantimes.co.jp/business/2026/10/20/tech/japan-chip-industry-reboot/) ⭐️ ?/10
+
+Under pledge to U.S., Japan’s chip investment divided between home and abroad
+
+rss · 日本时报\(The Japan Times\) · Oct 20, 06:42
+
+---
+
+<a id="item-tech-news-297"></a>
+### [Japan slams lack of access to journalist detained in Russia](https://www.japantimes.co.jp/news/2026/10/20/japan/politics/russia-japanese-journalist-arrest-lack-of-access/) ⭐️ ?/10
+
+Japan slams lack of access to journalist detained in Russia
+
+rss · 日本时报\(The Japan Times\) · Oct 20, 06:39
+
+---
+
+<a id="item-tech-news-298"></a>
+### [Electronic warrant system to be rolled out in Tokyo and nearby areas by March](https://www.japantimes.co.jp/news/2026/10/20/japan/crime-legal/japan-courts-online-arrest-warrants/) ⭐️ ?/10
+
+Electronic warrant system to be rolled out in Tokyo and nearby areas by March
+
+rss · 日本时报\(The Japan Times\) · Oct 20, 06:39
+
+---
+
+<a id="item-tech-news-299"></a>
+### [One year in, Takaichi administration’s public support remains largely intact](https://www.japantimes.co.jp/news/2026/10/20/japan/politics/cabinet-support-rates-yana-resign/) ⭐️ ?/10
+
+One year in, Takaichi administration’s public support remains largely intact
+
+rss · 日本时报\(The Japan Times\) · Oct 20, 06:31
+
+---
+
+<a id="item-tech-news-300"></a>
+### [Japan needs higher interest rates](https://www.japantimes.co.jp/commentary/2026/10/20/japan/japan-interest-rates/) ⭐️ ?/10
+
+Japan needs higher interest rates
+
+rss · 日本时报\(The Japan Times\) · Oct 20, 05:51
+
+---
+
+<a id="item-tech-news-301"></a>
+### [Fewer than 1 in 3 families want a second child amid rising costs, study finds](https://www.japantimes.co.jp/news/2026/10/20/japan/society/couple-second-child-inflation-pressures/) ⭐️ ?/10
+
+Fewer than 1 in 3 families want a second child amid rising costs, study finds
+
+rss · 日本时报\(The Japan Times\) · Oct 20, 05:45
+
+---
+
+<a id="item-tech-news-302"></a>
+### [Alberta voters reject separation from Canada as Carney triumphs](https://www.japantimes.co.jp/news/2026/10/20/world/politics/alberta-referendum-vote/) ⭐️ ?/10
+
+Alberta voters reject separation from Canada as Carney triumphs
+
+rss · 日本时报\(The Japan Times\) · Oct 20, 05:36
+
+---
+
+<a id="item-tech-news-303"></a>
+### [Saudi Arabia’s MBS is facing his greatest challenge](https://www.japantimes.co.jp/commentary/2026/10/20/world/saudi-arabia-mbs-power-challenge/) ⭐️ ?/10
+
+Saudi Arabia’s MBS is facing his greatest challenge
+
+rss · 日本时报\(The Japan Times\) · Oct 20, 04:55
+
+---
+
+<a id="item-tech-news-304"></a>
+### [Declared dead: Indian voters fight to get back on electoral rolls](https://www.japantimes.co.jp/news/2026/10/20/asia-pacific/indian-voters-electoral-rolls/) ⭐️ ?/10
+
+Declared dead: Indian voters fight to get back on electoral rolls
+
+rss · 日本时报\(The Japan Times\) · Oct 20, 04:36
+
+---
+
+<a id="item-tech-news-305"></a>
+### [Top NPB slugger Teruaki Sato set to test MLB market](https://www.japantimes.co.jp/sports/2026/10/20/baseball/japanese-baseball/teruaki-sato-mlb-posting/) ⭐️ ?/10
+
+Top NPB slugger Teruaki Sato set to test MLB market
+
+rss · 日本时报\(The Japan Times\) · Oct 20, 04:28
+
+---
+
+<a id="item-tech-news-306"></a>
+### [49ers remain unbeaten after staving off Commanders’ comeback bid](https://www.japantimes.co.jp/sports/2026/10/20/more-sports/49ers-commanders-purdy-daniels/) ⭐️ ?/10
+
+49ers remain unbeaten after staving off Commanders’ comeback bid
+
+rss · 日本时报\(The Japan Times\) · Oct 20, 04:19
+
+---
+
+<a id="item-tech-news-307"></a>
+### [Two-run homers send Rays past Guardians into World Series](https://www.japantimes.co.jp/sports/2026/10/20/baseball/mlb/rays-guardians-game-6/) ⭐️ ?/10
+
+Two-run homers send Rays past Guardians into World Series
+
+rss · 日本时报\(The Japan Times\) · Oct 20, 04:19
+
+---
+
+<a id="item-tech-news-308"></a>
+### [Natixis buys Japanese advisory firm to join M&amp;A dealmaking boom](https://www.japantimes.co.jp/business/2026/10/20/companies/natixis-japan-merger-advisory-business/) ⭐️ ?/10
+
+Natixis buys Japanese advisory firm to join M&amp;A dealmaking boom
+
+rss · 日本时报\(The Japan Times\) · Oct 20, 04:19
+
+---
+
+<a id="item-tech-news-309"></a>
+### [The ‘Tequila Crisis’ and Mexico’s long economic hangover](https://www.japantimes.co.jp/commentary/2026/10/20/world/mexico-tequila-crisis/) ⭐️ ?/10
+
+The ‘Tequila Crisis’ and Mexico’s long economic hangover
+
+rss · 日本时报\(The Japan Times\) · Oct 20, 04:03
+
+---
+
+<a id="item-tech-news-310"></a>
+### [KDDI subsidiary faces criticism and questions over Mongolian wildfire](https://www.japantimes.co.jp/news/2026/10/20/asia-pacific/mongolian-wildfire-kddi/) ⭐️ ?/10
+
+KDDI subsidiary faces criticism and questions over Mongolian wildfire
+
+rss · 日本时报\(The Japan Times\) · Oct 20, 03:51
+
+---
+
+<a id="item-tech-news-311"></a>
+### [Japan launches probe in historic bid to collect sample from Mars moon](https://www.japantimes.co.jp/news/2026/10/20/japan/science-health/japan-mars-moon-probe-launch/) ⭐️ ?/10
+
+Japan launches probe in historic bid to collect sample from Mars moon
+
+rss · 日本时报\(The Japan Times\) · Oct 20, 03:41
+
+---
+
+<a id="item-tech-news-312"></a>
+### [Defense Ministry Vows Stern Response if N. Korea Acts on Threats along Border](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=205001) ⭐️ ?/10
+
+Defense Ministry Vows Stern Response if N. Korea Acts on Threats along Border
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 10:09
+
+---
+
+<a id="item-tech-news-313"></a>
+### [Top Office: OPCON Transfer Signifies Shift in Roles](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=205000) ⭐️ ?/10
+
+Top Office: OPCON Transfer Signifies Shift in Roles
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 09:58
+
+---
+
+<a id="item-tech-news-314"></a>
+### [Gov’t Designates 10-day Countermeasures Period to Manage Halloween Crowds](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204999) ⭐️ ?/10
+
+Gov’t Designates 10-day Countermeasures Period to Manage Halloween Crowds
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 09:30
+
+---
+
+<a id="item-tech-news-315"></a>
+### [Wednesday to Bring Rain, Cold Temperatures](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204998) ⭐️ ?/10
+
+Wednesday to Bring Rain, Cold Temperatures
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 09:15
+
+---
+
+<a id="item-tech-news-316"></a>
+### [Suspect Arrested in Arson Case after Fires at 2 Buildings in Seoul’s Gangnam District](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204997) ⭐️ ?/10
+
+Suspect Arrested in Arson Case after Fires at 2 Buildings in Seoul’s Gangnam District
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 09:04
+
+---
+
+<a id="item-tech-news-317"></a>
+### [Groundless Rumor about N. Korean Leader’s Death Spreads on Social Media](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204996) ⭐️ ?/10
+
+Groundless Rumor about N. Korean Leader’s Death Spreads on Social Media
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 08:50
+
+---
+
+<a id="item-tech-news-318"></a>
+### [Lee Presses Cabinet to Speed Up Housing Construction to Contain Soaring Home Prices](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204995) ⭐️ ?/10
+
+Lee Presses Cabinet to Speed Up Housing Construction to Contain Soaring Home Prices
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 08:29
+
+---
+
+<a id="item-tech-news-319"></a>
+### [S. Korea’s Military Vows to Respond Sternly to Enemy Provocations after Kim Yo Jong’s Remarks](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204994) ⭐️ ?/10
+
+S. Korea’s Military Vows to Respond Sternly to Enemy Provocations after Kim Yo Jong’s Remarks
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 08:01
+
+---
+
+<a id="item-tech-news-320"></a>
+### [KOSPI Plummets 3.73% Tuesday](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204993) ⭐️ ?/10
+
+KOSPI Plummets 3.73% Tuesday
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 06:55
+
+---
+
+<a id="item-tech-news-321"></a>
+### [Inaugural Serious Crimes Agency Chief Vows to Uphold Political Neutrality, Independence](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204992) ⭐️ ?/10
+
+Inaugural Serious Crimes Agency Chief Vows to Uphold Political Neutrality, Independence
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 06:50
+
+---
+
+<a id="item-tech-news-322"></a>
+### [S. Korea to Withdraw Some Embassy Staff from Ukraine](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204990) ⭐️ ?/10
+
+S. Korea to Withdraw Some Embassy Staff from Ukraine
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 06:34
+
+---
+
+<a id="item-tech-news-323"></a>
+### [5 Citizens Who Subdued Incheon Knife Attacker Receive Awards for Bravery](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204989) ⭐️ ?/10
+
+5 Citizens Who Subdued Incheon Knife Attacker Receive Awards for Bravery
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 06:32
+
+---
+
+<a id="item-tech-news-324"></a>
+### [Unification Ministry Urges N. Korea to Cooperate to Resolve Border Issue](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204988) ⭐️ ?/10
+
+Unification Ministry Urges N. Korea to Cooperate to Resolve Border Issue
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 06:16
+
+---
+
+<a id="item-tech-news-325"></a>
+### [19 Injured in Separate Fires at 2 Buildings in Seoul’s Gangnam District](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204987) ⭐️ ?/10
+
+19 Injured in Separate Fires at 2 Buildings in Seoul’s Gangnam District
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 06:04
+
+---
+
+<a id="item-tech-news-326"></a>
+### [Monthly Rentals Account for More than Half of Seoul Apartment Leases for First Time](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204986) ⭐️ ?/10
+
+Monthly Rentals Account for More than Half of Seoul Apartment Leases for First Time
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 05:47
+
+---
+
+<a id="item-tech-news-327"></a>
+### [Gov’t Announces Traffic, Noise Control Measures for Nov. 19 College Entrance Exam](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204985) ⭐️ ?/10
+
+Gov’t Announces Traffic, Noise Control Measures for Nov. 19 College Entrance Exam
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 05:47
+
+---
+
+<a id="item-tech-news-328"></a>
+### [Daou Kiwoom-CJ Consortium Named Preferred Bidder for JoongAng Ilbo](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204984) ⭐️ ?/10
+
+Daou Kiwoom-CJ Consortium Named Preferred Bidder for JoongAng Ilbo
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 05:12
+
+---
+
+<a id="item-tech-news-329"></a>
+### [Supreme Court Affirms 4-Year Prison Term for Aricell CEO over Deadly Fire](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204983) ⭐️ ?/10
+
+Supreme Court Affirms 4-Year Prison Term for Aricell CEO over Deadly Fire
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 05:01
+
+---
+
+<a id="item-tech-news-330"></a>
+### [Nuri Rocket to Launch Military Satellites for First Time in 2031](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204982) ⭐️ ?/10
+
+Nuri Rocket to Launch Military Satellites for First Time in 2031
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 05:01
+
+---
+
+<a id="item-tech-news-331"></a>
+### [Seoul Museum of Art to Showcase Media Artist Lynn Hershman Leeson in Solo Exhibition](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204981) ⭐️ ?/10
+
+Seoul Museum of Art to Showcase Media Artist Lynn Hershman Leeson in Solo Exhibition
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 04:19
+
+---
+
+<a id="item-tech-news-332"></a>
+### [S. Korea’s Seo Hoon-tae Wins Gold in 10m Air Rifle at 2026 Asian Para Games](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204980) ⭐️ ?/10
+
+S. Korea’s Seo Hoon-tae Wins Gold in 10m Air Rifle at 2026 Asian Para Games
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 04:11
+
+---
+
+<a id="item-tech-news-333"></a>
+### [Lee Tells Cabinet to Accelerate Housing Supply by Compressing Administrative Procedures](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204979) ⭐️ ?/10
+
+Lee Tells Cabinet to Accelerate Housing Supply by Compressing Administrative Procedures
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 02:54
+
+---
+
+<a id="item-tech-news-334"></a>
+### [Seoul Reveals UN Command Has Suspended DMZ Surveys for More than 2 Years](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204978) ⭐️ ?/10
+
+Seoul Reveals UN Command Has Suspended DMZ Surveys for More than 2 Years
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 02:35
+
+---
+
+<a id="item-tech-news-335"></a>
+### [Trump Downplays Expectations for Meeting with Kim-Jong-un](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204977) ⭐️ ?/10
+
+Trump Downplays Expectations for Meeting with Kim-Jong-un
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 02:30
+
+---
+
+<a id="item-tech-news-336"></a>
+### [Lee Asks Serious Crimes Investigation Agency Chief to Spare No One in Carrying Out Mandate](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204976) ⭐️ ?/10
+
+Lee Asks Serious Crimes Investigation Agency Chief to Spare No One in Carrying Out Mandate
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 02:12
+
+---
+
+<a id="item-tech-news-337"></a>
+### [Joint Chiefs Chair Orders Stern Response to Enemy Provocations, Says N. Korea Is Shifting Blame](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204975) ⭐️ ?/10
+
+Joint Chiefs Chair Orders Stern Response to Enemy Provocations, Says N. Korea Is Shifting Blame
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 01:40
+
+---
+
+<a id="item-tech-news-338"></a>
+### [US Reaffirms that OPCON Transfer Remains Conditional](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204974) ⭐️ ?/10
+
+US Reaffirms that OPCON Transfer Remains Conditional
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 00:42
+
+---
+
+<a id="item-tech-news-339"></a>
+### [Average Gas, Diesel Prices Continue Sliding Tuesday](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204973) ⭐️ ?/10
+
+Average Gas, Diesel Prices Continue Sliding Tuesday
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 00:26
+
+---
+
+<a id="item-tech-news-340"></a>
+### [KOSPI Opens Down 0.6% Tuesday](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204972) ⭐️ ?/10
+
+KOSPI Opens Down 0.6% Tuesday
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 00:14
+
+---
+
+<a id="item-tech-news-341"></a>
+### [Trump Uncertain about Meeting with N. Korea&\#x27;s Kim during China Trip](https://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=204971) ⭐️ ?/10
+
+Trump Uncertain about Meeting with N. Korea&\#x27;s Kim during China Trip
+
+rss · KBS\(Korean Broadcasting System\) · Oct 20, 00:00
+
+---
+
+<a id="item-tech-news-342"></a>
+### [EN DIRECT, manifestations du 17 octobre : nouveaux couvre-feux mardi soir ; les partis se positionnent avant la réunion de jeudi à Matignon](https://www.lemonde.fr/societe/live/2026/10/21/en-direct-manifestations-du-17-octobre-nouveaux-couvre-feux-mardi-soir-les-partis-se-positionnent-avant-la-reunion-de-jeudi-a-matignon_6795855_3224.html) ⭐️ ?/10
+
+EN DIRECT, manifestations du 17 octobre : nouveaux couvre-feux mardi soir ; les partis se positionnent avant la réunion de jeudi à Matignon
+
+rss · 世界报\(Le Monde\) · Oct 20, 22:09
+
+---
+
+<a id="item-tech-news-343"></a>
+### [PSG-Barcelone : le résumé de la nouvelle victoire remarquable des Parisiens en Ligue des champions](https://www.lemonde.fr/sport/article/2026/10/20/psg-barcelone-le-resume-de-la-nouvelle-victoire-remarquable-des-parisiens-toutefois-impactes-par-plusieurs-blessures-en-ligue-des-champions_6798017_3242.html) ⭐️ ?/10
+
+PSG-Barcelone : le résumé de la nouvelle victoire remarquable des Parisiens en Ligue des champions
+
+rss · 世界报\(Le Monde\) · Oct 20, 21:26
+
+---
+
+<a id="item-tech-news-344"></a>
+### [Israël, laboratoire de l’union des droites et de l’extrême droite](https://www.lemonde.fr/international/article/2026/10/20/israel-laboratoire-de-l-union-des-droites-et-de-l-extreme-droite_6797960_3210.html) ⭐️ ?/10
+
+Israël, laboratoire de l’union des droites et de l’extrême droite
+
+rss · 世界报\(Le Monde\) · Oct 20, 16:30
+
+---
+
+<a id="item-tech-news-345"></a>
+### [Trump et les Etats-Unis vus de la Route 66 : à Chicago, « tous les sujets ne doivent pas nécessairement nous diviser »](https://www.lemonde.fr/international/article/2026/10/20/trump-et-les-etats-unis-vus-de-la-route-66-a-chicago-tous-les-sujets-ne-doivent-pas-necessairement-nous-diviser_6797952_3210.html) ⭐️ ?/10
+
+Trump et les Etats-Unis vus de la Route 66 : à Chicago, « tous les sujets ne doivent pas nécessairement nous diviser »
+
+rss · 世界报\(Le Monde\) · Oct 20, 16:00
+
+---
+
+<a id="item-tech-news-346"></a>
+### [Le Royaume-Uni, allié de toujours de l’Arabie saoudite, accroît son aide à Riyad contre les houthistes du Yémen](https://www.lemonde.fr/international/article/2026/10/20/le-royaume-uni-allie-de-toujours-de-l-arabie-saoudite-accroit-son-aide-a-riyad-contre-les-houthistes-du-yemen_6797976_3210.html) ⭐️ ?/10
+
+Le Royaume-Uni, allié de toujours de l’Arabie saoudite, accroît son aide à Riyad contre les houthistes du Yémen
+
+rss · 世界报\(Le Monde\) · Oct 20, 18:03
+
+---
+
+<a id="item-tech-news-347"></a>
+### [Daniel Kretinsky a les coudées franches pour s’emparer de Fnac Darty](https://www.lemonde.fr/economie/article/2026/10/20/daniel-kretinsky-a-la-voie-libre-pour-s-emparer-de-fnac-darty_6797955_3234.html) ⭐️ ?/10
+
+Daniel Kretinsky a les coudées franches pour s’emparer de Fnac Darty
+
+rss · 世界报\(Le Monde\) · Oct 20, 16:01
+
+---
+
+<a id="item-tech-news-348"></a>
+### [Les 6 000 salariés de l’enseigne à petits prix GiFi s’inquiètent pour leur sort](https://www.lemonde.fr/economie/article/2026/10/20/les-6-000-salaries-de-l-enseigne-a-petits-prix-gifi-s-inquietent-pour-leur-sort_6797980_3234.html) ⭐️ ?/10
+
+Les 6 000 salariés de l’enseigne à petits prix GiFi s’inquiètent pour leur sort
+
+rss · 世界报\(Le Monde\) · Oct 20, 19:15
+
+---
+
+<a id="item-tech-news-349"></a>
+### [EN DIRECT, guerre en Ukraine : l’émissaire américain Steve Witkoff va présenter à Vladimir Poutine des « idées claires » pour « parvenir à la paix », selon Volodymyr Zelensky](https://www.lemonde.fr/international/live/2026/10/20/en-direct-guerre-en-ukraine-l-otan-va-deployer-des-moyens-supplementaires-en-mer-noire_6796922_3210.html) ⭐️ ?/10
+
+EN DIRECT, guerre en Ukraine : l’émissaire américain Steve Witkoff va présenter à Vladimir Poutine des « idées claires » pour « parvenir à la paix », selon Volodymyr Zelensky
+
+rss · 世界报\(Le Monde\) · Oct 20, 20:35
+
+---
+
+<a id="item-tech-news-350"></a>
+### [Aux Pays-Bas, où la GPA est seulement tolérée, le premier ministre, Rob Jetten, et son compagnon annoncent attendre un enfant](https://www.lemonde.fr/international/article/2026/10/20/aux-pays-bas-ou-la-gpa-est-seulement-toleree-le-premier-ministre-rob-jetten-et-son-compagnon-annoncent-attendre-un-enfant_6797947_3210.html) ⭐️ ?/10
+
+Aux Pays-Bas, où la GPA est seulement tolérée, le premier ministre, Rob Jetten, et son compagnon annoncent attendre un enfant
+
+rss · 世界报\(Le Monde\) · Oct 20, 15:30
+
+---
+
+<a id="item-tech-news-351"></a>
+### [« Technologie du coup d’Etat », de Thibault Prévost, raconte la volonté de Trump de casser l’Etat fédéral pour mieux s’en emparer](https://www.lemonde.fr/idees/article/2026/10/20/technologie-du-coup-d-etat-de-thibault-prevost-raconte-la-volonte-de-trump-de-casser-l-etat-federal-pour-mieux-s-en-emparer_6797968_3232.html) ⭐️ ?/10
+
+« Technologie du coup d’Etat », de Thibault Prévost, raconte la volonté de Trump de casser l’Etat fédéral pour mieux s’en emparer
+
+rss · 世界报\(Le Monde\) · Oct 20, 17:00
+
+---
+
+<a id="item-tech-news-352"></a>
+### [En Pologne, les députés votent un assouplissement du droit à l’avortement, menacé d’un veto présidentiel](https://www.lemonde.fr/international/article/2026/10/20/en-pologne-les-deputes-votent-un-assouplissement-du-droit-a-l-avortement-menace-d-un-veto-presidentiel_6797982_3210.html) ⭐️ ?/10
+
+En Pologne, les députés votent un assouplissement du droit à l’avortement, menacé d’un veto présidentiel
+
+rss · 世界报\(Le Monde\) · Oct 20, 19:54
+
+---
+
+<a id="item-tech-news-353"></a>
+### [En Egypte, le président assure qu’il quittera le pouvoir en 2030, mais œuvre à la pérennité de son régime militaire](https://www.lemonde.fr/international/article/2026/10/20/en-egypte-le-president-assure-qu-il-quittera-le-pouvoir-en-2030-mais-uvre-a-la-perennite-de-son-regime-militaire_6797969_3210.html) ⭐️ ?/10
+
+En Egypte, le président assure qu’il quittera le pouvoir en 2030, mais œuvre à la pérennité de son régime militaire
+
+rss · 世界报\(Le Monde\) · Oct 20, 17:00
+
+---
+
+<a id="item-tech-news-354"></a>
+### [Au Moyen-Orient, l’armée américaine contrainte de se redéployer sous le feu des missiles iraniens](https://www.lemonde.fr/international/article/2026/10/20/au-moyen-orient-l-armee-americaine-contrainte-de-se-redeployer-sous-le-feu-des-missiles-iraniens_6797937_3210.html) ⭐️ ?/10
+
+Au Moyen-Orient, l’armée américaine contrainte de se redéployer sous le feu des missiles iraniens
+
+rss · 世界报\(Le Monde\) · Oct 20, 14:30
+
+---
+
+<a id="item-tech-news-355"></a>
+### [Procès de Rima Hassan pour apologie du terrorisme : prison avec sursis et inéligibilité requises contre l’eurodéputée de LFI](https://www.lemonde.fr/societe/article/2026/10/20/proces-pour-apologie-du-terrorisme-de-rima-hassan-prison-avec-sursis-et-ineligibilite-requises-contre-l-eurodeputee-lfi_6797936_3224.html) ⭐️ ?/10
+
+Procès de Rima Hassan pour apologie du terrorisme : prison avec sursis et inéligibilité requises contre l’eurodéputée de LFI
+
+rss · 世界报\(Le Monde\) · Oct 20, 14:27
+
+---
+
+<a id="item-tech-news-356"></a>
+### [La junte du Burkina Faso rétablit la peine de mort](https://www.lemonde.fr/afrique/article/2026/10/20/la-junte-du-burkina-faso-retablit-la-peine-de-mort_6797981_3212.html) ⭐️ ?/10
+
+La junte du Burkina Faso rétablit la peine de mort
+
+rss · 世界报\(Le Monde\) · Oct 20, 19:23
+
+---
+
+<a id="item-tech-news-357"></a>
+### [Jean Messiha visé par une plainte pour « cyberharcèlement raciste » après une publication sur des jeunes filles en burkini](https://www.lemonde.fr/societe/article/2026/10/20/jean-messiha-vise-par-une-plainte-pour-cyberharcelement-raciste-apres-une-publication-sur-des-jeunes-filles-en-burkini_6797972_3224.html) ⭐️ ?/10
+
+Jean Messiha visé par une plainte pour « cyberharcèlement raciste » après une publication sur des jeunes filles en burkini
+
+rss · 世界报\(Le Monde\) · Oct 20, 17:49
+
+---
+
+<a id="item-tech-news-358"></a>
+### [Egypt involvement in Yemen &\#x27;may actually weaken Cairo&\#x27;s regional role&\#x27;, expert says](https://www.france24.com/en/tv-shows/a-propos/20261020-egypt-involvement-in-yemen-may-actually-weaken-egypt-s-regional-role-expert-says) ⭐️ ?/10
+
+Egypt involvement in Yemen &\#x27;may actually weaken Cairo&\#x27;s regional role&\#x27;, expert says
+
+rss · France 24 · Oct 20, 21:18
+
+---
+
+<a id="item-tech-news-359"></a>
+### [PSG end Barcelona&\#x27;s winning run as Liverpool fight back against Villarreal](https://www.france24.com/en/sport/20261020-psg-end-barcelona-winning-run-as-liverpool-fight-back-against-villarreal) ⭐️ ?/10
+
+PSG end Barcelona&\#x27;s winning run as Liverpool fight back against Villarreal
+
+rss · France 24 · Oct 20, 21:17
+
+---
+
+<a id="item-tech-news-360"></a>
+### [Lula&\#x27;s campaign seeks to disqualify Bolsonoro from Brazil presidential vote over Meta &\#x27;interference&\#x27;](https://www.france24.com/en/americas/20261020-lula-campaign-seeks-disqualify-bolsonoro-from-brazil-presidential-vote-over-meta-interference) ⭐️ ?/10
+
+Lula&\#x27;s campaign seeks to disqualify Bolsonoro from Brazil presidential vote over Meta &\#x27;interference&\#x27;
+
+rss · France 24 · Oct 20, 20:59
+
+---
+
+<a id="item-tech-news-361"></a>
+### [Egypt involvement in Yemen &\#x27;may actually weaken Cairo&\#x27;s regional role&\#x27;, expert says](https://www.france24.com/en/egypt-involvement-in-yemen-may-actually-weaken-egypt-s-regional-role-expert-says) ⭐️ ?/10
+
+Egypt involvement in Yemen &\#x27;may actually weaken Cairo&\#x27;s regional role&\#x27;, expert says
+
+rss · France 24 · Oct 20, 20:57
+
+---
+
+<a id="item-tech-news-362"></a>
+### [US regulators certify Boeing 737 Max 10 after years of delay](https://www.france24.com/en/tv-shows/business/20261020-us-regulators-certify-boeing-737-max-10-after-years-of-delay) ⭐️ ?/10
+
+US regulators certify Boeing 737 Max 10 after years of delay
+
+rss · France 24 · Oct 20, 20:46
+
+---
+
+<a id="item-tech-news-363"></a>
+### [‘I’m alive’: Paris street medic isn’t dead, despite viral claims he was killed by police](https://www.france24.com/en/tv-shows/truth-or-fake/20261020-i-m-alive-paris-street-medic-isn-t-dead-despite-viral-claims-he-was-killed-by-police) ⭐️ ?/10
+
+‘I’m alive’: Paris street medic isn’t dead, despite viral claims he was killed by police
+
+rss · France 24 · Oct 20, 20:43
+
+---
+
+<a id="item-tech-news-364"></a>
+### [Trump campaigning in Republican strongholds amid slide in polls](https://www.france24.com/en/trump-campaigning-in-republican-strongholds-amid-slide-in-polls) ⭐️ ?/10
+
+Trump campaigning in Republican strongholds amid slide in polls
+
+rss · France 24 · Oct 20, 20:13
+
+---
+
+<a id="item-tech-news-365"></a>
+### [Italy sends troops, toughens security laws after Milan clashes](https://www.france24.com/en/italy-sends-troops-toughens-security-laws-after-milan-clashes) ⭐️ ?/10
+
+Italy sends troops, toughens security laws after Milan clashes
+
+rss · France 24 · Oct 20, 20:09
+
+---
+
+<a id="item-tech-news-366"></a>
+### [French PM vows &\#x27;massive&\#x27; police deployment for new demonstrations](https://www.france24.com/en/french-pm-vows-massive-police-deployment-for-new-demonstrations) ⭐️ ?/10
+
+French PM vows &\#x27;massive&\#x27; police deployment for new demonstrations
+
+rss · France 24 · Oct 20, 20:05
+
+---
+
+<a id="item-tech-news-367"></a>
+### [&\#x27;Netanyahu is fighting for his political career&\#x27;, expert says a week ahead of crucial vote](https://www.france24.com/en/netanyahu-is-fighting-for-his-political-career-expert-says-a-week-ahead-of-crucial-vote) ⭐️ ?/10
+
+&\#x27;Netanyahu is fighting for his political career&\#x27;, expert says a week ahead of crucial vote
+
+rss · France 24 · Oct 20, 20:03
+
+---
+
+<a id="item-tech-news-368"></a>
+### [Zelensky meets Witkoff as US-Ukraine relations sink to new lows](https://www.france24.com/en/zelenskiy-meets-witkoff-as-us-ukraine-relations-sink-to-new-lows) ⭐️ ?/10
+
+Zelensky meets Witkoff as US-Ukraine relations sink to new lows
+
+rss · France 24 · Oct 20, 19:06
+
+---
+
+<a id="item-tech-news-369"></a>
+### [Hundreds put on immediate trial for ransacking city centres across France](https://www.france24.com/en/hundreds-put-on-immediate-trial-for-ransacking-city-centres-across-france) ⭐️ ?/10
+
+Hundreds put on immediate trial for ransacking city centres across France
+
+rss · France 24 · Oct 20, 19:05
+
+---
+
+<a id="item-tech-news-370"></a>
+### [New Paris curfew ordered in parts of city from 2100 GMT Tuesday](https://www.france24.com/en/new-paris-curfew-ordered-in-parts-of-city-from-2100-gmt-tuesday) ⭐️ ?/10
+
+New Paris curfew ordered in parts of city from 2100 GMT Tuesday
+
+rss · France 24 · Oct 20, 19:01
+
+---
+
+<a id="item-tech-news-371"></a>
+### [How French police are harnessing social media to identify looters](https://www.france24.com/en/france/20261020-how-french-police-are-harnessing-social-media-to-identify-looters) ⭐️ ?/10
+
+How French police are harnessing social media to identify looters
+
+rss · France 24 · Oct 20, 16:50
+
+---
+
+<a id="item-tech-news-372"></a>
+### [More than 150 killed in Sudan drone strike on disputed Abyei border region](https://www.france24.com/en/africa/20261020-more-than-150-killed-sudan-drone-strike-disputed-abyei-border-region) ⭐️ ?/10
+
+More than 150 killed in Sudan drone strike on disputed Abyei border region
+
+rss · France 24 · Oct 20, 16:24
+
+---
+
+<a id="item-tech-news-373"></a>
+### [France: Local curfews imposed after protests](https://www.france24.com/en/video/20261020-france-local-curfews-imposed-after-protests) ⭐️ ?/10
+
+France: Local curfews imposed after protests
+
+rss · France 24 · Oct 20, 16:09
+
+---
+
+<a id="item-tech-news-374"></a>
+### [France&\#x27;s decades-long ties with Gulf states built on &\#x27;economic development, oil, defence agreements&\#x27;](https://www.france24.com/en/video/20261020-france-s-decades-long-ties-with-gulf-states-built-on-economic-development-oil-defense-agreements-1) ⭐️ ?/10
+
+France&\#x27;s decades-long ties with Gulf states built on &\#x27;economic development, oil, defence agreements&\#x27;
+
+rss · France 24 · Oct 20, 15:52
+
+---
+
+<a id="item-tech-news-375"></a>
+### [US midterm elections: Trump approval rating falls to new low](https://www.france24.com/en/video/20261020-us-midterm-elections-trump-approval-rating-falls-to-new-low) ⭐️ ?/10
+
+US midterm elections: Trump approval rating falls to new low
+
+rss · France 24 · Oct 20, 15:22
+
+---
+
+<a id="item-tech-news-376"></a>
+### [From fine wine to no alcohol: The changing world of French sommeliers](https://www.france24.com/en/tv-shows/france-in-focus/20261020-from-fine-wine-to-no-alcohol-the-changing-world-of-french-sommeliers) ⭐️ ?/10
+
+From fine wine to no alcohol: The changing world of French sommeliers
+
+rss · France 24 · Oct 20, 14:54
+
+---
+
+<a id="item-tech-news-377"></a>
+### [French PM vows &\#x27;massive&\#x27; police deployment for new demonstrations Saturday](https://www.france24.com/en/video/20261020-french-pm-vows-massive-police-deployment-for-new-demonstrations-saturday) ⭐️ ?/10
+
+French PM vows &\#x27;massive&\#x27; police deployment for new demonstrations Saturday
+
+rss · France 24 · Oct 20, 14:54
+
+---
+
+<a id="item-tech-news-378"></a>
+### [October 17 riots in France: Who&\#x27;s responsible?](https://www.france24.com/en/tv-shows/entre-nous/20261020-october-17-riots-in-france-who-s-responsible) ⭐️ ?/10
+
+October 17 riots in France: Who&\#x27;s responsible?
+
+rss · France 24 · Oct 20, 14:41
+
+---
+
+<a id="item-tech-news-379"></a>
+### [French Justice Minister promises &\#x27;extremely firm&\#x27; punishment for rioters](https://www.france24.com/en/video/20261020-french-justice-minister-promises-extremely-firm-punishment-for-rioters) ⭐️ ?/10
+
+French Justice Minister promises &\#x27;extremely firm&\#x27; punishment for rioters
+
+rss · France 24 · Oct 20, 14:37
+
+---
+
+<a id="item-tech-news-380"></a>
+### [French PM blames &\#x27;ultra-left&\#x27; groups for weekend riots, promises &\#x27;massive&\#x27; security deployment](https://www.france24.com/en/france/20261020-french-pm-blames-ultra-left-groups-for-weekend-riots-promises-massive-security-deployment) ⭐️ ?/10
+
+French PM blames &\#x27;ultra-left&\#x27; groups for weekend riots, promises &\#x27;massive&\#x27; security deployment
+
+rss · France 24 · Oct 20, 14:16
+
+---
+
+<a id="item-tech-news-381"></a>
+### [Ukraine ‘losing people and time’, Zelensky says after Oslo talks](https://www.france24.com/en/europe/20261020-zelensky-oslo-for-talks-with-us-envoys-ukraine-claims-missile-holdup) ⭐️ ?/10
+
+Ukraine ‘losing people and time’, Zelensky says after Oslo talks
+
+rss · France 24 · Oct 20, 14:11
+
+---
+
+<a id="item-tech-news-382"></a>
+### [Zwei Verletzte nach Einsturz von Hoteldecke in Düsseldorf](https://www.spiegel.de/panorama/zwei-verletzte-nach-einsturz-von-hoteldecke-in-duesseldorf-a-3ad79766-dd90-4ba0-b58a-be0f233efe2d#ref=rss) ⭐️ ?/10
+
+Zwei Verletzte nach Einsturz von Hoteldecke in Düsseldorf
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 22:17
+
+---
+
+<a id="item-tech-news-383"></a>
+### [Champions League: VfB Stuttgart verpasst Sieg gegen Atlético Madrid](https://www.spiegel.de/sport/fussball/champions-league-vfb-stuttgart-verpasst-sieg-gegen-atletico-madrid-a-f6f68fd6-3a52-404d-9616-236e07a85315#ref=rss) ⭐️ ?/10
+
+Champions League: VfB Stuttgart verpasst Sieg gegen Atlético Madrid
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 21:38
+
+---
+
+<a id="item-tech-news-384"></a>
+### [Champions League: Paris Saint-Germain schlägt FC Barcelona 4:2 – Lamine Yamal mit Patzer und Traumtor](https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-schlaegt-fc-barcelona-4-2-lamine-yamal-mit-patzer-und-traumtor-a-19a2d198-250c-47e4-8b7f-fd3e1d1a9b52#ref=rss) ⭐️ ?/10
+
+Champions League: Paris Saint-Germain schlägt FC Barcelona 4:2 – Lamine Yamal mit Patzer und Traumtor
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 21:38
+
+---
+
+<a id="item-tech-news-385"></a>
+### [Polens Parlament verabschiedet Gesetze zu Liberalisierung von Abtreibungsrecht](https://www.spiegel.de/ausland/polens-parlament-verabschiedet-gesetze-zu-liberalisierung-von-abtreibungsrecht-a-39de5dd5-cca9-4ea1-88cb-4a5410661a00#ref=rss) ⭐️ ?/10
+
+Polens Parlament verabschiedet Gesetze zu Liberalisierung von Abtreibungsrecht
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 20:35
+
+---
+
+<a id="item-tech-news-386"></a>
+### [Prinz Harry: Streit mit Vater und Bruder soll beigelegt werden](https://www.spiegel.de/panorama/leute/prinz-harry-streit-mit-vater-und-bruder-soll-beigelegt-werden-a-8ec5714b-6999-4f42-b423-7395840cf714#ref=rss) ⭐️ ?/10
+
+Prinz Harry: Streit mit Vater und Bruder soll beigelegt werden
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 20:13
+
+---
+
+<a id="item-tech-news-387"></a>
+### [Nigeria bestätigt ersten Ebolafall](https://www.spiegel.de/ausland/nigeria-bestaetigt-ersten-ebolafall-a-d62a79e5-615c-4a4b-bf74-ef9925db8b8e#ref=rss) ⭐️ ?/10
+
+Nigeria bestätigt ersten Ebolafall
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 20:13
+
+---
+
+<a id="item-tech-news-388"></a>
+### [Ukrainekrieg: US-Gesandter Steve Witkoff reist für Gespräche nach Russland](https://www.spiegel.de/ausland/ukrainekrieg-us-gesandter-steve-witkoff-reist-fuer-gespraeche-nach-russland-a-270a79eb-fe7e-412e-ba0d-508f9466d1ed#ref=rss) ⭐️ ?/10
+
+Ukrainekrieg: US-Gesandter Steve Witkoff reist für Gespräche nach Russland
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 19:40
+
+---
+
+<a id="item-tech-news-389"></a>
+### [Hamburg: Feuerwehr hilft bei Hausgeburt und bringt Jungen zur Welt](https://www.spiegel.de/panorama/gesellschaft/hamburg-feuerwehr-hilft-bei-hausgeburt-und-bringt-jungen-zur-welt-a-0e985e55-828b-4d67-88de-1a6537b7d1d8#ref=rss) ⭐️ ?/10
+
+Hamburg: Feuerwehr hilft bei Hausgeburt und bringt Jungen zur Welt
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 19:40
+
+---
+
+<a id="item-tech-news-390"></a>
+### [Krieg in der Ukraine: Jetzt verzögert Trump auch noch Waffenlieferungen – warum das fatale Folgen für Kyjiw haben könnte](https://www.spiegel.de/ausland/krieg-in-der-ukraine-jetzt-verzoegert-trump-auch-noch-waffenlieferungen-warum-das-fatale-folgen-fuer-kyjiw-haben-koennte-a-dfedbb8a-9b6f-437f-9ea4-b6f7201d680c#ref=rss) ⭐️ ?/10
+
+Krieg in der Ukraine: Jetzt verzögert Trump auch noch Waffenlieferungen – warum das fatale Folgen für Kyjiw haben könnte
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 19:22
+
+---
+
+<a id="item-tech-news-391"></a>
+### [Champions League: Serhou Guirassy schießt Borussia Dortmund in Aserbaidschan aus der Ergebniskrise](https://www.spiegel.de/sport/fussball/champions-league-serhou-guirassy-schiesst-bvb-in-aserbaidschan-aus-der-ergebniskrise-a-82b22b70-dc1d-4453-9681-d93f6105212d#ref=rss) ⭐️ ?/10
+
+Champions League: Serhou Guirassy schießt Borussia Dortmund in Aserbaidschan aus der Ergebniskrise
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 19:21
+
+---
+
+<a id="item-tech-news-392"></a>
+### [Zeitmessung wird neu geregelt: Das Ende der Schaltsekunde](https://www.spiegel.de/geschichte/zeitmessung-wird-neu-geregelt-das-ende-der-schaltsekunde-a-e01a1e39-5220-4b25-9056-8f8fddde2b13#ref=rss) ⭐️ ?/10
+
+Zeitmessung wird neu geregelt: Das Ende der Schaltsekunde
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 18:42
+
+---
+
+<a id="item-tech-news-393"></a>
+### [USA: Yorkshire Terrier jagt Bär auf Baum – und verjagt ihn vom Grundstück](https://www.spiegel.de/panorama/usa-yorkshire-terrier-jagt-baer-auf-baum-und-verjagt-ihn-vom-grundstueck-a-49cfb5b0-586c-481d-949c-2801b7456e6c#ref=rss) ⭐️ ?/10
+
+USA: Yorkshire Terrier jagt Bär auf Baum – und verjagt ihn vom Grundstück
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 18:41
+
+---
+
+<a id="item-tech-news-394"></a>
+### [Sudan: Über 150 Tote nach Drohnenangriff in Grenzregion Abyei](https://www.spiegel.de/ausland/sudan-ueber-150-tote-nach-drohnenangriff-in-grenzregion-abyei-a-6ab2b460-887e-4f6c-97c1-728d8f0fb00d#ref=rss) ⭐️ ?/10
+
+Sudan: Über 150 Tote nach Drohnenangriff in Grenzregion Abyei
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 18:40
+
+---
+
+<a id="item-tech-news-395"></a>
+### [Bulgarien lehnt Beteiligung an neuer EU-Finanzhilfe für Ukraine ab](https://www.spiegel.de/ausland/bulgarien-lehnt-beteiligung-an-neuer-eu-finanzhilfe-fuer-ukraine-ab-a-c691ff7a-35a8-4bfe-a930-3e9f40ffc6f6#ref=rss) ⭐️ ?/10
+
+Bulgarien lehnt Beteiligung an neuer EU-Finanzhilfe für Ukraine ab
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 18:23
+
+---
+
+<a id="item-tech-news-396"></a>
+### [Investitionen: Was Vinci-Chef Pierre Anjolras am Standort Deutschland schätzt](https://www.spiegel.de/wirtschaft/unternehmen/investitionen-was-vinci-chef-pierre-anjolras-am-standort-deutschland-schaetzt-a-883801b8-7453-4b01-9f8b-2842d86d844c#ref=rss) ⭐️ ?/10
+
+Investitionen: Was Vinci-Chef Pierre Anjolras am Standort Deutschland schätzt
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 18:23
+
+---
+
+<a id="item-tech-news-397"></a>
+### [Adam Wolke aka SkylineTV: Der deutsche Livestreamer ist tot](https://www.spiegel.de/netzwelt/web/adam-wolke-aka-skylinetv-der-deutsche-livestreamer-ist-tot-a-252b47fa-40ef-4565-ba8e-e77a2f45fdfa#ref=rss) ⭐️ ?/10
+
+Adam Wolke aka SkylineTV: Der deutsche Livestreamer ist tot
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 17:47
+
+---
+
+<a id="item-tech-news-398"></a>
+### [Cornell University: »Jane Doe« wirft Unipräsident Kotlikoff Versagen vor](https://www.spiegel.de/ausland/cornell-university-jane-doe-wirft-uni-praesident-kotlikoff-versagen-vor-a-7370b47c-b5cc-4952-93a6-22f4965b971b#ref=rss) ⭐️ ?/10
+
+Cornell University: »Jane Doe« wirft Unipräsident Kotlikoff Versagen vor
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 17:04
+
+---
+
+<a id="item-tech-news-399"></a>
+### [Union Berlin: Wer-wird-Millionär-Kandidat kennt Trainer Mauro Lustrinelli nicht](https://www.spiegel.de/sport/fussball/union-berlin-wer-wird-millionaer-kandidat-kennt-trainer-mauro-lustrinelli-nicht-a-b06149ef-ab35-406d-ae2e-f3c08b8fa26c#ref=rss) ⭐️ ?/10
+
+Union Berlin: Wer-wird-Millionär-Kandidat kennt Trainer Mauro Lustrinelli nicht
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 16:44
+
+---
+
+<a id="item-tech-news-400"></a>
+### [News des Tages: Friedrich Merz auf dem Investitionsgipfel; Vanessa Emde und die Berliner Linken; Deutschlandticket light](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-auf-dem-investitionsgipfel-vanessa-emde-und-die-berliner-linken-deutschlandticket-light-a-4a189124-dfb5-4b71-8f43-497944eb92d0#ref=rss) ⭐️ ?/10
+
+News des Tages: Friedrich Merz auf dem Investitionsgipfel; Vanessa Emde und die Berliner Linken; Deutschlandticket light
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 16:25
+
+---
+
+<a id="item-tech-news-401"></a>
+### [VW ruft weltweit Tausende E-Autos zurück](https://www.spiegel.de/wirtschaft/service/vw-ruft-weltweit-tausende-e-autos-zurueck-a-eaa02acb-17aa-4a19-bb65-7cd7c3a0c923#ref=rss) ⭐️ ?/10
+
+VW ruft weltweit Tausende E-Autos zurück
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 16:04
+
+---
+
+<a id="item-tech-news-402"></a>
+### [Deutsche Wirtschaft: Investitionsgipfel in Berlin soll Milliarden anlocken](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-wirtschaft-investitionsgipfel-in-berlin-soll-milliarden-anlocken-a-c58246d0-d6a3-42e9-9c4e-57c8c4503a71#ref=rss) ⭐️ ?/10
+
+Deutsche Wirtschaft: Investitionsgipfel in Berlin soll Milliarden anlocken
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 16:03
+
+---
+
+<a id="item-tech-news-403"></a>
+### [Mit dieser Liste setzen die Europäer Fifa-Chef Infantino unter Druck](https://www.spiegel.de/sport/mit-dieser-liste-setzen-die-europaeer-fifa-chef-infantino-unter-druck-a-570a5f86-ac40-4cfd-88eb-5b060eb57b09#ref=rss) ⭐️ ?/10
+
+Mit dieser Liste setzen die Europäer Fifa-Chef Infantino unter Druck
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 15:58
+
+---
+
+<a id="item-tech-news-404"></a>
+### [Terrakotta-Armee in China: Fingerabdrücke geben Hinweise auf die Bildhauer](https://www.spiegel.de/wissenschaft/terrakotta-armee-in-china-fingerabdruecke-geben-hinweise-auf-die-bildhauer-a-385a0e1e-10f5-4e15-8e2c-7ae05d1f5532#ref=rss) ⭐️ ?/10
+
+Terrakotta-Armee in China: Fingerabdrücke geben Hinweise auf die Bildhauer
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 15:36
+
+---
+
+<a id="item-tech-news-405"></a>
+### [Ukraine-Krieg: Drohne rettet erstmals verletzten Soldaten von der Front](https://www.spiegel.de/ausland/ukraine-krieg-drohne-rettet-erstmals-verletzten-soldaten-von-der-front-a-49ed8d13-0bf5-4188-8052-d60d11feee5b#ref=rss) ⭐️ ?/10
+
+Ukraine-Krieg: Drohne rettet erstmals verletzten Soldaten von der Front
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 14:49
+
+---
+
+<a id="item-tech-news-406"></a>
+### [Washington: Flugpassagierin weint offenbar stundenlang, weil sie ihren Sitzplatz nicht tauschen kann](https://www.spiegel.de/panorama/washington-flugpassagierin-weint-offenbar-stundenlang-weil-sie-ihren-sitzplatz-nicht-tauschen-kann-a-b136fa8d-6ee3-4fb3-8f5b-0621ba2d81ce#ref=rss) ⭐️ ?/10
+
+Washington: Flugpassagierin weint offenbar stundenlang, weil sie ihren Sitzplatz nicht tauschen kann
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 14:42
+
+---
+
+<a id="item-tech-news-407"></a>
+### [Kerstin Lee Langley: Was über den Fall aus der Oberpfalz bekannt ist](https://www.spiegel.de/panorama/justiz/kerstin-lee-langley-was-ueber-den-fall-aus-der-oberpfalz-bekannt-ist-a-c434b05e-4416-46f9-a80b-3ec894e94f0a#ref=rss) ⭐️ ?/10
+
+Kerstin Lee Langley: Was über den Fall aus der Oberpfalz bekannt ist
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 14:35
+
+---
+
+<a id="item-tech-news-408"></a>
+### [Wärmepumpe: WWF-Studie zeigt, wann sich die Investition wirklich lohnt](https://www.spiegel.de/wirtschaft/service/waermepumpe-wwf-studie-zeigt-wann-sich-die-investition-wirklich-lohnt-a-d9f881ac-c95d-40a1-bcda-04dc5f782837#ref=rss) ⭐️ ?/10
+
+Wärmepumpe: WWF-Studie zeigt, wann sich die Investition wirklich lohnt
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 14:26
+
+---
+
+<a id="item-tech-news-409"></a>
+### [Joy-Lance Mickels: Der Deutsche, den der BVB am Toreschießen hindern muss](https://www.spiegel.de/sport/fussball/joy-lance-mickels-der-deutsche-den-der-bvb-am-toreschiessen-hindern-muss-a-dbabfaa2-f6b2-4a52-a7fb-c827e0e74e00#ref=rss) ⭐️ ?/10
+
+Joy-Lance Mickels: Der Deutsche, den der BVB am Toreschießen hindern muss
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 14:24
+
+---
+
+<a id="item-tech-news-410"></a>
+### [Christina Applegate wurde fälschlicherweise mit MS diagnostiziert](https://www.spiegel.de/kultur/tv/christina-applegate-wurde-faelschlicherweise-mit-ms-diagnostiziert-a-d75ef1d9-62b1-4cfb-afef-21eeed44b949#ref=rss) ⭐️ ?/10
+
+Christina Applegate wurde fälschlicherweise mit MS diagnostiziert
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 14:18
+
+---
+
+<a id="item-tech-news-411"></a>
+### [Indonesien: Mutmaßliches Raketenteil in Autogröße stürzt auf Plantage ab](https://www.spiegel.de/wissenschaft/indonesien-mutmassliches-raketenteil-in-autogroesse-stuerzt-auf-plantage-ab-a-b8903528-e673-4d18-88f1-cf2c0dc74dc6#ref=rss) ⭐️ ?/10
+
+Indonesien: Mutmaßliches Raketenteil in Autogröße stürzt auf Plantage ab
+
+rss · 明镜周刊\(Der Spiegel\) · Oct 20, 14:10
+
+---
+
+<a id="item-tech-news-412"></a>
+### [Großmächte-Gipfel: In Shenzhen droht die Rückkehr imperialer Politik](https://www.faz.net/aktuell/politik/ausland/dreiergipfel-in-china-ueber-die-ukraine-ohne-ukraine-201604727.html) ⭐️ ?/10
+
+Großmächte-Gipfel: In Shenzhen droht die Rückkehr imperialer Politik
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 19:52
+
+---
+
+<a id="item-tech-news-413"></a>
+### [Ukrainekrieg: Trumps verdrehte Sicht auf die Welt](https://www.faz.net/aktuell/politik/ausland/trumps-verdrehte-sicht-auf-die-welt-201605085.html) ⭐️ ?/10
+
+Ukrainekrieg: Trumps verdrehte Sicht auf die Welt
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 19:49
+
+---
+
+<a id="item-tech-news-414"></a>
+### [Liveblog Ukrainekrieg: Selenskyj: Ukraine muss an möglichem Treffen von Putin, Trump und Xi teilnehmen](https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-ukraine-muss-an-moeglichem-treffen-von-putin-trump-und-xi-teilnehmen-faz-110683325.html) ⭐️ ?/10
+
+Liveblog Ukrainekrieg: Selenskyj: Ukraine muss an möglichem Treffen von Putin, Trump und Xi teilnehmen
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 18:13
+
+---
+
+<a id="item-tech-news-415"></a>
+### [Musk-Imperium: SpaceX und Tesla prüfen Fusion](https://www.faz.net/aktuell/wirtschaft/unternehmen/musk-imperium-spacex-und-tesla-pruefen-fusion-201606609.html) ⭐️ ?/10
+
+Musk-Imperium: SpaceX und Tesla prüfen Fusion
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 22:33
+
+---
+
+<a id="item-tech-news-416"></a>
+### [Rot-grün-rot: Es ist Zeit, in Berlin die Reißleine zu ziehen](https://www.faz.net/aktuell/politik/inland/rot-gruen-rot-fuer-berlin-eine-schlimme-entwicklung-201605075.html) ⭐️ ?/10
+
+Rot-grün-rot: Es ist Zeit, in Berlin die Reißleine zu ziehen
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 17:34
+
+---
+
+<a id="item-tech-news-417"></a>
+### [Gewalt und Plünderungen: Frankreichs böses Erwachen nach den Unruhen](https://www.faz.net/aktuell/wirtschaft/frankreich-nach-den-krawallen-milliardenschaeden-und-ausgangssperren-201604734.html) ⭐️ ?/10
+
+Gewalt und Plünderungen: Frankreichs böses Erwachen nach den Unruhen
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 16:09
+
+---
+
+<a id="item-tech-news-418"></a>
+### [Streamingdienst: Netflix überzeugt die Börse nicht](https://www.faz.net/aktuell/wirtschaft/unternehmen/quartalszahlen-netflix-ueberzeugt-die-boerse-nicht-201606599.html) ⭐️ ?/10
+
+Streamingdienst: Netflix überzeugt die Börse nicht
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 22:40
+
+---
+
+<a id="item-tech-news-419"></a>
+### [Aufregung in Esslingen: Warum Tausende diese Statue loswerden wollen](https://www.faz.net/aktuell/gesellschaft/trends-nischen/esslinger-teufelstatue-buergermeister-klopfer-erhaelt-morddrohung-201604531.html) ⭐️ ?/10
+
+Aufregung in Esslingen: Warum Tausende diese Statue loswerden wollen
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 15:04
+
+---
+
+<a id="item-tech-news-420"></a>
+### [US-Kongresswahlen: Für ihn hat Trump einen besonders fiesen Spitznamen](https://www.faz.net/aktuell/politik/usa-unter-trump/us-midterms-2026-jon-ossoff-der-neue-star-der-demokraten-201311909.html) ⭐️ ?/10
+
+US-Kongresswahlen: Für ihn hat Trump einen besonders fiesen Spitznamen
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 13:21
+
+---
+
+<a id="item-tech-news-421"></a>
+### [Midterms in den USA: MAGA wirbt mit der Sportprominenz](https://www.faz.net/aktuell/sport/sportpolitik/donald-trump-wie-sportler-den-midterms-wahlkampf-in-den-usa-praegen-201597810.html) ⭐️ ?/10
+
+Midterms in den USA: MAGA wirbt mit der Sportprominenz
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 12:32
+
+---
+
+<a id="item-tech-news-422"></a>
+### [Investorengipfel: Viel Show, wenig Substanz](https://www.faz.net/aktuell/wirtschaft/investorengipfel-der-bundesregierung-viel-show-wenig-substanz-201604712.html) ⭐️ ?/10
+
+Investorengipfel: Viel Show, wenig Substanz
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 19:25
+
+---
+
+<a id="item-tech-news-423"></a>
+### [AfD gehackt: Diese Mails passen ins Bild](https://www.faz.net/aktuell/politik/inland/gehackt-und-geleakt-afd-mails-die-ins-bild-passen-201605228.html) ⭐️ ?/10
+
+AfD gehackt: Diese Mails passen ins Bild
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 16:55
+
+---
+
+<a id="item-tech-news-424"></a>
+### [Strippenziehen in Österreich: Wenn Lobbyismus zum Risiko für den Standort wird](https://www.faz.net/aktuell/wirtschaft/siegfried-wolf-vor-gericht-wann-wird-lobbying-zum-standortrisiko-201605388.html) ⭐️ ?/10
+
+Strippenziehen in Österreich: Wenn Lobbyismus zum Risiko für den Standort wird
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 19:12
+
+---
+
+<a id="item-tech-news-425"></a>
+### [Champions League: PSG gewinnt Topspiel gegen Barça – Wirtz trifft für Liverpool](https://www.faz.net/aktuell/sport/fussball/champions-league/champions-league-paris-saint-germain-gewinnt-topspiel-gegen-fc-barcelona-201305371.html) ⭐️ ?/10
+
+Champions League: PSG gewinnt Topspiel gegen Barça – Wirtz trifft für Liverpool
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 21:17
+
+---
+
+<a id="item-tech-news-426"></a>
+### [Dortmund edges Sabah 2-1 in Champions League after winless run](https://www.faz.net/aktuell/sport/fussball/champions-league/fussball-champions-league-borussia-dortmund-gewinnt-bei-sabah-fk-201305369.html) ⭐️ ?/10
+
+Borussia Dortmund secured a 2-1 away victory against Azerbaijani side FK Sabah in the Champions League, ending a run of three consecutive winless competitive matches. striker Serhou Guirassy scored both goals for Dortmund, who took maximum points from a tough away fixture against the tournament outsiders. The result marks a significant turnaround for Dortmund following their previous drought across all competitions.
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 18:46
+
+**「Background」** Borussia Dortmund had entered this Champions League match following three consecutive competitive games without a win, raising concerns about their form ahead of the knockout stages. FK Sabah, as Azerbaijan&\#x27;s top-flight representative, were considered heavy underdogs against one of Germany&\#x27;s most decorated clubs.
+
+**「Impact」** The victory keeps Dortmund&\#x27;s Champions League campaign on track and provides a crucial morale boost after their winless streak. Meanwhile, Sabah maximized their European return despite the loss, demonstrating competitive resilience against a elite opponent.
+
+---
+
+<a id="item-tech-news-427"></a>
+### [Integration: Merz nennt Angst vor dem Fremden „ideologisch infektiös“](https://www.faz.net/aktuell/politik/inland/merz-nennt-angst-vor-dem-fremden-ideologisch-infektioes-201602469.html) ⭐️ ?/10
+
+Integration: Merz nennt Angst vor dem Fremden „ideologisch infektiös“
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 17:54
+
+---
+
+<a id="item-tech-news-428"></a>
+### [Deutschland Liveblog: Keine Lösung im Streit um Berliner Linke-Abgeordnete Emde](https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-keine-loesung-im-streit-um-berliner-linke-abgeordnete-emde-faz-110093143.html) ⭐️ ?/10
+
+Deutschland Liveblog: Keine Lösung im Streit um Berliner Linke-Abgeordnete Emde
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 13:33
+
+---
+
+<a id="item-tech-news-429"></a>
+### [Unruhen in Mailand: Italien will minderjährige Krawallmacher abschrecken](https://www.faz.net/aktuell/politik/ausland/mailand-so-will-italien-minderjaehrige-krawallmacher-abschrecken-201604896.html) ⭐️ ?/10
+
+Unruhen in Mailand: Italien will minderjährige Krawallmacher abschrecken
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 17:56
+
+---
+
+<a id="item-tech-news-430"></a>
+### [Investorengipfel in Berlin: „Ich will Ihr Geld“](https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/investorengipfel-in-berlin-amazon-investiert-andere-ziehen-sich-zurueck-201604719.html) ⭐️ ?/10
+
+Investorengipfel in Berlin: „Ich will Ihr Geld“
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 15:41
+
+---
+
+<a id="item-tech-news-431"></a>
+### [Liveblog Nahost: Netanjahus Ziel bleibt der Sturz des Mullah-Regimes](https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-netanjahu-haelt-an-sturz-der-iranischen-fuehrung-fest-faz-200583539.html) ⭐️ ?/10
+
+Liveblog Nahost: Netanjahus Ziel bleibt der Sturz des Mullah-Regimes
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 19:38
+
+---
+
+<a id="item-tech-news-432"></a>
+### [FRau aus uganda: Erste Ebola-Infektion in Nigeria bestätigt](https://www.faz.net/aktuell/gesellschaft/gesundheit/erster-ebola-fall-in-nigeria-201606616.html) ⭐️ ?/10
+
+FRau aus uganda: Erste Ebola-Infektion in Nigeria bestätigt
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 20:16
+
+---
+
+<a id="item-tech-news-433"></a>
+### [Business-Ticker: Carrefour kappt wegen Frankreich-Unruhen Prognose](https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-carrefour-warnt-wegen-unruhen-in-frankreich-die-anleger-faz-200452404.html) ⭐️ ?/10
+
+Business-Ticker: Carrefour kappt wegen Frankreich-Unruhen Prognose
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 16:59
+
+---
+
+<a id="item-tech-news-434"></a>
+### [„Das Leben der M“: Was ist echt und was Fiktion?](https://www.faz.net/aktuell/feuilleton/buecher/hoerbuch/ist-das-natalie-portman-rachel-cusks-das-leben-der-m-als-hoerbuch-201309694.html) ⭐️ ?/10
+
+„Das Leben der M“: Was ist echt und was Fiktion?
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 16:50
+
+---
+
+<a id="item-tech-news-435"></a>
+### [Immendorff in Düsseldorf: Wo stehst du mit deiner Kunst, Kollege?](https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/der-kunstpalast-duesseldorf-widmet-joerg-immendorff-eine-retrospektive-accg-201316579.html) ⭐️ ?/10
+
+Immendorff in Düsseldorf: Wo stehst du mit deiner Kunst, Kollege?
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 10:03
+
+---
+
+<a id="item-tech-news-436"></a>
+### [Nur eine Richtung: Die Hundert-Wochen-Börsenreise](https://www.faz.net/premium/meine-finanzen/dax-msci-acwi-etf-was-anleger-in-100-wochen-verdienten-accg-201340859.html) ⭐️ ?/10
+
+Nur eine Richtung: Die Hundert-Wochen-Börsenreise
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 05:41
+
+---
+
+<a id="item-tech-news-437"></a>
+### [Anleihen: Firmenkredite statt Staatspapiere](https://www.faz.net/premium/meine-finanzen/zinsen/anleihen-warum-firmenkredite-jetzt-staatspapieren-vorzuziehen-sind-accg-201599341.html) ⭐️ ?/10
+
+Anleihen: Firmenkredite statt Staatspapiere
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 05:40
+
+---
+
+<a id="item-tech-news-438"></a>
+### [Zurück zur Normalität: Warum der Renditeanstieg eine gute Nachricht ist](https://www.faz.net/premium/meine-finanzen/zinsen/steigende-anleiherenditen-normalisierung-statt-crash-accg-201601548.html) ⭐️ ?/10
+
+Zurück zur Normalität: Warum der Renditeanstieg eine gute Nachricht ist
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 05:42
+
+---
+
+<a id="item-tech-news-439"></a>
+### [Neurodermitis-Therapie: „Cortison wird zu Unrecht verteufelt“](https://www.faz.net/aktuell/gesellschaft/gesundheit/was-bei-neurodermitis-hilft-jeder-fuenfte-patient-haette-frueher-kommen-sollen-accg-201183136.html) ⭐️ ?/10
+
+Neurodermitis-Therapie: „Cortison wird zu Unrecht verteufelt“
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 03:35
+
+---
+
+<a id="item-tech-news-440"></a>
+### [Die Karrierefrage: Wie werde ich als Jüngster im Team ernst genommen?](https://www.faz.net/aktuell/karriere-hochschule/die-karrierefrage/wie-werde-ich-als-berufseinsteiger-im-team-ernst-genommen-accg-201339014.html) ⭐️ ?/10
+
+Die Karrierefrage: Wie werde ich als Jüngster im Team ernst genommen?
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 09:04
+
+---
+
+<a id="item-tech-news-441"></a>
+### [Höflich sprechen: „Mit zunehmendem Alter wird das Siezen, das Respekt und Distanz ausdrückt, relevanter“](https://www.faz.net/aktuell/wissen/geist-soziales/warum-sagen-junge-leute-nicht-mehr-bitte-linguistin-erklaert-accg-201313694.html) ⭐️ ?/10
+
+Höflich sprechen: „Mit zunehmendem Alter wird das Siezen, das Respekt und Distanz ausdrückt, relevanter“
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 08:31
+
+---
+
+<a id="item-tech-news-442"></a>
+### [Zittern um Rentenreform: Was die „Rente mit 63“ so brisant macht](https://www.faz.net/aktuell/wirtschaft/arm-und-reich/rente-mit-63-was-die-abschlagsfreiheit-kostet-und-warum-sie-die-koalition-spaltet-201601670.html) ⭐️ ?/10
+
+Zittern um Rentenreform: Was die „Rente mit 63“ so brisant macht
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 05:20
+
+---
+
+<a id="item-tech-news-443"></a>
+### [Plan des Präsidiums: So soll die Goethe-Uni künftig organisiert sein](https://www.faz.net/aktuell/rhein-main/frankfurt/reform-der-uni-frankfurt-praesidium-will-nur-noch-sieben-fachbereiche-accg-201323664.html) ⭐️ ?/10
+
+Plan des Präsidiums: So soll die Goethe-Uni künftig organisiert sein
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 04:15
+
+---
+
+<a id="item-tech-news-444"></a>
+### [AfD-Mails gehackt: Soll so die AfD diskreditiert werden?](https://www.faz.net/aktuell/politik/inland/afd-leak-cybersecurity-experte-vermutet-hacktivism-hinter-hackerangriff-accg-201604381.html) ⭐️ ?/10
+
+AfD-Mails gehackt: Soll so die AfD diskreditiert werden?
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 10:27
+
+---
+
+<a id="item-tech-news-445"></a>
+### [Parlamentswahlen in ISrael: Umfragen sehen Niederlage für Netanjahu](https://www.faz.net/video/umfragen-sehen-niederlage-fuer-netanjahu-201606014.html) ⭐️ ?/10
+
+Parlamentswahlen in ISrael: Umfragen sehen Niederlage für Netanjahu
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 14:49
+
+---
+
+<a id="item-tech-news-446"></a>
+### [Ukraine-Treffen in Oslo: Russischer Angriff überschattet Friedensgespräche](https://www.faz.net/video/ukraine-treffen-in-oslo-von-angriff-ueberschattet-201605597.html) ⭐️ ?/10
+
+Ukraine-Treffen in Oslo: Russischer Angriff überschattet Friedensgespräche
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 13:42
+
+---
+
+<a id="item-tech-news-447"></a>
+### [Kenia: Sektenführer des Massenmordes schuldig gesprochen](https://www.faz.net/video/kenia-sektenfuehrer-des-massenmordes-schuldig-gesprochen-201605300.html) ⭐️ ?/10
+
+Kenia: Sektenführer des Massenmordes schuldig gesprochen
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 12:09
+
+---
+
+<a id="item-tech-news-448"></a>
+### [Rhein-Main-Feierabendbriefing: Goethe-Frankfurt soll nur noch sieben Fachbereiche haben](https://www.faz.net/podcasts/rhein-main-feierabendbriefing/goethe-uni-frankfurt-heute-16-fachbereiche-und-bald-nur-noch-sieben-201605996.html) ⭐️ ?/10
+
+Rhein-Main-Feierabendbriefing: Goethe-Frankfurt soll nur noch sieben Fachbereiche haben
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 15:00
+
+---
+
+<a id="item-tech-news-449"></a>
+### [F.A.Z. PODCAST FÜR DEUTSCHLAND: Gewaltausbruch in Frankreich: „Dem Staat ist die Kontrolle entglitten“](https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/proteste-in-frankreich-was-hinter-der-gewalt-steckt-201606099.html) ⭐️ ?/10
+
+F.A.Z. PODCAST FÜR DEUTSCHLAND: Gewaltausbruch in Frankreich: „Dem Staat ist die Kontrolle entglitten“
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 14:58
+
+---
+
+<a id="item-tech-news-450"></a>
+### [Finanzen &amp; Immobilien: Wohnraum gesucht](https://www.faz.net/podcasts/f-a-z-finanzen-immobilien/wohnraum-gesucht-201605673.html) ⭐️ ?/10
+
+Finanzen &amp; Immobilien: Wohnraum gesucht
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 14:44
+
+---
+
+<a id="item-tech-news-451"></a>
+### [Nach den Unruhen: Ein Linker zündete das Rathaus an](https://www.faz.net/aktuell/politik/ausland/brandstiftung-in-limoges-radikaler-linker-festgenommen-201604265.html) ⭐️ ?/10
+
+Nach den Unruhen: Ein Linker zündete das Rathaus an
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 16:14
+
+---
+
+<a id="item-tech-news-452"></a>
+### [Niculescu gewählt: Rumänien hat nach fünfeinhalb Monaten wieder eine Regierung](https://www.faz.net/aktuell/politik/ausland/nach-sechs-monaten-krise-rumaenien-hat-wieder-eine-regierung-201605741.html) ⭐️ ?/10
+
+Niculescu gewählt: Rumänien hat nach fünfeinhalb Monaten wieder eine Regierung
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 15:54
+
+---
+
+<a id="item-tech-news-453"></a>
+### [Rot-GRÜN-Rot: Berliner Grüne stimmen für Koalitionsverhandlungen](https://www.faz.net/aktuell/politik/wahl-in-berlin/berliner-gruene-stimmen-fuer-koalitionsverhandlungen-mit-spd-und-linke-201603305.html) ⭐️ ?/10
+
+Rot-GRÜN-Rot: Berliner Grüne stimmen für Koalitionsverhandlungen
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 14:27
+
+---
+
+<a id="item-tech-news-454"></a>
+### [„Bayerntrend“: CSU bleibt klar stärkste Kraft im Freistaat](https://www.faz.net/aktuell/politik/inland/csu-beruhigt-36-prozent-in-umfrage-201605137.html) ⭐️ ?/10
+
+„Bayerntrend“: CSU bleibt klar stärkste Kraft im Freistaat
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 14:06
+
+---
+
+<a id="item-tech-news-455"></a>
+### [Korruption: Der Manager, der Minister – und ein neuer Skandal in Österreich](https://www.faz.net/aktuell/wirtschaft/unternehmen/korruptionsprozess-gegen-schelling-und-siegfried-wolf-beginnt-201602889.html) ⭐️ ?/10
+
+Korruption: Der Manager, der Minister – und ein neuer Skandal in Österreich
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 19:21
+
+---
+
+<a id="item-tech-news-456"></a>
+### [Energiepolitik der EU: Mehr CO₂-Zertifikate, laxere Erdgasregeln – und dennoch steigende Energiepreise](https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/mehr-co-zertifikate-und-trotzdem-hoehere-energiepreise-201604790.html) ⭐️ ?/10
+
+Energiepolitik der EU: Mehr CO₂-Zertifikate, laxere Erdgasregeln – und dennoch steigende Energiepreise
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 17:24
+
+---
+
+<a id="item-tech-news-457"></a>
+### [Fehler an Batterien: VW ruft mehr als 70.000 Elektroautos auf der Welt zurück](https://www.faz.net/aktuell/wirtschaft/auto-verkehr/vw-ruft-ueber-72-000-elektroautos-wegen-fehlerhafter-batterien-zurueck-201606135.html) ⭐️ ?/10
+
+Fehler an Batterien: VW ruft mehr als 70.000 Elektroautos auf der Welt zurück
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 15:05
+
+---
+
+<a id="item-tech-news-458"></a>
+### [Datev-index: Der Aufschwung kommt im Mittelstand nicht richtig an](https://www.faz.net/aktuell/wirtschaft/datev-mittelstandsindex-aufschwung-kommt-nicht-an-201602955.html) ⭐️ ?/10
+
+Datev-index: Der Aufschwung kommt im Mittelstand nicht richtig an
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 14:00
+
+---
+
+<a id="item-tech-news-459"></a>
+### [Trainer der eigenen Kinder: Mädchen kicken anders als Jungen](https://www.faz.net/aktuell/feuilleton/kolumnen/schlaflos/maedchen-fussball-ich-trainiere-meine-tochter-accg-201602646.html) ⭐️ ?/10
+
+Trainer der eigenen Kinder: Mädchen kicken anders als Jungen
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 11:23
+
+---
+
+<a id="item-tech-news-460"></a>
+### [Exporterfolge: Wie Chinas Autohersteller die Märkte gewinnen](https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/mit-byd-und-co-auf-weltreise-wie-chinas-autohersteller-die-maerkte-gewinnen-accg-201291481.html) ⭐️ ?/10
+
+Exporterfolge: Wie Chinas Autohersteller die Märkte gewinnen
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 06:55
+
+---
+
+<a id="item-tech-news-461"></a>
+### [Schwacher Börsengang: Hohe Kursverluste in Korea schwächen Vertrauen in KI-Boom](https://www.faz.net/aktuell/finanzen/finanzmarkt/sk-hynix-unter-druck-elices-schwacher-boersengang-erschuettert-ki-aktien-201604715.html) ⭐️ ?/10
+
+Schwacher Börsengang: Hohe Kursverluste in Korea schwächen Vertrauen in KI-Boom
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 15:05
+
+---
+
+<a id="item-tech-news-462"></a>
+### [ING und Revolut: IT-Störungen nerven Bankkunden](https://www.faz.net/aktuell/finanzen/google-cloud-ausfall-trifft-revolut-und-ing-in-europa-accg-201605159.html) ⭐️ ?/10
+
+ING und Revolut: IT-Störungen nerven Bankkunden
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 13:00
+
+---
+
+<a id="item-tech-news-463"></a>
+### [Digitale Wertpapiere: Die Börse Stuttgart erhält Lizenz für Blockchain-Handel](https://www.faz.net/aktuell/finanzen/finanzmarkt/boerse-stuttgart-erhaelt-von-esma-dlt-tss-lizenz-accg-201602730.html) ⭐️ ?/10
+
+Digitale Wertpapiere: Die Börse Stuttgart erhält Lizenz für Blockchain-Handel
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 06:56
+
+---
+
+<a id="item-tech-news-464"></a>
+### [Business Model: Netflix, America’s Dominant Streaming Service, Has Hit a Wall](https://www.faz.net/aktuell/wall-street-journal/netflix-kaempft-um-seine-zuschauer-201605997.html) ⭐️ ?/10
+
+Business Model: Netflix, America’s Dominant Streaming Service, Has Hit a Wall
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 14:28
+
+---
+
+<a id="item-tech-news-465"></a>
+### [Donaueschingen: Gehaltsabfragen beim Publikum sind musikalisch gehaltlos](https://www.faz.net/aktuell/feuilleton/musik-und-buehne/konzert/donaueschinger-musiktage-publikum-buht-gegen-eigene-veralberung-201605397.html) ⭐️ ?/10
+
+Donaueschingen: Gehaltsabfragen beim Publikum sind musikalisch gehaltlos
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 15:45
+
+---
+
+<a id="item-tech-news-466"></a>
+### [AltMeisterauktion in Wien: Nicht nur Idyllen](https://www.faz.net/aktuell/feuilleton/kunstmarkt/alte-meister-im-wiener-dorotheum-201528550.html) ⭐️ ?/10
+
+AltMeisterauktion in Wien: Nicht nur Idyllen
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 15:26
+
+---
+
+<a id="item-tech-news-467"></a>
+### [Neue Diagnose: Was Simonettas Schielen verraten soll](https://www.faz.net/aktuell/feuilleton/debatten/arzt-will-das-schielen-von-botticellis-simonetta-erklaeren-201604208.html) ⭐️ ?/10
+
+Neue Diagnose: Was Simonettas Schielen verraten soll
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 14:05
+
+---
+
+<a id="item-tech-news-468"></a>
+### [Gustav Falke gestorben: Kritik als Selbstversuch](https://www.faz.net/aktuell/feuilleton/buecher/autoren/der-kritiker-und-philosoph-gustav-falke-ist-gestorben-201604944.html) ⭐️ ?/10
+
+Gustav Falke gestorben: Kritik als Selbstversuch
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 13:17
+
+---
+
+<a id="item-tech-news-469"></a>
+### [Missbrauch im Turnen: „Regeln für Schutz von Kindern müssen verpflichtend sein“](https://www.faz.net/aktuell/sport/sportpolitik/missbrauch-im-turnen-menschenrechtsaktivistin-worden-spricht-von-systemischem-problem-201598153.html) ⭐️ ?/10
+
+Missbrauch im Turnen: „Regeln für Schutz von Kindern müssen verpflichtend sein“
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 17:58
+
+---
+
+<a id="item-tech-news-470"></a>
+### [Transferticker: Sergen Yalcin wird neuer Nationaltrainer der Türkei](https://www.faz.net/aktuell/sport/fussball/fussball-transferticker-sergen-yalcin-neuer-tuerkischer-nationaltrainer-18134600.html) ⭐️ ?/10
+
+Transferticker: Sergen Yalcin wird neuer Nationaltrainer der Türkei
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 16:22
+
+---
+
+<a id="item-tech-news-471"></a>
+### [Reicher Weltverband: Was passiert mit den Milliarden-Reserven der FIFA?](https://www.faz.net/aktuell/sport/fussball/fifa-unter-infantino-milliarden-in-reserve-mehr-geld-fuer-verbaende-201600064.html) ⭐️ ?/10
+
+Reicher Weltverband: Was passiert mit den Milliarden-Reserven der FIFA?
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 13:49
+
+---
+
+<a id="item-tech-news-472"></a>
+### [Sport als Hobby: Nicht hopsen, hinsetzen\!](https://www.faz.net/aktuell/sport/mehr-sport/harald-schmidt-will-freizeitsport-verbieten-nicht-hopsen-hinsetzen-accg-201318201.html) ⭐️ ?/10
+
+Sport als Hobby: Nicht hopsen, hinsetzen\!
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 11:12
+
+---
+
+<a id="item-tech-news-473"></a>
+### [Lima: Passagiermaschine fängt kurz vor Start Feuer](https://www.faz.net/aktuell/gesellschaft/ungluecke/passagiermaschine-in-lima-faengt-kurz-vor-start-feuer-201606245.html) ⭐️ ?/10
+
+Lima: Passagiermaschine fängt kurz vor Start Feuer
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 16:06
+
+---
+
+<a id="item-tech-news-474"></a>
+### [Baden-Württemberg: Wo der erste Schnee fallen könnte](https://www.faz.net/aktuell/gesellschaft/erste-schneeflocken-am-feldberg-dwd-kuendigt-wetterwechsel-an-201606091.html) ⭐️ ?/10
+
+Baden-Württemberg: Wo der erste Schnee fallen könnte
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 14:45
+
+---
+
+<a id="item-tech-news-475"></a>
+### [Südafrika: 65-Jährige wird an beliebtem Strand von Hai getötet](https://www.faz.net/aktuell/gesellschaft/ungluecke/toedlicher-haiangriff-in-suedafrika-frau-stirbt-an-orient-beach-201605901.html) ⭐️ ?/10
+
+Südafrika: 65-Jährige wird an beliebtem Strand von Hai getötet
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 14:04
+
+---
+
+<a id="item-tech-news-476"></a>
+### [Bayerische Provinz: Ansbach uralt?](https://www.faz.net/aktuell/gesellschaft/trends-nischen/wieso-zieht-es-einen-nach-ansbach-201604101.html) ⭐️ ?/10
+
+Bayerische Provinz: Ansbach uralt?
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 13:07
+
+---
+
+<a id="item-tech-news-477"></a>
+### [Anschlag auf UkraineHilfe: „Wir werden alles abschicken, was wir retten konnten“](https://www.faz.net/aktuell/rhein-main/frankfurt/brandanschlag-auf-frankfurter-ukrainehilfe-der-krieg-ist-mittlerweile-ueberall-201604833.html) ⭐️ ?/10
+
+Anschlag auf UkraineHilfe: „Wir werden alles abschicken, was wir retten konnten“
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 17:21
+
+---
+
+<a id="item-tech-news-478"></a>
+### [Smart-Store-Konzept: Start-up Yobsti baut sein Netz mit Teo-Minimärkten aus](https://www.faz.net/aktuell/rhein-main/wirtschaft/start-up-yobsti-will-mit-teo-minimaerkten-wachsen-201604702.html) ⭐️ ?/10
+
+Smart-Store-Konzept: Start-up Yobsti baut sein Netz mit Teo-Minimärkten aus
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 16:31
+
+---
+
+<a id="item-tech-news-479"></a>
+### [Rhein-Main-Liveblog: Aktivisten blockieren Rheinmetall-Werk in Kassel](https://www.faz.net/aktuell/rhein-main/aktivisten-blockieren-rheinmetall-werk-in-kassel-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html) ⭐️ ?/10
+
+Rhein-Main-Liveblog: Aktivisten blockieren Rheinmetall-Werk in Kassel
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 16:17
+
+---
+
+<a id="item-tech-news-480"></a>
+### [Frankfurt-Marathon: Teilnehmerrekord möglich](https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurt-marathon-hofft-auf-rekordteilnehmerzahl-201605364.html) ⭐️ ?/10
+
+Frankfurt-Marathon: Teilnehmerrekord möglich
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 15:52
+
+---
+
+<a id="item-tech-news-481"></a>
+### [Feststoffbatterien: Des Akkus nächster Schritt](https://www.faz.net/aktuell/technik-motor/technik/e-autos-gbt-startet-produktion-von-festoffbatterien-201339192.html) ⭐️ ?/10
+
+Feststoffbatterien: Des Akkus nächster Schritt
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 12:34
+
+---
+
+<a id="item-tech-news-482"></a>
+### [Im Test: Nikon ZR: Kleines Kino](https://www.faz.net/aktuell/technik-motor/technik/kleines-kino-die-nikon-zr-fuer-mobile-produktionen-accg-201292528.html) ⭐️ ?/10
+
+Im Test: Nikon ZR: Kleines Kino
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 08:03
+
+---
+
+<a id="item-tech-news-483"></a>
+### [Ausgrabung in Vizzini: Reinliche Gassen breiten sich aus](https://www.faz.net/aktuell/wissen/archaeologie-altertum/die-goettinger-ausgrabung-in-vizzini-auf-sizilien-201100435.html) ⭐️ ?/10
+
+Ausgrabung in Vizzini: Reinliche Gassen breiten sich aus
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 14:51
+
+---
+
+<a id="item-tech-news-484"></a>
+### [DeepWater Horizon: Ölkatastrophe hat Tierbestände im Golf von Mexiko nachhaltig beschädigt](https://www.faz.net/aktuell/wissen/erde-klima/deepwater-horizon-oelkatastrophe-schadet-tierbestaenden-bis-heute-accg-201603861.html) ⭐️ ?/10
+
+DeepWater Horizon: Ölkatastrophe hat Tierbestände im Golf von Mexiko nachhaltig beschädigt
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 05:25
+
+---
+
+<a id="item-tech-news-485"></a>
+### [Hausbau: So lange hält die Gewährleistung nach dem Hausbau](https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/objektbegehung-warum-sie-gewaehrleistungsansprueche-sichert-accg-200964083.html) ⭐️ ?/10
+
+Hausbau: So lange hält die Gewährleistung nach dem Hausbau
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 10:12
+
+---
+
+<a id="item-tech-news-486"></a>
+### [Mehr Luxus geht immer: Die geheime Welt der Privatjets](https://www.faz.net/aktuell/reise/flexjet-chef-kenn-ricci-die-first-class-unter-den-privatjets-accg-201237924.html) ⭐️ ?/10
+
+Mehr Luxus geht immer: Die geheime Welt der Privatjets
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 05:38
+
+---
+
+<a id="item-tech-news-487"></a>
+### [Protest in Düsseldorf und Köln: Galerien wehren sich gegen rechten Zugriff auf Kultur](https://www.faz.net/aktuell/feuilleton/kunstmarkt/galeristen-wehren-sich-gegen-afd-veranstaltung-in-duesseldorf-accg-201604912.html) ⭐️ ?/10
+
+Protest in Düsseldorf und Köln: Galerien wehren sich gegen rechten Zugriff auf Kultur
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 11:55
+
+---
+
+<a id="item-tech-news-488"></a>
+### [Preis für Arche-Gründer: Der Exot, der zum Wohltäter wurde](https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/bernd-siggelkow-vom-exoten-zum-experten-fuer-kinderarmut-201605286.html) ⭐️ ?/10
+
+Preis für Arche-Gründer: Der Exot, der zum Wohltäter wurde
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 13:55
+
+---
+
+<a id="item-tech-news-489"></a>
+### [Münchner Klimawoche: „Wir rasen auf eine viel heißere Welt zu“](https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/luisa-neubauer-auf-der-munich-climate-week-ueber-die-klimapolitik-und-streiks-201604483.html) ⭐️ ?/10
+
+Münchner Klimawoche: „Wir rasen auf eine viel heißere Welt zu“
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 12:50
+
+---
+
+<a id="item-tech-news-490"></a>
+### [Путешественники отказываются посещать финский город Лаппеенранта из-за отсутстви](https://max.ru/tass_agency) ⭐️ ?/10
+
+Путешественники отказываются посещать финский город Лаппеенранта из-за отсутстви
+
+telegram · tass\_agency · Oct 20, 19:41
+
+---
+
+<a id="item-tech-news-491"></a>
+### [Украине и Зеленскому надо стремиться к урегулированию конфликта, иначе для них д](https://telegram.me/tass_agency/401342) ⭐️ ?/10
+
+Украине и Зеленскому надо стремиться к урегулированию конфликта, иначе для них д
+
+telegram · tass\_agency · Oct 20, 18:57
+
+---
+
+<a id="item-tech-news-492"></a>
+### [Мира на Украине можно достичь и без совместного подписания документов Путиным и ](https://telegram.me/tass_agency/401344) ⭐️ ?/10
+
+Мира на Украине можно достичь и без совместного подписания документов Путиным и 
+
+telegram · tass\_agency · Oct 20, 19:10
+
+---
+
+<a id="item-tech-news-493"></a>
+### [Системой ПВО Минобороны уничтожены три БПЛА, летевших на Москву, сообщил Собянин](https://telegram.me/tass_agency/401346) ⭐️ ?/10
+
+Системой ПВО Минобороны уничтожены три БПЛА, летевших на Москву, сообщил Собянин
+
+telegram · tass\_agency · Oct 20, 19:48
+
+---
+
+<a id="item-tech-news-494"></a>
+### [Гражданин США Стефан Хаббард, которого попросил освободить Трамп, был осужден за](https://telegram.me/tass_agency/401348) ⭐️ ?/10
+
+Гражданин США Стефан Хаббард, которого попросил освободить Трамп, был осужден за
+
+telegram · tass\_agency · Oct 20, 20:08
+
+---
+
+<a id="item-tech-news-495"></a>
+### [Стубб заявил, что по результатам переговоров в Осло участниками были найдены нек](https://telegram.me/tass_agency/401349) ⭐️ ?/10
+
+Стубб заявил, что по результатам переговоров в Осло участниками были найдены нек
+
+telegram · tass\_agency · Oct 20, 20:22
+
+---
+
+<a id="item-tech-news-496"></a>
+### [🏆 Российские гимнасты стали серебряными призерами чемпионата мира в командном мн](https://telegram.me/tass_agency/401352) ⭐️ ?/10
+
+🏆 Российские гимнасты стали серебряными призерами чемпионата мира в командном мн
+
+telegram · tass\_agency · Oct 20, 20:40
+
+---
+
+<a id="item-tech-news-497"></a>
+### [США обсудили гарантии безопасности с представителями Украины и Европы в Осло, со](https://telegram.me/tass_agency/401353) ⭐️ ?/10
+
+США обсудили гарантии безопасности с представителями Украины и Европы в Осло, со
+
+telegram · tass\_agency · Oct 20, 20:58
+
+---
+
+<a id="item-tech-news-498"></a>
+### [Уиткофф намерен предложить переговоры с участием России, Украины и США, а также ](https://telegram.me/tass_agency/401355) ⭐️ ?/10
+
+Уиткофф намерен предложить переговоры с участием России, Украины и США, а также 
+
+telegram · tass\_agency · Oct 20, 21:28
+
+---
+
+<a id="item-tech-news-499"></a>
+### [Россия заинтересована в бессрочном продлении безвизового режима с Китаем, заявил](https://telegram.me/tass_agency/401356) ⭐️ ?/10
+
+Россия заинтересована в бессрочном продлении безвизового режима с Китаем, заявил
+
+telegram · tass\_agency · Oct 20, 21:47
+
+---
+
+<a id="item-tech-news-500"></a>
+### [Прожиточный минимум пенсионеров вырастет до 17,4 тыс. рублей в 2027 году, сообщи](https://telegram.me/tass_agency/401358) ⭐️ ?/10
+
+Прожиточный минимум пенсионеров вырастет до 17,4 тыс. рублей в 2027 году, сообщи
+
+telegram · tass\_agency · Oct 20, 22:23
+
+---
+
+<a id="item-tech-news-501"></a>
+### [&quot;Трамп хочет, чтобы Зеленский хотел мирного решения конфликта на Украине&quot;. Так Д](https://telegram.me/tass_agency/401359) ⭐️ ?/10
+
+&quot;Трамп хочет, чтобы Зеленский хотел мирного решения конфликта на Украине&quot;. Так Д
+
+telegram · tass\_agency · Oct 20, 22:51
+
+---
+
+<a id="item-tech-news-502"></a>
+### [The Chapel of Saint-Michel d&\#x27;Aiguille stands atop a volcanic cliff approximately](https://telegram.me/nature/20526) ⭐️ ?/10
+
+The Chapel of Saint-Michel d&\#x27;Aiguille stands atop a volcanic cliff approximately
+
+telegram · nature · Oct 20, 07:36
+
+---
+
+<a id="item-tech-news-503"></a>
+### [Red panda.](https://telegram.me/nature/20527) ⭐️ ?/10
+
+Red panda.
+
+telegram · nature · Oct 20, 09:35
+
+---
+
+<a id="item-tech-news-504"></a>
+### [Cavernas do Peruaçu National Park is an amazing place in Brazil, known for its n](https://telegram.me/nature/20528) ⭐️ ?/10
+
+Cavernas do Peruaçu National Park is an amazing place in Brazil, known for its n
+
+telegram · nature · Oct 20, 11:37
+
+---
+
+<a id="item-tech-news-505"></a>
+### [Chinese zookeeper.](https://telegram.me/nature/20529) ⭐️ ?/10
+
+Chinese zookeeper.
+
+telegram · nature · Oct 20, 13:34
+
+---
+
+<a id="item-tech-news-506"></a>
+### [Beautiful historic Rome.](https://telegram.me/nature/20530) ⭐️ ?/10
+
+Beautiful historic Rome.
+
+telegram · nature · Oct 20, 15:38
+
+---
+
+<a id="item-tech-news-507"></a>
+### [The elegance.](https://telegram.me/nature/20531) ⭐️ ?/10
+
+The elegance.
+
+telegram · nature · Oct 20, 17:33
+
+---
+
+<a id="item-tech-news-508"></a>
+### [Sweet revenge.](https://telegram.me/nature/20532) ⭐️ ?/10
+
+Sweet revenge.
+
+telegram · nature · Oct 20, 19:26
+
+---
+
+## AI Creator Radar
+
+<a id="item-ai-creator-1"></a>
+### [Kein Oktoberfest: Mainzer Dilettantenstadl](https://www.faz.net/aktuell/rhein-main/region-und-hessen/aus-fuer-mainzer-oktoberfest-gut-gemeint-schlecht-gemacht-201601534.html) ⭐️ 2.0/10
+
+Local German news article criticizing the city&\#x27;s handling of the cancelled Mainz Oktoberfest.
+
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 10:41
+
+**Tags**: `#local-news`, `#irrelevant`
+
+---
+
+<a id="item-ai-creator-2"></a>
+### [‘Two Cigarettes, Three Nights’ explores messy emotions and moral compromises](https://www.japantimes.co.jp/culture/2026/10/20/film/yukiko-mishima-two-cigarettes-three-nights/) ⭐️ ?/10
+
+‘Two Cigarettes, Three Nights’ explores messy emotions and moral compromises
+
+rss · 日本时报\(The Japan Times\) · Oct 20, 08:30
 
 ---
 
 ## Technology Blog
 
 <a id="item-tech-blog-1"></a>
-### [AI Labor Disruption: Quantifying the Economic Threat](https://www.lesswrong.com/posts/HMkj2WHwkgbdNEyAT/you-aren-t-worried-enough-about-the-economy) ⭐️ 4.0/10
+### [Trotz Überlegenheit: Starker VfB verpasst Sieg gegen Atlético](https://www.faz.net/aktuell/sport/fussball/champions-league/fussball-champions-league-vfb-stuttgart-mit-unentschieden-gegen-atletico-madrid-201305370.html) ⭐️ ?/10
 
-rss · LessWrong AI风险社区 · Oct 19, 21:41
+Trotz Überlegenheit: Starker VfB verpasst Sieg gegen Atlético
 
-**「Background」** The rationalist and effective altruism communities have largely concentrated their efforts on AI alignment, often overlooking the immediate economic disruption AI poses to the U.S. labor force. While widespread deleterious effects are broadly agreed upon, few organizations are quantifying the scale of this impact or preparing for its societal consequences.
-
-**「Solution」** The author compiled 831 labor sectors from the U.S. Bureau of Labor Statistics and used Anthropic’s Sonnet 5.5 to assign each a disruption potential score from one to five, ranging from negligible impact to complete obsolescence. By aggregating these scores against employment data, the analysis estimates that one-third of the U.S. labor force faces severe disruption under a scenario of modest AI improvement. The impact is unevenly distributed: high-income sectors are nearly universally disrupted, while low-income and low-education sectors face less direct displacement. However, sectors requiring associate or bachelor’s degrees—the primary pathways to middle-class stability—face the highest rates of severe disruption, threatening to shrink the middle class and hinder upward mobility. Second-order effects include potential unemployment rates rivaling the Great Depression, extreme wealth concentration, and collapse in demand for services reliant on broad consumer spending.
-
-**「Takeaway」** AI-driven economic disruption is not a distant risk but an ongoing restructuring that disproportionately threatens the middle class and upward mobility, demanding urgent attention comparable to AI alignment efforts. Without intervention, the result could be decades of social instability, heightened inequality, and a collapse in living standards for the majority of Americans.
-
-**Tags**: `#AI labor disruption`, `#economic forecasting`, `#occupational analysis`, `#technology policy`
-
----
-
-<a id="item-tech-blog-2"></a>
-### [Advancing coding in low‑resource programming languages](https://openai.com/index/low-resource-programming-languages) ⭐️ 3.0/10
-
-A brief OpenAI blog post describing improvements to ChatGPT for low-resource programming languages, without technical depth in the provided excerpt.
-
-rss · OpenAI Blog · Oct 19, 12:00
-
-**Tags**: `#low-resource programming languages`, `#AI coding tools`, `#ChatGPT`, `#software engineering`, `#COBOL`
-
----
-
-<a id="item-tech-blog-3"></a>
-### [Permanent underclass taxonomy](https://www.lesswrong.com/posts/7LGcCDcNrWvXpH2RP/permanent-underclass-taxonomy) ⭐️ ?/10
-
-Permanent underclass taxonomy
-
-rss · LessWrong AI风险社区 · Oct 19, 19:48
-
----
-
-<a id="item-tech-blog-4"></a>
-### [How is &quot;prosaic aligned AI&quot; supposed to work?](https://www.lesswrong.com/posts/YxCS3snoMRGDhyrZk/how-is-prosaic-aligned-ai-supposed-to-work) ⭐️ ?/10
-
-How is &quot;prosaic aligned AI&quot; supposed to work?
-
-rss · LessWrong AI风险社区 · Oct 19, 19:47
-
----
-
-<a id="item-tech-blog-5"></a>
-### [Three deaths from float crushes raise safety concerns over Japanese festivals](https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents) ⭐️ ?/10
-
-Three deaths from float crushes raise safety concerns over Japanese festivals
-
-rss · 卫报\(The Guardian\) · Oct 19, 09:08
+rss · 法兰克福汇报\(Frankfurter Allgemeine Zeitung \(FAZ\)\) · Oct 20, 21:02
 
 ---
